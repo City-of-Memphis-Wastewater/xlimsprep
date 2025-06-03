@@ -8,7 +8,7 @@ Plot data
 """
 from matplotlib import pyplot as plt
 
-def plot_sanitized(df_sanitized, tag):
+def plot_sanitized(df_sanitized, tag, units):
     
     fig, axs = plt.subplots(1, 1, layout='constrained')
     axs[0].plot(date,)

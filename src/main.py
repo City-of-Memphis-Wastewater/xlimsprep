@@ -31,7 +31,8 @@ def main():
         # Sanitize data, convert to unique columns 
         df_sanitized_primary, parameter_units_dictionary = convert_xlims_data_to_columns(df_xlims_primary)
         parameter_units_dictionary_aggregate = check_for_diversity_in_parameter_units_dictionary(parameter_units_dictionary_aggregate,parameter_units_dictionary)
-        plot_sanitized(df_sanitized=df_sanitized_primary, tag=convert_filename_to_title(csv_filename))
+        plot_sanitized(df_sanitized=df_sanitized_primary, tag=convert_filename_to_title(csv_filename), units = parameter_units_dictionary)
+    
     
 if __name__ == "__main__":
     main()
