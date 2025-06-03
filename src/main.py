@@ -13,25 +13,32 @@ Export sanitized data to
 """
 
 from src.importer import import_csv_to_pd_df
-from src.sanitizer import convert_xlims_data_to_columns
 from src.plotter import plot_sanitized
-from src.helpers import get_csv_files_relative_to_main
+from src.helpers import get_csv_filepaths_in_imports
 from src.helpers import convert_filename_to_title
-from src.helpers import check_for_diversity_in_parameter_units_dictionary
+from src.sanitizer import convert_xlims_data_to_columns
+from src.sanitizer import compare_columns
+from src.sanitizer import check_for_diversity_in_parameter_units_dictionary
+
 
 def main():
+    
+    #print(f"get_csv_filepaths_in_imports() = {get_csv_filepaths_in_imports()}")
+    print(f"csv file count = {len(get_csv_filepaths_in_imports())}")
+
     # Import data from xlims export files (manually prepared)
     parameter_units_dictionary_aggregate = {}
-
-    for csv_filename in get_csv_files_relative_to_main():
-        
-        df_xlims_primary = import_csv_to_pd_df(csv_file = csv_filename)
-        #df_xlims_other = import_csv_to_pd_df(filename = "other.csv") #spoof
-
-        # Sanitize data, convert to unique columns 
-        df_sanitized_primary, parameter_units_dictionary = convert_xlims_data_to_columns(df_xlims_primary)
-        parameter_units_dictionary_aggregate = check_for_diversity_in_parameter_units_dictionary(parameter_units_dictionary_aggregate,parameter_units_dictionary)
-        plot_sanitized(df_sanitized=df_sanitized_primary, tag=convert_filename_to_title(csv_filename), units = parameter_units_dictionary)
+    for csv_filepath in get_csv_filepaths_in_imports():
+        print(f"csv_filepath = {csv_filepath.name}")
+        df_xlims_i = import_csv_to_pd_df(csv_filepath = csv_filepath)
+        #print(f"df_xlims_i = {df_xlims_i}")
+        compare_columns(df = df_xlims_i, columnA= "SWPPRCalc", columnB= "ReportedResult")
+        # Sanitize data, convert to unique columns
+        parameter_units_dictionary_i = None  
+        df_sanitized_i, parameter_units_dictionary_i = convert_xlims_data_to_columns(df_xlims_i)
+        parameter_units_dictionary_aggregate = check_for_diversity_in_parameter_units_dictionary(parameter_units_dictionary_aggregate,parameter_units_dictionary_i)
+        if df_sanitized_i is not None:
+            plot_sanitized(df=df_sanitized_i, tag=convert_filename_to_title(csv_filepath), units = parameter_units_dictionary_i)
     
     
 if __name__ == "__main__":
