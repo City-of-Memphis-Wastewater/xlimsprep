@@ -1,0 +1,1 @@
+This program is meant for plotting data exported from the X-Lims system.
