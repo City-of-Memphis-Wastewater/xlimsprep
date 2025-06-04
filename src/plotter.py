@@ -10,10 +10,10 @@ from matplotlib import pyplot as plt
 import pandas as pd
 from pathlib import Path
 
-from src.config import get_skip_list_from_exclude_variables_toml
+from src.config import get_skip_list_from_exclude_parameters_toml
 
 def plot_sanitized(df, tag, units, png_filepath):
-    skip_list = get_skip_list_from_exclude_variables_toml()
+    skip_list = get_skip_list_from_exclude_parameters_toml()
     # Ensure SampledDate is datetime
     if not pd.api.types.is_datetime64_any_dtype(df['SampledDate']):
         df['SampledDate'] = pd.to_datetime(df['SampledDate'], errors='coerce')

@@ -6,3 +6,4 @@ pip install -r requirements.txt
 python -m src.main
 python -m src.view
 python -m src.xplor
+deactivate
