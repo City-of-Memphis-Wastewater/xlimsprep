@@ -1,19 +1,19 @@
 import pandas as pd
 from pprint import pprint
 def convert_xlims_data_to_columns(df_xlims):
-    print(f"df_xlims['Parameter'] = {df_xlims['Parameter']}")
+    #print(f"df_xlims['Parameter'] = {df_xlims['Parameter']}")
 
     # Pivot the DataFrame so each parameter becomes a column
     df_sanitized = convert_df_single_parameter_column_and_multiple_date_rows_to_multiple_paramter_columns_and_one_row_per_date(df_xlims)
     
     # Create dictionary of unique parameters and units
     parameter_units_dictionary = make_dict_of_unique_parameters_with_respective_units(df_xlims)
-    print("df_sanitized = ")
-    pprint(df_sanitized)
+    #print("df_sanitized = ")
+    #pprint(df_sanitized)
     print("parameter_units_dictionary = ")
     pprint(parameter_units_dictionary)
-    print("parameter_list = ")
-    pprint(list(parameter_units_dictionary.keys()))
+    #print("parameter_list = ")
+    #pprint(list(parameter_units_dictionary.keys()))
     return df_sanitized, parameter_units_dictionary
 
 def convert_df_single_parameter_column_and_multiple_date_rows_to_multiple_paramter_columns_and_one_row_per_date(df):
@@ -56,13 +56,13 @@ def check_for_diversity_in_parameter_units_dictionary(dict_agg,dict_i):
         return dict_i
     
     dict_i_clean = does_dictionary_i_have_redundant_keypairs_that_disagree_with_aggregate_dict(dict_agg,dict_i)
-    print("dict_i_clean = ")
-    pprint(dict_i_clean)
-    print("dict_agg = ")
-    pprint(dict_agg)
+    #print("dict_i_clean = ")
+    #pprint(dict_i_clean)
+    #print("dict_agg = ")
+    #pprint(dict_agg)
     dict_agg.update(dict_i_clean)
-    print('list_agg')
-    pprint(list(dict_agg.keys()))
+    #print('list_agg')
+    #pprint(list(dict_agg.keys()))
     return dict_agg
 
 def does_dictionary_i_have_redundant_keypairs_that_disagree_with_aggregate_dict(
