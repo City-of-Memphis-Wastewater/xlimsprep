@@ -34,6 +34,24 @@ def convert_filename_to_title(filename):
     
     return title
 
+def convert_csv_import_path_to_png_export_path(csv_path: Path) -> Path:
+    parts = list(csv_path.parts)
+    try:
+        i = parts.index('imports')
+        parts[i] = 'exports'
+        return Path(*parts).with_suffix('.png')
+    except ValueError:
+        raise ValueError(f"'imports' not found in path: {csv_path}")
+    
+def convert_csv_import_filepath_to_csv_export_filepath(csv_path: Path) -> Path:
+    parts = list(csv_path.parts)
+    try:
+        i = parts.index('imports')
+        parts[i] = 'exports'
+        return Path(*parts).with_suffix('.csv')
+    except ValueError:
+        raise ValueError(f"'imports' not found in path: {csv_path}")
+
 def test_get_csv_filepaths_in_imports():
     # Example usage
     print("Get CSV files in imports dir")

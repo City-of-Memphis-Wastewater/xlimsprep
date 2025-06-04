@@ -3,3 +3,4 @@ secrets.yaml
 .env
 imports/
 *.pyc
+*.xlsx

@@ -29,7 +29,7 @@ def convert_df_single_parameter_column_and_multiple_date_rows_to_multiple_paramt
     df_wide = df.pivot_table(
         index="SampledDate",
         columns="Parameter",
-        #values="ReportedResult",
+        #values="ReportedResult", # sometimes includes '<', which is non numeric ergo an edge case ergo a waste of time
         values="SWPPRCalc",
         aggfunc="first"  # or np.mean, depending on needs
     ).reset_index()
@@ -111,7 +111,7 @@ def compare_columns(df, columnA, columnB):
     mask = (a != b) & ~(a.isna() & b.isna())
 
     if mask.any():
-        print("Mismatched rows:")
+        print("❌ Mismatched rows:")
         print(df.loc[mask, [columnA, columnB]])
     else:
         print(f"✅ All numeric values are identical between columns {columnA} and {columnB}.")
