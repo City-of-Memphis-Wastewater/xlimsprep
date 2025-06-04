@@ -151,5 +151,7 @@ These above goals will modularize the code to be useful for sanitizing data (int
 	
 # AI Disclaimer:
 
-Artificial 
-	Intelligence was used for partial code generation and troubleshooting.
+Artificial Intelligence was used for partial code generation and troubleshooting.
+Any Python file with my name in it was written by me.
+The design decisions were made by me and the flow of the program function-to-function was decided based on my experience.
+Artifical intelligence was and is hugely informative on building the most modular and futureproof functions.
