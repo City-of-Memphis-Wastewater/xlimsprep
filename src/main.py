@@ -13,13 +13,12 @@ Export sanitized data to
 """
 
 from src.importer import import_csv_to_pd_df
-from src.plotter import plot_sanitized
 from src.helpers import get_csv_filepaths_in_imports
 from src.helpers import convert_filename_to_title
 from src.sanitizer import convert_xlims_data_to_columns
 from src.sanitizer import compare_columns
 from src.sanitizer import check_for_diversity_in_parameter_units_dictionary
-
+from src.plotter import plot_sanitized
 
 def main():
     
@@ -38,7 +37,7 @@ def main():
         df_sanitized_i, parameter_units_dictionary_i = convert_xlims_data_to_columns(df_xlims_i)
         parameter_units_dictionary_aggregate = check_for_diversity_in_parameter_units_dictionary(parameter_units_dictionary_aggregate,parameter_units_dictionary_i)
         if df_sanitized_i is not None:
-            plot_sanitized(df=df_sanitized_i, tag=convert_filename_to_title(csv_filepath), units = parameter_units_dictionary_i)
+            plot_sanitized(df=df_sanitized_i, tag=convert_filename_to_title(csv_filepath), units = parameter_units_dictionary_i, csv_filepath = csv_filepath)
     
     
 if __name__ == "__main__":

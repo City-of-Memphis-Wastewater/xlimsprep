@@ -1,4 +1,5 @@
 import pandas as pd
+from pprint import pprint
 def convert_xlims_data_to_columns(df_xlims):
     print(f"df_xlims['Parameter'] = {df_xlims['Parameter']}")
 
@@ -7,8 +8,12 @@ def convert_xlims_data_to_columns(df_xlims):
     
     # Create dictionary of unique parameters and units
     parameter_units_dictionary = make_dict_of_unique_parameters_with_respective_units(df_xlims)
-    print(f"df_sanitized = {df_sanitized}")
-    print(f"parameter_units_dictionary = {parameter_units_dictionary}")
+    print("df_sanitized = ")
+    pprint(df_sanitized)
+    print("parameter_units_dictionary = ")
+    pprint(parameter_units_dictionary)
+    print("parameter_list = ")
+    pprint(list(parameter_units_dictionary.keys()))
     return df_sanitized, parameter_units_dictionary
 
 def convert_df_single_parameter_column_and_multiple_date_rows_to_multiple_paramter_columns_and_one_row_per_date(df):
@@ -24,16 +29,12 @@ def convert_df_single_parameter_column_and_multiple_date_rows_to_multiple_paramt
     df_wide = df.pivot_table(
         index="SampledDate",
         columns="Parameter",
-        values="ReportedResult",
+        #values="ReportedResult",
+        values="SWPPRCalc",
         aggfunc="first"  # or np.mean, depending on needs
     ).reset_index()
 
     return df_wide
-
-def _make_dict_of_unique_parameters_with_respective_units(df_xlims):
-    df_xlims['Unit']
-    df_xlims['Parameter']
-    return parameter_units_dictionary
 
 def make_dict_of_unique_parameters_with_respective_units(df_xlims):
     """
@@ -55,9 +56,13 @@ def check_for_diversity_in_parameter_units_dictionary(dict_agg,dict_i):
         return dict_i
     
     dict_i_clean = does_dictionary_i_have_redundant_keypairs_that_disagree_with_aggregate_dict(dict_agg,dict_i)
-    print(f"dict_i_clean = {dict_i_clean}")
-    print(f"dict_agg = {dict_agg}")
+    print("dict_i_clean = ")
+    pprint(dict_i_clean)
+    print("dict_agg = ")
+    pprint(dict_agg)
     dict_agg.update(dict_i_clean)
+    print('list_agg')
+    pprint(list(dict_agg.keys()))
     return dict_agg
 
 def does_dictionary_i_have_redundant_keypairs_that_disagree_with_aggregate_dict(
