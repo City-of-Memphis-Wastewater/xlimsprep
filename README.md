@@ -146,6 +146,8 @@ These are currently:
 - Add configuration TOML file in /configs/ for controlling the skip row value for data frame CSV import.
 - Add /src/wipe.py file for wiping exisiting example data in /imports/, /exports/, and /page/.
 - Drive the contents in /page/ based on export when running /src/main.py. Currently /page/ is built manually.
+
+These above goals will modularize the code to be useful for sanitizing data (into a wide format) beyond X-LIMS downloads.
 	
 # AI Disclaimer:
 
