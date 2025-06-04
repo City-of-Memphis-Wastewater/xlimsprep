@@ -125,6 +125,29 @@ This one just uses venv and a requirements.txt file.
 
 Why? Because Termux has my attention right now.
 
+# Design Implications
+
+- Import and export files have not been added to the .gitignore, so that users will be able to test the software with useful files.
+- To run your own new files, add them to the /imports/ directory. 
+- You can delete existing files in the /imports/ and /exports/ directories, if you would like.
+- To run your own CSV files exported from X-LIMS, you may paste them into the /imports/ folder, with any file naming convention that you like. 
+- It is expected that 3 lines will be skipped in the imported CSV files, though this can be changed in /src/importer.py in the skip_rows value assigned in the pd.read_csv funtion.
+- The keys (column names) that are relied upon in data sanitization are "SampledDate","Parameter", and "SWPPRCalc". You could change these if you wanted, to suit your raw data.
+- You'll need to edit the TOML parameters in /configs/ to be useful to your specific files.
+- Files in the /exports/ directory will be overwritten with easy run of src.main, if they are assigned an existing filename.
+
+# Maintenance goals:
+
+- Add configuration TOML file in /configs/ for controlling the raw column names time, numeric data, and mixed parameter labels.
+These are currently:
+	- time: "SampledDate"
+	- numeric data: "SWPPRCalc"
+	- mixed parameter labels: "Parameter
+- Add configuration TOML file in /configs/ for controlling the skip row value for data frame CSV import.
+- Add /src/wipe.py file for wiping exisiting example data in /imports/, /exports/, and /page/.
+- Drive the contents in /page/ based on export when running /src/main.py. Currently /page/ is built manually.
+	
 # AI Disclaimer:
 
-Artificial Intelligence was used for partial code generation and troubleshooting.
+Artificial 
+	Intelligence was used for partial code generation and troubleshooting.

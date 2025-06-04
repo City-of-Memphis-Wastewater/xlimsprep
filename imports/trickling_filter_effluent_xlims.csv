@@ -1,0 +1,1820 @@
+﻿SampleName,StartDate,EndDate
+TEM ABF Effluent (06-01-2024),6/1/2024,6/1/2025
+
+SampleNumber,SampleName1,SampledDate,Parameter,SWPPRCalc,ReportedResult,Qual,Unit
+ST24JUN02-02-033 ,TEM ABF Effluent (06-01-2024),6/1/2024,% Volatile Suspended Solids,82,82,,%
+ST24JUN02-02-033 ,TEM ABF Effluent (06-01-2024),6/1/2024,Total Suspended Solids,1665,1665,,mg/L
+ST24JUN02-02-033 ,TEM ABF Effluent (06-01-2024),6/1/2024,Volatile Suspended Solids,1360,1360,,mg/L
+ST24JUN02-02-033 ,TEM ABF Effluent (06-01-2024),6/1/2024,pH,6.73,6.73,,pH Units
+ST24JUN02-02-033 ,TEM ABF Effluent (06-01-2024),6/1/2024,Soluble BOD,512,512,,mg/L
+ST24JUN03-01-034 ,TEM ABF Effluent (06-02-2024),6/2/2024,% Volatile Suspended Solids,79,79,,%
+ST24JUN03-01-034 ,TEM ABF Effluent (06-02-2024),6/2/2024,Total Suspended Solids,780,780,,mg/L
+ST24JUN03-01-034 ,TEM ABF Effluent (06-02-2024),6/2/2024,Volatile Suspended Solids,617,617,,mg/L
+ST24JUN03-01-034 ,TEM ABF Effluent (06-02-2024),6/2/2024,pH,7.21,7.21,,pH Units
+ST24JUN03-01-034 ,TEM ABF Effluent (06-02-2024),6/2/2024,Soluble BOD,348,348,,mg/L
+ST24JUN04-01-034 ,TEM ABF Effluent (06-03-2024),6/3/2024,% Volatile Suspended Solids,88,88,,%
+ST24JUN04-01-034 ,TEM ABF Effluent (06-03-2024),6/3/2024,Total Suspended Solids,490,490,,mg/L
+ST24JUN04-01-034 ,TEM ABF Effluent (06-03-2024),6/3/2024,Volatile Suspended Solids,430,430,,mg/L
+ST24JUN04-01-034 ,TEM ABF Effluent (06-03-2024),6/3/2024,pH,7.11,7.11,,pH Units
+ST24JUN04-01-034 ,TEM ABF Effluent (06-03-2024),6/3/2024,Soluble BOD,469,469,,mg/L
+ST24JUN05-01-034 ,TEM ABF Effluent (06-04-2024),6/4/2024,% Volatile Suspended Solids,70,70,,%
+ST24JUN05-01-034 ,TEM ABF Effluent (06-04-2024),6/4/2024,Total Suspended Solids,325,325,,mg/L
+ST24JUN05-01-034 ,TEM ABF Effluent (06-04-2024),6/4/2024,Volatile Suspended Solids,228,228,,mg/L
+ST24JUN05-01-034 ,TEM ABF Effluent (06-04-2024),6/4/2024,pH,6.68,6.68,,pH Units
+ST24JUN05-01-034 ,TEM ABF Effluent (06-04-2024),6/4/2024,Soluble BOD,412,412,,mg/L
+ST24JUN06-01-036 ,TEM ABF Effluent (06-05-2024),6/5/2024,pH,7.13,7.13,,pH Units
+ST24JUN06-01-036 ,TEM ABF Effluent (06-05-2024),6/5/2024,Soluble BOD,396,396,,mg/L
+ST24JUN06-01-036 ,TEM ABF Effluent (06-05-2024),6/5/2024,% Volatile Suspended Solids,84,84,,%
+ST24JUN06-01-036 ,TEM ABF Effluent (06-05-2024),6/5/2024,Total Suspended Solids,339,339,,mg/L
+ST24JUN06-01-036 ,TEM ABF Effluent (06-05-2024),6/5/2024,Volatile Suspended Solids,286,286,,mg/L
+ST24JUN07-01-034 ,TEM ABF Effluent (06-06-2024),6/6/2024,% Volatile Suspended Solids,84,84,,%
+ST24JUN07-01-034 ,TEM ABF Effluent (06-06-2024),6/6/2024,Total Suspended Solids,550,550,,mg/L
+ST24JUN07-01-034 ,TEM ABF Effluent (06-06-2024),6/6/2024,Volatile Suspended Solids,463,463,,mg/L
+ST24JUN07-01-034 ,TEM ABF Effluent (06-06-2024),6/6/2024,pH,7.29,7.29,,pH Units
+ST24JUN07-01-034 ,TEM ABF Effluent (06-06-2024),6/6/2024,Soluble BOD,379,379,,mg/L
+ST24JUN08-02-033 ,TEM ABF Effluent (06-07-2024),6/7/2024,% Volatile Suspended Solids,86,86,,%
+ST24JUN08-02-033 ,TEM ABF Effluent (06-07-2024),6/7/2024,Total Suspended Solids,570,570,,mg/L
+ST24JUN08-02-033 ,TEM ABF Effluent (06-07-2024),6/7/2024,Volatile Suspended Solids,493,493,,mg/L
+ST24JUN08-02-033 ,TEM ABF Effluent (06-07-2024),6/7/2024,pH,7.30,7.30,,pH Units
+ST24JUN08-02-033 ,TEM ABF Effluent (06-07-2024),6/7/2024,Soluble BOD,410,410,,mg/L
+ST24JUN09-02-033 ,TEM ABF Effluent (06-08-2024),6/8/2024,% Volatile Suspended Solids,90,90,,%
+ST24JUN09-02-033 ,TEM ABF Effluent (06-08-2024),6/8/2024,Total Suspended Solids,543,543,,mg/L
+ST24JUN09-02-033 ,TEM ABF Effluent (06-08-2024),6/8/2024,Volatile Suspended Solids,488,488,,mg/L
+ST24JUN09-02-033 ,TEM ABF Effluent (06-08-2024),6/8/2024,pH,7.60,7.60,,pH Units
+ST24JUN09-02-033 ,TEM ABF Effluent (06-08-2024),6/8/2024,Soluble BOD,296,296,,mg/L
+ST24JUN10-01-034 ,TEM ABF Effluent (06-09-2024),6/9/2024,% Volatile Suspended Solids,84,84,,%
+ST24JUN10-01-034 ,TEM ABF Effluent (06-09-2024),6/9/2024,Total Suspended Solids,783,783,,mg/L
+ST24JUN10-01-034 ,TEM ABF Effluent (06-09-2024),6/9/2024,Volatile Suspended Solids,660,660,,mg/L
+ST24JUN10-01-034 ,TEM ABF Effluent (06-09-2024),6/9/2024,pH,7.48,7.48,,pH Units
+ST24JUN10-01-034 ,TEM ABF Effluent (06-09-2024),6/9/2024,Soluble BOD,455,455,,mg/L
+ST24JUN11-01-034 ,TEM ABF Effluent (06-10-2024),6/10/2024,% Volatile Suspended Solids,88,88,,%
+ST24JUN11-01-034 ,TEM ABF Effluent (06-10-2024),6/10/2024,Total Suspended Solids,719,719,,mg/L
+ST24JUN11-01-034 ,TEM ABF Effluent (06-10-2024),6/10/2024,Volatile Suspended Solids,635,635,,mg/L
+ST24JUN11-01-034 ,TEM ABF Effluent (06-10-2024),6/10/2024,pH,7.11,7.11,,pH Units
+ST24JUN11-01-034 ,TEM ABF Effluent (06-10-2024),6/10/2024,Soluble BOD,413,413,,mg/L
+ST24JUN12-02-034 ,TEM ABF Effluent (06-11-2024),6/11/2024,% Volatile Suspended Solids,84,84,,%
+ST24JUN12-02-034 ,TEM ABF Effluent (06-11-2024),6/11/2024,Total Suspended Solids,1065,1065,,mg/L
+ST24JUN12-02-034 ,TEM ABF Effluent (06-11-2024),6/11/2024,Volatile Suspended Solids,900,900,,mg/L
+ST24JUN12-02-034 ,TEM ABF Effluent (06-11-2024),6/11/2024,pH,6.98,6.98,,pH Units
+ST24JUN12-02-034 ,TEM ABF Effluent (06-11-2024),6/11/2024,Soluble BOD,515,515,,mg/L
+ST24JUN13-01-036 ,TEM ABF Effluent (06-12-2024),6/12/2024,pH,7.06,7.06,,pH Units
+ST24JUN13-01-036 ,TEM ABF Effluent (06-12-2024),6/12/2024,Soluble BOD,522,522,,mg/L
+ST24JUN13-01-036 ,TEM ABF Effluent (06-12-2024),6/12/2024,% Volatile Suspended Solids,86,86,,%
+ST24JUN13-01-036 ,TEM ABF Effluent (06-12-2024),6/12/2024,Total Suspended Solids,1000,1000,,mg/L
+ST24JUN13-01-036 ,TEM ABF Effluent (06-12-2024),6/12/2024,Volatile Suspended Solids,858,858,,mg/L
+ST24JUN14-01-034 ,TEM ABF Effluent (06-13-2024),6/13/2024,% Volatile Suspended Solids,87,87,,%
+ST24JUN14-01-034 ,TEM ABF Effluent (06-13-2024),6/13/2024,Total Suspended Solids,500,500,,mg/L
+ST24JUN14-01-034 ,TEM ABF Effluent (06-13-2024),6/13/2024,Volatile Suspended Solids,436,436,,mg/L
+ST24JUN14-01-034 ,TEM ABF Effluent (06-13-2024),6/13/2024,pH,7.01,7.01,,pH Units
+ST24JUN14-01-034 ,TEM ABF Effluent (06-13-2024),6/13/2024,Soluble BOD,337,337,,mg/L
+ST24JUN15-02-033 ,TEM ABF Effluent (06-14-2024),6/14/2024,% Volatile Suspended Solids,85,85,,%
+ST24JUN15-02-033 ,TEM ABF Effluent (06-14-2024),6/14/2024,Total Suspended Solids,436,436,,mg/L
+ST24JUN15-02-033 ,TEM ABF Effluent (06-14-2024),6/14/2024,Volatile Suspended Solids,370,370,,mg/L
+ST24JUN15-02-033 ,TEM ABF Effluent (06-14-2024),6/14/2024,pH,7.06,7.06,,pH Units
+ST24JUN15-02-033 ,TEM ABF Effluent (06-14-2024),6/14/2024,Soluble BOD,486,486,,mg/L
+ST24JUN16-02-033 ,TEM ABF Effluent (06-15-2024),6/15/2024,% Volatile Suspended Solids,88,88,,%
+ST24JUN16-02-033 ,TEM ABF Effluent (06-15-2024),6/15/2024,Total Suspended Solids,447,447,,mg/L
+ST24JUN16-02-033 ,TEM ABF Effluent (06-15-2024),6/15/2024,Volatile Suspended Solids,392,392,,mg/L
+ST24JUN16-02-033 ,TEM ABF Effluent (06-15-2024),6/15/2024,pH,6.33,6.33,,pH Units
+ST24JUN16-02-033 ,TEM ABF Effluent (06-15-2024),6/15/2024,Soluble BOD,570,570,,mg/L
+ST24JUN17-01-034 ,TEM ABF Effluent (06-16-2024),6/16/2024,% Volatile Suspended Solids,85,85,,%
+ST24JUN17-01-034 ,TEM ABF Effluent (06-16-2024),6/16/2024,Total Suspended Solids,385,385,,mg/L
+ST24JUN17-01-034 ,TEM ABF Effluent (06-16-2024),6/16/2024,Volatile Suspended Solids,328,328,,mg/L
+ST24JUN17-01-034 ,TEM ABF Effluent (06-16-2024),6/16/2024,pH,6.93,6.93,,pH Units
+ST24JUN17-01-034 ,TEM ABF Effluent (06-16-2024),6/16/2024,Soluble BOD,533,533,,mg/L
+ST24JUN18-01-034 ,TEM ABF Effluent (06-17-2024),6/17/2024,% Volatile Suspended Solids,92,92,,%
+ST24JUN18-01-034 ,TEM ABF Effluent (06-17-2024),6/17/2024,Total Suspended Solids,430,430,,mg/L
+ST24JUN18-01-034 ,TEM ABF Effluent (06-17-2024),6/17/2024,Volatile Suspended Solids,397,397,,mg/L
+ST24JUN18-01-034 ,TEM ABF Effluent (06-17-2024),6/17/2024,pH,7.06,7.06,,pH Units
+ST24JUN18-01-034 ,TEM ABF Effluent (06-17-2024),6/17/2024,Soluble BOD,422,422,,mg/L
+ST24JUN19-01-034 ,TEM ABF Effluent (06-18-2024),6/18/2024,% Volatile Suspended Solids,78,78,,%
+ST24JUN19-01-034 ,TEM ABF Effluent (06-18-2024),6/18/2024,Total Suspended Solids,418,418,,mg/L
+ST24JUN19-01-034 ,TEM ABF Effluent (06-18-2024),6/18/2024,Volatile Suspended Solids,328,328,,mg/L
+ST24JUN19-01-034 ,TEM ABF Effluent (06-18-2024),6/18/2024,pH,7.08,7.08,,pH Units
+ST24JUN19-01-034 ,TEM ABF Effluent (06-18-2024),6/18/2024,Soluble BOD,297,297,,mg/L
+ST24JUN20-01-036 ,TEM ABF Effluent (06-19-2024),6/19/2024,pH,7.15,7.15,,pH Units
+ST24JUN20-01-036 ,TEM ABF Effluent (06-19-2024),6/19/2024,Soluble BOD,389,389,,mg/L
+ST24JUN20-01-036 ,TEM ABF Effluent (06-19-2024),6/19/2024,% Volatile Suspended Solids,93,93,,%
+ST24JUN20-01-036 ,TEM ABF Effluent (06-19-2024),6/19/2024,Total Suspended Solids,375,375,,mg/L
+ST24JUN20-01-036 ,TEM ABF Effluent (06-19-2024),6/19/2024,Volatile Suspended Solids,350,350,,mg/L
+ST24JUN21-01-034 ,TEM ABF Effluent (06-20-2024),6/20/2024,% Volatile Suspended Solids,89,89,,%
+ST24JUN21-01-034 ,TEM ABF Effluent (06-20-2024),6/20/2024,Total Suspended Solids,517,517,,mg/L
+ST24JUN21-01-034 ,TEM ABF Effluent (06-20-2024),6/20/2024,Volatile Suspended Solids,460,460,,mg/L
+ST24JUN21-01-034 ,TEM ABF Effluent (06-20-2024),6/20/2024,pH,7.00,7.00,,pH Units
+ST24JUN21-01-034 ,TEM ABF Effluent (06-20-2024),6/20/2024,Soluble BOD,377,377,,mg/L
+ST24JUN22-02-033 ,TEM ABF Effluent (06-21-2024),6/21/2024,% Volatile Suspended Solids,91,91,,%
+ST24JUN22-02-033 ,TEM ABF Effluent (06-21-2024),6/21/2024,Total Suspended Solids,413,413,,mg/L
+ST24JUN22-02-033 ,TEM ABF Effluent (06-21-2024),6/21/2024,Volatile Suspended Solids,377,377,,mg/L
+ST24JUN22-02-033 ,TEM ABF Effluent (06-21-2024),6/21/2024,pH,7.14,7.14,,pH Units
+ST24JUN22-02-033 ,TEM ABF Effluent (06-21-2024),6/21/2024,Soluble BOD,404,404,,mg/L
+ST24JUN23-02-033 ,TEM ABF Effluent (06-22-2024),6/22/2024,% Volatile Suspended Solids,84,84,,%
+ST24JUN23-02-033 ,TEM ABF Effluent (06-22-2024),6/22/2024,Total Suspended Solids,425,425,,mg/L
+ST24JUN23-02-033 ,TEM ABF Effluent (06-22-2024),6/22/2024,Volatile Suspended Solids,358,358,,mg/L
+ST24JUN23-02-033 ,TEM ABF Effluent (06-22-2024),6/22/2024,pH,6.20,6.20,,pH Units
+ST24JUN23-02-033 ,TEM ABF Effluent (06-22-2024),6/22/2024,Soluble BOD,556,556,,mg/L
+ST24JUN24-01-034 ,TEM ABF Effluent (06-23-2024),6/23/2024,% Volatile Suspended Solids,88,88,,%
+ST24JUN24-01-034 ,TEM ABF Effluent (06-23-2024),6/23/2024,Total Suspended Solids,413,413,,mg/L
+ST24JUN24-01-034 ,TEM ABF Effluent (06-23-2024),6/23/2024,Volatile Suspended Solids,363,363,,mg/L
+ST24JUN24-01-034 ,TEM ABF Effluent (06-23-2024),6/23/2024,pH,7.36,7.36,,pH Units
+ST24JUN24-01-034 ,TEM ABF Effluent (06-23-2024),6/23/2024,Soluble BOD,361,361,,mg/L
+ST24JUN25-01-034 ,TEM ABF Effluent (06-24-2024),6/24/2024,% Volatile Suspended Solids,80,80,,%
+ST24JUN25-01-034 ,TEM ABF Effluent (06-24-2024),6/24/2024,Total Suspended Solids,573,573,,mg/L
+ST24JUN25-01-034 ,TEM ABF Effluent (06-24-2024),6/24/2024,Volatile Suspended Solids,460,460,,mg/L
+ST24JUN25-01-034 ,TEM ABF Effluent (06-24-2024),6/24/2024,pH,6.85,6.85,,pH Units
+ST24JUN25-01-034 ,TEM ABF Effluent (06-24-2024),6/24/2024,Soluble BOD,569,569,,mg/L
+ST24JUN26-02-034 ,TEM ABF Effluent (06-25-2024),6/25/2024,% Volatile Suspended Solids,89,89,,%
+ST24JUN26-02-034 ,TEM ABF Effluent (06-25-2024),6/25/2024,Total Suspended Solids,727,727,,mg/L
+ST24JUN26-02-034 ,TEM ABF Effluent (06-25-2024),6/25/2024,Volatile Suspended Solids,647,647,,mg/L
+ST24JUN26-02-034 ,TEM ABF Effluent (06-25-2024),6/25/2024,pH,7.10,7.10,,pH Units
+ST24JUN26-02-034 ,TEM ABF Effluent (06-25-2024),6/25/2024,Soluble BOD,389,389,,mg/L
+ST24JUN27-01-036 ,TEM ABF Effluent (06-26-2024),6/26/2024,pH,7.05,7.05,,pH Units
+ST24JUN27-01-036 ,TEM ABF Effluent (06-26-2024),6/26/2024,Soluble BOD,373,373,,mg/L
+ST24JUN27-01-036 ,TEM ABF Effluent (06-26-2024),6/26/2024,% Volatile Suspended Solids,87,87,,%
+ST24JUN27-01-036 ,TEM ABF Effluent (06-26-2024),6/26/2024,Total Suspended Solids,867,867,,mg/L
+ST24JUN27-01-036 ,TEM ABF Effluent (06-26-2024),6/26/2024,Volatile Suspended Solids,750,750,,mg/L
+ST24JUN28-01-034 ,TEM ABF Effluent (06-27-2024),6/27/2024,% Volatile Suspended Solids,89,89,,%
+ST24JUN28-01-034 ,TEM ABF Effluent (06-27-2024),6/27/2024,Total Suspended Solids,318,318,,mg/L
+ST24JUN28-01-034 ,TEM ABF Effluent (06-27-2024),6/27/2024,Volatile Suspended Solids,282,282,,mg/L
+ST24JUN28-01-034 ,TEM ABF Effluent (06-27-2024),6/27/2024,pH,7.32,7.32,,pH Units
+ST24JUN28-01-034 ,TEM ABF Effluent (06-27-2024),6/27/2024,Soluble BOD,306,306,,mg/L
+ST24JUN29-02-033 ,TEM ABF Effluent (06-28-2024),6/28/2024,% Volatile Suspended Solids,81,81,,%
+ST24JUN29-02-033 ,TEM ABF Effluent (06-28-2024),6/28/2024,Total Suspended Solids,423,423,,mg/L
+ST24JUN29-02-033 ,TEM ABF Effluent (06-28-2024),6/28/2024,Volatile Suspended Solids,343,343,,mg/L
+ST24JUN29-02-033 ,TEM ABF Effluent (06-28-2024),6/28/2024,pH,7.01,7.01,,pH Units
+ST24JUN29-02-033 ,TEM ABF Effluent (06-28-2024),6/28/2024,Soluble BOD,465,465,,mg/L
+ST24JUN30-02-033 ,TEM ABF Effluent (06-29-2024),6/29/2024,% Volatile Suspended Solids,93,93,,%
+ST24JUN30-02-033 ,TEM ABF Effluent (06-29-2024),6/29/2024,Total Suspended Solids,373,373,,mg/L
+ST24JUN30-02-033 ,TEM ABF Effluent (06-29-2024),6/29/2024,Volatile Suspended Solids,347,347,,mg/L
+ST24JUN30-02-033 ,TEM ABF Effluent (06-29-2024),6/29/2024,pH,7.07,7.07,,pH Units
+ST24JUN30-02-033 ,TEM ABF Effluent (06-29-2024),6/29/2024,Soluble BOD,418,418,,mg/L
+ST24JUL01-06-034 ,TEM ABF Effluent (06-30-2024),6/30/2024,% Volatile Suspended Solids,97,97,,%
+ST24JUL01-06-034 ,TEM ABF Effluent (06-30-2024),6/30/2024,Total Suspended Solids,403,403,,mg/L
+ST24JUL01-06-034 ,TEM ABF Effluent (06-30-2024),6/30/2024,Volatile Suspended Solids,390,390,,mg/L
+ST24JUL01-06-034 ,TEM ABF Effluent (06-30-2024),6/30/2024,pH,7.09,7.09,,pH Units
+ST24JUL01-06-034 ,TEM ABF Effluent (06-30-2024),6/30/2024,Soluble BOD,450,450,,mg/L
+ST24JUL02-01-034 ,TEM ABF Effluent (07-01-2024),7/1/2024,% Volatile Suspended Solids,87,87,,%
+ST24JUL02-01-034 ,TEM ABF Effluent (07-01-2024),7/1/2024,Total Suspended Solids,490,490,,mg/L
+ST24JUL02-01-034 ,TEM ABF Effluent (07-01-2024),7/1/2024,Volatile Suspended Solids,424,424,,mg/L
+ST24JUL02-01-034 ,TEM ABF Effluent (07-01-2024),7/1/2024,pH,7.32,7.32,,pH Units
+ST24JUL02-01-034 ,TEM ABF Effluent (07-01-2024),7/1/2024,Soluble BOD,276,276,,mg/L
+ST24JUL03-01-034 ,TEM ABF Effluent (07-02-2024),7/2/2024,% Volatile Suspended Solids,83,83,,%
+ST24JUL03-01-034 ,TEM ABF Effluent (07-02-2024),7/2/2024,Total Suspended Solids,470,470,,mg/L
+ST24JUL03-01-034 ,TEM ABF Effluent (07-02-2024),7/2/2024,Volatile Suspended Solids,388,388,,mg/L
+ST24JUL03-01-034 ,TEM ABF Effluent (07-02-2024),7/2/2024,pH,6.91,6.91,,pH Units
+ST24JUL03-01-034 ,TEM ABF Effluent (07-02-2024),7/2/2024,Soluble BOD,356,356,,mg/L
+ST24JUL04-01-036 ,TEM ABF Effluent (07-03-2024),7/3/2024,pH,6.88,6.88,,pH Units
+ST24JUL04-01-036 ,TEM ABF Effluent (07-03-2024),7/3/2024,Soluble BOD,575,575,,mg/L
+ST24JUL04-01-036 ,TEM ABF Effluent (07-03-2024),7/3/2024,% Volatile Suspended Solids,87,87,,%
+ST24JUL04-01-036 ,TEM ABF Effluent (07-03-2024),7/3/2024,Total Suspended Solids,400,400,,mg/L
+ST24JUL04-01-036 ,TEM ABF Effluent (07-03-2024),7/3/2024,Volatile Suspended Solids,346,346,,mg/L
+ST24JUL05-01-034 ,TEM ABF Effluent (07-04-2024),7/4/2024,% Volatile Suspended Solids,94,94,,%
+ST24JUL05-01-034 ,TEM ABF Effluent (07-04-2024),7/4/2024,Total Suspended Solids,383,383,,mg/L
+ST24JUL05-01-034 ,TEM ABF Effluent (07-04-2024),7/4/2024,Volatile Suspended Solids,360,360,,mg/L
+ST24JUL05-01-034 ,TEM ABF Effluent (07-04-2024),7/4/2024,pH,7.25,7.25,,pH Units
+ST24JUL05-01-034 ,TEM ABF Effluent (07-04-2024),7/4/2024,Soluble BOD,344,344,,mg/L
+ST24JUL06-02-033 ,TEM ABF Effluent (07-05-2024),7/5/2024,% Volatile Suspended Solids,92,92,,%
+ST24JUL06-02-033 ,TEM ABF Effluent (07-05-2024),7/5/2024,Total Suspended Solids,530,530,,mg/L
+ST24JUL06-02-033 ,TEM ABF Effluent (07-05-2024),7/5/2024,Volatile Suspended Solids,487,487,,mg/L
+ST24JUL06-02-033 ,TEM ABF Effluent (07-05-2024),7/5/2024,pH,7.06,7.06,,pH Units
+ST24JUL06-02-033 ,TEM ABF Effluent (07-05-2024),7/5/2024,Soluble BOD,445,445,,mg/L
+ST24JUL07-02-033 ,TEM ABF Effluent (07-06-2024),7/6/2024,% Volatile Suspended Solids,96,96,,%
+ST24JUL07-02-033 ,TEM ABF Effluent (07-06-2024),7/6/2024,Total Suspended Solids,527,527,,mg/L
+ST24JUL07-02-033 ,TEM ABF Effluent (07-06-2024),7/6/2024,Volatile Suspended Solids,503,503,,mg/L
+ST24JUL07-02-033 ,TEM ABF Effluent (07-06-2024),7/6/2024,pH,7.42,7.42,,pH Units
+ST24JUL07-02-033 ,TEM ABF Effluent (07-06-2024),7/6/2024,Soluble BOD,387,387,,mg/L
+ST24JUL08-01-034 ,TEM ABF Effluent (07-07-2024),7/7/2024,% Volatile Suspended Solids,96,96,,%
+ST24JUL08-01-034 ,TEM ABF Effluent (07-07-2024),7/7/2024,Total Suspended Solids,610,610,,mg/L
+ST24JUL08-01-034 ,TEM ABF Effluent (07-07-2024),7/7/2024,Volatile Suspended Solids,588,588,,mg/L
+ST24JUL08-01-034 ,TEM ABF Effluent (07-07-2024),7/7/2024,pH,7.43,7.43,,pH Units
+ST24JUL08-01-034 ,TEM ABF Effluent (07-07-2024),7/7/2024,Soluble BOD,403,403,,mg/L
+ST24JUL09-01-034 ,TEM ABF Effluent (07-08-2024),7/8/2024,% Volatile Suspended Solids,92,92,,%
+ST24JUL09-01-034 ,TEM ABF Effluent (07-08-2024),7/8/2024,Total Suspended Solids,650,650,,mg/L
+ST24JUL09-01-034 ,TEM ABF Effluent (07-08-2024),7/8/2024,Volatile Suspended Solids,595,595,,mg/L
+ST24JUL09-01-034 ,TEM ABF Effluent (07-08-2024),7/8/2024,pH,7.22,7.22,,pH Units
+ST24JUL09-01-034 ,TEM ABF Effluent (07-08-2024),7/8/2024,Soluble BOD,562,562,,mg/L
+ST24JUL10-01-034 ,TEM ABF Effluent (07-09-2024),7/9/2024,% Volatile Suspended Solids,84,84,,%
+ST24JUL10-01-034 ,TEM ABF Effluent (07-09-2024),7/9/2024,Total Suspended Solids,633,633,,mg/L
+ST24JUL10-01-034 ,TEM ABF Effluent (07-09-2024),7/9/2024,Volatile Suspended Solids,533,533,,mg/L
+ST24JUL10-01-034 ,TEM ABF Effluent (07-09-2024),7/9/2024,pH,7.12,7.12,,pH Units
+ST24JUL10-01-034 ,TEM ABF Effluent (07-09-2024),7/9/2024,Soluble BOD,411,411,,mg/L
+ST24JUL11-01-036 ,TEM ABF Effluent (07-10-2024),7/10/2024,pH,7.44,7.44,,pH Units
+ST24JUL11-01-036 ,TEM ABF Effluent (07-10-2024),7/10/2024,Soluble BOD,310,310,,mg/L
+ST24JUL11-01-036 ,TEM ABF Effluent (07-10-2024),7/10/2024,% Volatile Suspended Solids,86,86,,%
+ST24JUL11-01-036 ,TEM ABF Effluent (07-10-2024),7/10/2024,Total Suspended Solids,590,590,,mg/L
+ST24JUL11-01-036 ,TEM ABF Effluent (07-10-2024),7/10/2024,Volatile Suspended Solids,510,510,,mg/L
+ST24JUL12-01-034 ,TEM ABF Effluent (07-11-2024),7/11/2024,% Volatile Suspended Solids,84,84,,%
+ST24JUL12-01-034 ,TEM ABF Effluent (07-11-2024),7/11/2024,Total Suspended Solids,725,725,,mg/L
+ST24JUL12-01-034 ,TEM ABF Effluent (07-11-2024),7/11/2024,Volatile Suspended Solids,610,610,,mg/L
+ST24JUL12-01-034 ,TEM ABF Effluent (07-11-2024),7/11/2024,pH,7.26,7.26,,pH Units
+ST24JUL12-01-034 ,TEM ABF Effluent (07-11-2024),7/11/2024,Soluble BOD,369,369,,mg/L
+ST24JUL13-02-033 ,TEM ABF Effluent (07-12-2024),7/12/2024,% Volatile Suspended Solids,84,84,,%
+ST24JUL13-02-033 ,TEM ABF Effluent (07-12-2024),7/12/2024,Total Suspended Solids,897,897,,mg/L
+ST24JUL13-02-033 ,TEM ABF Effluent (07-12-2024),7/12/2024,Volatile Suspended Solids,753,753,,mg/L
+ST24JUL13-02-033 ,TEM ABF Effluent (07-12-2024),7/12/2024,pH,7.17,7.17,,pH Units
+ST24JUL13-02-033 ,TEM ABF Effluent (07-12-2024),7/12/2024,Soluble BOD,408,408,,mg/L
+ST24JUL14-02-033 ,TEM ABF Effluent (07-13-2024),7/13/2024,% Volatile Suspended Solids,99,99,,%
+ST24JUL14-02-033 ,TEM ABF Effluent (07-13-2024),7/13/2024,Total Suspended Solids,677,677,,mg/L
+ST24JUL14-02-033 ,TEM ABF Effluent (07-13-2024),7/13/2024,Volatile Suspended Solids,670,670,,mg/L
+ST24JUL14-02-033 ,TEM ABF Effluent (07-13-2024),7/13/2024,pH,7.16,7.16,,pH Units
+ST24JUL14-02-033 ,TEM ABF Effluent (07-13-2024),7/13/2024,Soluble BOD,383,383,,mg/L
+ST24JUL15-01-034 ,TEM ABF Effluent (07-14-2024),7/14/2024,% Volatile Suspended Solids,89,89,,%
+ST24JUL15-01-034 ,TEM ABF Effluent (07-14-2024),7/14/2024,Total Suspended Solids,705,705,,mg/L
+ST24JUL15-01-034 ,TEM ABF Effluent (07-14-2024),7/14/2024,Volatile Suspended Solids,625,625,,mg/L
+ST24JUL15-01-034 ,TEM ABF Effluent (07-14-2024),7/14/2024,pH,7.20,7.20,,pH Units
+ST24JUL15-01-034 ,TEM ABF Effluent (07-14-2024),7/14/2024,Soluble BOD,326,326,,mg/L
+ST24JUL16-01-034 ,TEM ABF Effluent (07-15-2024),7/15/2024,% Volatile Suspended Solids,80,80,,%
+ST24JUL16-01-034 ,TEM ABF Effluent (07-15-2024),7/15/2024,Total Suspended Solids,870,870,,mg/L
+ST24JUL16-01-034 ,TEM ABF Effluent (07-15-2024),7/15/2024,Volatile Suspended Solids,700,700,,mg/L
+ST24JUL16-01-034 ,TEM ABF Effluent (07-15-2024),7/15/2024,pH,7.14,7.14,,pH Units
+ST24JUL16-01-034 ,TEM ABF Effluent (07-15-2024),7/15/2024,Soluble BOD,349,349,,mg/L
+ST24JUL17-02-034 ,TEM ABF Effluent (07-16-2024),7/16/2024,% Volatile Suspended Solids,84,84,,%
+ST24JUL17-02-034 ,TEM ABF Effluent (07-16-2024),7/16/2024,Total Suspended Solids,710,710,,mg/L
+ST24JUL17-02-034 ,TEM ABF Effluent (07-16-2024),7/16/2024,Volatile Suspended Solids,593,593,,mg/L
+ST24JUL17-02-034 ,TEM ABF Effluent (07-16-2024),7/16/2024,pH,6.92,6.92,,pH Units
+ST24JUL17-02-034 ,TEM ABF Effluent (07-16-2024),7/16/2024,Soluble BOD,466,466,,mg/L
+ST24JUL18-01-036 ,TEM ABF Effluent (07-17-2024),7/17/2024,pH,7.26,7.26,,pH Units
+ST24JUL18-01-036 ,TEM ABF Effluent (07-17-2024),7/17/2024,Soluble BOD,336,336,,mg/L
+ST24JUL18-01-036 ,TEM ABF Effluent (07-17-2024),7/17/2024,% Volatile Suspended Solids,84,84,,%
+ST24JUL18-01-036 ,TEM ABF Effluent (07-17-2024),7/17/2024,Total Suspended Solids,747,747,,mg/L
+ST24JUL18-01-036 ,TEM ABF Effluent (07-17-2024),7/17/2024,Volatile Suspended Solids,630,630,,mg/L
+ST24JUL19-01-034 ,TEM ABF Effluent (07-18-2024),7/18/2024,% Volatile Suspended Solids,79,79,,%
+ST24JUL19-01-034 ,TEM ABF Effluent (07-18-2024),7/18/2024,Total Suspended Solids,1620,1620,,mg/L
+ST24JUL19-01-034 ,TEM ABF Effluent (07-18-2024),7/18/2024,Volatile Suspended Solids,1285,1285,,mg/L
+ST24JUL19-01-034 ,TEM ABF Effluent (07-18-2024),7/18/2024,pH,6.50,6.50,,pH Units
+ST24JUL19-01-034 ,TEM ABF Effluent (07-18-2024),7/18/2024,Soluble BOD,492,492,,mg/L
+ST24JUL20-02-033 ,TEM ABF Effluent (07-19-2024),7/19/2024,% Volatile Suspended Solids,96,96,,%
+ST24JUL20-02-033 ,TEM ABF Effluent (07-19-2024),7/19/2024,Total Suspended Solids,795,795,,mg/L
+ST24JUL20-02-033 ,TEM ABF Effluent (07-19-2024),7/19/2024,Volatile Suspended Solids,765,765,,mg/L
+ST24JUL20-02-033 ,TEM ABF Effluent (07-19-2024),7/19/2024,pH,7.25,7.25,,pH Units
+ST24JUL20-02-033 ,TEM ABF Effluent (07-19-2024),7/19/2024,Soluble BOD,387,387,,mg/L
+ST24JUL21-02-033 ,TEM ABF Effluent (07-20-2024),7/20/2024,% Volatile Suspended Solids,89,89,,%
+ST24JUL21-02-033 ,TEM ABF Effluent (07-20-2024),7/20/2024,Total Suspended Solids,795,795,,mg/L
+ST24JUL21-02-033 ,TEM ABF Effluent (07-20-2024),7/20/2024,Volatile Suspended Solids,705,705,,mg/L
+ST24JUL21-02-033 ,TEM ABF Effluent (07-20-2024),7/20/2024,pH,7.13,7.13,,pH Units
+ST24JUL21-02-033 ,TEM ABF Effluent (07-20-2024),7/20/2024,Soluble BOD,426,426,,mg/L
+ST24JUL22-01-034 ,TEM ABF Effluent (07-21-2024),7/21/2024,% Volatile Suspended Solids,83,83,,%
+ST24JUL22-01-034 ,TEM ABF Effluent (07-21-2024),7/21/2024,Total Suspended Solids,865,865,,mg/L
+ST24JUL22-01-034 ,TEM ABF Effluent (07-21-2024),7/21/2024,Volatile Suspended Solids,720,720,,mg/L
+ST24JUL22-01-034 ,TEM ABF Effluent (07-21-2024),7/21/2024,pH,7.47,7.47,,pH Units
+ST24JUL22-01-034 ,TEM ABF Effluent (07-21-2024),7/21/2024,Soluble BOD,238,238,,mg/L
+ST24JUL23-01-034 ,TEM ABF Effluent (07-22-2024),7/22/2024,% Volatile Suspended Solids,86,86,,%
+ST24JUL23-01-034 ,TEM ABF Effluent (07-22-2024),7/22/2024,Total Suspended Solids,845,845,,mg/L
+ST24JUL23-01-034 ,TEM ABF Effluent (07-22-2024),7/22/2024,Volatile Suspended Solids,730,730,,mg/L
+ST24JUL23-01-034 ,TEM ABF Effluent (07-22-2024),7/22/2024,pH,7.35,7.35,,pH Units
+ST24JUL23-01-034 ,TEM ABF Effluent (07-22-2024),7/22/2024,Soluble BOD,284,284,,mg/L
+ST24JUL24-01-034 ,TEM ABF Effluent (07-23-2024),7/23/2024,% Volatile Suspended Solids,75,75,,%
+ST24JUL24-01-034 ,TEM ABF Effluent (07-23-2024),7/23/2024,Total Suspended Solids,1540,1540,,mg/L
+ST24JUL24-01-034 ,TEM ABF Effluent (07-23-2024),7/23/2024,Volatile Suspended Solids,1160,1160,,mg/L
+ST24JUL24-01-034 ,TEM ABF Effluent (07-23-2024),7/23/2024,pH,7.03,7.03,,pH Units
+ST24JUL24-01-034 ,TEM ABF Effluent (07-23-2024),7/23/2024,Soluble BOD,514,514,,mg/L
+ST24JUL25-01-036 ,TEM ABF Effluent (07-24-2024),7/24/2024,pH,7.39,7.39,,pH Units
+ST24JUL25-01-036 ,TEM ABF Effluent (07-24-2024),7/24/2024,Soluble BOD,266,266,,mg/L
+ST24JUL25-01-036 ,TEM ABF Effluent (07-24-2024),7/24/2024,% Volatile Suspended Solids,83,83,,%
+ST24JUL25-01-036 ,TEM ABF Effluent (07-24-2024),7/24/2024,Total Suspended Solids,713,713,,mg/L
+ST24JUL25-01-036 ,TEM ABF Effluent (07-24-2024),7/24/2024,Volatile Suspended Solids,590,590,,mg/L
+ST24JUL26-01-034 ,TEM ABF Effluent (07-25-2024),7/25/2024,% Volatile Suspended Solids,76,76,,%
+ST24JUL26-01-034 ,TEM ABF Effluent (07-25-2024),7/25/2024,Total Suspended Solids,820,820,,mg/L
+ST24JUL26-01-034 ,TEM ABF Effluent (07-25-2024),7/25/2024,Volatile Suspended Solids,627,627,,mg/L
+ST24JUL26-01-034 ,TEM ABF Effluent (07-25-2024),7/25/2024,pH,7.06,7.06,,pH Units
+ST24JUL26-01-034 ,TEM ABF Effluent (07-25-2024),7/25/2024,Soluble BOD,446,446,,mg/L
+ST24JUL27-02-033 ,TEM ABF Effluent (07-26-2024),7/26/2024,% Volatile Suspended Solids,83,83,,%
+ST24JUL27-02-033 ,TEM ABF Effluent (07-26-2024),7/26/2024,Total Suspended Solids,883,883,,mg/L
+ST24JUL27-02-033 ,TEM ABF Effluent (07-26-2024),7/26/2024,Volatile Suspended Solids,733,733,,mg/L
+ST24JUL27-02-033 ,TEM ABF Effluent (07-26-2024),7/26/2024,pH,7.25,7.25,,pH Units
+ST24JUL27-02-033 ,TEM ABF Effluent (07-26-2024),7/26/2024,Soluble BOD,332,332,,mg/L
+ST24JUL28-02-033 ,TEM ABF Effluent (07-27-2024),7/27/2024,% Volatile Suspended Solids,79,79,,%
+ST24JUL28-02-033 ,TEM ABF Effluent (07-27-2024),7/27/2024,Total Suspended Solids,860,860,,mg/L
+ST24JUL28-02-033 ,TEM ABF Effluent (07-27-2024),7/27/2024,Volatile Suspended Solids,677,677,,mg/L
+ST24JUL28-02-033 ,TEM ABF Effluent (07-27-2024),7/27/2024,pH,7.36,7.36,,pH Units
+ST24JUL28-02-033 ,TEM ABF Effluent (07-27-2024),7/27/2024,Soluble BOD,270,270,,mg/L
+ST24JUL29-01-034 ,TEM ABF Effluent (07-28-2024),7/28/2024,% Volatile Suspended Solids,94,94,,%
+ST24JUL29-01-034 ,TEM ABF Effluent (07-28-2024),7/28/2024,Total Suspended Solids,880,880,,mg/L
+ST24JUL29-01-034 ,TEM ABF Effluent (07-28-2024),7/28/2024,Volatile Suspended Solids,830,830,,mg/L
+ST24JUL29-01-034 ,TEM ABF Effluent (07-28-2024),7/28/2024,pH,7.29,7.29,,pH Units
+ST24JUL29-01-034 ,TEM ABF Effluent (07-28-2024),7/28/2024,Soluble BOD,381,381,,mg/L
+ST24JUL30-01-034 ,TEM ABF Effluent (07-29-2024),7/29/2024,% Volatile Suspended Solids,77,77,,%
+ST24JUL30-01-034 ,TEM ABF Effluent (07-29-2024),7/29/2024,Total Suspended Solids,1000,1000,,mg/L
+ST24JUL30-01-034 ,TEM ABF Effluent (07-29-2024),7/29/2024,Volatile Suspended Solids,770,770,,mg/L
+ST24JUL30-01-034 ,TEM ABF Effluent (07-29-2024),7/29/2024,pH,7.40,7.40,,pH Units
+ST24JUL30-01-034 ,TEM ABF Effluent (07-29-2024),7/29/2024,Soluble BOD,144,144,,mg/L
+ST24JUL31-01-034 ,TEM ABF Effluent (07-30-2024),7/30/2024,% Volatile Suspended Solids,80,80,,%
+ST24JUL31-01-034 ,TEM ABF Effluent (07-30-2024),7/30/2024,Total Suspended Solids,873,873,,mg/L
+ST24JUL31-01-034 ,TEM ABF Effluent (07-30-2024),7/30/2024,Volatile Suspended Solids,700,700,,mg/L
+ST24JUL31-01-034 ,TEM ABF Effluent (07-30-2024),7/30/2024,pH,7.63,7.63,,pH Units
+ST24JUL31-01-034 ,TEM ABF Effluent (07-30-2024),7/30/2024,Soluble BOD,138,138,,mg/L
+ST24AUG01-06-036 ,TEM ABF Effluent (07-31-2024),7/31/2024,pH,7.63,7.63,,pH Units
+ST24AUG01-06-036 ,TEM ABF Effluent (07-31-2024),7/31/2024,Soluble BOD,167,167,,mg/L
+ST24AUG01-06-036 ,TEM ABF Effluent (07-31-2024),7/31/2024,% Volatile Suspended Solids,75,75,,%
+ST24AUG01-06-036 ,TEM ABF Effluent (07-31-2024),7/31/2024,Total Suspended Solids,1097,1097,,mg/L
+ST24AUG01-06-036 ,TEM ABF Effluent (07-31-2024),7/31/2024,Volatile Suspended Solids,823,823,,mg/L
+ST24AUG02-01-034 ,TEM ABF Effluent (08-01-2024),8/1/2024,% Volatile Suspended Solids,79,79,,%
+ST24AUG02-01-034 ,TEM ABF Effluent (08-01-2024),8/1/2024,Total Suspended Solids,705,705,,mg/L
+ST24AUG02-01-034 ,TEM ABF Effluent (08-01-2024),8/1/2024,Volatile Suspended Solids,555,555,,mg/L
+ST24AUG02-01-034 ,TEM ABF Effluent (08-01-2024),8/1/2024,pH,7.67,7.67,,pH Units
+ST24AUG02-01-034 ,TEM ABF Effluent (08-01-2024),8/1/2024,Soluble BOD,160,160,,mg/L
+ST24AUG03-02-033 ,TEM ABF Effluent (08-02-2024),8/2/2024,% Volatile Suspended Solids,81,81,,%
+ST24AUG03-02-033 ,TEM ABF Effluent (08-02-2024),8/2/2024,Total Suspended Solids,905,905,,mg/L
+ST24AUG03-02-033 ,TEM ABF Effluent (08-02-2024),8/2/2024,Volatile Suspended Solids,730,730,,mg/L
+ST24AUG03-02-033 ,TEM ABF Effluent (08-02-2024),8/2/2024,pH,7.47,7.47,,pH Units
+ST24AUG03-02-033 ,TEM ABF Effluent (08-02-2024),8/2/2024,Soluble BOD,207,207,,mg/L
+ST24AUG04-02-033 ,TEM ABF Effluent (08-03-2024),8/3/2024,% Volatile Suspended Solids,85,85,,%
+ST24AUG04-02-033 ,TEM ABF Effluent (08-03-2024),8/3/2024,Total Suspended Solids,517,517,,mg/L
+ST24AUG04-02-033 ,TEM ABF Effluent (08-03-2024),8/3/2024,Volatile Suspended Solids,440,440,,mg/L
+ST24AUG04-02-033 ,TEM ABF Effluent (08-03-2024),8/3/2024,pH,7.18,7.18,,pH Units
+ST24AUG04-02-033 ,TEM ABF Effluent (08-03-2024),8/3/2024,Soluble BOD,303,303,,mg/L
+ST24AUG05-01-034 ,TEM ABF Effluent (08-04-2024),8/4/2024,% Volatile Suspended Solids,76,76,,%
+ST24AUG05-01-034 ,TEM ABF Effluent (08-04-2024),8/4/2024,Total Suspended Solids,440,440,,mg/L
+ST24AUG05-01-034 ,TEM ABF Effluent (08-04-2024),8/4/2024,Volatile Suspended Solids,333,333,,mg/L
+ST24AUG05-01-034 ,TEM ABF Effluent (08-04-2024),8/4/2024,pH,7.07,7.07,,pH Units
+ST24AUG05-01-034 ,TEM ABF Effluent (08-04-2024),8/4/2024,Soluble BOD,373,373,,mg/L
+ST24AUG06-01-034 ,TEM ABF Effluent (08-05-2024),8/5/2024,% Volatile Suspended Solids,84,84,,%
+ST24AUG06-01-034 ,TEM ABF Effluent (08-05-2024),8/5/2024,Total Suspended Solids,550,550,,mg/L
+ST24AUG06-01-034 ,TEM ABF Effluent (08-05-2024),8/5/2024,Volatile Suspended Solids,463,463,,mg/L
+ST24AUG06-01-034 ,TEM ABF Effluent (08-05-2024),8/5/2024,pH,6.68,6.68,,pH Units
+ST24AUG06-01-034 ,TEM ABF Effluent (08-05-2024),8/5/2024,Soluble BOD,452,452,,mg/L
+ST24AUG07-01-034 ,TEM ABF Effluent (08-06-2024),8/6/2024,% Volatile Suspended Solids,87,87,,%
+ST24AUG07-01-034 ,TEM ABF Effluent (08-06-2024),8/6/2024,Total Suspended Solids,365,365,,mg/L
+ST24AUG07-01-034 ,TEM ABF Effluent (08-06-2024),8/6/2024,Volatile Suspended Solids,318,318,,mg/L
+ST24AUG07-01-034 ,TEM ABF Effluent (08-06-2024),8/6/2024,pH,6.77,6.77,,pH Units
+ST24AUG07-01-034 ,TEM ABF Effluent (08-06-2024),8/6/2024,Soluble BOD,534,534,,mg/L
+ST24AUG08-01-036 ,TEM ABF Effluent (08-07-2024),8/7/2024,pH,6.21,6.21,,pH Units
+ST24AUG08-01-036 ,TEM ABF Effluent (08-07-2024),8/7/2024,Soluble BOD,642,642,,mg/L
+ST24AUG08-01-036 ,TEM ABF Effluent (08-07-2024),8/7/2024,% Volatile Suspended Solids,91,91,,%
+ST24AUG08-01-036 ,TEM ABF Effluent (08-07-2024),8/7/2024,Total Suspended Solids,310,310,,mg/L
+ST24AUG08-01-036 ,TEM ABF Effluent (08-07-2024),8/7/2024,Volatile Suspended Solids,283,283,,mg/L
+ST24AUG09-01-034 ,TEM ABF Effluent (08-08-2024),8/8/2024,% Volatile Suspended Solids,38,38,,%
+ST24AUG09-01-034 ,TEM ABF Effluent (08-08-2024),8/8/2024,Total Suspended Solids,935,935,,mg/L
+ST24AUG09-01-034 ,TEM ABF Effluent (08-08-2024),8/8/2024,Volatile Suspended Solids,355,355,,mg/L
+ST24AUG09-01-034 ,TEM ABF Effluent (08-08-2024),8/8/2024,pH,7.09,7.09,,pH Units
+ST24AUG09-01-034 ,TEM ABF Effluent (08-08-2024),8/8/2024,Soluble BOD,426,426,,mg/L
+ST24AUG10-02-033 ,TEM ABF Effluent (08-09-2024),8/9/2024,% Volatile Suspended Solids,85,85,,%
+ST24AUG10-02-033 ,TEM ABF Effluent (08-09-2024),8/9/2024,Total Suspended Solids,424,424,,mg/L
+ST24AUG10-02-033 ,TEM ABF Effluent (08-09-2024),8/9/2024,Volatile Suspended Solids,360,360,,mg/L
+ST24AUG10-02-033 ,TEM ABF Effluent (08-09-2024),8/9/2024,pH,7.09,7.09,,pH Units
+ST24AUG10-02-033 ,TEM ABF Effluent (08-09-2024),8/9/2024,Soluble BOD,383,383,,mg/L
+ST24AUG11-02-033 ,TEM ABF Effluent (08-10-2024),8/10/2024,% Volatile Suspended Solids,87,87,,%
+ST24AUG11-02-033 ,TEM ABF Effluent (08-10-2024),8/10/2024,Total Suspended Solids,406,406,,mg/L
+ST24AUG11-02-033 ,TEM ABF Effluent (08-10-2024),8/10/2024,Volatile Suspended Solids,352,352,,mg/L
+ST24AUG11-02-033 ,TEM ABF Effluent (08-10-2024),8/10/2024,pH,7.07,7.07,,pH Units
+ST24AUG11-02-033 ,TEM ABF Effluent (08-10-2024),8/10/2024,Soluble BOD,417,417,,mg/L
+ST24AUG12-01-034 ,TEM ABF Effluent (08-11-2024),8/11/2024,% Volatile Suspended Solids,89,89,,%
+ST24AUG12-01-034 ,TEM ABF Effluent (08-11-2024),8/11/2024,Total Suspended Solids,493,493,,mg/L
+ST24AUG12-01-034 ,TEM ABF Effluent (08-11-2024),8/11/2024,Volatile Suspended Solids,437,437,,mg/L
+ST24AUG12-01-034 ,TEM ABF Effluent (08-11-2024),8/11/2024,pH,7.13,7.13,,pH Units
+ST24AUG12-01-034 ,TEM ABF Effluent (08-11-2024),8/11/2024,Soluble BOD,350,350,,mg/L
+ST24AUG13-01-034 ,TEM ABF Effluent (08-12-2024),8/12/2024,% Volatile Suspended Solids,90,90,,%
+ST24AUG13-01-034 ,TEM ABF Effluent (08-12-2024),8/12/2024,Total Suspended Solids,390,390,,mg/L
+ST24AUG13-01-034 ,TEM ABF Effluent (08-12-2024),8/12/2024,Volatile Suspended Solids,353,353,,mg/L
+ST24AUG13-01-034 ,TEM ABF Effluent (08-12-2024),8/12/2024,pH,6.98,6.98,,pH Units
+ST24AUG13-01-034 ,TEM ABF Effluent (08-12-2024),8/12/2024,Soluble BOD,434,434,,mg/L
+ST24AUG14-01-034 ,TEM ABF Effluent (08-13-2024),8/13/2024,% Volatile Suspended Solids,90,90,,%
+ST24AUG14-01-034 ,TEM ABF Effluent (08-13-2024),8/13/2024,Total Suspended Solids,372,372,,mg/L
+ST24AUG14-01-034 ,TEM ABF Effluent (08-13-2024),8/13/2024,Volatile Suspended Solids,335,335,,mg/L
+ST24AUG14-01-034 ,TEM ABF Effluent (08-13-2024),8/13/2024,pH,7.22,7.22,,pH Units
+ST24AUG14-01-034 ,TEM ABF Effluent (08-13-2024),8/13/2024,Soluble BOD,318,318,,mg/L
+ST24AUG15-01-036 ,TEM ABF Effluent (08-14-2024),8/14/2024,pH,7.04,7.04,,pH Units
+ST24AUG15-01-036 ,TEM ABF Effluent (08-14-2024),8/14/2024,Soluble BOD,338,338,,mg/L
+ST24AUG15-01-036 ,TEM ABF Effluent (08-14-2024),8/14/2024,% Volatile Suspended Solids,82,82,,%
+ST24AUG15-01-036 ,TEM ABF Effluent (08-14-2024),8/14/2024,Total Suspended Solids,428,428,,mg/L
+ST24AUG15-01-036 ,TEM ABF Effluent (08-14-2024),8/14/2024,Volatile Suspended Solids,353,353,,mg/L
+ST24AUG16-01-034 ,TEM ABF Effluent (08-15-2024),8/15/2024,% Volatile Suspended Solids,88,88,,%
+ST24AUG16-01-034 ,TEM ABF Effluent (08-15-2024),8/15/2024,Total Suspended Solids,520,520,,mg/L
+ST24AUG16-01-034 ,TEM ABF Effluent (08-15-2024),8/15/2024,Volatile Suspended Solids,460,460,,mg/L
+ST24AUG16-01-034 ,TEM ABF Effluent (08-15-2024),8/15/2024,pH,7.03,7.03,,pH Units
+ST24AUG16-01-034 ,TEM ABF Effluent (08-15-2024),8/15/2024,Soluble BOD,359,359,,mg/L
+ST24AUG17-02-033 ,TEM ABF Effluent (08-16-2024),8/16/2024,% Volatile Suspended Solids,92,92,,%
+ST24AUG17-02-033 ,TEM ABF Effluent (08-16-2024),8/16/2024,Total Suspended Solids,580,580,,mg/L
+ST24AUG17-02-033 ,TEM ABF Effluent (08-16-2024),8/16/2024,Volatile Suspended Solids,533,533,,mg/L
+ST24AUG17-02-033 ,TEM ABF Effluent (08-16-2024),8/16/2024,pH,7.17,7.17,,pH Units
+ST24AUG17-02-033 ,TEM ABF Effluent (08-16-2024),8/16/2024,Soluble BOD,325,325,,mg/L
+ST24AUG18-02-033 ,TEM ABF Effluent (08-17-2024),8/17/2024,% Volatile Suspended Solids,84,84,,%
+ST24AUG18-02-033 ,TEM ABF Effluent (08-17-2024),8/17/2024,Total Suspended Solids,568,568,,mg/L
+ST24AUG18-02-033 ,TEM ABF Effluent (08-17-2024),8/17/2024,Volatile Suspended Solids,475,475,,mg/L
+ST24AUG18-02-033 ,TEM ABF Effluent (08-17-2024),8/17/2024,pH,7.26,7.26,,pH Units
+ST24AUG18-02-033 ,TEM ABF Effluent (08-17-2024),8/17/2024,Soluble BOD,353,353,,mg/L
+ST24AUG19-01-034 ,TEM ABF Effluent (08-18-2024),8/18/2024,% Volatile Suspended Solids,97,97,,%
+ST24AUG19-01-034 ,TEM ABF Effluent (08-18-2024),8/18/2024,Total Suspended Solids,487,487,,mg/L
+ST24AUG19-01-034 ,TEM ABF Effluent (08-18-2024),8/18/2024,Volatile Suspended Solids,470,470,,mg/L
+ST24AUG19-01-034 ,TEM ABF Effluent (08-18-2024),8/18/2024,pH,7.70,7.70,,pH Units
+ST24AUG19-01-034 ,TEM ABF Effluent (08-18-2024),8/18/2024,Soluble BOD,141,141,,mg/L
+ST24AUG20-01-034 ,TEM ABF Effluent (08-19-2024),8/19/2024,% Volatile Suspended Solids,89,89,,%
+ST24AUG20-01-034 ,TEM ABF Effluent (08-19-2024),8/19/2024,Total Suspended Solids,547,547,,mg/L
+ST24AUG20-01-034 ,TEM ABF Effluent (08-19-2024),8/19/2024,Volatile Suspended Solids,487,487,,mg/L
+ST24AUG20-01-034 ,TEM ABF Effluent (08-19-2024),8/19/2024,pH,7.44,7.44,,pH Units
+ST24AUG20-01-034 ,TEM ABF Effluent (08-19-2024),8/19/2024,Soluble BOD,261,261,,mg/L
+ST24AUG21-02-034 ,TEM ABF Effluent (08-20-2024),8/20/2024,% Volatile Suspended Solids,85,85,,%
+ST24AUG21-02-034 ,TEM ABF Effluent (08-20-2024),8/20/2024,Total Suspended Solids,426,426,,mg/L
+ST24AUG21-02-034 ,TEM ABF Effluent (08-20-2024),8/20/2024,Volatile Suspended Solids,364,364,,mg/L
+ST24AUG21-02-034 ,TEM ABF Effluent (08-20-2024),8/20/2024,pH,7.37,7.37,,pH Units
+ST24AUG21-02-034 ,TEM ABF Effluent (08-20-2024),8/20/2024,Soluble BOD,242,242,,mg/L
+ST24AUG22-01-036 ,TEM ABF Effluent (08-21-2024),8/21/2024,pH,7.49,7.49,,pH Units
+ST24AUG22-01-036 ,TEM ABF Effluent (08-21-2024),8/21/2024,Soluble BOD,276,276,,mg/L
+ST24AUG22-01-036 ,TEM ABF Effluent (08-21-2024),8/21/2024,% Volatile Suspended Solids,88,88,,%
+ST24AUG22-01-036 ,TEM ABF Effluent (08-21-2024),8/21/2024,Total Suspended Solids,570,570,,mg/L
+ST24AUG22-01-036 ,TEM ABF Effluent (08-21-2024),8/21/2024,Volatile Suspended Solids,500,500,,mg/L
+ST24AUG23-01-034 ,TEM ABF Effluent (08-22-2024),8/22/2024,% Volatile Suspended Solids,92,92,,%
+ST24AUG23-01-034 ,TEM ABF Effluent (08-22-2024),8/22/2024,Total Suspended Solids,510,510,,mg/L
+ST24AUG23-01-034 ,TEM ABF Effluent (08-22-2024),8/22/2024,Volatile Suspended Solids,467,467,,mg/L
+ST24AUG23-01-034 ,TEM ABF Effluent (08-22-2024),8/22/2024,pH,7.46,7.46,,pH Units
+ST24AUG23-01-034 ,TEM ABF Effluent (08-22-2024),8/22/2024,Soluble BOD,224,224,,mg/L
+ST24AUG24-02-033 ,TEM ABF Effluent (08-23-2024),8/23/2024,% Volatile Suspended Solids,96,96,,%
+ST24AUG24-02-033 ,TEM ABF Effluent (08-23-2024),8/23/2024,Total Suspended Solids,710,710,,mg/L
+ST24AUG24-02-033 ,TEM ABF Effluent (08-23-2024),8/23/2024,Volatile Suspended Solids,680,680,,mg/L
+ST24AUG24-02-033 ,TEM ABF Effluent (08-23-2024),8/23/2024,pH,7.15,7.15,,pH Units
+ST24AUG24-02-033 ,TEM ABF Effluent (08-23-2024),8/23/2024,Soluble BOD,340,340,,mg/L
+ST24AUG25-02-033 ,TEM ABF Effluent (08-24-2024),8/24/2024,% Volatile Suspended Solids,83,83,,%
+ST24AUG25-02-033 ,TEM ABF Effluent (08-24-2024),8/24/2024,Total Suspended Solids,543,543,,mg/L
+ST24AUG25-02-033 ,TEM ABF Effluent (08-24-2024),8/24/2024,Volatile Suspended Solids,453,453,,mg/L
+ST24AUG25-02-033 ,TEM ABF Effluent (08-24-2024),8/24/2024,pH,7.36,7.36,,pH Units
+ST24AUG25-02-033 ,TEM ABF Effluent (08-24-2024),8/24/2024,Soluble BOD,302,302,,mg/L
+ST24AUG26-01-034 ,TEM ABF Effluent (08-25-2024),8/25/2024,% Volatile Suspended Solids,93,93,,%
+ST24AUG26-01-034 ,TEM ABF Effluent (08-25-2024),8/25/2024,Total Suspended Solids,703,703,,mg/L
+ST24AUG26-01-034 ,TEM ABF Effluent (08-25-2024),8/25/2024,Volatile Suspended Solids,653,653,,mg/L
+ST24AUG26-01-034 ,TEM ABF Effluent (08-25-2024),8/25/2024,pH,7.53,7.53,,pH Units
+ST24AUG26-01-034 ,TEM ABF Effluent (08-25-2024),8/25/2024,Soluble BOD,266,266,,mg/L
+ST24AUG27-01-034 ,TEM ABF Effluent (08-26-2024),8/26/2024,% Volatile Suspended Solids,84,84,,%
+ST24AUG27-01-034 ,TEM ABF Effluent (08-26-2024),8/26/2024,Total Suspended Solids,403,403,,mg/L
+ST24AUG27-01-034 ,TEM ABF Effluent (08-26-2024),8/26/2024,Volatile Suspended Solids,340,340,,mg/L
+ST24AUG27-01-034 ,TEM ABF Effluent (08-26-2024),8/26/2024,pH,7.23,7.23,,pH Units
+ST24AUG27-01-034 ,TEM ABF Effluent (08-26-2024),8/26/2024,Soluble BOD,273,273,,mg/L
+ST24AUG28-01-034 ,TEM ABF Effluent (08-27-2024),8/27/2024,% Volatile Suspended Solids,82,82,,%
+ST24AUG28-01-034 ,TEM ABF Effluent (08-27-2024),8/27/2024,Total Suspended Solids,430,430,,mg/L
+ST24AUG28-01-034 ,TEM ABF Effluent (08-27-2024),8/27/2024,Volatile Suspended Solids,353,353,,mg/L
+ST24AUG28-01-034 ,TEM ABF Effluent (08-27-2024),8/27/2024,pH,7.44,7.44,,pH Units
+ST24AUG28-01-034 ,TEM ABF Effluent (08-27-2024),8/27/2024,Soluble BOD,229,229,,mg/L
+ST24AUG29-01-036 ,TEM ABF Effluent (08-28-2024),8/28/2024,pH,7.55,7.55,,pH Units
+ST24AUG29-01-036 ,TEM ABF Effluent (08-28-2024),8/28/2024,Soluble BOD,327,327,,mg/L
+ST24AUG29-01-036 ,TEM ABF Effluent (08-28-2024),8/28/2024,% Volatile Suspended Solids,98,98,,%
+ST24AUG29-01-036 ,TEM ABF Effluent (08-28-2024),8/28/2024,Total Suspended Solids,423,423,,mg/L
+ST24AUG29-01-036 ,TEM ABF Effluent (08-28-2024),8/28/2024,Volatile Suspended Solids,417,417,,mg/L
+ST24AUG30-01-034 ,TEM ABF Effluent (08-29-2024),8/29/2024,% Volatile Suspended Solids,80,80,,%
+ST24AUG30-01-034 ,TEM ABF Effluent (08-29-2024),8/29/2024,Total Suspended Solids,408,408,,mg/L
+ST24AUG30-01-034 ,TEM ABF Effluent (08-29-2024),8/29/2024,Volatile Suspended Solids,328,328,,mg/L
+ST24AUG30-01-034 ,TEM ABF Effluent (08-29-2024),8/29/2024,pH,7.25,7.25,,pH Units
+ST24AUG30-01-034 ,TEM ABF Effluent (08-29-2024),8/29/2024,Soluble BOD,293,293,,mg/L
+ST24AUG31-02-033 ,TEM ABF Effluent (08-30-2024),8/30/2024,% Volatile Suspended Solids,84,84,,%
+ST24AUG31-02-033 ,TEM ABF Effluent (08-30-2024),8/30/2024,Total Suspended Solids,385,385,,mg/L
+ST24AUG31-02-033 ,TEM ABF Effluent (08-30-2024),8/30/2024,Volatile Suspended Solids,325,325,,mg/L
+ST24AUG31-02-033 ,TEM ABF Effluent (08-30-2024),8/30/2024,pH,7.37,7.37,,pH Units
+ST24AUG31-02-033 ,TEM ABF Effluent (08-30-2024),8/30/2024,Soluble BOD,210,210,,mg/L
+ST24SEP01-08-033 ,TEM ABF Effluent (08-31-2024),8/31/2024,% Volatile Suspended Solids,83,83,,%
+ST24SEP01-08-033 ,TEM ABF Effluent (08-31-2024),8/31/2024,Total Suspended Solids,436,436,,mg/L
+ST24SEP01-08-033 ,TEM ABF Effluent (08-31-2024),8/31/2024,Volatile Suspended Solids,360,360,,mg/L
+ST24SEP01-08-033 ,TEM ABF Effluent (08-31-2024),8/31/2024,pH,7.29,7.29,,pH Units
+ST24SEP01-08-033 ,TEM ABF Effluent (08-31-2024),8/31/2024,Soluble BOD,157,157,,mg/L
+ST24SEP02-01-034 ,TEM ABF Effluent (09-01-2024),9/1/2024,% Volatile Suspended Solids,87,87,,%
+ST24SEP02-01-034 ,TEM ABF Effluent (09-01-2024),9/1/2024,Total Suspended Solids,436,436,,mg/L
+ST24SEP02-01-034 ,TEM ABF Effluent (09-01-2024),9/1/2024,Volatile Suspended Solids,378,378,,mg/L
+ST24SEP02-01-034 ,TEM ABF Effluent (09-01-2024),9/1/2024,pH,7.54,7.54,,pH Units
+ST24SEP02-01-034 ,TEM ABF Effluent (09-01-2024),9/1/2024,Soluble BOD,184,184,,mg/L
+ST24SEP03-01-034 ,TEM ABF Effluent (09-02-2024),9/2/2024,% Volatile Suspended Solids,84,84,,%
+ST24SEP03-01-034 ,TEM ABF Effluent (09-02-2024),9/2/2024,Total Suspended Solids,473,473,,mg/L
+ST24SEP03-01-034 ,TEM ABF Effluent (09-02-2024),9/2/2024,Volatile Suspended Solids,395,395,,mg/L
+ST24SEP03-01-034 ,TEM ABF Effluent (09-02-2024),9/2/2024,pH,7.42,7.42,,pH Units
+ST24SEP03-01-034 ,TEM ABF Effluent (09-02-2024),9/2/2024,Soluble BOD,230,230,,mg/L
+ST24SEP04-01-034 ,TEM ABF Effluent (09-03-2024),9/3/2024,% Volatile Suspended Solids,83,83,,%
+ST24SEP04-01-034 ,TEM ABF Effluent (09-03-2024),9/3/2024,Total Suspended Solids,803,803,,mg/L
+ST24SEP04-01-034 ,TEM ABF Effluent (09-03-2024),9/3/2024,Volatile Suspended Solids,667,667,,mg/L
+ST24SEP04-01-034 ,TEM ABF Effluent (09-03-2024),9/3/2024,pH,7.39,7.39,,pH Units
+ST24SEP04-01-034 ,TEM ABF Effluent (09-03-2024),9/3/2024,Soluble BOD,222,222,,mg/L
+ST24SEP05-01-036 ,TEM ABF Effluent (09-04-2024),9/4/2024,pH,7.26,7.26,,pH Units
+ST24SEP05-01-036 ,TEM ABF Effluent (09-04-2024),9/4/2024,Soluble BOD,302,302,,mg/L
+ST24SEP05-01-036 ,TEM ABF Effluent (09-04-2024),9/4/2024,% Volatile Suspended Solids,83,83,,%
+ST24SEP05-01-036 ,TEM ABF Effluent (09-04-2024),9/4/2024,Total Suspended Solids,657,657,,mg/L
+ST24SEP05-01-036 ,TEM ABF Effluent (09-04-2024),9/4/2024,Volatile Suspended Solids,543,543,,mg/L
+ST24SEP06-01-034 ,TEM ABF Effluent (09-05-2024),9/5/2024,% Volatile Suspended Solids,84,84,,%
+ST24SEP06-01-034 ,TEM ABF Effluent (09-05-2024),9/5/2024,Total Suspended Solids,857,857,,mg/L
+ST24SEP06-01-034 ,TEM ABF Effluent (09-05-2024),9/5/2024,Volatile Suspended Solids,720,720,,mg/L
+ST24SEP06-01-034 ,TEM ABF Effluent (09-05-2024),9/5/2024,pH,7.42,7.42,,pH Units
+ST24SEP06-01-034 ,TEM ABF Effluent (09-05-2024),9/5/2024,Soluble BOD,257,257,,mg/L
+ST24SEP07-02-033 ,TEM ABF Effluent (09-06-2024),9/6/2024,% Volatile Suspended Solids,100,100,,%
+ST24SEP07-02-033 ,TEM ABF Effluent (09-06-2024),9/6/2024,Total Suspended Solids,540,540,,mg/L
+ST24SEP07-02-033 ,TEM ABF Effluent (09-06-2024),9/6/2024,Volatile Suspended Solids,540,540,,mg/L
+ST24SEP07-02-033 ,TEM ABF Effluent (09-06-2024),9/6/2024,pH,7.30,7.30,,pH Units
+ST24SEP07-02-033 ,TEM ABF Effluent (09-06-2024),9/6/2024,Soluble BOD,285,285,,mg/L
+ST24SEP08-02-033 ,TEM ABF Effluent (09-07-2024),9/7/2024,% Volatile Suspended Solids,95,95,,%
+ST24SEP08-02-033 ,TEM ABF Effluent (09-07-2024),9/7/2024,Total Suspended Solids,247,247,,mg/L
+ST24SEP08-02-033 ,TEM ABF Effluent (09-07-2024),9/7/2024,Volatile Suspended Solids,233,233,,mg/L
+ST24SEP08-02-033 ,TEM ABF Effluent (09-07-2024),9/7/2024,pH,7.26,7.26,,pH Units
+ST24SEP08-02-033 ,TEM ABF Effluent (09-07-2024),9/7/2024,Soluble BOD,238,238,,mg/L
+ST24SEP09-01-034 ,TEM ABF Effluent (09-08-2024),9/8/2024,% Volatile Suspended Solids,83,83,,%
+ST24SEP09-01-034 ,TEM ABF Effluent (09-08-2024),9/8/2024,Total Suspended Solids,570,570,,mg/L
+ST24SEP09-01-034 ,TEM ABF Effluent (09-08-2024),9/8/2024,Volatile Suspended Solids,473,473,,mg/L
+ST24SEP09-01-034 ,TEM ABF Effluent (09-08-2024),9/8/2024,pH,7.21,7.21,,pH Units
+ST24SEP09-01-034 ,TEM ABF Effluent (09-08-2024),9/8/2024,Soluble BOD,398,398,,mg/L
+ST24SEP10-01-034 ,TEM ABF Effluent (09-09-2024),9/9/2024,% Volatile Suspended Solids,93,93,,%
+ST24SEP10-01-034 ,TEM ABF Effluent (09-09-2024),9/9/2024,Total Suspended Solids,860,860,,mg/L
+ST24SEP10-01-034 ,TEM ABF Effluent (09-09-2024),9/9/2024,Volatile Suspended Solids,800,800,,mg/L
+ST24SEP10-01-034 ,TEM ABF Effluent (09-09-2024),9/9/2024,pH,7.36,7.36,,pH Units
+ST24SEP10-01-034 ,TEM ABF Effluent (09-09-2024),9/9/2024,Soluble BOD,299,299,,mg/L
+ST24SEP11-01-034 ,TEM ABF Effluent (09-10-2024),9/10/2024,% Volatile Suspended Solids,81,81,,%
+ST24SEP11-01-034 ,TEM ABF Effluent (09-10-2024),9/10/2024,Total Suspended Solids,685,685,,mg/L
+ST24SEP11-01-034 ,TEM ABF Effluent (09-10-2024),9/10/2024,Volatile Suspended Solids,555,555,,mg/L
+ST24SEP11-01-034 ,TEM ABF Effluent (09-10-2024),9/10/2024,pH,7.47,7.47,,pH Units
+ST24SEP11-01-034 ,TEM ABF Effluent (09-10-2024),9/10/2024,Soluble BOD,263,263,,mg/L
+ST24SEP12-01-036 ,TEM ABF Effluent (09-11-2024),9/11/2024,pH,7.11,7.11,,pH Units
+ST24SEP12-01-036 ,TEM ABF Effluent (09-11-2024),9/11/2024,Soluble BOD,315,315,,mg/L
+ST24SEP12-01-036 ,TEM ABF Effluent (09-11-2024),9/11/2024,% Volatile Suspended Solids,85,85,,%
+ST24SEP12-01-036 ,TEM ABF Effluent (09-11-2024),9/11/2024,Total Suspended Solids,593,593,,mg/L
+ST24SEP12-01-036 ,TEM ABF Effluent (09-11-2024),9/11/2024,Volatile Suspended Solids,507,507,,mg/L
+ST24SEP13-01-034 ,TEM ABF Effluent (09-12-2024),9/12/2024,% Volatile Suspended Solids,88,88,,%
+ST24SEP13-01-034 ,TEM ABF Effluent (09-12-2024),9/12/2024,Total Suspended Solids,430,430,,mg/L
+ST24SEP13-01-034 ,TEM ABF Effluent (09-12-2024),9/12/2024,Volatile Suspended Solids,377,377,,mg/L
+ST24SEP13-01-034 ,TEM ABF Effluent (09-12-2024),9/12/2024,pH,6.88,6.88,,pH Units
+ST24SEP13-01-034 ,TEM ABF Effluent (09-12-2024),9/12/2024,Soluble BOD,477,477,,mg/L
+ST24SEP14-02-033 ,TEM ABF Effluent (09-13-2024),9/13/2024,% Volatile Suspended Solids,76,76,,%
+ST24SEP14-02-033 ,TEM ABF Effluent (09-13-2024),9/13/2024,Total Suspended Solids,174,174,,mg/L
+ST24SEP14-02-033 ,TEM ABF Effluent (09-13-2024),9/13/2024,Volatile Suspended Solids,132,132,,mg/L
+ST24SEP14-02-033 ,TEM ABF Effluent (09-13-2024),9/13/2024,pH,6.72,6.72,,pH Units
+ST24SEP14-02-033 ,TEM ABF Effluent (09-13-2024),9/13/2024,Soluble BOD,148,148,,mg/L
+ST24SEP15-02-033 ,TEM ABF Effluent (09-14-2024),9/14/2024,% Volatile Suspended Solids,84,84,,%
+ST24SEP15-02-033 ,TEM ABF Effluent (09-14-2024),9/14/2024,Total Suspended Solids,157,157,,mg/L
+ST24SEP15-02-033 ,TEM ABF Effluent (09-14-2024),9/14/2024,Volatile Suspended Solids,132,132,,mg/L
+ST24SEP15-02-033 ,TEM ABF Effluent (09-14-2024),9/14/2024,pH,6.88,6.88,,pH Units
+ST24SEP15-02-033 ,TEM ABF Effluent (09-14-2024),9/14/2024,Soluble BOD,240,240,,mg/L
+ST24SEP16-01-034 ,TEM ABF Effluent (09-15-2024),9/15/2024,% Volatile Suspended Solids,82,82,,%
+ST24SEP16-01-034 ,TEM ABF Effluent (09-15-2024),9/15/2024,Total Suspended Solids,370,370,,mg/L
+ST24SEP16-01-034 ,TEM ABF Effluent (09-15-2024),9/15/2024,Volatile Suspended Solids,305,305,,mg/L
+ST24SEP16-01-034 ,TEM ABF Effluent (09-15-2024),9/15/2024,pH,7.09,7.09,,pH Units
+ST24SEP16-01-034 ,TEM ABF Effluent (09-15-2024),9/15/2024,Soluble BOD,300,300,,mg/L
+ST24SEP17-01-034 ,TEM ABF Effluent (09-16-2024),9/16/2024,% Volatile Suspended Solids,77,77,,%
+ST24SEP17-01-034 ,TEM ABF Effluent (09-16-2024),9/16/2024,Total Suspended Solids,276,276,,mg/L
+ST24SEP17-01-034 ,TEM ABF Effluent (09-16-2024),9/16/2024,Volatile Suspended Solids,211,211,,mg/L
+ST24SEP17-01-034 ,TEM ABF Effluent (09-16-2024),9/16/2024,pH,7.18,7.18,,pH Units
+ST24SEP17-01-034 ,TEM ABF Effluent (09-16-2024),9/16/2024,Soluble BOD,62,62,,mg/L
+ST24SEP18-01-034 ,TEM ABF Effluent (09-17-2024),9/17/2024,% Volatile Suspended Solids,79,79,,%
+ST24SEP18-01-034 ,TEM ABF Effluent (09-17-2024),9/17/2024,Total Suspended Solids,210,210,,mg/L
+ST24SEP18-01-034 ,TEM ABF Effluent (09-17-2024),9/17/2024,Volatile Suspended Solids,166,166,,mg/L
+ST24SEP18-01-034 ,TEM ABF Effluent (09-17-2024),9/17/2024,pH,7.35,7.35,,pH Units
+ST24SEP18-01-034 ,TEM ABF Effluent (09-17-2024),9/17/2024,Soluble BOD,103,103,,mg/L
+ST24SEP19-01-036 ,TEM ABF Effluent (09-18-2024),9/18/2024,pH,7.45,7.45,,pH Units
+ST24SEP19-01-036 ,TEM ABF Effluent (09-18-2024),9/18/2024,Soluble BOD,127,127,,mg/L
+ST24SEP19-01-036 ,TEM ABF Effluent (09-18-2024),9/18/2024,% Volatile Suspended Solids,84,84,,%
+ST24SEP19-01-036 ,TEM ABF Effluent (09-18-2024),9/18/2024,Total Suspended Solids,430,430,,mg/L
+ST24SEP19-01-036 ,TEM ABF Effluent (09-18-2024),9/18/2024,Volatile Suspended Solids,360,360,,mg/L
+ST24SEP20-01-034 ,TEM ABF Effluent (09-19-2024),9/19/2024,% Volatile Suspended Solids,84,84,,%
+ST24SEP20-01-034 ,TEM ABF Effluent (09-19-2024),9/19/2024,Total Suspended Solids,271,271,,mg/L
+ST24SEP20-01-034 ,TEM ABF Effluent (09-19-2024),9/19/2024,Volatile Suspended Solids,227,227,,mg/L
+ST24SEP20-01-034 ,TEM ABF Effluent (09-19-2024),9/19/2024,pH,7.22,7.22,,pH Units
+ST24SEP20-01-034 ,TEM ABF Effluent (09-19-2024),9/19/2024,Soluble BOD,251,251,,mg/L
+ST24SEP21-02-033 ,TEM ABF Effluent (09-20-2024),9/20/2024,% Volatile Suspended Solids,96,96,,%
+ST24SEP21-02-033 ,TEM ABF Effluent (09-20-2024),9/20/2024,Total Suspended Solids,440,440,,mg/L
+ST24SEP21-02-033 ,TEM ABF Effluent (09-20-2024),9/20/2024,Volatile Suspended Solids,423,423,,mg/L
+ST24SEP21-02-033 ,TEM ABF Effluent (09-20-2024),9/20/2024,pH,6.50,6.50,,pH Units
+ST24SEP21-02-033 ,TEM ABF Effluent (09-20-2024),9/20/2024,Soluble BOD,496,496,,mg/L
+ST24SEP22-02-033 ,TEM ABF Effluent (09-21-2024),9/21/2024,% Volatile Suspended Solids,93,93,,%
+ST24SEP22-02-033 ,TEM ABF Effluent (09-21-2024),9/21/2024,Total Suspended Solids,263,263,,mg/L
+ST24SEP22-02-033 ,TEM ABF Effluent (09-21-2024),9/21/2024,Volatile Suspended Solids,245,245,,mg/L
+ST24SEP22-02-033 ,TEM ABF Effluent (09-21-2024),9/21/2024,pH,7.61,7.61,,pH Units
+ST24SEP22-02-033 ,TEM ABF Effluent (09-21-2024),9/21/2024,Soluble BOD,195,195,,mg/L
+ST24SEP23-01-034 ,TEM ABF Effluent (09-22-2024),9/22/2024,% Volatile Suspended Solids,85,85,,%
+ST24SEP23-01-034 ,TEM ABF Effluent (09-22-2024),9/22/2024,Total Suspended Solids,637,637,,mg/L
+ST24SEP23-01-034 ,TEM ABF Effluent (09-22-2024),9/22/2024,Volatile Suspended Solids,543,543,,mg/L
+ST24SEP23-01-034 ,TEM ABF Effluent (09-22-2024),9/22/2024,pH,7.64,7.64,,pH Units
+ST24SEP23-01-034 ,TEM ABF Effluent (09-22-2024),9/22/2024,Soluble BOD,166,166,,mg/L
+ST24SEP24-01-034 ,TEM ABF Effluent (09-23-2024),9/23/2024,% Volatile Suspended Solids,85,85,,%
+ST24SEP24-01-034 ,TEM ABF Effluent (09-23-2024),9/23/2024,Total Suspended Solids,613,613,,mg/L
+ST24SEP24-01-034 ,TEM ABF Effluent (09-23-2024),9/23/2024,Volatile Suspended Solids,523,523,,mg/L
+ST24SEP24-01-034 ,TEM ABF Effluent (09-23-2024),9/23/2024,pH,7.68,7.68,,pH Units
+ST24SEP24-01-034 ,TEM ABF Effluent (09-23-2024),9/23/2024,Soluble BOD,142,142,,mg/L
+ST24SEP25-01-034 ,TEM ABF Effluent (09-24-2024),9/24/2024,% Volatile Suspended Solids,79,79,,%
+ST24SEP25-01-034 ,TEM ABF Effluent (09-24-2024),9/24/2024,Total Suspended Solids,514,514,,mg/L
+ST24SEP25-01-034 ,TEM ABF Effluent (09-24-2024),9/24/2024,Volatile Suspended Solids,404,404,,mg/L
+ST24SEP25-01-034 ,TEM ABF Effluent (09-24-2024),9/24/2024,pH,7.57,7.57,,pH Units
+ST24SEP25-01-034 ,TEM ABF Effluent (09-24-2024),9/24/2024,Soluble BOD,184,184,,mg/L
+ST24SEP26-01-036 ,TEM ABF Effluent (09-25-2024),9/25/2024,pH,7.51,7.51,,pH Units
+ST24SEP26-01-036 ,TEM ABF Effluent (09-25-2024),9/25/2024,Soluble BOD,227,227,,mg/L
+ST24SEP26-01-036 ,TEM ABF Effluent (09-25-2024),9/25/2024,% Volatile Suspended Solids,82,82,,%
+ST24SEP26-01-036 ,TEM ABF Effluent (09-25-2024),9/25/2024,Total Suspended Solids,640,640,,mg/L
+ST24SEP26-01-036 ,TEM ABF Effluent (09-25-2024),9/25/2024,Volatile Suspended Solids,523,523,,mg/L
+ST24SEP27-01-034 ,TEM ABF Effluent (09-26-2024),9/26/2024,% Volatile Suspended Solids,89,89,,%
+ST24SEP27-01-034 ,TEM ABF Effluent (09-26-2024),9/26/2024,Total Suspended Solids,755,755,,mg/L
+ST24SEP27-01-034 ,TEM ABF Effluent (09-26-2024),9/26/2024,Volatile Suspended Solids,670,670,,mg/L
+ST24SEP27-01-034 ,TEM ABF Effluent (09-26-2024),9/26/2024,pH,7.83,7.83,,pH Units
+ST24SEP27-01-034 ,TEM ABF Effluent (09-26-2024),9/26/2024,Soluble BOD,370,370,,mg/L
+ST24SEP28-02-033 ,TEM ABF Effluent (09-27-2024),9/27/2024,% Volatile Suspended Solids,83,83,,%
+ST24SEP28-02-033 ,TEM ABF Effluent (09-27-2024),9/27/2024,Total Suspended Solids,570,570,,mg/L
+ST24SEP28-02-033 ,TEM ABF Effluent (09-27-2024),9/27/2024,Volatile Suspended Solids,473,473,,mg/L
+ST24SEP28-02-033 ,TEM ABF Effluent (09-27-2024),9/27/2024,pH,6.97,6.97,,pH Units
+ST24SEP28-02-033 ,TEM ABF Effluent (09-27-2024),9/27/2024,Soluble BOD,380,380,,mg/L
+ST24SEP29-02-033 ,TEM ABF Effluent (09-28-2024),9/28/2024,% Volatile Suspended Solids,81,81,,%
+ST24SEP29-02-033 ,TEM ABF Effluent (09-28-2024),9/28/2024,Total Suspended Solids,287,287,,mg/L
+ST24SEP29-02-033 ,TEM ABF Effluent (09-28-2024),9/28/2024,Volatile Suspended Solids,233,233,,mg/L
+ST24SEP29-02-033 ,TEM ABF Effluent (09-28-2024),9/28/2024,pH,6.97,6.97,,pH Units
+ST24SEP29-02-033 ,TEM ABF Effluent (09-28-2024),9/28/2024,Soluble BOD,79,79,,mg/L
+ST24SEP30-01-034 ,TEM ABF Effluent (09-29-2024),9/29/2024,% Volatile Suspended Solids,95,95,,%
+ST24SEP30-01-034 ,TEM ABF Effluent (09-29-2024),9/29/2024,Total Suspended Solids,203,203,,mg/L
+ST24SEP30-01-034 ,TEM ABF Effluent (09-29-2024),9/29/2024,Volatile Suspended Solids,193,193,,mg/L
+ST24SEP30-01-034 ,TEM ABF Effluent (09-29-2024),9/29/2024,pH,7.35,7.35,,pH Units
+ST24SEP30-01-034 ,TEM ABF Effluent (09-29-2024),9/29/2024,Soluble BOD,75,75,,mg/L
+ST24OCT01-07-034 ,TEM ABF Effluent (09-30-2024),9/30/2024,% Volatile Suspended Solids,84,84,,%
+ST24OCT01-07-034 ,TEM ABF Effluent (09-30-2024),9/30/2024,Total Suspended Solids,271,271,,mg/L
+ST24OCT01-07-034 ,TEM ABF Effluent (09-30-2024),9/30/2024,Volatile Suspended Solids,229,229,,mg/L
+ST24OCT01-07-034 ,TEM ABF Effluent (09-30-2024),9/30/2024,pH,7.25,7.25,,pH Units
+ST24OCT01-07-034 ,TEM ABF Effluent (09-30-2024),9/30/2024,Soluble BOD,130,130,,mg/L
+ST24OCT02-01-034 ,TEM ABF Effluent (10-01-2024),10/1/2024,% Volatile Suspended Solids,86,86,,%
+ST24OCT02-01-034 ,TEM ABF Effluent (10-01-2024),10/1/2024,Total Suspended Solids,188,188,,mg/L
+ST24OCT02-01-034 ,TEM ABF Effluent (10-01-2024),10/1/2024,Volatile Suspended Solids,162,162,,mg/L
+ST24OCT02-01-034 ,TEM ABF Effluent (10-01-2024),10/1/2024,pH,7.21,7.21,,pH Units
+ST24OCT02-01-034 ,TEM ABF Effluent (10-01-2024),10/1/2024,Soluble BOD,169,169,,mg/L
+ST24OCT03-01-036 ,TEM ABF Effluent (10-02-2024),10/2/2024,pH,6.75,6.75,,pH Units
+ST24OCT03-01-036 ,TEM ABF Effluent (10-02-2024),10/2/2024,Soluble BOD,232,232,,mg/L
+ST24OCT03-01-036 ,TEM ABF Effluent (10-02-2024),10/2/2024,% Volatile Suspended Solids,87,87,,%
+ST24OCT03-01-036 ,TEM ABF Effluent (10-02-2024),10/2/2024,Total Suspended Solids,199,199,,mg/L
+ST24OCT03-01-036 ,TEM ABF Effluent (10-02-2024),10/2/2024,Volatile Suspended Solids,174,174,,mg/L
+ST24OCT04-01-034 ,TEM ABF Effluent (10-03-2024),10/3/2024,pH,6.87,6.87,,pH Units
+ST24OCT04-01-034 ,TEM ABF Effluent (10-03-2024),10/3/2024,Soluble BOD,371,371,,mg/L
+ST24OCT05-02-033 ,TEM ABF Effluent (10-04-2024),10/4/2024,% Volatile Suspended Solids,83,83,,%
+ST24OCT05-02-033 ,TEM ABF Effluent (10-04-2024),10/4/2024,Total Suspended Solids,182,182,,mg/L
+ST24OCT05-02-033 ,TEM ABF Effluent (10-04-2024),10/4/2024,Volatile Suspended Solids,151,151,,mg/L
+ST24OCT05-02-033 ,TEM ABF Effluent (10-04-2024),10/4/2024,pH,6.83,6.83,,pH Units
+ST24OCT05-02-033 ,TEM ABF Effluent (10-04-2024),10/4/2024,Soluble BOD,436,436,,mg/L
+ST24OCT06-02-033 ,TEM ABF Effluent (10-05-2024),10/5/2024,% Volatile Suspended Solids,86,86,,%
+ST24OCT06-02-033 ,TEM ABF Effluent (10-05-2024),10/5/2024,Total Suspended Solids,376,376,,mg/L
+ST24OCT06-02-033 ,TEM ABF Effluent (10-05-2024),10/5/2024,Volatile Suspended Solids,324,324,,mg/L
+ST24OCT06-02-033 ,TEM ABF Effluent (10-05-2024),10/5/2024,pH,7.05,7.05,,pH Units
+ST24OCT06-02-033 ,TEM ABF Effluent (10-05-2024),10/5/2024,Soluble BOD,327,327,,mg/L
+ST24OCT07-01-034 ,TEM ABF Effluent (10-06-2024),10/6/2024,% Volatile Suspended Solids,92,92,,%
+ST24OCT07-01-034 ,TEM ABF Effluent (10-06-2024),10/6/2024,Total Suspended Solids,183,183,,mg/L
+ST24OCT07-01-034 ,TEM ABF Effluent (10-06-2024),10/6/2024,Volatile Suspended Solids,168,168,,mg/L
+ST24OCT07-01-034 ,TEM ABF Effluent (10-06-2024),10/6/2024,pH,7.35,7.35,,pH Units
+ST24OCT07-01-034 ,TEM ABF Effluent (10-06-2024),10/6/2024,Soluble BOD,170,170,,mg/L
+ST24OCT08-01-034 ,TEM ABF Effluent (10-07-2024),10/7/2024,% Volatile Suspended Solids,92,92,,%
+ST24OCT08-01-034 ,TEM ABF Effluent (10-07-2024),10/7/2024,Total Suspended Solids,145,145,,mg/L
+ST24OCT08-01-034 ,TEM ABF Effluent (10-07-2024),10/7/2024,Volatile Suspended Solids,134,134,,mg/L
+ST24OCT08-01-034 ,TEM ABF Effluent (10-07-2024),10/7/2024,pH,6.69,6.69,,pH Units
+ST24OCT08-01-034 ,TEM ABF Effluent (10-07-2024),10/7/2024,Soluble BOD,306,306,,mg/L
+ST24OCT09-01-034 ,TEM ABF Effluent (10-08-2024),10/8/2024,% Volatile Suspended Solids,89,89,,%
+ST24OCT09-01-034 ,TEM ABF Effluent (10-08-2024),10/8/2024,Total Suspended Solids,185,185,,mg/L
+ST24OCT09-01-034 ,TEM ABF Effluent (10-08-2024),10/8/2024,Volatile Suspended Solids,164,164,,mg/L
+ST24OCT09-01-034 ,TEM ABF Effluent (10-08-2024),10/8/2024,pH,7.11,7.11,,pH Units
+ST24OCT09-01-034 ,TEM ABF Effluent (10-08-2024),10/8/2024,Soluble BOD,366,366,,mg/L
+ST24OCT10-01-036 ,TEM ABF Effluent (10-09-2024),10/9/2024,pH,6.80,6.80,,pH Units
+ST24OCT10-01-036 ,TEM ABF Effluent (10-09-2024),10/9/2024,Soluble BOD,427,427,,mg/L
+ST24OCT10-01-036 ,TEM ABF Effluent (10-09-2024),10/9/2024,% Volatile Suspended Solids,89,89,,%
+ST24OCT10-01-036 ,TEM ABF Effluent (10-09-2024),10/9/2024,Total Suspended Solids,174,174,,mg/L
+ST24OCT10-01-036 ,TEM ABF Effluent (10-09-2024),10/9/2024,Volatile Suspended Solids,155,155,,mg/L
+ST24OCT11-01-034 ,TEM ABF Effluent (10-10-2024),10/10/2024,% Volatile Suspended Solids,94,94,,%
+ST24OCT11-01-034 ,TEM ABF Effluent (10-10-2024),10/10/2024,Total Suspended Solids,149,149,,mg/L
+ST24OCT11-01-034 ,TEM ABF Effluent (10-10-2024),10/10/2024,Volatile Suspended Solids,140,140,,mg/L
+ST24OCT11-01-034 ,TEM ABF Effluent (10-10-2024),10/10/2024,pH,7.21,7.21,,pH Units
+ST24OCT11-01-034 ,TEM ABF Effluent (10-10-2024),10/10/2024,Soluble BOD,476,476,,mg/L
+ST24OCT12-02-033 ,TEM ABF Effluent (10-11-2024),10/11/2024,% Volatile Suspended Solids,88,88,,%
+ST24OCT12-02-033 ,TEM ABF Effluent (10-11-2024),10/11/2024,Total Suspended Solids,186,186,,mg/L
+ST24OCT12-02-033 ,TEM ABF Effluent (10-11-2024),10/11/2024,Volatile Suspended Solids,164,164,,mg/L
+ST24OCT12-02-033 ,TEM ABF Effluent (10-11-2024),10/11/2024,pH,7.27,7.27,,pH Units
+ST24OCT12-02-033 ,TEM ABF Effluent (10-11-2024),10/11/2024,Soluble BOD,421,421,,mg/L
+ST24OCT13-02-033 ,TEM ABF Effluent (10-12-2024),10/12/2024,% Volatile Suspended Solids,95,95,,%
+ST24OCT13-02-033 ,TEM ABF Effluent (10-12-2024),10/12/2024,Total Suspended Solids,163,163,,mg/L
+ST24OCT13-02-033 ,TEM ABF Effluent (10-12-2024),10/12/2024,Volatile Suspended Solids,154,154,,mg/L
+ST24OCT13-02-033 ,TEM ABF Effluent (10-12-2024),10/12/2024,pH,7.32,7.32,,pH Units
+ST24OCT13-02-033 ,TEM ABF Effluent (10-12-2024),10/12/2024,Soluble BOD,339,339,,mg/L
+ST24OCT14-01-034 ,TEM ABF Effluent (10-13-2024),10/13/2024,% Volatile Suspended Solids,89,89,,%
+ST24OCT14-01-034 ,TEM ABF Effluent (10-13-2024),10/13/2024,Total Suspended Solids,220,220,,mg/L
+ST24OCT14-01-034 ,TEM ABF Effluent (10-13-2024),10/13/2024,Volatile Suspended Solids,196,196,,mg/L
+ST24OCT14-01-034 ,TEM ABF Effluent (10-13-2024),10/13/2024,pH,7.34,7.34,,pH Units
+ST24OCT14-01-034 ,TEM ABF Effluent (10-13-2024),10/13/2024,Soluble BOD,307,307,,mg/L
+ST24OCT15-01-034 ,TEM ABF Effluent (10-14-2024),10/14/2024,% Volatile Suspended Solids,89,89,,%
+ST24OCT15-01-034 ,TEM ABF Effluent (10-14-2024),10/14/2024,Total Suspended Solids,261,261,,mg/L
+ST24OCT15-01-034 ,TEM ABF Effluent (10-14-2024),10/14/2024,Volatile Suspended Solids,233,233,,mg/L
+ST24OCT15-01-034 ,TEM ABF Effluent (10-14-2024),10/14/2024,pH,7.16,7.16,,pH Units
+ST24OCT15-01-034 ,TEM ABF Effluent (10-14-2024),10/14/2024,Soluble BOD,392,392,,mg/L
+ST24OCT16-01-034 ,TEM ABF Effluent (10-15-2024),10/15/2024,% Volatile Suspended Solids,94,94,,%
+ST24OCT16-01-034 ,TEM ABF Effluent (10-15-2024),10/15/2024,Total Suspended Solids,252,252,,mg/L
+ST24OCT16-01-034 ,TEM ABF Effluent (10-15-2024),10/15/2024,Volatile Suspended Solids,237,237,,mg/L
+ST24OCT16-01-034 ,TEM ABF Effluent (10-15-2024),10/15/2024,pH,7.07,7.07,,pH Units
+ST24OCT16-01-034 ,TEM ABF Effluent (10-15-2024),10/15/2024,Soluble BOD,326,326,,mg/L
+ST24OCT17-01-036 ,TEM ABF Effluent (10-16-2024),10/16/2024,pH,7.17,7.17,,pH Units
+ST24OCT17-01-036 ,TEM ABF Effluent (10-16-2024),10/16/2024,Soluble BOD,322,322,,mg/L
+ST24OCT17-01-036 ,TEM ABF Effluent (10-16-2024),10/16/2024,% Volatile Suspended Solids,84,84,,%
+ST24OCT17-01-036 ,TEM ABF Effluent (10-16-2024),10/16/2024,Total Suspended Solids,263,263,,mg/L
+ST24OCT17-01-036 ,TEM ABF Effluent (10-16-2024),10/16/2024,Volatile Suspended Solids,220,220,,mg/L
+ST24OCT18-01-034 ,TEM ABF Effluent (10-17-2024),10/17/2024,% Volatile Suspended Solids,94,94,,%
+ST24OCT18-01-034 ,TEM ABF Effluent (10-17-2024),10/17/2024,Total Suspended Solids,274,274,,mg/L
+ST24OCT18-01-034 ,TEM ABF Effluent (10-17-2024),10/17/2024,Volatile Suspended Solids,259,259,,mg/L
+ST24OCT18-01-034 ,TEM ABF Effluent (10-17-2024),10/17/2024,pH,7.21,7.21,,pH Units
+ST24OCT18-01-034 ,TEM ABF Effluent (10-17-2024),10/17/2024,Soluble BOD,370,370,,mg/L
+ST24OCT19-02-033 ,TEM ABF Effluent (10-18-2024),10/18/2024,% Volatile Suspended Solids,84,84,,%
+ST24OCT19-02-033 ,TEM ABF Effluent (10-18-2024),10/18/2024,Total Suspended Solids,250,250,,mg/L
+ST24OCT19-02-033 ,TEM ABF Effluent (10-18-2024),10/18/2024,Volatile Suspended Solids,209,209,,mg/L
+ST24OCT19-02-033 ,TEM ABF Effluent (10-18-2024),10/18/2024,pH,7.34,7.34,,pH Units
+ST24OCT19-02-033 ,TEM ABF Effluent (10-18-2024),10/18/2024,Soluble BOD,251,251,,mg/L
+ST24OCT20-02-033 ,TEM ABF Effluent (10-19-2024),10/19/2024,% Volatile Suspended Solids,90,90,,%
+ST24OCT20-02-033 ,TEM ABF Effluent (10-19-2024),10/19/2024,Total Suspended Solids,280,280,,mg/L
+ST24OCT20-02-033 ,TEM ABF Effluent (10-19-2024),10/19/2024,Volatile Suspended Solids,252,252,,mg/L
+ST24OCT20-02-033 ,TEM ABF Effluent (10-19-2024),10/19/2024,pH,7.45,7.45,,pH Units
+ST24OCT20-02-033 ,TEM ABF Effluent (10-19-2024),10/19/2024,Soluble BOD,293,293,,mg/L
+ST24OCT21-01-034 ,TEM ABF Effluent (10-20-2024),10/20/2024,% Volatile Suspended Solids,87,87,,%
+ST24OCT21-01-034 ,TEM ABF Effluent (10-20-2024),10/20/2024,Total Suspended Solids,264,264,,mg/L
+ST24OCT21-01-034 ,TEM ABF Effluent (10-20-2024),10/20/2024,Volatile Suspended Solids,230,230,,mg/L
+ST24OCT21-01-034 ,TEM ABF Effluent (10-20-2024),10/20/2024,pH,7.30,7.30,,pH Units
+ST24OCT21-01-034 ,TEM ABF Effluent (10-20-2024),10/20/2024,Soluble BOD,272,272,,mg/L
+ST24OCT22-02-034 ,TEM ABF Effluent (10-21-2024),10/21/2024,% Volatile Suspended Solids,98,98,,%
+ST24OCT22-02-034 ,TEM ABF Effluent (10-21-2024),10/21/2024,Total Suspended Solids,194,194,,mg/L
+ST24OCT22-02-034 ,TEM ABF Effluent (10-21-2024),10/21/2024,Volatile Suspended Solids,190,190,,mg/L
+ST24OCT22-02-034 ,TEM ABF Effluent (10-21-2024),10/21/2024,pH,7.20,7.20,,pH Units
+ST24OCT22-02-034 ,TEM ABF Effluent (10-21-2024),10/21/2024,Soluble BOD,181,181,,mg/L
+ST24OCT23-02-034 ,TEM ABF Effluent (10-22-2024),10/22/2024,% Volatile Suspended Solids,88,88,,%
+ST24OCT23-02-034 ,TEM ABF Effluent (10-22-2024),10/22/2024,Total Suspended Solids,233,233,,mg/L
+ST24OCT23-02-034 ,TEM ABF Effluent (10-22-2024),10/22/2024,Volatile Suspended Solids,204,204,,mg/L
+ST24OCT23-02-034 ,TEM ABF Effluent (10-22-2024),10/22/2024,pH,7.23,7.23,,pH Units
+ST24OCT23-02-034 ,TEM ABF Effluent (10-22-2024),10/22/2024,Soluble BOD,328,328,,mg/L
+ST24OCT24-01-036 ,TEM ABF Effluent (10-23-2024),10/23/2024,pH,7.28,7.28,,pH Units
+ST24OCT24-01-036 ,TEM ABF Effluent (10-23-2024),10/23/2024,Soluble BOD,308,308,,mg/L
+ST24OCT24-01-036 ,TEM ABF Effluent (10-23-2024),10/23/2024,% Volatile Suspended Solids,99,99,,%
+ST24OCT24-01-036 ,TEM ABF Effluent (10-23-2024),10/23/2024,Total Suspended Solids,130,130,,mg/L
+ST24OCT24-01-036 ,TEM ABF Effluent (10-23-2024),10/23/2024,Volatile Suspended Solids,129,129,,mg/L
+ST24OCT25-01-034 ,TEM ABF Effluent (10-24-2024),10/24/2024,% Volatile Suspended Solids,89,89,,%
+ST24OCT25-01-034 ,TEM ABF Effluent (10-24-2024),10/24/2024,Total Suspended Solids,345,345,,mg/L
+ST24OCT25-01-034 ,TEM ABF Effluent (10-24-2024),10/24/2024,Volatile Suspended Solids,308,308,,mg/L
+ST24OCT25-01-034 ,TEM ABF Effluent (10-24-2024),10/24/2024,pH,7.23,7.23,,pH Units
+ST24OCT25-01-034 ,TEM ABF Effluent (10-24-2024),10/24/2024,Soluble BOD,396,396,,mg/L
+ST24OCT26-02-033 ,TEM ABF Effluent (10-25-2024),10/25/2024,% Volatile Suspended Solids,93,93,,%
+ST24OCT26-02-033 ,TEM ABF Effluent (10-25-2024),10/25/2024,Total Suspended Solids,234,234,,mg/L
+ST24OCT26-02-033 ,TEM ABF Effluent (10-25-2024),10/25/2024,Volatile Suspended Solids,219,219,,mg/L
+ST24OCT26-02-033 ,TEM ABF Effluent (10-25-2024),10/25/2024,pH,6.96,6.96,,pH Units
+ST24OCT26-02-033 ,TEM ABF Effluent (10-25-2024),10/25/2024,Soluble BOD,414,414,,mg/L
+ST24OCT27-02-033 ,TEM ABF Effluent (10-26-2024),10/26/2024,% Volatile Suspended Solids,87,87,,%
+ST24OCT27-02-033 ,TEM ABF Effluent (10-26-2024),10/26/2024,Total Suspended Solids,237,237,,mg/L
+ST24OCT27-02-033 ,TEM ABF Effluent (10-26-2024),10/26/2024,Volatile Suspended Solids,207,207,,mg/L
+ST24OCT27-02-033 ,TEM ABF Effluent (10-26-2024),10/26/2024,pH,6.85,6.85,,pH Units
+ST24OCT27-02-033 ,TEM ABF Effluent (10-26-2024),10/26/2024,Soluble BOD,271,271,,mg/L
+ST24OCT28-01-034 ,TEM ABF Effluent (10-27-2024),10/27/2024,% Volatile Suspended Solids,93,93,,%
+ST24OCT28-01-034 ,TEM ABF Effluent (10-27-2024),10/27/2024,Total Suspended Solids,246,246,,mg/L
+ST24OCT28-01-034 ,TEM ABF Effluent (10-27-2024),10/27/2024,Volatile Suspended Solids,228,228,,mg/L
+ST24OCT28-01-034 ,TEM ABF Effluent (10-27-2024),10/27/2024,pH,7.20,7.20,,pH Units
+ST24OCT28-01-034 ,TEM ABF Effluent (10-27-2024),10/27/2024,Soluble BOD,296,296,,mg/L
+ST24OCT29-01-034 ,TEM ABF Effluent (10-28-2024),10/28/2024,% Volatile Suspended Solids,91,91,,%
+ST24OCT29-01-034 ,TEM ABF Effluent (10-28-2024),10/28/2024,Total Suspended Solids,246,246,,mg/L
+ST24OCT29-01-034 ,TEM ABF Effluent (10-28-2024),10/28/2024,Volatile Suspended Solids,224,224,,mg/L
+ST24OCT29-01-034 ,TEM ABF Effluent (10-28-2024),10/28/2024,pH,7.01,7.01,,pH Units
+ST24OCT29-01-034 ,TEM ABF Effluent (10-28-2024),10/28/2024,Soluble BOD,391,391,,mg/L
+ST24OCT30-01-034 ,TEM ABF Effluent (10-29-2024),10/29/2024,% Volatile Suspended Solids,92,92,,%
+ST24OCT30-01-034 ,TEM ABF Effluent (10-29-2024),10/29/2024,Total Suspended Solids,239,239,,mg/L
+ST24OCT30-01-034 ,TEM ABF Effluent (10-29-2024),10/29/2024,Volatile Suspended Solids,220,220,,mg/L
+ST24OCT30-01-034 ,TEM ABF Effluent (10-29-2024),10/29/2024,pH,7.33,7.33,,pH Units
+ST24OCT30-01-034 ,TEM ABF Effluent (10-29-2024),10/29/2024,Soluble BOD,218,218,,mg/L
+ST24OCT31-01-036 ,TEM ABF Effluent (10-30-2024),10/30/2024,pH,7.32,7.32,,pH Units
+ST24OCT31-01-036 ,TEM ABF Effluent (10-30-2024),10/30/2024,Soluble BOD,131,131,,mg/L
+ST24OCT31-01-036 ,TEM ABF Effluent (10-30-2024),10/30/2024,% Volatile Suspended Solids,85,85,,%
+ST24OCT31-01-036 ,TEM ABF Effluent (10-30-2024),10/30/2024,Total Suspended Solids,205,205,,mg/L
+ST24OCT31-01-036 ,TEM ABF Effluent (10-30-2024),10/30/2024,Volatile Suspended Solids,175,175,,mg/L
+ST24NOV01-07-034 ,TEM ABF Effluent (10-31-2024),10/31/2024,% Volatile Suspended Solids,93,93,,%
+ST24NOV01-07-034 ,TEM ABF Effluent (10-31-2024),10/31/2024,Total Suspended Solids,147,147,,mg/L
+ST24NOV01-07-034 ,TEM ABF Effluent (10-31-2024),10/31/2024,Volatile Suspended Solids,137,137,,mg/L
+ST24NOV01-07-034 ,TEM ABF Effluent (10-31-2024),10/31/2024,pH,7.20,7.20,,pH Units
+ST24NOV01-07-034 ,TEM ABF Effluent (10-31-2024),10/31/2024,Soluble BOD,134,134,,mg/L
+ST24NOV02-02-033 ,TEM ABF Effluent (11-01-2024),11/1/2024,% Volatile Suspended Solids,98,98,,%
+ST24NOV02-02-033 ,TEM ABF Effluent (11-01-2024),11/1/2024,Total Suspended Solids,184,184,,mg/L
+ST24NOV02-02-033 ,TEM ABF Effluent (11-01-2024),11/1/2024,Volatile Suspended Solids,180,180,,mg/L
+ST24NOV02-02-033 ,TEM ABF Effluent (11-01-2024),11/1/2024,pH,6.98,6.98,,pH Units
+ST24NOV02-02-033 ,TEM ABF Effluent (11-01-2024),11/1/2024,Soluble BOD,96,96,,mg/L
+ST24NOV03-02-033 ,TEM ABF Effluent (11-02-2024),11/2/2024,% Volatile Suspended Solids,93,93,,%
+ST24NOV03-02-033 ,TEM ABF Effluent (11-02-2024),11/2/2024,Total Suspended Solids,188,188,,mg/L
+ST24NOV03-02-033 ,TEM ABF Effluent (11-02-2024),11/2/2024,Volatile Suspended Solids,174,174,,mg/L
+ST24NOV03-02-033 ,TEM ABF Effluent (11-02-2024),11/2/2024,pH,7.34,7.34,,pH Units
+ST24NOV03-02-033 ,TEM ABF Effluent (11-02-2024),11/2/2024,Soluble BOD,110,110,,mg/L
+ST24NOV04-01-034 ,TEM ABF Effluent (11-03-2024),11/3/2024,% Volatile Suspended Solids,95,95,,%
+ST24NOV04-01-034 ,TEM ABF Effluent (11-03-2024),11/3/2024,Total Suspended Solids,151,151,,mg/L
+ST24NOV04-01-034 ,TEM ABF Effluent (11-03-2024),11/3/2024,Volatile Suspended Solids,144,144,,mg/L
+ST24NOV04-01-034 ,TEM ABF Effluent (11-03-2024),11/3/2024,pH,7.07,7.07,,pH Units
+ST24NOV04-01-034 ,TEM ABF Effluent (11-03-2024),11/3/2024,Soluble BOD,210,210,,mg/L
+ST24NOV05-01-034 ,TEM ABF Effluent (11-04-2024),11/4/2024,% Volatile Suspended Solids,80,80,,%
+ST24NOV05-01-034 ,TEM ABF Effluent (11-04-2024),11/4/2024,Total Suspended Solids,185,185,,mg/L
+ST24NOV05-01-034 ,TEM ABF Effluent (11-04-2024),11/4/2024,Volatile Suspended Solids,148,148,,mg/L
+ST24NOV05-01-034 ,TEM ABF Effluent (11-04-2024),11/4/2024,pH,7.05,7.05,,pH Units
+ST24NOV05-01-034 ,TEM ABF Effluent (11-04-2024),11/4/2024,Soluble BOD,194,194,,mg/L
+ST24NOV06-01-034 ,TEM ABF Effluent (11-05-2024),11/5/2024,% Volatile Suspended Solids,83,83,,%
+ST24NOV06-01-034 ,TEM ABF Effluent (11-05-2024),11/5/2024,Total Suspended Solids,199,199,,mg/L
+ST24NOV06-01-034 ,TEM ABF Effluent (11-05-2024),11/5/2024,Volatile Suspended Solids,165,165,,mg/L
+ST24NOV06-01-034 ,TEM ABF Effluent (11-05-2024),11/5/2024,pH,6.91,6.91,,pH Units
+ST24NOV06-01-034 ,TEM ABF Effluent (11-05-2024),11/5/2024,Soluble BOD,334,334,,mg/L
+ST24NOV07-01-036 ,TEM ABF Effluent (11-06-2024),11/6/2024,pH,6.43,6.43,,pH Units
+ST24NOV07-01-036 ,TEM ABF Effluent (11-06-2024),11/6/2024,Soluble BOD,190,190,,mg/L
+ST24NOV07-01-036 ,TEM ABF Effluent (11-06-2024),11/6/2024,% Volatile Suspended Solids,75,75,,%
+ST24NOV07-01-036 ,TEM ABF Effluent (11-06-2024),11/6/2024,Total Suspended Solids,201,201,,mg/L
+ST24NOV07-01-036 ,TEM ABF Effluent (11-06-2024),11/6/2024,Volatile Suspended Solids,151,151,,mg/L
+ST24NOV08-01-034 ,TEM ABF Effluent (11-07-2024),11/7/2024,% Volatile Suspended Solids,78,78,,%
+ST24NOV08-01-034 ,TEM ABF Effluent (11-07-2024),11/7/2024,Total Suspended Solids,245,245,,mg/L
+ST24NOV08-01-034 ,TEM ABF Effluent (11-07-2024),11/7/2024,Volatile Suspended Solids,190,190,,mg/L
+ST24NOV08-01-034 ,TEM ABF Effluent (11-07-2024),11/7/2024,pH,6.99,6.99,,pH Units
+ST24NOV08-01-034 ,TEM ABF Effluent (11-07-2024),11/7/2024,Soluble BOD,215,215,,mg/L
+ST24NOV09-02-033 ,TEM ABF Effluent (11-08-2024),11/8/2024,% Volatile Suspended Solids,92,92,,%
+ST24NOV09-02-033 ,TEM ABF Effluent (11-08-2024),11/8/2024,Total Suspended Solids,256,256,,mg/L
+ST24NOV09-02-033 ,TEM ABF Effluent (11-08-2024),11/8/2024,Volatile Suspended Solids,236,236,,mg/L
+ST24NOV09-02-033 ,TEM ABF Effluent (11-08-2024),11/8/2024,pH,7.09,7.09,,pH Units
+ST24NOV09-02-033 ,TEM ABF Effluent (11-08-2024),11/8/2024,Soluble BOD,245,245,,mg/L
+ST24NOV10-02-033 ,TEM ABF Effluent (11-09-2024),11/9/2024,% Volatile Suspended Solids,92,92,,%
+ST24NOV10-02-033 ,TEM ABF Effluent (11-09-2024),11/9/2024,Total Suspended Solids,293,293,,mg/L
+ST24NOV10-02-033 ,TEM ABF Effluent (11-09-2024),11/9/2024,Volatile Suspended Solids,270,270,,mg/L
+ST24NOV10-02-033 ,TEM ABF Effluent (11-09-2024),11/9/2024,pH,7.15,7.15,,pH Units
+ST24NOV10-02-033 ,TEM ABF Effluent (11-09-2024),11/9/2024,Soluble BOD,239,239,,mg/L
+ST24NOV11-01-034 ,TEM ABF Effluent (11-10-2024),11/10/2024,% Volatile Suspended Solids,89,89,,%
+ST24NOV11-01-034 ,TEM ABF Effluent (11-10-2024),11/10/2024,Total Suspended Solids,307,307,,mg/L
+ST24NOV11-01-034 ,TEM ABF Effluent (11-10-2024),11/10/2024,Volatile Suspended Solids,273,273,,mg/L
+ST24NOV11-01-034 ,TEM ABF Effluent (11-10-2024),11/10/2024,pH,7.16,7.16,,pH Units
+ST24NOV11-01-034 ,TEM ABF Effluent (11-10-2024),11/10/2024,Soluble BOD,236,236,,mg/L
+ST24NOV12-01-034 ,TEM ABF Effluent (11-11-2024),11/11/2024,% Volatile Suspended Solids,86,86,,%
+ST24NOV12-01-034 ,TEM ABF Effluent (11-11-2024),11/11/2024,Total Suspended Solids,340,340,,mg/L
+ST24NOV12-01-034 ,TEM ABF Effluent (11-11-2024),11/11/2024,Volatile Suspended Solids,292,292,,mg/L
+ST24NOV12-01-034 ,TEM ABF Effluent (11-11-2024),11/11/2024,pH,7.30,7.30,,pH Units
+ST24NOV12-01-034 ,TEM ABF Effluent (11-11-2024),11/11/2024,Soluble BOD,253,253,,mg/L
+ST24NOV13-01-034 ,TEM ABF Effluent (11-12-2024),11/12/2024,% Volatile Suspended Solids,84,84,,%
+ST24NOV13-01-034 ,TEM ABF Effluent (11-12-2024),11/12/2024,Total Suspended Solids,376,376,,mg/L
+ST24NOV13-01-034 ,TEM ABF Effluent (11-12-2024),11/12/2024,Volatile Suspended Solids,316,316,,mg/L
+ST24NOV13-01-034 ,TEM ABF Effluent (11-12-2024),11/12/2024,pH,7.57,7.57,,pH Units
+ST24NOV13-01-034 ,TEM ABF Effluent (11-12-2024),11/12/2024,Soluble BOD,41,41,,mg/L
+ST24NOV14-01-036 ,TEM ABF Effluent (11-13-2024),11/13/2024,pH,6.95,6.95,,pH Units
+ST24NOV14-01-036 ,TEM ABF Effluent (11-13-2024),11/13/2024,Soluble BOD,395,395,,mg/L
+ST24NOV14-01-036 ,TEM ABF Effluent (11-13-2024),11/13/2024,% Volatile Suspended Solids,84,84,,%
+ST24NOV14-01-036 ,TEM ABF Effluent (11-13-2024),11/13/2024,Total Suspended Solids,310,310,,mg/L
+ST24NOV14-01-036 ,TEM ABF Effluent (11-13-2024),11/13/2024,Volatile Suspended Solids,262,262,,mg/L
+ST24NOV15-01-034 ,TEM ABF Effluent (11-14-2024),11/14/2024,% Volatile Suspended Solids,91,91,,%
+ST24NOV15-01-034 ,TEM ABF Effluent (11-14-2024),11/14/2024,Total Suspended Solids,154,154,,mg/L
+ST24NOV15-01-034 ,TEM ABF Effluent (11-14-2024),11/14/2024,Volatile Suspended Solids,140,140,,mg/L
+ST24NOV15-01-034 ,TEM ABF Effluent (11-14-2024),11/14/2024,pH,7.37,7.37,,pH Units
+ST24NOV15-01-034 ,TEM ABF Effluent (11-14-2024),11/14/2024,Soluble BOD,78,78,,mg/L
+ST24NOV16-02-033 ,TEM ABF Effluent (11-15-2024),11/15/2024,% Volatile Suspended Solids,89,89,,%
+ST24NOV16-02-033 ,TEM ABF Effluent (11-15-2024),11/15/2024,Total Suspended Solids,266,266,,mg/L
+ST24NOV16-02-033 ,TEM ABF Effluent (11-15-2024),11/15/2024,Volatile Suspended Solids,236,236,,mg/L
+ST24NOV16-02-033 ,TEM ABF Effluent (11-15-2024),11/15/2024,pH,7.05,7.05,,pH Units
+ST24NOV16-02-033 ,TEM ABF Effluent (11-15-2024),11/15/2024,Soluble BOD,202,202,,mg/L
+ST24NOV17-02-033 ,TEM ABF Effluent (11-16-2024),11/16/2024,% Volatile Suspended Solids,81,81,,%
+ST24NOV17-02-033 ,TEM ABF Effluent (11-16-2024),11/16/2024,Total Suspended Solids,217,217,,mg/L
+ST24NOV17-02-033 ,TEM ABF Effluent (11-16-2024),11/16/2024,Volatile Suspended Solids,176,176,,mg/L
+ST24NOV17-02-033 ,TEM ABF Effluent (11-16-2024),11/16/2024,pH,6.99,6.99,,pH Units
+ST24NOV17-02-033 ,TEM ABF Effluent (11-16-2024),11/16/2024,Soluble BOD,297,297,,mg/L
+ST24NOV18-01-034 ,TEM ABF Effluent (11-17-2024),11/17/2024,% Volatile Suspended Solids,87,87,,%
+ST24NOV18-01-034 ,TEM ABF Effluent (11-17-2024),11/17/2024,Total Suspended Solids,362,362,,mg/L
+ST24NOV18-01-034 ,TEM ABF Effluent (11-17-2024),11/17/2024,Volatile Suspended Solids,316,316,,mg/L
+ST24NOV18-01-034 ,TEM ABF Effluent (11-17-2024),11/17/2024,pH,7.38,7.38,,pH Units
+ST24NOV18-01-034 ,TEM ABF Effluent (11-17-2024),11/17/2024,Soluble BOD,199,199,,mg/L
+ST24NOV19-01-034 ,TEM ABF Effluent (11-18-2024),11/18/2024,% Volatile Suspended Solids,88,88,,%
+ST24NOV19-01-034 ,TEM ABF Effluent (11-18-2024),11/18/2024,Total Suspended Solids,366,366,,mg/L
+ST24NOV19-01-034 ,TEM ABF Effluent (11-18-2024),11/18/2024,Volatile Suspended Solids,320,320,,mg/L
+ST24NOV19-01-034 ,TEM ABF Effluent (11-18-2024),11/18/2024,pH,7.33,7.33,,pH Units
+ST24NOV19-01-034 ,TEM ABF Effluent (11-18-2024),11/18/2024,Soluble BOD,210,210,,mg/L
+ST24NOV20-02-034 ,TEM ABF Effluent (11-19-2024),11/19/2024,% Volatile Suspended Solids,96,96,,%
+ST24NOV20-02-034 ,TEM ABF Effluent (11-19-2024),11/19/2024,Total Suspended Solids,236,236,,mg/L
+ST24NOV20-02-034 ,TEM ABF Effluent (11-19-2024),11/19/2024,Volatile Suspended Solids,227,227,,mg/L
+ST24NOV20-02-034 ,TEM ABF Effluent (11-19-2024),11/19/2024,pH,6.92,6.92,,pH Units
+ST24NOV20-02-034 ,TEM ABF Effluent (11-19-2024),11/19/2024,Soluble BOD,297,297,,mg/L
+ST24NOV21-02-036 ,TEM ABF Effluent (11-20-2024),11/20/2024,pH,6.82,6.82,,pH Units
+ST24NOV21-02-036 ,TEM ABF Effluent (11-20-2024),11/20/2024,Soluble BOD,290,290,,mg/L
+ST24NOV21-02-036 ,TEM ABF Effluent (11-20-2024),11/20/2024,% Volatile Suspended Solids,91,91,,%
+ST24NOV21-02-036 ,TEM ABF Effluent (11-20-2024),11/20/2024,Total Suspended Solids,417,417,,mg/L
+ST24NOV21-02-036 ,TEM ABF Effluent (11-20-2024),11/20/2024,Volatile Suspended Solids,378,378,,mg/L
+ST24NOV22-01-034 ,TEM ABF Effluent (11-21-2024),11/21/2024,% Volatile Suspended Solids,88,88,,%
+ST24NOV22-01-034 ,TEM ABF Effluent (11-21-2024),11/21/2024,Total Suspended Solids,378,378,,mg/L
+ST24NOV22-01-034 ,TEM ABF Effluent (11-21-2024),11/21/2024,Volatile Suspended Solids,332,332,,mg/L
+ST24NOV22-01-034 ,TEM ABF Effluent (11-21-2024),11/21/2024,pH,6.88,6.88,,pH Units
+ST24NOV22-01-034 ,TEM ABF Effluent (11-21-2024),11/21/2024,Soluble BOD,363,363,,mg/L
+ST24NOV23-02-033 ,TEM ABF Effluent (11-22-2024),11/22/2024,% Volatile Suspended Solids,90,90,,%
+ST24NOV23-02-033 ,TEM ABF Effluent (11-22-2024),11/22/2024,Total Suspended Solids,283,283,,mg/L
+ST24NOV23-02-033 ,TEM ABF Effluent (11-22-2024),11/22/2024,Volatile Suspended Solids,256,256,,mg/L
+ST24NOV23-02-033 ,TEM ABF Effluent (11-22-2024),11/22/2024,pH,7.06,7.06,,pH Units
+ST24NOV23-02-033 ,TEM ABF Effluent (11-22-2024),11/22/2024,Soluble BOD,365,365,,mg/L
+ST24NOV24-02-033 ,TEM ABF Effluent (11-23-2024),11/23/2024,% Volatile Suspended Solids,95,95,,%
+ST24NOV24-02-033 ,TEM ABF Effluent (11-23-2024),11/23/2024,Total Suspended Solids,219,219,,mg/L
+ST24NOV24-02-033 ,TEM ABF Effluent (11-23-2024),11/23/2024,Volatile Suspended Solids,207,207,,mg/L
+ST24NOV24-02-033 ,TEM ABF Effluent (11-23-2024),11/23/2024,pH,7.21,7.21,,pH Units
+ST24NOV24-02-033 ,TEM ABF Effluent (11-23-2024),11/23/2024,Soluble BOD,300,300,,mg/L
+ST24NOV25-01-034 ,TEM ABF Effluent (11-24-2024),11/24/2024,% Volatile Suspended Solids,98,98,,%
+ST24NOV25-01-034 ,TEM ABF Effluent (11-24-2024),11/24/2024,Total Suspended Solids,209,209,,mg/L
+ST24NOV25-01-034 ,TEM ABF Effluent (11-24-2024),11/24/2024,Volatile Suspended Solids,204,204,,mg/L
+ST24NOV25-01-034 ,TEM ABF Effluent (11-24-2024),11/24/2024,pH,6.75,6.75,,pH Units
+ST24NOV25-01-034 ,TEM ABF Effluent (11-24-2024),11/24/2024,Soluble BOD,411,411,,mg/L
+ST24NOV26-01-034 ,TEM ABF Effluent (11-25-2024),11/25/2024,% Volatile Suspended Solids,84,84,,%
+ST24NOV26-01-034 ,TEM ABF Effluent (11-25-2024),11/25/2024,Total Suspended Solids,276,276,,mg/L
+ST24NOV26-01-034 ,TEM ABF Effluent (11-25-2024),11/25/2024,Volatile Suspended Solids,233,233,,mg/L
+ST24NOV26-01-034 ,TEM ABF Effluent (11-25-2024),11/25/2024,pH,7.15,7.15,,pH Units
+ST24NOV26-01-034 ,TEM ABF Effluent (11-25-2024),11/25/2024,Soluble BOD,268,268,,mg/L
+ST24NOV27-01-034 ,TEM ABF Effluent (11-26-2024),11/26/2024,% Volatile Suspended Solids,93,93,,%
+ST24NOV27-01-034 ,TEM ABF Effluent (11-26-2024),11/26/2024,Total Suspended Solids,286,286,,mg/L
+ST24NOV27-01-034 ,TEM ABF Effluent (11-26-2024),11/26/2024,Volatile Suspended Solids,266,266,,mg/L
+ST24NOV27-01-034 ,TEM ABF Effluent (11-26-2024),11/26/2024,pH,7.21,7.21,,pH Units
+ST24NOV27-01-034 ,TEM ABF Effluent (11-26-2024),11/26/2024,Soluble BOD,227,227,,mg/L
+ST24NOV28-01-036 ,TEM ABF Effluent (11-27-2024),11/27/2024,pH,6.98,6.98,,pH Units
+ST24NOV28-01-036 ,TEM ABF Effluent (11-27-2024),11/27/2024,Soluble BOD,352,352,,mg/L
+ST24NOV28-01-036 ,TEM ABF Effluent (11-27-2024),11/27/2024,% Volatile Suspended Solids,90,90,,%
+ST24NOV28-01-036 ,TEM ABF Effluent (11-27-2024),11/27/2024,Total Suspended Solids,237,237,,mg/L
+ST24NOV28-01-036 ,TEM ABF Effluent (11-27-2024),11/27/2024,Volatile Suspended Solids,214,214,,mg/L
+ST24NOV29-01-034 ,TEM ABF Effluent (11-28-2024),11/28/2024,% Volatile Suspended Solids,92,92,,%
+ST24NOV29-01-034 ,TEM ABF Effluent (11-28-2024),11/28/2024,Total Suspended Solids,306,306,,mg/L
+ST24NOV29-01-034 ,TEM ABF Effluent (11-28-2024),11/28/2024,Volatile Suspended Solids,280,280,,mg/L
+ST24NOV29-01-034 ,TEM ABF Effluent (11-28-2024),11/28/2024,pH,7.03,7.03,,pH Units
+ST24NOV29-01-034 ,TEM ABF Effluent (11-28-2024),11/28/2024,Soluble BOD,324,324,,mg/L
+ST24NOV30-02-033 ,TEM ABF Effluent (11-29-2024),11/29/2024,% Volatile Suspended Solids,94,94,,%
+ST24NOV30-02-033 ,TEM ABF Effluent (11-29-2024),11/29/2024,Total Suspended Solids,217,217,,mg/L
+ST24NOV30-02-033 ,TEM ABF Effluent (11-29-2024),11/29/2024,Volatile Suspended Solids,204,204,,mg/L
+ST24NOV30-02-033 ,TEM ABF Effluent (11-29-2024),11/29/2024,pH,7.46,7.46,,pH Units
+ST24NOV30-02-033 ,TEM ABF Effluent (11-29-2024),11/29/2024,Soluble BOD,99,99,,mg/L
+ST24DEC01-08-033 ,TEM ABF Effluent (11-30-2024),11/30/2024,% Volatile Suspended Solids,95,95,,%
+ST24DEC01-08-033 ,TEM ABF Effluent (11-30-2024),11/30/2024,Total Suspended Solids,333,333,,mg/L
+ST24DEC01-08-033 ,TEM ABF Effluent (11-30-2024),11/30/2024,Volatile Suspended Solids,318,318,,mg/L
+ST24DEC01-08-033 ,TEM ABF Effluent (11-30-2024),11/30/2024,pH,7.35,7.35,,pH Units
+ST24DEC01-08-033 ,TEM ABF Effluent (11-30-2024),11/30/2024,Soluble BOD,186,186,,mg/L
+ST24DEC02-01-034 ,TEM ABF Effluent (12-01-2024),12/1/2024,% Volatile Suspended Solids,97,97,,%
+ST24DEC02-01-034 ,TEM ABF Effluent (12-01-2024),12/1/2024,Total Suspended Solids,245,245,,mg/L
+ST24DEC02-01-034 ,TEM ABF Effluent (12-01-2024),12/1/2024,Volatile Suspended Solids,238,238,,mg/L
+ST24DEC02-01-034 ,TEM ABF Effluent (12-01-2024),12/1/2024,pH,7.21,7.21,,pH Units
+ST24DEC02-01-034 ,TEM ABF Effluent (12-01-2024),12/1/2024,Soluble BOD,432,432,,mg/L
+ST24DEC03-01-034 ,TEM ABF Effluent (12-02-2024),12/2/2024,% Volatile Suspended Solids,70,70,,%
+ST24DEC03-01-034 ,TEM ABF Effluent (12-02-2024),12/2/2024,Total Suspended Solids,268,268,,mg/L
+ST24DEC03-01-034 ,TEM ABF Effluent (12-02-2024),12/2/2024,Volatile Suspended Solids,188,188,,mg/L
+ST24DEC03-01-034 ,TEM ABF Effluent (12-02-2024),12/2/2024,pH,7.10,7.10,,pH Units
+ST24DEC03-01-034 ,TEM ABF Effluent (12-02-2024),12/2/2024,Soluble BOD,311,311,,mg/L
+ST24DEC04-01-034 ,TEM ABF Effluent (12-03-2024),12/3/2024,% Volatile Suspended Solids,96,96,,%
+ST24DEC04-01-034 ,TEM ABF Effluent (12-03-2024),12/3/2024,Total Suspended Solids,273,273,,mg/L
+ST24DEC04-01-034 ,TEM ABF Effluent (12-03-2024),12/3/2024,Volatile Suspended Solids,263,263,,mg/L
+ST24DEC04-01-034 ,TEM ABF Effluent (12-03-2024),12/3/2024,pH,7.22,7.22,,pH Units
+ST24DEC04-01-034 ,TEM ABF Effluent (12-03-2024),12/3/2024,Soluble BOD,253,253,,mg/L
+ST24DEC05-01-036 ,TEM ABF Effluent (12-04-2024),12/4/2024,pH,6.99,6.99,,pH Units
+ST24DEC05-01-036 ,TEM ABF Effluent (12-04-2024),12/4/2024,Soluble BOD,266,266,,mg/L
+ST24DEC05-01-036 ,TEM ABF Effluent (12-04-2024),12/4/2024,% Volatile Suspended Solids,90,90,,%
+ST24DEC05-01-036 ,TEM ABF Effluent (12-04-2024),12/4/2024,Total Suspended Solids,230,230,,mg/L
+ST24DEC05-01-036 ,TEM ABF Effluent (12-04-2024),12/4/2024,Volatile Suspended Solids,208,208,,mg/L
+ST24DEC06-01-034 ,TEM ABF Effluent (12-05-2024),12/5/2024,% Volatile Suspended Solids,97,97,,%
+ST24DEC06-01-034 ,TEM ABF Effluent (12-05-2024),12/5/2024,Total Suspended Solids,267,267,,mg/L
+ST24DEC06-01-034 ,TEM ABF Effluent (12-05-2024),12/5/2024,Volatile Suspended Solids,258,258,,mg/L
+ST24DEC06-01-034 ,TEM ABF Effluent (12-05-2024),12/5/2024,pH,6.20,6.20,,pH Units
+ST24DEC06-01-034 ,TEM ABF Effluent (12-05-2024),12/5/2024,Soluble BOD,287,287,!,mg/L
+ST24DEC07-02-033 ,TEM ABF Effluent (12-06-2024),12/6/2024,% Volatile Suspended Solids,97,97,,%
+ST24DEC07-02-033 ,TEM ABF Effluent (12-06-2024),12/6/2024,Total Suspended Solids,343,343,,mg/L
+ST24DEC07-02-033 ,TEM ABF Effluent (12-06-2024),12/6/2024,Volatile Suspended Solids,333,333,,mg/L
+ST24DEC07-02-033 ,TEM ABF Effluent (12-06-2024),12/6/2024,pH,7.05,7.05,,pH Units
+ST24DEC07-02-033 ,TEM ABF Effluent (12-06-2024),12/6/2024,Soluble BOD,307,307,,mg/L
+ST24DEC08-02-033 ,TEM ABF Effluent (12-07-2024),12/7/2024,% Volatile Suspended Solids,87,87,,%
+ST24DEC08-02-033 ,TEM ABF Effluent (12-07-2024),12/7/2024,Total Suspended Solids,172,172,,mg/L
+ST24DEC08-02-033 ,TEM ABF Effluent (12-07-2024),12/7/2024,Volatile Suspended Solids,150,150,,mg/L
+ST24DEC08-02-033 ,TEM ABF Effluent (12-07-2024),12/7/2024,pH,7.06,7.06,,pH Units
+ST24DEC08-02-033 ,TEM ABF Effluent (12-07-2024),12/7/2024,Soluble BOD,358,358,,mg/L
+ST24DEC09-01-034 ,TEM ABF Effluent (12-08-2024),12/8/2024,% Volatile Suspended Solids,97,97,,%
+ST24DEC09-01-034 ,TEM ABF Effluent (12-08-2024),12/8/2024,Total Suspended Solids,185,185,,mg/L
+ST24DEC09-01-034 ,TEM ABF Effluent (12-08-2024),12/8/2024,Volatile Suspended Solids,179,179,,mg/L
+ST24DEC09-01-034 ,TEM ABF Effluent (12-08-2024),12/8/2024,pH,6.86,6.86,,pH Units
+ST24DEC09-01-034 ,TEM ABF Effluent (12-08-2024),12/8/2024,Soluble BOD,502,502,,mg/L
+ST24DEC10-01-034 ,TEM ABF Effluent (12-09-2024),12/9/2024,% Volatile Suspended Solids,95,95,,%
+ST24DEC10-01-034 ,TEM ABF Effluent (12-09-2024),12/9/2024,Total Suspended Solids,267,267,,mg/L
+ST24DEC10-01-034 ,TEM ABF Effluent (12-09-2024),12/9/2024,Volatile Suspended Solids,253,253,,mg/L
+ST24DEC10-01-034 ,TEM ABF Effluent (12-09-2024),12/9/2024,pH,6.70,6.70,,pH Units
+ST24DEC10-01-034 ,TEM ABF Effluent (12-09-2024),12/9/2024,Soluble BOD,199,199,,mg/L
+ST24DEC11-01-034 ,TEM ABF Effluent (12-10-2024),12/10/2024,% Volatile Suspended Solids,83,83,,%
+ST24DEC11-01-034 ,TEM ABF Effluent (12-10-2024),12/10/2024,Total Suspended Solids,198,198,,mg/L
+ST24DEC11-01-034 ,TEM ABF Effluent (12-10-2024),12/10/2024,Volatile Suspended Solids,164,164,,mg/L
+ST24DEC11-01-034 ,TEM ABF Effluent (12-10-2024),12/10/2024,pH,6.99,6.99,,pH Units
+ST24DEC11-01-034 ,TEM ABF Effluent (12-10-2024),12/10/2024,Soluble BOD,129,129,,mg/L
+ST24DEC12-01-036 ,TEM ABF Effluent (12-11-2024),12/11/2024,pH,7.26,7.26,,pH Units
+ST24DEC12-01-036 ,TEM ABF Effluent (12-11-2024),12/11/2024,Soluble BOD,179,179,,mg/L
+ST24DEC12-01-036 ,TEM ABF Effluent (12-11-2024),12/11/2024,% Volatile Suspended Solids,87,87,,%
+ST24DEC12-01-036 ,TEM ABF Effluent (12-11-2024),12/11/2024,Total Suspended Solids,230,230,,mg/L
+ST24DEC12-01-036 ,TEM ABF Effluent (12-11-2024),12/11/2024,Volatile Suspended Solids,201,201,,mg/L
+ST24DEC13-01-034 ,TEM ABF Effluent (12-12-2024),12/12/2024,% Volatile Suspended Solids,84,84,,%
+ST24DEC13-01-034 ,TEM ABF Effluent (12-12-2024),12/12/2024,Total Suspended Solids,340,340,,mg/L
+ST24DEC13-01-034 ,TEM ABF Effluent (12-12-2024),12/12/2024,Volatile Suspended Solids,284,284,,mg/L
+ST24DEC13-01-034 ,TEM ABF Effluent (12-12-2024),12/12/2024,pH,7.11,7.11,,pH Units
+ST24DEC13-01-034 ,TEM ABF Effluent (12-12-2024),12/12/2024,Soluble BOD,242,242,,mg/L
+ST24DEC14-02-033 ,TEM ABF Effluent (12-13-2024),12/13/2024,% Volatile Suspended Solids,85,85,,%
+ST24DEC14-02-033 ,TEM ABF Effluent (12-13-2024),12/13/2024,Total Suspended Solids,261,261,,mg/L
+ST24DEC14-02-033 ,TEM ABF Effluent (12-13-2024),12/13/2024,Volatile Suspended Solids,223,223,,mg/L
+ST24DEC14-02-033 ,TEM ABF Effluent (12-13-2024),12/13/2024,pH,7.13,7.13,,pH Units
+ST24DEC14-02-033 ,TEM ABF Effluent (12-13-2024),12/13/2024,Soluble BOD,208,208,,mg/L
+ST24DEC15-02-033 ,TEM ABF Effluent (12-14-2024),12/14/2024,% Volatile Suspended Solids,84,84,,%
+ST24DEC15-02-033 ,TEM ABF Effluent (12-14-2024),12/14/2024,Total Suspended Solids,284,284,,mg/L
+ST24DEC15-02-033 ,TEM ABF Effluent (12-14-2024),12/14/2024,Volatile Suspended Solids,240,240,,mg/L
+ST24DEC15-02-033 ,TEM ABF Effluent (12-14-2024),12/14/2024,pH,7.10,7.10,,pH Units
+ST24DEC15-02-033 ,TEM ABF Effluent (12-14-2024),12/14/2024,Soluble BOD,258,258,,mg/L
+ST24DEC16-01-034 ,TEM ABF Effluent (12-15-2024),12/15/2024,% Volatile Suspended Solids,82,82,,%
+ST24DEC16-01-034 ,TEM ABF Effluent (12-15-2024),12/15/2024,Total Suspended Solids,478,478,,mg/L
+ST24DEC16-01-034 ,TEM ABF Effluent (12-15-2024),12/15/2024,Volatile Suspended Solids,390,390,,mg/L
+ST24DEC16-01-034 ,TEM ABF Effluent (12-15-2024),12/15/2024,pH,6.76,6.76,,pH Units
+ST24DEC16-01-034 ,TEM ABF Effluent (12-15-2024),12/15/2024,Soluble BOD,368,368,,mg/L
+ST24DEC17-01-034 ,TEM ABF Effluent (12-16-2024),12/16/2024,% Volatile Suspended Solids,89,89,,%
+ST24DEC17-01-034 ,TEM ABF Effluent (12-16-2024),12/16/2024,Total Suspended Solids,180,180,,mg/L
+ST24DEC17-01-034 ,TEM ABF Effluent (12-16-2024),12/16/2024,Volatile Suspended Solids,160,160,,mg/L
+ST24DEC17-01-034 ,TEM ABF Effluent (12-16-2024),12/16/2024,pH,7.10,7.10,,pH Units
+ST24DEC17-01-034 ,TEM ABF Effluent (12-16-2024),12/16/2024,Soluble BOD,170,170,,mg/L
+ST24DEC18-01-034 ,TEM ABF Effluent (12-17-2024),12/17/2024,% Volatile Suspended Solids,88,88,,%
+ST24DEC18-01-034 ,TEM ABF Effluent (12-17-2024),12/17/2024,Total Suspended Solids,229,229,,mg/L
+ST24DEC18-01-034 ,TEM ABF Effluent (12-17-2024),12/17/2024,Volatile Suspended Solids,200,200,,mg/L
+ST24DEC18-01-034 ,TEM ABF Effluent (12-17-2024),12/17/2024,pH,6.85,6.85,,pH Units
+ST24DEC18-01-034 ,TEM ABF Effluent (12-17-2024),12/17/2024,Soluble BOD,238,238,,mg/L
+ST24DEC19-01-036,TEM ABF Effluent (12-18-2024),12/18/2024,pH,6.83,6.83,,pH Units
+ST24DEC19-01-036,TEM ABF Effluent (12-18-2024),12/18/2024,Soluble BOD,347,347,,mg/L
+ST24DEC19-01-036,TEM ABF Effluent (12-18-2024),12/18/2024,% Volatile Suspended Solids,85,85,,%
+ST24DEC19-01-036,TEM ABF Effluent (12-18-2024),12/18/2024,Total Suspended Solids,240,240,,mg/L
+ST24DEC19-01-036,TEM ABF Effluent (12-18-2024),12/18/2024,Volatile Suspended Solids,203,203,,mg/L
+ST24DEC20-01-034 ,TEM ABF Effluent (12-19-2024),12/19/2024,% Volatile Suspended Solids,81,81,,%
+ST24DEC20-01-034 ,TEM ABF Effluent (12-19-2024),12/19/2024,Total Suspended Solids,217,217,,mg/L
+ST24DEC20-01-034 ,TEM ABF Effluent (12-19-2024),12/19/2024,Volatile Suspended Solids,176,176,,mg/L
+ST24DEC20-01-034 ,TEM ABF Effluent (12-19-2024),12/19/2024,pH,6.98,6.98,,pH Units
+ST24DEC20-01-034 ,TEM ABF Effluent (12-19-2024),12/19/2024,Soluble BOD,210,210,,mg/L
+ST24DEC21-02-033 ,TEM ABF Effluent (12-20-2024),12/20/2024,% Volatile Suspended Solids,92,92,,%
+ST24DEC21-02-033 ,TEM ABF Effluent (12-20-2024),12/20/2024,Total Suspended Solids,229,229,,mg/L
+ST24DEC21-02-033 ,TEM ABF Effluent (12-20-2024),12/20/2024,Volatile Suspended Solids,210,210,,mg/L
+ST24DEC21-02-033 ,TEM ABF Effluent (12-20-2024),12/20/2024,pH,6.78,6.78,,pH Units
+ST24DEC21-02-033 ,TEM ABF Effluent (12-20-2024),12/20/2024,Soluble BOD,321,321,,mg/L
+ST24DEC22-02-033 ,TEM ABF Effluent (12-21-2024),12/21/2024,% Volatile Suspended Solids,90,90,,%
+ST24DEC22-02-033 ,TEM ABF Effluent (12-21-2024),12/21/2024,Total Suspended Solids,268,268,,mg/L
+ST24DEC22-02-033 ,TEM ABF Effluent (12-21-2024),12/21/2024,Volatile Suspended Solids,242,242,,mg/L
+ST24DEC22-02-033 ,TEM ABF Effluent (12-21-2024),12/21/2024,pH,7.74,7.74,,pH Units
+ST24DEC22-02-033 ,TEM ABF Effluent (12-21-2024),12/21/2024,Soluble BOD,164,164,,mg/L
+ST24DEC23-01-034 ,TEM ABF Effluent (12-22-2024),12/22/2024,% Volatile Suspended Solids,83,83,,%
+ST24DEC23-01-034 ,TEM ABF Effluent (12-22-2024),12/22/2024,Total Suspended Solids,400,400,,mg/L
+ST24DEC23-01-034 ,TEM ABF Effluent (12-22-2024),12/22/2024,Volatile Suspended Solids,332,332,,mg/L
+ST24DEC23-01-034 ,TEM ABF Effluent (12-22-2024),12/22/2024,pH,7.24,7.24,,pH Units
+ST24DEC23-01-034 ,TEM ABF Effluent (12-22-2024),12/22/2024,Soluble BOD,154,154,,mg/L
+ST24DEC24-01-034,TEM ABF Effluent (12-23-2024),12/23/2024,% Volatile Suspended Solids,86,86,,%
+ST24DEC24-01-034,TEM ABF Effluent (12-23-2024),12/23/2024,Total Suspended Solids,294,294,,mg/L
+ST24DEC24-01-034,TEM ABF Effluent (12-23-2024),12/23/2024,Volatile Suspended Solids,252,252,,mg/L
+ST24DEC24-01-034,TEM ABF Effluent (12-23-2024),12/23/2024,pH,7.20,7.20,,pH Units
+ST24DEC24-01-034,TEM ABF Effluent (12-23-2024),12/23/2024,Soluble BOD,295,295,,mg/L
+ST24DEC25-01-034 ,TEM ABF Effluent (12-24-2024),12/24/2024,% Volatile Suspended Solids,88,88,,%
+ST24DEC25-01-034 ,TEM ABF Effluent (12-24-2024),12/24/2024,Total Suspended Solids,360,360,,mg/L
+ST24DEC25-01-034 ,TEM ABF Effluent (12-24-2024),12/24/2024,Volatile Suspended Solids,316,316,,mg/L
+ST24DEC25-01-034 ,TEM ABF Effluent (12-24-2024),12/24/2024,pH,7.48,7.48,,pH Units
+ST24DEC25-01-034 ,TEM ABF Effluent (12-24-2024),12/24/2024,Soluble BOD,178,178,,mg/L
+ST24DEC26-01-036 ,TEM ABF Effluent (12-25-2024),12/25/2024,pH,7.37,7.37,,pH Units
+ST24DEC26-01-036 ,TEM ABF Effluent (12-25-2024),12/25/2024,Soluble BOD,134,134,,mg/L
+ST24DEC26-01-036 ,TEM ABF Effluent (12-25-2024),12/25/2024,% Volatile Suspended Solids,96,96,,%
+ST24DEC26-01-036 ,TEM ABF Effluent (12-25-2024),12/25/2024,Total Suspended Solids,252,252,,mg/L
+ST24DEC26-01-036 ,TEM ABF Effluent (12-25-2024),12/25/2024,Volatile Suspended Solids,242,242,,mg/L
+ST24DEC27-01-034 ,TEM ABF Effluent (12-26-2024),12/26/2024,% Volatile Suspended Solids,90,90,,%
+ST24DEC27-01-034 ,TEM ABF Effluent (12-26-2024),12/26/2024,Total Suspended Solids,220,220,,mg/L
+ST24DEC27-01-034 ,TEM ABF Effluent (12-26-2024),12/26/2024,Volatile Suspended Solids,199,199,,mg/L
+ST24DEC27-01-034 ,TEM ABF Effluent (12-26-2024),12/26/2024,pH,7.32,7.32,,pH Units
+ST24DEC27-01-034 ,TEM ABF Effluent (12-26-2024),12/26/2024,Soluble BOD,243,243,,mg/L
+ST24DEC28-02-033 ,TEM ABF Effluent (12-27-2024),12/27/2024,% Volatile Suspended Solids,77,77,,%
+ST24DEC28-02-033 ,TEM ABF Effluent (12-27-2024),12/27/2024,Total Suspended Solids,346,346,,mg/L
+ST24DEC28-02-033 ,TEM ABF Effluent (12-27-2024),12/27/2024,Volatile Suspended Solids,266,266,,mg/L
+ST24DEC28-02-033 ,TEM ABF Effluent (12-27-2024),12/27/2024,pH,7.24,7.24,,pH Units
+ST24DEC28-02-033 ,TEM ABF Effluent (12-27-2024),12/27/2024,Soluble BOD,170,170,,mg/L
+ST24DEC29-02-033 ,TEM ABF Effluent (12-28-2024),12/28/2024,% Volatile Suspended Solids,89,89,,%
+ST24DEC29-02-033 ,TEM ABF Effluent (12-28-2024),12/28/2024,Total Suspended Solids,213,213,,mg/L
+ST24DEC29-02-033 ,TEM ABF Effluent (12-28-2024),12/28/2024,Volatile Suspended Solids,190,190,,mg/L
+ST24DEC29-02-033 ,TEM ABF Effluent (12-28-2024),12/28/2024,pH,7.07,7.07,,pH Units
+ST24DEC29-02-033 ,TEM ABF Effluent (12-28-2024),12/28/2024,Soluble BOD,225,225,,mg/L
+ST24DEC30-01-034 ,TEM ABF Effluent (12-29-2024),12/29/2024,% Volatile Suspended Solids,79,79,,%
+ST24DEC30-01-034 ,TEM ABF Effluent (12-29-2024),12/29/2024,Total Suspended Solids,218,218,,mg/L
+ST24DEC30-01-034 ,TEM ABF Effluent (12-29-2024),12/29/2024,Volatile Suspended Solids,172,172,,mg/L
+ST24DEC30-01-034 ,TEM ABF Effluent (12-29-2024),12/29/2024,pH,7.06,7.06,,pH Units
+ST24DEC30-01-034 ,TEM ABF Effluent (12-29-2024),12/29/2024,Soluble BOD,169,169,,mg/L
+ST24DEC31-01-034 ,TEM ABF Effluent (12-30-2024),12/30/2024,% Volatile Suspended Solids,81,81,,%
+ST24DEC31-01-034 ,TEM ABF Effluent (12-30-2024),12/30/2024,Total Suspended Solids,156,156,,mg/L
+ST24DEC31-01-034 ,TEM ABF Effluent (12-30-2024),12/30/2024,Volatile Suspended Solids,126,126,,mg/L
+ST24DEC31-01-034 ,TEM ABF Effluent (12-30-2024),12/30/2024,pH,7.00,7.00,,pH Units
+ST24DEC31-01-034 ,TEM ABF Effluent (12-30-2024),12/30/2024,Soluble BOD,144,144,,mg/L
+ST25JAN01-07-034 ,TEM ABF Effluent (12-31-2024),12/31/2024,% Volatile Suspended Solids,83,83,,%
+ST25JAN01-07-034 ,TEM ABF Effluent (12-31-2024),12/31/2024,Total Suspended Solids,139,139,,mg/L
+ST25JAN01-07-034 ,TEM ABF Effluent (12-31-2024),12/31/2024,Volatile Suspended Solids,116,116,,mg/L
+ST25JAN01-07-034 ,TEM ABF Effluent (12-31-2024),12/31/2024,pH,7.23,7.23,,pH Units
+ST25JAN01-07-034 ,TEM ABF Effluent (12-31-2024),12/31/2024,Soluble BOD,128,128,,mg/L
+ST25JAN02-04-036,TEM ABF Effluent (01-01-2025),1/1/2025,pH,7.42,7.42,,pH Units
+ST25JAN02-04-036,TEM ABF Effluent (01-01-2025),1/1/2025,Soluble BOD,126,126,,mg/L
+ST25JAN02-04-036,TEM ABF Effluent (01-01-2025),1/1/2025,% Volatile Suspended Solids,90,90,,%
+ST25JAN02-04-036,TEM ABF Effluent (01-01-2025),1/1/2025,Total Suspended Solids,230,230,,mg/L
+ST25JAN02-04-036,TEM ABF Effluent (01-01-2025),1/1/2025,Volatile Suspended Solids,206,206,,mg/L
+ST25JAN03-01-034,TEM ABF Effluent (01-02-2025),1/2/2025,% Volatile Suspended Solids,98,98,,%
+ST25JAN03-01-034,TEM ABF Effluent (01-02-2025),1/2/2025,Total Suspended Solids,208,208,,mg/L
+ST25JAN03-01-034,TEM ABF Effluent (01-02-2025),1/2/2025,Volatile Suspended Solids,204,204,,mg/L
+ST25JAN03-01-034,TEM ABF Effluent (01-02-2025),1/2/2025,pH,7.06,7.06,,pH Units
+ST25JAN03-01-034,TEM ABF Effluent (01-02-2025),1/2/2025,Soluble BOD,254,254,,mg/L
+ST25JAN04-02-033 ,TEM ABF Effluent (01-03-2025),1/3/2025,% Volatile Suspended Solids,82,82,,%
+ST25JAN04-02-033 ,TEM ABF Effluent (01-03-2025),1/3/2025,Total Suspended Solids,243,243,,mg/L
+ST25JAN04-02-033 ,TEM ABF Effluent (01-03-2025),1/3/2025,Volatile Suspended Solids,198,198,,mg/L
+ST25JAN04-02-033 ,TEM ABF Effluent (01-03-2025),1/3/2025,pH,6.99,6.99,,pH Units
+ST25JAN04-02-033 ,TEM ABF Effluent (01-03-2025),1/3/2025,Soluble BOD,322,322,,mg/L
+ST25JAN05-02-033 ,TEM ABF Effluent (01-04-2025),1/4/2025,% Volatile Suspended Solids,79,79,,%
+ST25JAN05-02-033 ,TEM ABF Effluent (01-04-2025),1/4/2025,Total Suspended Solids,279,279,,mg/L
+ST25JAN05-02-033 ,TEM ABF Effluent (01-04-2025),1/4/2025,Volatile Suspended Solids,221,221,,mg/L
+ST25JAN05-02-033 ,TEM ABF Effluent (01-04-2025),1/4/2025,pH,7.23,7.23,,pH Units
+ST25JAN05-02-033 ,TEM ABF Effluent (01-04-2025),1/4/2025,Soluble BOD,174,174,,mg/L
+ST25JAN06-01-034 ,TEM ABF Effluent (01-05-2025),1/5/2025,% Volatile Suspended Solids,81,81,,%
+ST25JAN06-01-034 ,TEM ABF Effluent (01-05-2025),1/5/2025,Total Suspended Solids,398,398,,mg/L
+ST25JAN06-01-034 ,TEM ABF Effluent (01-05-2025),1/5/2025,Volatile Suspended Solids,320,320,,mg/L
+ST25JAN06-01-034 ,TEM ABF Effluent (01-05-2025),1/5/2025,pH,7.00,7.00,,pH Units
+ST25JAN06-01-034 ,TEM ABF Effluent (01-05-2025),1/5/2025,Soluble BOD,380,380,,mg/L
+ST25JAN07-01-034 ,TEM ABF Effluent (01-06-2025),1/6/2025,% Volatile Suspended Solids,83,83,,%
+ST25JAN07-01-034 ,TEM ABF Effluent (01-06-2025),1/6/2025,Total Suspended Solids,322,322,,mg/L
+ST25JAN07-01-034 ,TEM ABF Effluent (01-06-2025),1/6/2025,Volatile Suspended Solids,268,268,,mg/L
+ST25JAN07-01-034 ,TEM ABF Effluent (01-06-2025),1/6/2025,pH,6.96,6.96,,pH Units
+ST25JAN07-01-034 ,TEM ABF Effluent (01-06-2025),1/6/2025,Soluble BOD,242,242,,mg/L
+ST25JAN08-01-034 ,TEM ABF Effluent (01-07-2025),1/7/2025,% Volatile Suspended Solids,93,93,,%
+ST25JAN08-01-034 ,TEM ABF Effluent (01-07-2025),1/7/2025,Total Suspended Solids,320,320,,mg/L
+ST25JAN08-01-034 ,TEM ABF Effluent (01-07-2025),1/7/2025,Volatile Suspended Solids,296,296,,mg/L
+ST25JAN08-01-034 ,TEM ABF Effluent (01-07-2025),1/7/2025,pH,6.96,6.96,,pH Units
+ST25JAN08-01-034 ,TEM ABF Effluent (01-07-2025),1/7/2025,Soluble BOD,216,216,,mg/L
+ST25JAN09-01-036 ,TEM ABF Effluent (01-08-2025),1/8/2025,pH,6.92,6.92,,pH Units
+ST25JAN09-01-036 ,TEM ABF Effluent (01-08-2025),1/8/2025,Soluble BOD,257,257,,mg/L
+ST25JAN09-01-036 ,TEM ABF Effluent (01-08-2025),1/8/2025,% Volatile Suspended Solids,91,91,,%
+ST25JAN09-01-036 ,TEM ABF Effluent (01-08-2025),1/8/2025,Total Suspended Solids,334,334,,mg/L
+ST25JAN09-01-036 ,TEM ABF Effluent (01-08-2025),1/8/2025,Volatile Suspended Solids,304,304,,mg/L
+ST25JAN10-01-034 ,TEM ABF Effluent (01-09-2025),1/9/2025,pH,7.01,7.01,,pH Units
+ST25JAN10-01-034 ,TEM ABF Effluent (01-09-2025),1/9/2025,Soluble BOD,250,250,,mg/L
+ST25JAN11-02-038,TEM ABF Effluent (01-10-2025),1/10/2025,% Volatile Suspended Solids,82,82,,%
+ST25JAN11-02-038,TEM ABF Effluent (01-10-2025),1/10/2025,Total Suspended Solids,355,355,,mg/L
+ST25JAN11-02-038,TEM ABF Effluent (01-10-2025),1/10/2025,Volatile Suspended Solids,293,293,,mg/L
+ST25JAN11-02-033 ,TEM ABF Effluent (01-10-2025),1/10/2025,% Volatile Suspended Solids,74,74,,%
+ST25JAN11-02-033 ,TEM ABF Effluent (01-10-2025),1/10/2025,Total Suspended Solids,410,410,,mg/L
+ST25JAN11-02-033 ,TEM ABF Effluent (01-10-2025),1/10/2025,Volatile Suspended Solids,302,302,,mg/L
+ST25JAN11-02-033 ,TEM ABF Effluent (01-10-2025),1/10/2025,pH,7.04,7.04,,pH Units
+ST25JAN11-02-033 ,TEM ABF Effluent (01-10-2025),1/10/2025,Soluble BOD,331,331,,mg/L
+ST25JAN12-02-037,TEM ABF Effluent (01-11-2025),1/11/2025,% Volatile Suspended Solids,78,78,,%
+ST25JAN12-02-037,TEM ABF Effluent (01-11-2025),1/11/2025,Total Suspended Solids,334,334,,mg/L
+ST25JAN12-02-037,TEM ABF Effluent (01-11-2025),1/11/2025,Volatile Suspended Solids,262,262,,mg/L
+ST25JAN12-02-033 ,TEM ABF Effluent (01-11-2025),1/11/2025,pH,7.19,7.19,,pH Units
+ST25JAN12-02-033 ,TEM ABF Effluent (01-11-2025),1/11/2025,Soluble BOD,137,137,,mg/L
+ST25JAN13-01-039,TEM ABF Effluent (01-12-2025),1/12/2025,% Volatile Suspended Solids,82,82,,%
+ST25JAN13-01-039,TEM ABF Effluent (01-12-2025),1/12/2025,Total Suspended Solids,750,750,,mg/L
+ST25JAN13-01-039,TEM ABF Effluent (01-12-2025),1/12/2025,Volatile Suspended Solids,617,617,,mg/L
+ST25JAN13-01-034 ,TEM ABF Effluent (01-12-2025),1/12/2025,pH,6.74,6.74,,pH Units
+ST25JAN13-01-034 ,TEM ABF Effluent (01-12-2025),1/12/2025,Soluble BOD,>351,>351,T,mg/L
+ST25JAN14-01-034 ,TEM ABF Effluent (01-13-2025),1/13/2025,pH,7.01,7.01,,pH Units
+ST25JAN14-01-034 ,TEM ABF Effluent (01-13-2025),1/13/2025,Soluble BOD,227,227,,mg/L
+ST25JAN14-01-034 ,TEM ABF Effluent (01-13-2025),1/13/2025,% Volatile Suspended Solids,85,85,,%
+ST25JAN14-01-034 ,TEM ABF Effluent (01-13-2025),1/13/2025,Total Suspended Solids,286,286,,mg/L
+ST25JAN14-01-034 ,TEM ABF Effluent (01-13-2025),1/13/2025,Volatile Suspended Solids,242,242,,mg/L
+ST25JAN16-01-036 ,TEM ABF Effluent (01-15-2025),1/15/2025,% Volatile Suspended Solids,74,74,,%
+ST25JAN16-01-036 ,TEM ABF Effluent (01-15-2025),1/15/2025,Total Suspended Solids,275,275,,mg/L
+ST25JAN16-01-036 ,TEM ABF Effluent (01-15-2025),1/15/2025,Volatile Suspended Solids,203,203,,mg/L
+ST25JAN17-01-034 ,TEM ABF Effluent (01-16-2025),1/16/2025,% Volatile Suspended Solids,79,79,,%
+ST25JAN17-01-034 ,TEM ABF Effluent (01-16-2025),1/16/2025,Total Suspended Solids,533,533,,mg/L
+ST25JAN17-01-034 ,TEM ABF Effluent (01-16-2025),1/16/2025,Volatile Suspended Solids,423,423,,mg/L
+ST25JAN18-02-033 ,TEM ABF Effluent (01-17-2025),1/17/2025,% Volatile Suspended Solids,74,74,,%
+ST25JAN18-02-033 ,TEM ABF Effluent (01-17-2025),1/17/2025,Total Suspended Solids,266,266,,mg/L
+ST25JAN18-02-033 ,TEM ABF Effluent (01-17-2025),1/17/2025,Volatile Suspended Solids,196,196,,mg/L
+ST25JAN19-02-033 ,TEM ABF Effluent (01-18-2025),1/18/2025,pH,6.85,6.85,,pH Units
+ST25JAN19-02-033 ,TEM ABF Effluent (01-18-2025),1/18/2025,Soluble BOD,264,264,,mg/L
+ST25JAN19-02-033 ,TEM ABF Effluent (01-18-2025),1/18/2025,% Volatile Suspended Solids,86,86,,%
+ST25JAN19-02-033 ,TEM ABF Effluent (01-18-2025),1/18/2025,Total Suspended Solids,450,450,,mg/L
+ST25JAN19-02-033 ,TEM ABF Effluent (01-18-2025),1/18/2025,Volatile Suspended Solids,388,388,,mg/L
+ST25JAN20-01-034 ,TEM ABF Effluent (01-19-2025),1/19/2025,% Volatile Suspended Solids,85,85,,%
+ST25JAN20-01-034 ,TEM ABF Effluent (01-19-2025),1/19/2025,Total Suspended Solids,455,455,,mg/L
+ST25JAN20-01-034 ,TEM ABF Effluent (01-19-2025),1/19/2025,Volatile Suspended Solids,385,385,,mg/L
+ST25JAN21-01-034 ,TEM ABF Effluent (01-20-2025),1/20/2025,% Volatile Suspended Solids,83,83,,%
+ST25JAN21-01-034 ,TEM ABF Effluent (01-20-2025),1/20/2025,Total Suspended Solids,435,435,,mg/L
+ST25JAN21-01-034 ,TEM ABF Effluent (01-20-2025),1/20/2025,Volatile Suspended Solids,363,363,,mg/L
+ST25JAN22-01-034 ,TEM ABF Effluent (01-21-2025),1/21/2025,% Volatile Suspended Solids,93,93,,%
+ST25JAN22-01-034 ,TEM ABF Effluent (01-21-2025),1/21/2025,Total Suspended Solids,328,328,,mg/L
+ST25JAN22-01-034 ,TEM ABF Effluent (01-21-2025),1/21/2025,Volatile Suspended Solids,306,306,,mg/L
+ST25JAN23-01-036 ,TEM ABF Effluent (01-22-2025),1/22/2025,% Volatile Suspended Solids,84,84,,%
+ST25JAN23-01-036 ,TEM ABF Effluent (01-22-2025),1/22/2025,Total Suspended Solids,334,334,,mg/L
+ST25JAN23-01-036 ,TEM ABF Effluent (01-22-2025),1/22/2025,Volatile Suspended Solids,280,280,,mg/L
+ST25JAN24-02-034,TEM ABF Effluent (01-23-2025),1/23/2025,% Volatile Suspended Solids,93,93,,%
+ST25JAN24-02-034,TEM ABF Effluent (01-23-2025),1/23/2025,Total Suspended Solids,230,230,,mg/L
+ST25JAN24-02-034,TEM ABF Effluent (01-23-2025),1/23/2025,Volatile Suspended Solids,215,215,,mg/L
+ST25JAN25-02-033 ,TEM ABF Effluent (01-24-2025),1/24/2025,% Volatile Suspended Solids,94,94,,%
+ST25JAN25-02-033 ,TEM ABF Effluent (01-24-2025),1/24/2025,Total Suspended Solids,452,452,,mg/L
+ST25JAN25-02-033 ,TEM ABF Effluent (01-24-2025),1/24/2025,Volatile Suspended Solids,424,424,,mg/L
+ST25JAN26-02-033 ,TEM ABF Effluent (01-25-2025),1/25/2025,% Volatile Suspended Solids,90,90,,%
+ST25JAN26-02-033 ,TEM ABF Effluent (01-25-2025),1/25/2025,Total Suspended Solids,430,430,,mg/L
+ST25JAN26-02-033 ,TEM ABF Effluent (01-25-2025),1/25/2025,Volatile Suspended Solids,387,387,,mg/L
+ST25JAN27-01-034 ,TEM ABF Effluent (01-26-2025),1/26/2025,% Volatile Suspended Solids,94,94,,%
+ST25JAN27-01-034 ,TEM ABF Effluent (01-26-2025),1/26/2025,Total Suspended Solids,320,320,,mg/L
+ST25JAN27-01-034 ,TEM ABF Effluent (01-26-2025),1/26/2025,Volatile Suspended Solids,302,302,,mg/L
+ST25JAN28-01-034 ,TEM ABF Effluent (01-27-2025),1/27/2025,% Volatile Suspended Solids,94,94,,%
+ST25JAN28-01-034 ,TEM ABF Effluent (01-27-2025),1/27/2025,Total Suspended Solids,278,278,,mg/L
+ST25JAN28-01-034 ,TEM ABF Effluent (01-27-2025),1/27/2025,Volatile Suspended Solids,260,260,,mg/L
+ST25JAN29-01-034 ,TEM ABF Effluent (01-28-2025),1/28/2025,pH,6.97,6.97,,pH Units
+ST25JAN29-01-034 ,TEM ABF Effluent (01-28-2025),1/28/2025,Soluble BOD,241,241,,mg/L
+ST25JAN29-01-034 ,TEM ABF Effluent (01-28-2025),1/28/2025,% Volatile Suspended Solids,87,87,,%
+ST25JAN29-01-034 ,TEM ABF Effluent (01-28-2025),1/28/2025,Total Suspended Solids,308,308,,mg/L
+ST25JAN29-01-034 ,TEM ABF Effluent (01-28-2025),1/28/2025,Volatile Suspended Solids,268,268,,mg/L
+ST25JAN30-01-036 ,TEM ABF Effluent (01-29-2025),1/29/2025,pH,6.99,6.99,,pH Units
+ST25JAN30-01-036 ,TEM ABF Effluent (01-29-2025),1/29/2025,Soluble BOD,330,330,,mg/L
+ST25JAN30-01-036 ,TEM ABF Effluent (01-29-2025),1/29/2025,% Volatile Suspended Solids,94,94,,%
+ST25JAN30-01-036 ,TEM ABF Effluent (01-29-2025),1/29/2025,Total Suspended Solids,404,404,,mg/L
+ST25JAN30-01-036 ,TEM ABF Effluent (01-29-2025),1/29/2025,Volatile Suspended Solids,380,380,,mg/L
+ST25JAN31-01-034 ,TEM ABF Effluent (01-30-2025),1/30/2025,% Volatile Suspended Solids,89,89,,%
+ST25JAN31-01-034 ,TEM ABF Effluent (01-30-2025),1/30/2025,Total Suspended Solids,410,410,,mg/L
+ST25JAN31-01-034 ,TEM ABF Effluent (01-30-2025),1/30/2025,Volatile Suspended Solids,365,365,,mg/L
+ST25JAN31-01-034 ,TEM ABF Effluent (01-30-2025),1/30/2025,pH,6.92,6.92,,pH Units
+ST25JAN31-01-034 ,TEM ABF Effluent (01-30-2025),1/30/2025,Soluble BOD,521,521,,mg/L
+ST25FEB01-08-033 ,TEM ABF Effluent (01-31-2025),1/31/2025,% Volatile Suspended Solids,86,86,,%
+ST25FEB01-08-033 ,TEM ABF Effluent (01-31-2025),1/31/2025,Total Suspended Solids,313,313,,mg/L
+ST25FEB01-08-033 ,TEM ABF Effluent (01-31-2025),1/31/2025,Volatile Suspended Solids,270,270,,mg/L
+ST25FEB02-02-033 ,TEM ABF Effluent (02-01-2025),2/1/2025,% Volatile Suspended Solids,87,87,,%
+ST25FEB02-02-033 ,TEM ABF Effluent (02-01-2025),2/1/2025,Total Suspended Solids,58,58,,mg/L
+ST25FEB02-02-033 ,TEM ABF Effluent (02-01-2025),2/1/2025,Volatile Suspended Solids,50,50,,mg/L
+ST25FEB02-02-033 ,TEM ABF Effluent (02-01-2025),2/1/2025,% Volatile Suspended Solids,91,91,,%
+ST25FEB02-02-033 ,TEM ABF Effluent (02-01-2025),2/1/2025,Total Suspended Solids,67,67,,mg/L
+ST25FEB02-02-033 ,TEM ABF Effluent (02-01-2025),2/1/2025,Volatile Suspended Solids,61,61,,mg/L
+ST25FEB03-01-034 ,TEM ABF Effluent (02-02-2025),2/2/2025,% Volatile Suspended Solids,86,86,,%
+ST25FEB03-01-034 ,TEM ABF Effluent (02-02-2025),2/2/2025,Total Suspended Solids,278,278,,mg/L
+ST25FEB03-01-034 ,TEM ABF Effluent (02-02-2025),2/2/2025,Volatile Suspended Solids,238,238,,mg/L
+ST25FEB04-01-034 ,TEM ABF Effluent (02-03-2025),2/3/2025,% Volatile Suspended Solids,92,92,,%
+ST25FEB04-01-034 ,TEM ABF Effluent (02-03-2025),2/3/2025,Total Suspended Solids,284,284,,mg/L
+ST25FEB04-01-034 ,TEM ABF Effluent (02-03-2025),2/3/2025,Volatile Suspended Solids,262,262,,mg/L
+ST25FEB04-01-034 ,TEM ABF Effluent (02-03-2025),2/3/2025,pH,6.63,6.63,,pH Units
+ST25FEB04-01-034 ,TEM ABF Effluent (02-03-2025),2/3/2025,Soluble BOD,236,236,,mg/L
+ST25FEB05-01-034 ,TEM ABF Effluent (02-04-2025),2/4/2025,% Volatile Suspended Solids,88,88,,%
+ST25FEB05-01-034 ,TEM ABF Effluent (02-04-2025),2/4/2025,Total Suspended Solids,276,276,,mg/L
+ST25FEB05-01-034 ,TEM ABF Effluent (02-04-2025),2/4/2025,Volatile Suspended Solids,244,244,,mg/L
+ST25FEB05-01-034 ,TEM ABF Effluent (02-04-2025),2/4/2025,pH,6.80,6.80,,pH Units
+ST25FEB05-01-034 ,TEM ABF Effluent (02-04-2025),2/4/2025,Soluble BOD,235,235,,mg/L
+ST25FEB06-01-036 ,TEM ABF Effluent (02-05-2025),2/5/2025,% Volatile Suspended Solids,97,97,,%
+ST25FEB06-01-036 ,TEM ABF Effluent (02-05-2025),2/5/2025,Total Suspended Solids,210,210,,mg/L
+ST25FEB06-01-036 ,TEM ABF Effluent (02-05-2025),2/5/2025,Volatile Suspended Solids,204,204,,mg/L
+ST25FEB07-01-034 ,TEM ABF Effluent (02-06-2025),2/6/2025,% Volatile Suspended Solids,90,90,,%
+ST25FEB07-01-034 ,TEM ABF Effluent (02-06-2025),2/6/2025,Total Suspended Solids,198,198,,mg/L
+ST25FEB07-01-034 ,TEM ABF Effluent (02-06-2025),2/6/2025,Volatile Suspended Solids,178,178,,mg/L
+ST25FEB08-02-033 ,TEM ABF Effluent (02-07-2025),2/7/2025,% Volatile Suspended Solids,90,90,,%
+ST25FEB08-02-033 ,TEM ABF Effluent (02-07-2025),2/7/2025,Total Suspended Solids,245,245,,mg/L
+ST25FEB08-02-033 ,TEM ABF Effluent (02-07-2025),2/7/2025,Volatile Suspended Solids,222,222,,mg/L
+ST25FEB09-02-033 ,TEM ABF Effluent (02-08-2025),2/8/2025,% Volatile Suspended Solids,87,87,,%
+ST25FEB09-02-033 ,TEM ABF Effluent (02-08-2025),2/8/2025,Total Suspended Solids,400,400,,mg/L
+ST25FEB09-02-033 ,TEM ABF Effluent (02-08-2025),2/8/2025,Volatile Suspended Solids,348,348,,mg/L
+ST25FEB10-01-034 ,TEM ABF Effluent (02-09-2025),2/9/2025,% Volatile Suspended Solids,89,89,,%
+ST25FEB10-01-034 ,TEM ABF Effluent (02-09-2025),2/9/2025,Total Suspended Solids,255,255,,mg/L
+ST25FEB10-01-034 ,TEM ABF Effluent (02-09-2025),2/9/2025,Volatile Suspended Solids,227,227,,mg/L
+ST25FEB11-01-034 ,TEM ABF Effluent (02-10-2025),2/10/2025,% Volatile Suspended Solids,87,87,,%
+ST25FEB11-01-034 ,TEM ABF Effluent (02-10-2025),2/10/2025,Total Suspended Solids,237,237,,mg/L
+ST25FEB11-01-034 ,TEM ABF Effluent (02-10-2025),2/10/2025,Volatile Suspended Solids,205,205,,mg/L
+ST25FEB12-01-034 ,TEM ABF Effluent (02-11-2025),2/11/2025,% Volatile Suspended Solids,85,85,,%
+ST25FEB12-01-034 ,TEM ABF Effluent (02-11-2025),2/11/2025,Total Suspended Solids,720,720,,mg/L
+ST25FEB12-01-034 ,TEM ABF Effluent (02-11-2025),2/11/2025,Volatile Suspended Solids,613,613,,mg/L
+ST25FEB13-01-036 ,TEM ABF Effluent (02-12-2025),2/12/2025,% Volatile Suspended Solids,85,85,,%
+ST25FEB13-01-036 ,TEM ABF Effluent (02-12-2025),2/12/2025,Total Suspended Solids,215,215,,mg/L
+ST25FEB13-01-036 ,TEM ABF Effluent (02-12-2025),2/12/2025,Volatile Suspended Solids,184,184,,mg/L
+ST25FEB14-01-034 ,TEM ABF Effluent (02-13-2025),2/13/2025,% Volatile Suspended Solids,80,80,,%
+ST25FEB14-01-034 ,TEM ABF Effluent (02-13-2025),2/13/2025,Total Suspended Solids,324,324,,mg/L
+ST25FEB14-01-034 ,TEM ABF Effluent (02-13-2025),2/13/2025,Volatile Suspended Solids,258,258,,mg/L
+ST25FEB14-01-034 ,TEM ABF Effluent (02-13-2025),2/13/2025,pH,6.62,6.62,,pH Units
+ST25FEB14-01-034 ,TEM ABF Effluent (02-13-2025),2/13/2025,Soluble BOD,235,235,,mg/L
+ST25FEB15-02-033 ,TEM ABF Effluent (02-14-2025),2/14/2025,% Volatile Suspended Solids,88,88,,%
+ST25FEB15-02-033 ,TEM ABF Effluent (02-14-2025),2/14/2025,Total Suspended Solids,231,231,,mg/L
+ST25FEB15-02-033 ,TEM ABF Effluent (02-14-2025),2/14/2025,Volatile Suspended Solids,204,204,,mg/L
+ST25FEB16-02-033 ,TEM ABF Effluent (02-15-2025),2/15/2025,% Volatile Suspended Solids,91,91,,%
+ST25FEB16-02-033 ,TEM ABF Effluent (02-15-2025),2/15/2025,Total Suspended Solids,40,40,,mg/L
+ST25FEB16-02-033 ,TEM ABF Effluent (02-15-2025),2/15/2025,Volatile Suspended Solids,37,37,,mg/L
+ST25FEB17-01-034 ,TEM ABF Effluent (02-16-2025),2/16/2025,% Volatile Suspended Solids,66,66,,%
+ST25FEB17-01-034 ,TEM ABF Effluent (02-16-2025),2/16/2025,Total Suspended Solids,123,123,,mg/L
+ST25FEB17-01-034 ,TEM ABF Effluent (02-16-2025),2/16/2025,Volatile Suspended Solids,81,81,,mg/L
+ST25FEB18-01-034 ,TEM ABF Effluent (02-17-2025),2/17/2025,% Volatile Suspended Solids,77,77,,%
+ST25FEB18-01-034 ,TEM ABF Effluent (02-17-2025),2/17/2025,Total Suspended Solids,172,172,,mg/L
+ST25FEB18-01-034 ,TEM ABF Effluent (02-17-2025),2/17/2025,Volatile Suspended Solids,133,133,,mg/L
+ST25FEB19-01-034 ,TEM ABF Effluent (02-18-2025),2/18/2025,% Volatile Suspended Solids,89,89,,%
+ST25FEB19-01-034 ,TEM ABF Effluent (02-18-2025),2/18/2025,Total Suspended Solids,82,82,,mg/L
+ST25FEB19-01-034 ,TEM ABF Effluent (02-18-2025),2/18/2025,Volatile Suspended Solids,73,73,,mg/L
+ST25FEB19-01-034 ,TEM ABF Effluent (02-18-2025),2/18/2025,pH,6.25,6.25,,pH Units
+ST25FEB19-01-034 ,TEM ABF Effluent (02-18-2025),2/18/2025,Soluble BOD,206,206,,mg/L
+ST25FEB20-01-036 ,TEM ABF Effluent (02-19-2025),2/19/2025,pH,6.68,6.68,,pH Units
+ST25FEB20-01-036 ,TEM ABF Effluent (02-19-2025),2/19/2025,Soluble BOD,351,351,,mg/L
+ST25FEB20-01-036 ,TEM ABF Effluent (02-19-2025),2/19/2025,% Volatile Suspended Solids,91,91,,%
+ST25FEB20-01-036 ,TEM ABF Effluent (02-19-2025),2/19/2025,Total Suspended Solids,94,94,,mg/L
+ST25FEB20-01-036 ,TEM ABF Effluent (02-19-2025),2/19/2025,Volatile Suspended Solids,86,86,,mg/L
+ST25FEB21-01-034 ,TEM ABF Effluent (02-20-2025),2/20/2025,% Volatile Suspended Solids,92,92,,%
+ST25FEB21-01-034 ,TEM ABF Effluent (02-20-2025),2/20/2025,Total Suspended Solids,101,101,,mg/L
+ST25FEB21-01-034 ,TEM ABF Effluent (02-20-2025),2/20/2025,Volatile Suspended Solids,93,93,,mg/L
+ST25FEB21-01-034 ,TEM ABF Effluent (02-20-2025),2/20/2025,pH,6.65,6.65,,pH Units
+ST25FEB21-01-034 ,TEM ABF Effluent (02-20-2025),2/20/2025,Soluble BOD,162,162,,mg/L
+ST25FEB22-02-033 ,TEM ABF Effluent (02-21-2025),2/21/2025,% Volatile Suspended Solids,65,65,,%
+ST25FEB22-02-033 ,TEM ABF Effluent (02-21-2025),2/21/2025,Total Suspended Solids,269,269,,mg/L
+ST25FEB22-02-033 ,TEM ABF Effluent (02-21-2025),2/21/2025,Volatile Suspended Solids,176,176,,mg/L
+ST25FEB22-02-033 ,TEM ABF Effluent (02-21-2025),2/21/2025,pH,6.38,6.38,,pH Units
+ST25FEB22-02-033 ,TEM ABF Effluent (02-21-2025),2/21/2025,Soluble BOD,186,186,,mg/L
+ST25FEB23-02-033 ,TEM ABF Effluent (02-22-2025),2/22/2025,% Volatile Suspended Solids,68,68,,%
+ST25FEB23-02-033 ,TEM ABF Effluent (02-22-2025),2/22/2025,Total Suspended Solids,404,404,,mg/L
+ST25FEB23-02-033 ,TEM ABF Effluent (02-22-2025),2/22/2025,Volatile Suspended Solids,276,276,,mg/L
+ST25FEB23-02-033 ,TEM ABF Effluent (02-22-2025),2/22/2025,pH,6.09,6.09,,pH Units
+ST25FEB23-02-033 ,TEM ABF Effluent (02-22-2025),2/22/2025,Soluble BOD,442,442,,mg/L
+ST25FEB24-01-034 ,TEM ABF Effluent (02-23-2025),2/23/2025,% Volatile Suspended Solids,60,60,,%
+ST25FEB24-01-034 ,TEM ABF Effluent (02-23-2025),2/23/2025,Total Suspended Solids,364,364,,mg/L
+ST25FEB24-01-034 ,TEM ABF Effluent (02-23-2025),2/23/2025,Volatile Suspended Solids,220,220,,mg/L
+ST25FEB24-01-034 ,TEM ABF Effluent (02-23-2025),2/23/2025,pH,6.70,6.70,,pH Units
+ST25FEB24-01-034 ,TEM ABF Effluent (02-23-2025),2/23/2025,Soluble BOD,144,144,,mg/L
+ST25FEB25-01-034 ,TEM ABF Effluent (02-24-2025),2/24/2025,% Volatile Suspended Solids,85,85,,%
+ST25FEB25-01-034 ,TEM ABF Effluent (02-24-2025),2/24/2025,Total Suspended Solids,215,215,,mg/L
+ST25FEB25-01-034 ,TEM ABF Effluent (02-24-2025),2/24/2025,Volatile Suspended Solids,184,184,,mg/L
+ST25FEB26-01-034 ,TEM ABF Effluent (02-25-2025),2/25/2025,% Volatile Suspended Solids,96,96,,%
+ST25FEB26-01-034 ,TEM ABF Effluent (02-25-2025),2/25/2025,Total Suspended Solids,200,200,,mg/L
+ST25FEB26-01-034 ,TEM ABF Effluent (02-25-2025),2/25/2025,Volatile Suspended Solids,192,192,,mg/L
+ST25FEB26-01-034 ,TEM ABF Effluent (02-25-2025),2/25/2025,pH,6.71,6.71,,pH Units
+ST25FEB26-01-034 ,TEM ABF Effluent (02-25-2025),2/25/2025,Soluble BOD,187,187,,mg/L
+ST25FEB27-01-036 ,TEM ABF Effluent (02-26-2025),2/26/2025,pH,6.64,6.64,,pH Units
+ST25FEB27-01-036 ,TEM ABF Effluent (02-26-2025),2/26/2025,Soluble BOD,303,303,,mg/L
+ST25FEB27-01-036 ,TEM ABF Effluent (02-26-2025),2/26/2025,% Volatile Suspended Solids,89,89,,%
+ST25FEB27-01-036 ,TEM ABF Effluent (02-26-2025),2/26/2025,Total Suspended Solids,226,226,,mg/L
+ST25FEB27-01-036 ,TEM ABF Effluent (02-26-2025),2/26/2025,Volatile Suspended Solids,201,201,,mg/L
+ST25FEB28-01-034 ,TEM ABF Effluent (02-27-2025),2/27/2025,% Volatile Suspended Solids,91,91,,%
+ST25FEB28-01-034 ,TEM ABF Effluent (02-27-2025),2/27/2025,Total Suspended Solids,245,245,,mg/L
+ST25FEB28-01-034 ,TEM ABF Effluent (02-27-2025),2/27/2025,Volatile Suspended Solids,223,223,,mg/L
+ST25FEB28-01-034 ,TEM ABF Effluent (02-27-2025),2/27/2025,pH,6.18,6.18,,pH Units
+ST25FEB28-01-034 ,TEM ABF Effluent (02-27-2025),2/27/2025,Soluble BOD,304,304,,mg/L
+ST25MAR01-07-033 ,TEM ABF Effluent (02-28-2025),2/28/2025,% Volatile Suspended Solids,97,97,,%
+ST25MAR01-07-033 ,TEM ABF Effluent (02-28-2025),2/28/2025,Total Suspended Solids,207,207,,mg/L
+ST25MAR01-07-033 ,TEM ABF Effluent (02-28-2025),2/28/2025,Volatile Suspended Solids,200,200,,mg/L
+ST25MAR02-02-033 ,TEM ABF Effluent (03-01-2025),3/1/2025,% Volatile Suspended Solids,88,88,,%
+ST25MAR02-02-033 ,TEM ABF Effluent (03-01-2025),3/1/2025,Total Suspended Solids,313,313,,mg/L
+ST25MAR02-02-033 ,TEM ABF Effluent (03-01-2025),3/1/2025,Volatile Suspended Solids,276,276,,mg/L
+ST25MAR03-03-034 ,TEM ABF Effluent (03-02-2025),3/2/2025,% Volatile Suspended Solids,89,89,,%
+ST25MAR03-03-034 ,TEM ABF Effluent (03-02-2025),3/2/2025,Total Suspended Solids,218,218,,mg/L
+ST25MAR03-03-034 ,TEM ABF Effluent (03-02-2025),3/2/2025,Volatile Suspended Solids,194,194,,mg/L
+ST25MAR04-01-034 ,TEM ABF Effluent (03-03-2025),3/3/2025,pH,6.75,6.75,,pH Units
+ST25MAR04-01-034 ,TEM ABF Effluent (03-03-2025),3/3/2025,Soluble BOD,299,299,,mg/L
+ST25MAR05-01-034 ,TEM ABF Effluent (03-04-2025),3/4/2025,% Volatile Suspended Solids,91,91,,%
+ST25MAR05-01-034 ,TEM ABF Effluent (03-04-2025),3/4/2025,Total Suspended Solids,270,270,,mg/L
+ST25MAR05-01-034 ,TEM ABF Effluent (03-04-2025),3/4/2025,Volatile Suspended Solids,245,245,,mg/L
+ST25MAR05-01-034 ,TEM ABF Effluent (03-04-2025),3/4/2025,pH,6.74,6.74,,pH Units
+ST25MAR05-01-034 ,TEM ABF Effluent (03-04-2025),3/4/2025,Soluble BOD,236,236,,mg/L
+ST25MAR06-01-036 ,TEM ABF Effluent (03-05-2025),3/5/2025,pH,6.62,6.62,,pH Units
+ST25MAR06-01-036 ,TEM ABF Effluent (03-05-2025),3/5/2025,Soluble BOD,240,240,,mg/L
+ST25MAR06-01-036 ,TEM ABF Effluent (03-05-2025),3/5/2025,% Volatile Suspended Solids,97,97,,%
+ST25MAR06-01-036 ,TEM ABF Effluent (03-05-2025),3/5/2025,Total Suspended Solids,364,364,,mg/L
+ST25MAR06-01-036 ,TEM ABF Effluent (03-05-2025),3/5/2025,Volatile Suspended Solids,352,352,,mg/L
+ST25MAR07-01-034 ,TEM ABF Effluent (03-06-2025),3/6/2025,% Volatile Suspended Solids,87,87,,%
+ST25MAR07-01-034 ,TEM ABF Effluent (03-06-2025),3/6/2025,Total Suspended Solids,373,373,,mg/L
+ST25MAR07-01-034 ,TEM ABF Effluent (03-06-2025),3/6/2025,Volatile Suspended Solids,325,325,,mg/L
+ST25MAR07-01-034 ,TEM ABF Effluent (03-06-2025),3/6/2025,pH,6.80,6.80,,pH Units
+ST25MAR07-01-034 ,TEM ABF Effluent (03-06-2025),3/6/2025,Soluble BOD,367,367,,mg/L
+ST25MAR08-02-033 ,TEM ABF Effluent (03-07-2025),3/7/2025,% Volatile Suspended Solids,91,91,,%
+ST25MAR08-02-033 ,TEM ABF Effluent (03-07-2025),3/7/2025,Total Suspended Solids,202,202,,mg/L
+ST25MAR08-02-033 ,TEM ABF Effluent (03-07-2025),3/7/2025,Volatile Suspended Solids,183,183,,mg/L
+ST25MAR09-02-033 ,TEM ABF Effluent (03-08-2025),3/8/2025,% Volatile Suspended Solids,93,93,,%
+ST25MAR09-02-033 ,TEM ABF Effluent (03-08-2025),3/8/2025,Total Suspended Solids,190,190,,mg/L
+ST25MAR09-02-033 ,TEM ABF Effluent (03-08-2025),3/8/2025,Volatile Suspended Solids,177,177,,mg/L
+ST25MAR10-01-034 ,TEM ABF Effluent (03-09-2025),3/9/2025,% Volatile Suspended Solids,93,93,,%
+ST25MAR10-01-034 ,TEM ABF Effluent (03-09-2025),3/9/2025,Total Suspended Solids,228,228,,mg/L
+ST25MAR10-01-034 ,TEM ABF Effluent (03-09-2025),3/9/2025,Volatile Suspended Solids,213,213,,mg/L
+ST25MAR11-01-034 ,TEM ABF Effluent (03-10-2025),3/10/2025,% Volatile Suspended Solids,108,108,,%
+ST25MAR11-01-034 ,TEM ABF Effluent (03-10-2025),3/10/2025,Total Suspended Solids,282,282,,mg/L
+ST25MAR11-01-034 ,TEM ABF Effluent (03-10-2025),3/10/2025,Volatile Suspended Solids,242,242,,mg/L
+ST25MAR11-01-034 ,TEM ABF Effluent (03-10-2025),3/10/2025,pH,6.81,6.81,,pH Units
+ST25MAR11-01-034 ,TEM ABF Effluent (03-10-2025),3/10/2025,Soluble BOD,154,154,,mg/L
+ST25MAR12-01-034 ,TEM ABF Effluent (03-11-2025),3/11/2025,% Volatile Suspended Solids,88,88,,%
+ST25MAR12-01-034 ,TEM ABF Effluent (03-11-2025),3/11/2025,Total Suspended Solids,528,528,,mg/L
+ST25MAR12-01-034 ,TEM ABF Effluent (03-11-2025),3/11/2025,Volatile Suspended Solids,464,464,,mg/L
+ST25MAR12-01-034 ,TEM ABF Effluent (03-11-2025),3/11/2025,pH,6.59,6.59,,pH Units
+ST25MAR12-01-034 ,TEM ABF Effluent (03-11-2025),3/11/2025,Soluble BOD,414,414,,mg/L
+ST25MAR13-01-036 ,TEM ABF Effluent (03-12-2025),3/12/2025,pH,7.02,7.02,,pH Units
+ST25MAR13-01-036 ,TEM ABF Effluent (03-12-2025),3/12/2025,Soluble BOD,258,258,,mg/L
+ST25MAR13-01-036 ,TEM ABF Effluent (03-12-2025),3/12/2025,% Volatile Suspended Solids,97,97,,%
+ST25MAR13-01-036 ,TEM ABF Effluent (03-12-2025),3/12/2025,Total Suspended Solids,348,348,,mg/L
+ST25MAR13-01-036 ,TEM ABF Effluent (03-12-2025),3/12/2025,Volatile Suspended Solids,336,336,,mg/L
+ST25MAR14-01-034 ,TEM ABF Effluent (03-13-2025),3/13/2025,% Volatile Suspended Solids,94,94,,%
+ST25MAR14-01-034 ,TEM ABF Effluent (03-13-2025),3/13/2025,Total Suspended Solids,251,251,,mg/L
+ST25MAR14-01-034 ,TEM ABF Effluent (03-13-2025),3/13/2025,Volatile Suspended Solids,236,236,,mg/L
+ST25MAR14-01-034 ,TEM ABF Effluent (03-13-2025),3/13/2025,pH,6.90,6.90,,pH Units
+ST25MAR14-01-034 ,TEM ABF Effluent (03-13-2025),3/13/2025,Soluble BOD,284,284,,mg/L
+ST25MAR15-02-033 ,TEM ABF Effluent (03-14-2025),3/14/2025,% Volatile Suspended Solids,73,73,,%
+ST25MAR15-02-033 ,TEM ABF Effluent (03-14-2025),3/14/2025,Total Suspended Solids,268,268,,mg/L
+ST25MAR15-02-033 ,TEM ABF Effluent (03-14-2025),3/14/2025,Volatile Suspended Solids,197,197,,mg/L
+ST25MAR16-02-033 ,TEM ABF Effluent (03-15-2025),3/15/2025,% Volatile Suspended Solids,80,80,,%
+ST25MAR16-02-033 ,TEM ABF Effluent (03-15-2025),3/15/2025,Total Suspended Solids,181,181,,mg/L
+ST25MAR16-02-033 ,TEM ABF Effluent (03-15-2025),3/15/2025,Volatile Suspended Solids,144,144,,mg/L
+ST25MAR17-01-034 ,TEM ABF Effluent (03-16-2025),3/16/2025,% Volatile Suspended Solids,76,76,,%
+ST25MAR17-01-034 ,TEM ABF Effluent (03-16-2025),3/16/2025,Total Suspended Solids,191,191,,mg/L
+ST25MAR17-01-034 ,TEM ABF Effluent (03-16-2025),3/16/2025,Volatile Suspended Solids,145,145,,mg/L
+ST25MAR18-01-034 ,TEM ABF Effluent (03-17-2025),3/17/2025,% Volatile Suspended Solids,92,92,,%
+ST25MAR18-01-034 ,TEM ABF Effluent (03-17-2025),3/17/2025,Total Suspended Solids,260,260,,mg/L
+ST25MAR18-01-034 ,TEM ABF Effluent (03-17-2025),3/17/2025,Volatile Suspended Solids,238,238,,mg/L
+ST25MAR19-01-034 ,TEM ABF Effluent (03-18-2025),3/18/2025,% Volatile Suspended Solids,73,73,,%
+ST25MAR19-01-034 ,TEM ABF Effluent (03-18-2025),3/18/2025,Total Suspended Solids,454,454,,mg/L
+ST25MAR19-01-034 ,TEM ABF Effluent (03-18-2025),3/18/2025,Volatile Suspended Solids,330,330,,mg/L
+ST25MAR19-01-034 ,TEM ABF Effluent (03-18-2025),3/18/2025,pH,7.24,7.24,,pH Units
+ST25MAR19-01-034 ,TEM ABF Effluent (03-18-2025),3/18/2025,Soluble BOD,239,239,,mg/L
+ST25MAR20-01-036 ,TEM ABF Effluent (03-19-2025),3/19/2025,% Volatile Suspended Solids,92,92,,%
+ST25MAR20-01-036 ,TEM ABF Effluent (03-19-2025),3/19/2025,Total Suspended Solids,320,320,,mg/L
+ST25MAR20-01-036 ,TEM ABF Effluent (03-19-2025),3/19/2025,Volatile Suspended Solids,294,294,,mg/L
+ST25MAR21-01-034 ,TEM ABF Effluent (03-20-2025),3/20/2025,% Volatile Suspended Solids,88.32116788,88,,%
+ST25MAR21-01-034 ,TEM ABF Effluent (03-20-2025),3/20/2025,Total Suspended Solids,274,274,,mg/L
+ST25MAR21-01-034 ,TEM ABF Effluent (03-20-2025),3/20/2025,Volatile Suspended Solids,242,242,,mg/L
+ST25MAR22-02-033 ,TEM ABF Effluent (03-21-2025),3/21/2025,% Volatile Suspended Solids,98,98,,%
+ST25MAR22-02-033 ,TEM ABF Effluent (03-21-2025),3/21/2025,Total Suspended Solids,212,212,,mg/L
+ST25MAR22-02-033 ,TEM ABF Effluent (03-21-2025),3/21/2025,Volatile Suspended Solids,207,207,,mg/L
+ST25MAR23-02-033 ,TEM ABF Effluent (03-22-2025),3/22/2025,% Volatile Suspended Solids,98,98,,%
+ST25MAR23-02-033 ,TEM ABF Effluent (03-22-2025),3/22/2025,Total Suspended Solids,255,255,,mg/L
+ST25MAR23-02-033 ,TEM ABF Effluent (03-22-2025),3/22/2025,Volatile Suspended Solids,250,250,,mg/L
+ST25MAR24-01-034 ,TEM ABF Effluent (03-23-2025),3/23/2025,% Volatile Suspended Solids,94,94,,%
+ST25MAR24-01-034 ,TEM ABF Effluent (03-23-2025),3/23/2025,Total Suspended Solids,210,210,,mg/L
+ST25MAR24-01-034 ,TEM ABF Effluent (03-23-2025),3/23/2025,Volatile Suspended Solids,197,197,,mg/L
+ST25MAR24-01-034 ,TEM ABF Effluent (03-23-2025),3/23/2025,pH,6.38,6.38,,pH Units
+ST25MAR24-01-034 ,TEM ABF Effluent (03-23-2025),3/23/2025,Soluble BOD,136,136,,mg/L
+ST25MAR25-01-034 ,TEM ABF Effluent (03-24-2025),3/24/2025,% Volatile Suspended Solids,83,83,,%
+ST25MAR25-01-034 ,TEM ABF Effluent (03-24-2025),3/24/2025,Total Suspended Solids,209,209,,mg/L
+ST25MAR25-01-034 ,TEM ABF Effluent (03-24-2025),3/24/2025,Volatile Suspended Solids,174,174,,mg/L
+ST25MAR25-01-034 ,TEM ABF Effluent (03-24-2025),3/24/2025,pH,6.57,6.57,,pH Units
+ST25MAR25-01-034 ,TEM ABF Effluent (03-24-2025),3/24/2025,Soluble BOD,364,364,,mg/L
+ST25MAR26-01-034 ,TEM ABF Effluent (03-25-2025),3/25/2025,% Volatile Suspended Solids,96,96,,%
+ST25MAR26-01-034 ,TEM ABF Effluent (03-25-2025),3/25/2025,Total Suspended Solids,166,166,,mg/L
+ST25MAR26-01-034 ,TEM ABF Effluent (03-25-2025),3/25/2025,Volatile Suspended Solids,160,160,,mg/L
+ST25MAR26-01-034 ,TEM ABF Effluent (03-25-2025),3/25/2025,pH,7.13,7.13,,pH Units
+ST25MAR26-01-034 ,TEM ABF Effluent (03-25-2025),3/25/2025,Soluble BOD,133,133,,mg/L
+ST25MAR27-01-036 ,TEM ABF Effluent (03-26-2025),3/26/2025,pH,6.87,6.87,,pH Units
+ST25MAR27-01-036 ,TEM ABF Effluent (03-26-2025),3/26/2025,Soluble BOD,260,260,,mg/L
+ST25MAR27-01-036 ,TEM ABF Effluent (03-26-2025),3/26/2025,% Volatile Suspended Solids,86,86,,%
+ST25MAR27-01-036 ,TEM ABF Effluent (03-26-2025),3/26/2025,Total Suspended Solids,1215,1215,,mg/L
+ST25MAR27-01-036 ,TEM ABF Effluent (03-26-2025),3/26/2025,Volatile Suspended Solids,1040,1040,,mg/L
+ST25MAR28-01-034 ,TEM ABF Effluent (03-27-2025),3/27/2025,% Volatile Suspended Solids,81,81,,%
+ST25MAR28-01-034 ,TEM ABF Effluent (03-27-2025),3/27/2025,Total Suspended Solids,312,312,,mg/L
+ST25MAR28-01-034 ,TEM ABF Effluent (03-27-2025),3/27/2025,Volatile Suspended Solids,253,253,,mg/L
+ST25MAR28-01-034 ,TEM ABF Effluent (03-27-2025),3/27/2025,pH,7.24,7.24,,pH Units
+ST25MAR28-01-034 ,TEM ABF Effluent (03-27-2025),3/27/2025,Soluble BOD,275,275,,mg/L
+ST25MAR29-02-033 ,TEM ABF Effluent (03-28-2025),3/28/2025,% Volatile Suspended Solids,82,82,,%
+ST25MAR29-02-033 ,TEM ABF Effluent (03-28-2025),3/28/2025,Total Suspended Solids,310,310,,mg/L
+ST25MAR29-02-033 ,TEM ABF Effluent (03-28-2025),3/28/2025,Volatile Suspended Solids,254,254,,mg/L
+ST25MAR30-02-033 ,TEM ABF Effluent (03-29-2025),3/29/2025,% Volatile Suspended Solids,89,89,,%
+ST25MAR30-02-033 ,TEM ABF Effluent (03-29-2025),3/29/2025,Total Suspended Solids,250,250,,mg/L
+ST25MAR30-02-033 ,TEM ABF Effluent (03-29-2025),3/29/2025,Volatile Suspended Solids,222,222,,mg/L
+ST25MAR30-02-033 ,TEM ABF Effluent (03-29-2025),3/29/2025,pH,7.00,7.00,,pH Units
+ST25MAR30-02-033 ,TEM ABF Effluent (03-29-2025),3/29/2025,Soluble BOD,206,206,,mg/L
+ST25MAR31-01-034 ,TEM ABF Effluent (03-30-2025),3/30/2025,% Volatile Suspended Solids,83,83,,%
+ST25MAR31-01-034 ,TEM ABF Effluent (03-30-2025),3/30/2025,Total Suspended Solids,338,338,,mg/L
+ST25MAR31-01-034 ,TEM ABF Effluent (03-30-2025),3/30/2025,Volatile Suspended Solids,280,280,,mg/L
+ST25MAR31-01-034 ,TEM ABF Effluent (03-30-2025),3/30/2025,pH,7.12,7.12,,pH Units
+ST25MAR31-01-034 ,TEM ABF Effluent (03-30-2025),3/30/2025,Soluble BOD,168,168,,mg/L
+ST25APR01-06-034 ,TEM ABF Effluent (03-31-2025),3/31/2025,% Volatile Suspended Solids,84,84,,%
+ST25APR01-06-034 ,TEM ABF Effluent (03-31-2025),3/31/2025,Total Suspended Solids,316,316,,mg/L
+ST25APR01-06-034 ,TEM ABF Effluent (03-31-2025),3/31/2025,Volatile Suspended Solids,266,266,,mg/L
+ST25APR01-06-034 ,TEM ABF Effluent (03-31-2025),3/31/2025,pH,6.47,6.47,,pH Units
+ST25APR01-06-034 ,TEM ABF Effluent (03-31-2025),3/31/2025,Soluble BOD,290,290,,mg/L
+ST25APR02-01-034 ,TEM ABF Effluent (04-01-2025),4/1/2025,% Volatile Suspended Solids,95,95,,%
+ST25APR02-01-034 ,TEM ABF Effluent (04-01-2025),4/1/2025,Total Suspended Solids,305,305,,mg/L
+ST25APR02-01-034 ,TEM ABF Effluent (04-01-2025),4/1/2025,Volatile Suspended Solids,290,290,,mg/L
+ST25APR02-01-034 ,TEM ABF Effluent (04-01-2025),4/1/2025,pH,7.33,7.33,,pH Units
+ST25APR02-01-034 ,TEM ABF Effluent (04-01-2025),4/1/2025,Soluble BOD,240,240,,mg/L
+ST25APR03-01-036 ,TEM ABF Effluent (04-02-2025),4/2/2025,pH,6.88,6.88,,pH Units
+ST25APR03-01-036 ,TEM ABF Effluent (04-02-2025),4/2/2025,Soluble BOD,247,247,,mg/L
+ST25APR03-01-036 ,TEM ABF Effluent (04-02-2025),4/2/2025,% Volatile Suspended Solids,88,88,,%
+ST25APR03-01-036 ,TEM ABF Effluent (04-02-2025),4/2/2025,Total Suspended Solids,383,383,,mg/L
+ST25APR03-01-036 ,TEM ABF Effluent (04-02-2025),4/2/2025,Volatile Suspended Solids,335,335,,mg/L
+ST25APR04-01-034 ,TEM ABF Effluent (04-03-2025),4/3/2025,% Volatile Suspended Solids,93,93,,%
+ST25APR04-01-034 ,TEM ABF Effluent (04-03-2025),4/3/2025,Total Suspended Solids,485,485,,mg/L
+ST25APR04-01-034 ,TEM ABF Effluent (04-03-2025),4/3/2025,Volatile Suspended Solids,450,450,,mg/L
+ST25APR04-01-034 ,TEM ABF Effluent (04-03-2025),4/3/2025,pH,7.28,7.28,,pH Units
+ST25APR04-01-034 ,TEM ABF Effluent (04-03-2025),4/3/2025,Soluble BOD,<60,<60,!,mg/L
+ST25APR05-02-033 ,TEM ABF Effluent (04-04-2025),4/4/2025,% Volatile Suspended Solids,84,84,,%
+ST25APR05-02-033 ,TEM ABF Effluent (04-04-2025),4/4/2025,Total Suspended Solids,150,150,,mg/L
+ST25APR05-02-033 ,TEM ABF Effluent (04-04-2025),4/4/2025,Volatile Suspended Solids,126,126,,mg/L
+ST25APR05-02-033 ,TEM ABF Effluent (04-04-2025),4/4/2025,pH,7.25,7.25,,pH Units
+ST25APR05-02-033 ,TEM ABF Effluent (04-04-2025),4/4/2025,Soluble BOD,<23,<23,,mg/L
+ST25APR06-02-033 ,TEM ABF Effluent (04-05-2025),4/5/2025,% Volatile Suspended Solids,79,79,,%
+ST25APR06-02-033 ,TEM ABF Effluent (04-05-2025),4/5/2025,Total Suspended Solids,176,176,,mg/L
+ST25APR06-02-033 ,TEM ABF Effluent (04-05-2025),4/5/2025,Volatile Suspended Solids,139,139,,mg/L
+ST25APR06-02-033 ,TEM ABF Effluent (04-05-2025),4/5/2025,pH,7.54,7.54,,pH Units
+ST25APR06-02-033 ,TEM ABF Effluent (04-05-2025),4/5/2025,Soluble BOD,>36,>36,,mg/L
+ST25APR07-01-034 ,TEM ABF Effluent (04-06-2025),4/6/2025,% Volatile Suspended Solids,82,82,,%
+ST25APR07-01-034 ,TEM ABF Effluent (04-06-2025),4/6/2025,Total Suspended Solids,555,555,,mg/L
+ST25APR07-01-034 ,TEM ABF Effluent (04-06-2025),4/6/2025,Volatile Suspended Solids,457,457,,mg/L
+ST25APR07-01-034 ,TEM ABF Effluent (04-06-2025),4/6/2025,pH,7.25,7.25,,pH Units
+ST25APR07-01-034 ,TEM ABF Effluent (04-06-2025),4/6/2025,Soluble BOD,11,11,,mg/L
+ST25APR08-01-034 ,TEM ABF Effluent (04-07-2025),4/7/2025,% Volatile Suspended Solids,65,65,,%
+ST25APR08-01-034 ,TEM ABF Effluent (04-07-2025),4/7/2025,Total Suspended Solids,163,163,,mg/L
+ST25APR08-01-034 ,TEM ABF Effluent (04-07-2025),4/7/2025,Volatile Suspended Solids,106,106,,mg/L
+ST25APR08-01-034 ,TEM ABF Effluent (04-07-2025),4/7/2025,pH,7.35,7.35,,pH Units
+ST25APR08-01-034 ,TEM ABF Effluent (04-07-2025),4/7/2025,Soluble BOD,46,46,,mg/L
+ST25APR09-03-034 ,TEM ABF Effluent (04-08-2025),4/8/2025,% Volatile Suspended Solids,78,78,,%
+ST25APR09-03-034 ,TEM ABF Effluent (04-08-2025),4/8/2025,Total Suspended Solids,235,235,,mg/L
+ST25APR09-03-034 ,TEM ABF Effluent (04-08-2025),4/8/2025,Volatile Suspended Solids,183,183,,mg/L
+ST25APR09-03-034 ,TEM ABF Effluent (04-08-2025),4/8/2025,pH,7.11,7.11,,pH Units
+ST25APR09-03-034 ,TEM ABF Effluent (04-08-2025),4/8/2025,Soluble BOD,34,34,,mg/L
+ST25APR10-01-036 ,TEM ABF Effluent (04-09-2025),4/9/2025,pH,7.62,7.62,,pH Units
+ST25APR10-01-036 ,TEM ABF Effluent (04-09-2025),4/9/2025,Soluble BOD,29.4,29.4,,mg/L
+ST25APR10-01-036 ,TEM ABF Effluent (04-09-2025),4/9/2025,% Volatile Suspended Solids,79,79,,%
+ST25APR10-01-036 ,TEM ABF Effluent (04-09-2025),4/9/2025,Total Suspended Solids,154,154,,mg/L
+ST25APR10-01-036 ,TEM ABF Effluent (04-09-2025),4/9/2025,Volatile Suspended Solids,122,122,,mg/L
+ST25APR11-01-034 ,TEM ABF Effluent (04-10-2025),4/10/2025,% Volatile Suspended Solids,79,79,,%
+ST25APR11-01-034 ,TEM ABF Effluent (04-10-2025),4/10/2025,Total Suspended Solids,194,194,,mg/L
+ST25APR11-01-034 ,TEM ABF Effluent (04-10-2025),4/10/2025,Volatile Suspended Solids,153,153,,mg/L
+ST25APR11-01-034 ,TEM ABF Effluent (04-10-2025),4/10/2025,pH,7.69,7.69,,pH Units
+ST25APR11-01-034 ,TEM ABF Effluent (04-10-2025),4/10/2025,Soluble BOD,43,43,,mg/L
+ST25APR12-02-033 ,TEM ABF Effluent (04-11-2025),4/11/2025,% Volatile Suspended Solids,79,79,,%
+ST25APR12-02-033 ,TEM ABF Effluent (04-11-2025),4/11/2025,Total Suspended Solids,187,187,,mg/L
+ST25APR12-02-033 ,TEM ABF Effluent (04-11-2025),4/11/2025,Volatile Suspended Solids,147,147,,mg/L
+ST25APR12-02-033 ,TEM ABF Effluent (04-11-2025),4/11/2025,pH,7.58,7.58,,pH Units
+ST25APR12-02-033 ,TEM ABF Effluent (04-11-2025),4/11/2025,Soluble BOD,75,75,,mg/L
+ST25APR13-02-033 ,TEM ABF Effluent (04-12-2025),4/12/2025,% Volatile Suspended Solids,84,84,,%
+ST25APR13-02-033 ,TEM ABF Effluent (04-12-2025),4/12/2025,Total Suspended Solids,232,232,,mg/L
+ST25APR13-02-033 ,TEM ABF Effluent (04-12-2025),4/12/2025,Volatile Suspended Solids,196,196,,mg/L
+ST25APR13-02-033 ,TEM ABF Effluent (04-12-2025),4/12/2025,pH,7.52,7.52,,pH Units
+ST25APR13-02-033 ,TEM ABF Effluent (04-12-2025),4/12/2025,Soluble BOD,96,96,,mg/L
+ST25APR14-01-034 ,TEM ABF Effluent (04-13-2025),4/13/2025,% Volatile Suspended Solids,86,86,,%
+ST25APR14-01-034 ,TEM ABF Effluent (04-13-2025),4/13/2025,Total Suspended Solids,265,265,,mg/L
+ST25APR14-01-034 ,TEM ABF Effluent (04-13-2025),4/13/2025,Volatile Suspended Solids,228,228,,mg/L
+ST25APR15-01-034 ,TEM ABF Effluent (04-14-2025),4/14/2025,% Volatile Suspended Solids,84,84,,%
+ST25APR15-01-034 ,TEM ABF Effluent (04-14-2025),4/14/2025,Total Suspended Solids,248,248,,mg/L
+ST25APR15-01-034 ,TEM ABF Effluent (04-14-2025),4/14/2025,Volatile Suspended Solids,208,208,,mg/L
+ST25APR15-01-034 ,TEM ABF Effluent (04-14-2025),4/14/2025,pH,7.45,7.45,,pH Units
+ST25APR15-01-034 ,TEM ABF Effluent (04-14-2025),4/14/2025,Soluble BOD,127,127,,mg/L
+ST25APR16-01-034 ,TEM ABF Effluent (04-15-2025),4/15/2025,% Volatile Suspended Solids,72,72,,%
+ST25APR16-01-034 ,TEM ABF Effluent (04-15-2025),4/15/2025,Total Suspended Solids,647,647,,mg/L
+ST25APR16-01-034 ,TEM ABF Effluent (04-15-2025),4/15/2025,Volatile Suspended Solids,463,463,,mg/L
+ST25APR16-01-034 ,TEM ABF Effluent (04-15-2025),4/15/2025,pH,7.64,7.64,,pH Units
+ST25APR16-01-034 ,TEM ABF Effluent (04-15-2025),4/15/2025,Soluble BOD,110,110,,mg/L
+ST25APR17-01-036 ,TEM ABF Effluent (04-16-2025),4/16/2025,pH,7.04,7.04,,pH Units
+ST25APR17-01-036 ,TEM ABF Effluent (04-16-2025),4/16/2025,Soluble BOD,174,174,,mg/L
+ST25APR17-01-036 ,TEM ABF Effluent (04-16-2025),4/16/2025,% Volatile Suspended Solids,76,76,,%
+ST25APR17-01-036 ,TEM ABF Effluent (04-16-2025),4/16/2025,Total Suspended Solids,433,433,,mg/L
+ST25APR17-01-036 ,TEM ABF Effluent (04-16-2025),4/16/2025,Volatile Suspended Solids,328,328,,mg/L
+ST25APR18-01-034 ,TEM ABF Effluent (04-17-2025),4/17/2025,% Volatile Suspended Solids,73,73,,%
+ST25APR18-01-034 ,TEM ABF Effluent (04-17-2025),4/17/2025,Total Suspended Solids,301,301,,mg/L
+ST25APR18-01-034 ,TEM ABF Effluent (04-17-2025),4/17/2025,Volatile Suspended Solids,221,221,,mg/L
+ST25APR19-02-033 ,TEM ABF Effluent (04-18-2025),4/18/2025,% Volatile Suspended Solids,79,79,,%
+ST25APR19-02-033 ,TEM ABF Effluent (04-18-2025),4/18/2025,Total Suspended Solids,543,543,,mg/L
+ST25APR19-02-033 ,TEM ABF Effluent (04-18-2025),4/18/2025,Volatile Suspended Solids,430,430,,mg/L
+ST25APR20-02-033 ,TEM ABF Effluent (04-19-2025),4/19/2025,% Volatile Suspended Solids,87,87,,%
+ST25APR20-02-033 ,TEM ABF Effluent (04-19-2025),4/19/2025,Total Suspended Solids,430,430,,mg/L
+ST25APR20-02-033 ,TEM ABF Effluent (04-19-2025),4/19/2025,Volatile Suspended Solids,373,373,,mg/L
+ST25APR21-01-034 ,TEM ABF Effluent (04-20-2025),4/20/2025,% Volatile Suspended Solids,83,83,,%
+ST25APR21-01-034 ,TEM ABF Effluent (04-20-2025),4/20/2025,Total Suspended Solids,348,348,,mg/L
+ST25APR21-01-034 ,TEM ABF Effluent (04-20-2025),4/20/2025,Volatile Suspended Solids,288,288,,mg/L
+ST25APR22-01-034 ,TEM ABF Effluent (04-21-2025),4/21/2025,% Volatile Suspended Solids,86,86,,%
+ST25APR22-01-034 ,TEM ABF Effluent (04-21-2025),4/21/2025,Total Suspended Solids,363,363,,mg/L
+ST25APR22-01-034 ,TEM ABF Effluent (04-21-2025),4/21/2025,Volatile Suspended Solids,313,313,,mg/L
+ST25APR22-01-034 ,TEM ABF Effluent (04-21-2025),4/21/2025,pH,7.42,7.42,,pH Units
+ST25APR22-01-034 ,TEM ABF Effluent (04-21-2025),4/21/2025,Soluble BOD,320,320,,mg/L
+ST25APR21-01-040,TEM ABF Effluent (TF-4) (04-21-2025),4/21/2025,pH,7.86,7.86,,pH Units
+ST25APR21-01-040,TEM ABF Effluent (TF-4) (04-21-2025),4/21/2025,Soluble BOD,104,104,,mg/L
+ST25APR21-01-039,TEM ABF Effluent (TF-1) (04-21-2025),4/21/2025,pH,7.80,7.80,,pH Units
+ST25APR21-01-039,TEM ABF Effluent (TF-1) (04-21-2025),4/21/2025,Soluble BOD,125,125,,mg/L
+ST25APR23-01-034 ,TEM ABF Effluent (04-22-2025),4/22/2025,% Volatile Suspended Solids,88,88,,%
+ST25APR23-01-034 ,TEM ABF Effluent (04-22-2025),4/22/2025,Total Suspended Solids,358,358,,mg/L
+ST25APR23-01-034 ,TEM ABF Effluent (04-22-2025),4/22/2025,Volatile Suspended Solids,316,316,,mg/L
+ST25APR23-01-034 ,TEM ABF Effluent (04-22-2025),4/22/2025,pH,7.42,7.42,,pH Units
+ST25APR23-01-034 ,TEM ABF Effluent (04-22-2025),4/22/2025,Soluble BOD,65,65,,mg/L
+ST25APR22-01-037,TEM ABF Effluent (TF EFF 1) (04-22-2025),4/22/2025,pH,7.85,7.85,,pH Units
+ST25APR22-01-037,TEM ABF Effluent (TF EFF 1) (04-22-2025),4/22/2025,Soluble BOD,108,108,,mg/L
+ST25APR22-01-038,TEM ABF Effluent (TF EFF 4) (04-22-2025),4/22/2025,pH,7.90,7.90,,pH Units
+ST25APR22-01-038,TEM ABF Effluent (TF EFF 4) (04-22-2025),4/22/2025,Soluble BOD,94,94,,mg/L
+ST25APR24-01-036 ,TEM ABF Effluent (04-23-2025),4/23/2025,pH,6.57,6.57,,pH Units
+ST25APR24-01-036 ,TEM ABF Effluent (04-23-2025),4/23/2025,Soluble BOD,124,124,,mg/L
+ST25APR24-01-036 ,TEM ABF Effluent (04-23-2025),4/23/2025,% Volatile Suspended Solids,67,67,,%
+ST25APR24-01-036 ,TEM ABF Effluent (04-23-2025),4/23/2025,Total Suspended Solids,553,553,,mg/L
+ST25APR24-01-036 ,TEM ABF Effluent (04-23-2025),4/23/2025,Volatile Suspended Solids,370,370,,mg/L
+ST25APR24-01-043,TEM ABF Effluent (04-23-2025),4/23/2025,Chemical Oxygen Demand,1096,1096,,mg/L
+ST25APR23-01-036,TEM ABF Effluent (TF EFF 1) (04-23-2025),4/23/2025,pH,7.77,7.77,,pH Units
+ST25APR23-01-036,TEM ABF Effluent (TF EFF 1) (04-23-2025),4/23/2025,Soluble BOD,161,161,,mg/L
+ST25APR23-01-037,TEM ABF Effluent (TF EFF 4) (04-23-2025),4/23/2025,pH,7.76,7.76,,pH Units
+ST25APR23-01-037,TEM ABF Effluent (TF EFF 4) (04-23-2025),4/23/2025,Soluble BOD,131,131,,mg/L
+ST25APR25-01-034 ,TEM ABF Effluent (04-24-2025),4/24/2025,% Volatile Suspended Solids,85,85,,%
+ST25APR25-01-034 ,TEM ABF Effluent (04-24-2025),4/24/2025,Total Suspended Solids,487,487,,mg/L
+ST25APR25-01-034 ,TEM ABF Effluent (04-24-2025),4/24/2025,Volatile Suspended Solids,413,413,,mg/L
+ST25APR25-01-034 ,TEM ABF Effluent (04-24-2025),4/24/2025,pH,7.44,7.44,,pH Units
+ST25APR25-01-034 ,TEM ABF Effluent (04-24-2025),4/24/2025,Soluble BOD,133,133,,mg/L
+ST25APR25-01-038,TEM ABF Effluent (04-24-2025),4/24/2025,Chemical Oxygen Demand,944,944,,mg/L
+ST25APR24-01-039,TEM ABF Effluent (TF EFF 1) (04-24-2025),4/24/2025,pH,7.78,7.78,,pH Units
+ST25APR24-01-039,TEM ABF Effluent (TF EFF 1) (04-24-2025),4/24/2025,Soluble BOD,164,164,,mg/L
+ST25APR24-01-040,TEM ABF Effluent (TF EFF 4) (04-24-2025),4/24/2025,pH,7.76,7.76,,pH Units
+ST25APR24-01-040,TEM ABF Effluent (TF EFF 4) (04-24-2025),4/24/2025,Soluble BOD,167,167,,mg/L
+ST25APR25-01-040,TEM ABF Effluent (04-25-2025),4/25/2025,Chemical Oxygen Demand,307,307,,mg/L
+ST25APR25-01-042,TEM ABF Effluent (TF-1) (04-25-2025),4/25/2025,pH,7.75,7.75,,pH Units
+ST25APR25-01-042,TEM ABF Effluent (TF-1) (04-25-2025),4/25/2025,Soluble BOD,101,101,,mg/L
+ST25APR25-01-043,TEM ABF Effluent (TF-4) (04-25-2025),4/25/2025,pH,7.82,7.82,,pH Units
+ST25APR25-01-043,TEM ABF Effluent (TF-4) (04-25-2025),4/25/2025,Soluble BOD,109,109,,mg/L
+ST25APR26-02-033 ,TEM ABF Effluent (04-25-2025),4/25/2025,% Volatile Suspended Solids,83,83,,%
+ST25APR26-02-033 ,TEM ABF Effluent (04-25-2025),4/25/2025,Total Suspended Solids,310,310,,mg/L
+ST25APR26-02-033 ,TEM ABF Effluent (04-25-2025),4/25/2025,Volatile Suspended Solids,258,258,,mg/L
+ST25APR27-02-033 ,TEM ABF Effluent (04-26-2025),4/26/2025,% Volatile Suspended Solids,76,76,,%
+ST25APR27-02-033 ,TEM ABF Effluent (04-26-2025),4/26/2025,Total Suspended Solids,448,448,,mg/L
+ST25APR27-02-033 ,TEM ABF Effluent (04-26-2025),4/26/2025,Volatile Suspended Solids,340,340,,mg/L
+ST25APR28-01-034 ,TEM ABF Effluent (04-27-2025),4/27/2025,% Volatile Suspended Solids,84,84,,%
+ST25APR28-01-034 ,TEM ABF Effluent (04-27-2025),4/27/2025,Total Suspended Solids,446,446,,mg/L
+ST25APR28-01-034 ,TEM ABF Effluent (04-27-2025),4/27/2025,Volatile Suspended Solids,374,374,,mg/L
+ST25APR29-01-034 ,TEM ABF Effluent (04-28-2025),4/28/2025,% Volatile Suspended Solids,78,78,,%
+ST25APR29-01-034 ,TEM ABF Effluent (04-28-2025),4/28/2025,Total Suspended Solids,294,294,,mg/L
+ST25APR29-01-034 ,TEM ABF Effluent (04-28-2025),4/28/2025,Volatile Suspended Solids,230,230,,mg/L
+ST25APR29-01-034 ,TEM ABF Effluent (04-28-2025),4/28/2025,pH,7.29,7.29,,pH Units
+ST25APR29-01-034 ,TEM ABF Effluent (04-28-2025),4/28/2025,Soluble BOD,51,51,,mg/L
+ST25APR29-01-036,TEM ABF Effluent (04-28-2025),4/28/2025,Chemical Oxygen Demand,737,737,,mg/L
+ST25APR28-01-039,TEM ABF Effluent (TF1) (04-28-2025),4/28/2025,pH,7.70,7.70,,pH Units
+ST25APR28-01-039,TEM ABF Effluent (TF1) (04-28-2025),4/28/2025,Soluble BOD,68,68,,mg/L
+ST25APR28-01-040,TEM ABF Effluent (TF4) (04-28-2025),4/28/2025,pH,7.82,7.82,,pH Units
+ST25APR28-01-040,TEM ABF Effluent (TF4) (04-28-2025),4/28/2025,Soluble BOD,62,62,,mg/L
+ST25APR29-01-038,TEM ABF Effluent (TF1) (04-29-2025),4/29/2025,pH,7.81,7.81,,pH Units
+ST25APR29-01-038,TEM ABF Effluent (TF1) (04-29-2025),4/29/2025,Soluble BOD,90,90,,mg/L
+ST25APR29-01-039,TEM ABF Effluent (TF4) (04-29-2025),4/29/2025,pH,7.88,7.88,,pH Units
+ST25APR29-01-039,TEM ABF Effluent (TF4) (04-29-2025),4/29/2025,Soluble BOD,67,67,,mg/L
+ST25APR30-01-034 ,TEM ABF Effluent (04-29-2025),4/29/2025,% Volatile Suspended Solids,84,84,,%
+ST25APR30-01-034 ,TEM ABF Effluent (04-29-2025),4/29/2025,Total Suspended Solids,278,278,,mg/L
+ST25APR30-01-034 ,TEM ABF Effluent (04-29-2025),4/29/2025,Volatile Suspended Solids,234,234,,mg/L
+ST25APR30-01-034 ,TEM ABF Effluent (04-29-2025),4/29/2025,pH,7.55,7.55,,pH Units
+ST25APR30-01-034 ,TEM ABF Effluent (04-29-2025),4/29/2025,Soluble BOD,41,41,,mg/L
+ST25APR30-01-034 ,TEM ABF Effluent (04-29-2025),4/29/2025,Chemical Oxygen Demand,628,628,,mg/L
+ST25APR30-01-036,TEM ABF Effluent (TF1) (04-30-2025),4/30/2025,pH,7.89,7.89,,pH Units
+ST25APR30-01-036,TEM ABF Effluent (TF1) (04-30-2025),4/30/2025,Soluble BOD,48,48,,mg/L
+ST25APR30-01-037,TEM ABF Effluent (TF4) (04-30-2025),4/30/2025,pH,7.91,7.91,,pH Units
+ST25APR30-01-037,TEM ABF Effluent (TF4) (04-30-2025),4/30/2025,Soluble BOD,43,43,,mg/L
+ST25MAY01-06-036 ,TEM ABF Effluent (04-30-2025),4/30/2025,pH,7.30,7.30,,pH Units
+ST25MAY01-06-036 ,TEM ABF Effluent (04-30-2025),4/30/2025,Soluble BOD,63,63,,mg/L
+ST25MAY01-06-036 ,TEM ABF Effluent (04-30-2025),4/30/2025,% Volatile Suspended Solids,78,78,,%
+ST25MAY01-06-036 ,TEM ABF Effluent (04-30-2025),4/30/2025,Total Suspended Solids,372,372,,mg/L
+ST25MAY01-06-036 ,TEM ABF Effluent (04-30-2025),4/30/2025,Volatile Suspended Solids,290,290,,mg/L
+ST25MAY01-06-038,TEM ABF Effluent (TF1) (05-01-2025),5/1/2025,pH,7.90,7.90,,pH Units
+ST25MAY01-06-038,TEM ABF Effluent (TF1) (05-01-2025),5/1/2025,Soluble BOD,45,45,,mg/L
+ST25MAY02-01-034,TEM ABF Effluent (05-01-2025),5/1/2025,pH,7.14,7.14,,pH Units
+ST25MAY02-01-034,TEM ABF Effluent (05-01-2025),5/1/2025,Soluble BOD,>50,>50,,mg/L
+ST25MAY02-01-034,TEM ABF Effluent (05-01-2025),5/1/2025,Chemical Oxygen Demand,826,826,,mg/L
+ST25MAY02-01-034,TEM ABF Effluent (05-01-2025),5/1/2025,% Volatile Suspended Solids,87,87,,%
+ST25MAY02-01-034,TEM ABF Effluent (05-01-2025),5/1/2025,Total Suspended Solids,316,316,,mg/L
+ST25MAY02-01-034,TEM ABF Effluent (05-01-2025),5/1/2025,Volatile Suspended Solids,276,276,,mg/L
+ST25MAY02-01-036,TEM ABF Effluent (TF EFF 1) (05-02-2025),5/2/2025,pH,7.83,7.83,,pH Units
+ST25MAY02-01-036,TEM ABF Effluent (TF EFF 1) (05-02-2025),5/2/2025,Soluble BOD,86,86,,mg/L
+ST25MAY02-01-036,TEM ABF Effluent (TF EFF 1) (05-02-2025),5/2/2025,% Volatile Suspended Solids,87,87,,%
+ST25MAY02-01-036,TEM ABF Effluent (TF EFF 1) (05-02-2025),5/2/2025,Total Suspended Solids,316,316,,mg/L
+ST25MAY02-01-036,TEM ABF Effluent (TF EFF 1) (05-02-2025),5/2/2025,Volatile Suspended Solids,276,276,,mg/L
+ST25MAY02-01-037,TEM ABF Effluent (TF EFF 4) (05-02-2025),5/2/2025,pH,7.91,7.91,,pH Units
+ST25MAY02-01-037,TEM ABF Effluent (TF EFF 4) (05-02-2025),5/2/2025,Soluble BOD,65,65,,mg/L
+ST25MAY03-02-033 ,TEM ABF Effluent (05-02-2025),5/2/2025,% Volatile Suspended Solids,78,78,,%
+ST25MAY03-02-033 ,TEM ABF Effluent (05-02-2025),5/2/2025,Total Suspended Solids,360,360,,mg/L
+ST25MAY03-02-033 ,TEM ABF Effluent (05-02-2025),5/2/2025,Volatile Suspended Solids,282,282,,mg/L
+ST25MAY04-02-033 ,TEM ABF Effluent (05-03-2025),5/3/2025,% Volatile Suspended Solids,79,79,,%
+ST25MAY04-02-033 ,TEM ABF Effluent (05-03-2025),5/3/2025,Total Suspended Solids,455,455,,mg/L
+ST25MAY04-02-033 ,TEM ABF Effluent (05-03-2025),5/3/2025,Volatile Suspended Solids,358,358,,mg/L
+ST25MAY05-01-039,TEM ABF Effluent (TF1) (05-04-2025),5/4/2025,pH,7.73,7.73,,pH Units
+ST25MAY05-01-039,TEM ABF Effluent (TF1) (05-04-2025),5/4/2025,Soluble BOD,125,125,,mg/L
+ST25MAY05-01-034 ,TEM ABF Effluent (05-04-2025),5/4/2025,% Volatile Suspended Solids,90,90,,%
+ST25MAY05-01-034 ,TEM ABF Effluent (05-04-2025),5/4/2025,Total Suspended Solids,283,283,,mg/L
+ST25MAY05-01-034 ,TEM ABF Effluent (05-04-2025),5/4/2025,Volatile Suspended Solids,254,254,,mg/L
+ST25MAY05-01-043,TEM ABF Effluent (SP Project) (05-04-2025),5/4/2025,Chemical Oxygen Demand,626,626,,mg/L
+ST25MAY05-01-040,TEM ABF Effluent (TF4) (05-05-2025),5/5/2025,pH,7.82,7.82,,pH Units
+ST25MAY05-01-040,TEM ABF Effluent (TF4) (05-05-2025),5/5/2025,Soluble BOD,61,61,,mg/L
+ST25MAY06-01-034,TEM ABF Effluent (05-05-2025),5/5/2025,% Volatile Suspended Solids,88,88,,%
+ST25MAY06-01-034,TEM ABF Effluent (05-05-2025),5/5/2025,Total Suspended Solids,289,289,,mg/L
+ST25MAY06-01-034,TEM ABF Effluent (05-05-2025),5/5/2025,Volatile Suspended Solids,254,254,,mg/L
+ST25MAY06-01-034,TEM ABF Effluent (05-05-2025),5/5/2025,pH,7.17,7.17,,pH Units
+ST25MAY06-01-034,TEM ABF Effluent (05-05-2025),5/5/2025,Soluble BOD,67,67,,mg/L
+ST25MAY06-01-039,TEM ABF Effluent (Special Project) (05-05-2025),5/5/2025,Chemical Oxygen Demand,696,696,,mg/L
+ST25MAY06-01-036,TEM ABF Effluent (TF1) (05-06-2025),5/6/2025,pH,7.81,7.81,,pH Units
+ST25MAY06-01-036,TEM ABF Effluent (TF1) (05-06-2025),5/6/2025,Soluble BOD,103,103,,mg/L
+ST25MAY06-01-037,TEM ABF Effluent (TF4) (05-06-2025),5/6/2025,pH,7.89,7.89,,pH Units
+ST25MAY06-01-037,TEM ABF Effluent (TF4) (05-06-2025),5/6/2025,Soluble BOD,82,82,,mg/L
+ST25MAY07-01-034,TEM ABF Effluent (05-06-2025),5/6/2025,% Volatile Suspended Solids,91,91,,%
+ST25MAY07-01-034,TEM ABF Effluent (05-06-2025),5/6/2025,Total Suspended Solids,256,256,,mg/L
+ST25MAY07-01-034,TEM ABF Effluent (05-06-2025),5/6/2025,Volatile Suspended Solids,234,234,,mg/L
+ST25MAY07-01-034,TEM ABF Effluent (05-06-2025),5/6/2025,pH,7.22,7.22,,pH Units
+ST25MAY07-01-034,TEM ABF Effluent (05-06-2025),5/6/2025,Soluble BOD,65,65,,mg/L
+ST25MAY07-01-040,TEM ABF Effluent (TF EFF1) (05-06-2025),5/6/2025,pH,7.84,7.84,,pH Units
+ST25MAY07-01-040,TEM ABF Effluent (TF EFF1) (05-06-2025),5/6/2025,Soluble BOD,76,76,,mg/L
+ST25MAY07-01-041,TEM ABF Effluent (TF EFF4) (05-06-2025),5/6/2025,pH,7.84,7.84,,pH Units
+ST25MAY07-01-041,TEM ABF Effluent (TF EFF4) (05-06-2025),5/6/2025,Soluble BOD,65,65,,mg/L
+ST25MAY07-01-035,TEM ABF Effluent (SP) (05-06-2025),5/6/2025,Chemical Oxygen Demand,713,713,,mg/L
+ST25MAY08-01-036 ,TEM ABF Effluent (05-07-2025),5/7/2025,pH,7.35,7.35,,pH Units
+ST25MAY08-01-036 ,TEM ABF Effluent (05-07-2025),5/7/2025,Soluble BOD,<60,<60,,mg/L
+ST25MAY08-01-036 ,TEM ABF Effluent (05-07-2025),5/7/2025,% Volatile Suspended Solids,85,85,,%
+ST25MAY08-01-036 ,TEM ABF Effluent (05-07-2025),5/7/2025,Total Suspended Solids,308,308,,mg/L
+ST25MAY08-01-036 ,TEM ABF Effluent (05-07-2025),5/7/2025,Volatile Suspended Solids,263,263,,mg/L
+ST25MAY08-01-039,TEM ABF Effluent (SP) (05-07-2025),5/7/2025,Chemical Oxygen Demand,550,550,,mg/L
+ST25MAY09-01-034 ,TEM ABF Effluent (05-08-2025),5/8/2025,% Volatile Suspended Solids,72,72,,%
+ST25MAY09-01-034 ,TEM ABF Effluent (05-08-2025),5/8/2025,Total Suspended Solids,304,304,,mg/L
+ST25MAY09-01-034 ,TEM ABF Effluent (05-08-2025),5/8/2025,Volatile Suspended Solids,218,218,,mg/L
+ST25MAY09-01-034 ,TEM ABF Effluent (05-08-2025),5/8/2025,pH,7.49,7.49,,pH Units
+ST25MAY09-01-034 ,TEM ABF Effluent (05-08-2025),5/8/2025,Soluble BOD,<60,<60,,mg/L
+ST25MAY09-01-037,TEM ABF Effluent (sp) (05-08-2025),5/8/2025,Chemical Oxygen Demand,490,490,,mg/L
+ST25MAY08-01-041,TEM ABF Effluent (TF-1) (05-08-2025),5/8/2025,pH,7.90,7.90,,pH Units
+ST25MAY08-01-041,TEM ABF Effluent (TF-1) (05-08-2025),5/8/2025,Soluble BOD,44,44,,mg/L
+ST25MAY08-01-042,TEM ABF Effluent (TF-4) (05-08-2025),5/8/2025,pH,7.86,7.86,,pH Units
+ST25MAY08-01-042,TEM ABF Effluent (TF-4) (05-08-2025),5/8/2025,Soluble BOD,38,38,,mg/L
+ST25MAY10-02-038,TEM ABF Effluent (SP Project) (05-09-2025),5/9/2025,Chemical Oxygen Demand,1384,1384,,mg/L
+ST25MAY09-01-039,TEM ABF Effluent (TF EFF 1) (05-09-2025),5/9/2025,pH,7.72,7.72,,pH Units
+ST25MAY09-01-039,TEM ABF Effluent (TF EFF 1) (05-09-2025),5/9/2025,Soluble BOD,97,97,,mg/L
+ST25MAY09-01-040,TEM ABF Effluent (TF EFF 4) (05-09-2025),5/9/2025,pH,7.85,7.85,,pH Units
+ST25MAY09-01-040,TEM ABF Effluent (TF EFF 4) (05-09-2025),5/9/2025,Soluble BOD,43,43,,mg/L
+ST25MAY10-02-033 ,TEM ABF Effluent (05-09-2025),5/9/2025,% Volatile Suspended Solids,77,77,,%
+ST25MAY10-02-033 ,TEM ABF Effluent (05-09-2025),5/9/2025,Total Suspended Solids,378,378,,mg/L
+ST25MAY10-02-033 ,TEM ABF Effluent (05-09-2025),5/9/2025,Volatile Suspended Solids,290,290,,mg/L
+ST25MAY11-02-037,TEM ABF Effluent (SP Project) (05-10-2025),5/10/2025,Chemical Oxygen Demand,1084,1084,,mg/L
+ST25MAY11-02-033 ,TEM ABF Effluent (05-10-2025),5/10/2025,% Volatile Suspended Solids,86,86,,%
+ST25MAY11-02-033 ,TEM ABF Effluent (05-10-2025),5/10/2025,Total Suspended Solids,390,390,,mg/L
+ST25MAY11-02-033 ,TEM ABF Effluent (05-10-2025),5/10/2025,Volatile Suspended Solids,335,335,,mg/L
+ST25MAY12-01-042,TEM ABF Effluent (SP Project) (05-11-2025),5/11/2025,Chemical Oxygen Demand,628,628,,mg/L
+ST25MAY12-01-034 ,TEM ABF Effluent (05-11-2025),5/11/2025,% Volatile Suspended Solids,86,86,,%
+ST25MAY12-01-034 ,TEM ABF Effluent (05-11-2025),5/11/2025,Total Suspended Solids,313,313,,mg/L
+ST25MAY12-01-034 ,TEM ABF Effluent (05-11-2025),5/11/2025,Volatile Suspended Solids,270,270,,mg/L
+ST25MAY13-01-034 ,TEM ABF Effluent (05-12-2025),5/12/2025,% Volatile Suspended Solids,74,74,,%
+ST25MAY13-01-034 ,TEM ABF Effluent (05-12-2025),5/12/2025,Total Suspended Solids,733,733,,mg/L
+ST25MAY13-01-034 ,TEM ABF Effluent (05-12-2025),5/12/2025,Volatile Suspended Solids,543,543,,mg/L
+ST25MAY13-01-034 ,TEM ABF Effluent (05-12-2025),5/12/2025,pH,7.27,7.27,,pH Units
+ST25MAY13-01-034 ,TEM ABF Effluent (05-12-2025),5/12/2025,Soluble BOD,68,68,,mg/L
+ST25MAY13-01-035,TEM ABF Effluent (SP Project) (05-12-2025),5/12/2025,Chemical Oxygen Demand,1089,1089,,mg/L
+ST25MAY12-01-039,TEM ABF Effluent (TF EFF 1) (05-12-2025),5/12/2025,pH,7.51,7.51,,pH Units
+ST25MAY12-01-039,TEM ABF Effluent (TF EFF 1) (05-12-2025),5/12/2025,Soluble BOD,123,123,,mg/L
+ST25MAY12-01-040,TEM ABF Effluent (TF EFF 4) (05-12-2025),5/12/2025,pH,7.70,7.70,,pH Units
+ST25MAY12-01-040,TEM ABF Effluent (TF EFF 4) (05-12-2025),5/12/2025,Soluble BOD,66,66,,mg/L
+ST25MAY14-01-034 ,TEM ABF Effluent (05-13-2025),5/13/2025,% Volatile Suspended Solids,85,85,,%
+ST25MAY14-01-034 ,TEM ABF Effluent (05-13-2025),5/13/2025,Total Suspended Solids,193,193,,mg/L
+ST25MAY14-01-034 ,TEM ABF Effluent (05-13-2025),5/13/2025,Volatile Suspended Solids,165,165,,mg/L
+ST25MAY14-01-034 ,TEM ABF Effluent (05-13-2025),5/13/2025,pH,7.28,7.28,,pH Units
+ST25MAY14-01-034 ,TEM ABF Effluent (05-13-2025),5/13/2025,Soluble BOD,91,91,,mg/L
+ST25MAY14-01-039,TEM ABF Effluent (SP Project) (05-13-2025),5/13/2025,Chemical Oxygen Demand,390,390,,mg/L
+ST25MAY13-01-037,TEM ABF Effluent (TF 1) (05-13-2025),5/13/2025,pH,7.66,7.66,,pH Units
+ST25MAY13-01-037,TEM ABF Effluent (TF 1) (05-13-2025),5/13/2025,Soluble BOD,125,125,,mg/L
+ST25MAY13-01-038,TEM ABF Effluent (TF 4) (05-13-2025),5/13/2025,pH,7.77,7.77,,pH Units
+ST25MAY13-01-038,TEM ABF Effluent (TF 4) (05-13-2025),5/13/2025,Soluble BOD,53,53,,mg/L
+ST25MAY15-01-036 ,TEM ABF Effluent (05-14-2025),5/14/2025,pH,7.73,7.73,,pH Units
+ST25MAY15-01-036 ,TEM ABF Effluent (05-14-2025),5/14/2025,Soluble BOD,<35,<35,,mg/L
+ST25MAY15-01-036 ,TEM ABF Effluent (05-14-2025),5/14/2025,% Volatile Suspended Solids,73,73,,%
+ST25MAY15-01-036 ,TEM ABF Effluent (05-14-2025),5/14/2025,Total Suspended Solids,171,171,,mg/L
+ST25MAY15-01-036 ,TEM ABF Effluent (05-14-2025),5/14/2025,Volatile Suspended Solids,126,126,,mg/L
+ST25MAY14-01-037,TEM ABF Effluent (TF 4) (05-14-2025),5/14/2025,pH,7.88,7.88,,pH Units
+ST25MAY14-01-037,TEM ABF Effluent (TF 4) (05-14-2025),5/14/2025,Soluble BOD,53,53,,mg/L
+ST25MAY14-01-036,TEM ABF Effluent (TF 1) (05-14-2025),5/14/2025,pH,7.73,7.73,,pH Units
+ST25MAY14-01-036,TEM ABF Effluent (TF 1) (05-14-2025),5/14/2025,Soluble BOD,105,105,,mg/L
+ST25MAY16-01-034 ,TEM ABF Effluent (05-15-2025),5/15/2025,% Volatile Suspended Solids,80,80,,%
+ST25MAY16-01-034 ,TEM ABF Effluent (05-15-2025),5/15/2025,Total Suspended Solids,532,532,,mg/L
+ST25MAY16-01-034 ,TEM ABF Effluent (05-15-2025),5/15/2025,Volatile Suspended Solids,426,426,,mg/L
+ST25MAY16-01-034 ,TEM ABF Effluent (05-15-2025),5/15/2025,pH,7.55,7.55,,pH Units
+ST25MAY16-01-034 ,TEM ABF Effluent (05-15-2025),5/15/2025,Soluble BOD,162,162,,mg/L
+ST25MAY15-01-038,TEM ABF Effluent (TF 1) (05-15-2025),5/15/2025,pH,7.70,7.70,,pH Units
+ST25MAY15-01-038,TEM ABF Effluent (TF 1) (05-15-2025),5/15/2025,Soluble BOD,158,158,,mg/L
+ST25MAY15-01-039,TEM ABF Effluent (TF 4) (05-15-2025),5/15/2025,pH,7.74,7.74,,pH Units
+ST25MAY15-01-039,TEM ABF Effluent (TF 4) (05-15-2025),5/15/2025,Soluble BOD,80,80,,mg/L
+ST25MAY16-01-037,TEM ABF Effluent (TF4) (05-16-2025),5/16/2025,pH,7.79,7.79,,pH Units
+ST25MAY16-01-037,TEM ABF Effluent (TF4) (05-16-2025),5/16/2025,Soluble BOD,37,37,,mg/L
+ST25MAY16-01-036,TEM ABF Effluent (TF1) (05-16-2025),5/16/2025,pH,7.61,7.61,,pH Units
+ST25MAY16-01-036,TEM ABF Effluent (TF1) (05-16-2025),5/16/2025,Soluble BOD,138,138,,mg/L
+ST25MAY17-02-033 ,TEM ABF Effluent (05-16-2025),5/16/2025,% Volatile Suspended Solids,76,76,,%
+ST25MAY17-02-033 ,TEM ABF Effluent (05-16-2025),5/16/2025,Total Suspended Solids,246,246,,mg/L
+ST25MAY17-02-033 ,TEM ABF Effluent (05-16-2025),5/16/2025,Volatile Suspended Solids,187,187,,mg/L
+ST25MAY17-02-039,TEM ABF Effluent (SP) (05-16-2025),5/16/2025,Chemical Oxygen Demand,969,969,,mg/L
+ST25MAY18-02-033 ,TEM ABF Effluent (05-17-2025),5/17/2025,% Volatile Suspended Solids,86,86,,%
+ST25MAY18-02-033 ,TEM ABF Effluent (05-17-2025),5/17/2025,Total Suspended Solids,338,338,,mg/L
+ST25MAY18-02-033 ,TEM ABF Effluent (05-17-2025),5/17/2025,Volatile Suspended Solids,290,290,,mg/L
+ST25MAY19-01-034 ,TEM ABF Effluent (05-18-2025),5/18/2025,% Volatile Suspended Solids,80,80,,%
+ST25MAY19-01-034 ,TEM ABF Effluent (05-18-2025),5/18/2025,Total Suspended Solids,253,253,,mg/L
+ST25MAY19-01-034 ,TEM ABF Effluent (05-18-2025),5/18/2025,Volatile Suspended Solids,201,201,,mg/L
+ST25MAY19-01-041,TEM ABF Effluent (SP) (05-18-2025),5/18/2025,Chemical Oxygen Demand,1081,1081,,mg/L
+ST25MAY20-07-034 ,TEM ABF Effluent (05-19-2025),5/19/2025,% Volatile Suspended Solids,65,65,,%
+ST25MAY20-07-034 ,TEM ABF Effluent (05-19-2025),5/19/2025,Total Suspended Solids,296,296,,mg/L
+ST25MAY20-07-034 ,TEM ABF Effluent (05-19-2025),5/19/2025,Volatile Suspended Solids,191,191,,mg/L
+ST25MAY20-07-034 ,TEM ABF Effluent (05-19-2025),5/19/2025,pH,6.50,6.50,,pH Units
+ST25MAY20-07-034 ,TEM ABF Effluent (05-19-2025),5/19/2025,Soluble BOD,119,119,,mg/L
+ST25MAY20-07-034 ,TEM ABF Effluent (05-19-2025),5/19/2025,Chemical Oxygen Demand,502,502,,mg/L
+ST25MAY19-01-040,TEM ABF Effluent (TF-4) (05-19-2025),5/19/2025,pH,7.64,7.64,,pH Units
+ST25MAY19-01-040,TEM ABF Effluent (TF-4) (05-19-2025),5/19/2025,Soluble BOD,28,28,,mg/L
+ST25MAY19-01-039,TEM ABF Effluent (TF-1) (05-19-2025),5/19/2025,pH,7.51,7.51,,pH Units
+ST25MAY19-01-039,TEM ABF Effluent (TF-1) (05-19-2025),5/19/2025,Soluble BOD,37,37,,mg/L
+ST25MAY21-01-034 ,TEM ABF Effluent (05-20-2025),5/20/2025,% Volatile Suspended Solids,72,72,,%
+ST25MAY21-01-034 ,TEM ABF Effluent (05-20-2025),5/20/2025,Total Suspended Solids,218,218,,mg/L
+ST25MAY21-01-034 ,TEM ABF Effluent (05-20-2025),5/20/2025,Volatile Suspended Solids,156,156,,mg/L
+ST25MAY21-01-034 ,TEM ABF Effluent (05-20-2025),5/20/2025,pH,7.21,7.21,,pH Units
+ST25MAY21-01-034 ,TEM ABF Effluent (05-20-2025),5/20/2025,Soluble BOD,92,92,,mg/L
+ST25MAY21-01-034 ,TEM ABF Effluent (05-20-2025),5/20/2025,Chemical Oxygen Demand,663,663,,mg/L
+ST25MAY20-07-037,TEM ABF Effluent (TF EFF 1) (05-20-2025),5/20/2025,pH,7.52,7.52,,pH Units
+ST25MAY20-07-037,TEM ABF Effluent (TF EFF 1) (05-20-2025),5/20/2025,Soluble BOD,176,176,,mg/L
+ST25MAY20-07-038,TEM ABF Effluent (TF EF 4) (05-20-2025),5/20/2025,pH,7.78,7.78,,pH Units
+ST25MAY20-07-038,TEM ABF Effluent (TF EF 4) (05-20-2025),5/20/2025,Soluble BOD,37,37,,mg/L
+ST25MAY22-01-036 ,TEM ABF Effluent (05-21-2025),5/21/2025,pH,7.11,7.11,,pH Units
+ST25MAY22-01-036 ,TEM ABF Effluent (05-21-2025),5/21/2025,Soluble BOD,168,168,,mg/L
+ST25MAY22-01-036 ,TEM ABF Effluent (05-21-2025),5/21/2025,% Volatile Suspended Solids,77,77,,%
+ST25MAY22-01-036 ,TEM ABF Effluent (05-21-2025),5/21/2025,Total Suspended Solids,155,155,,mg/L
+ST25MAY22-01-036 ,TEM ABF Effluent (05-21-2025),5/21/2025,Volatile Suspended Solids,120,120,,mg/L
+ST25MAY22-01-042,TEM ABF Effluent (Special Project) (05-21-2025),5/21/2025,Chemical Oxygen Demand,328,328,,mg/L
+ST25MAY21-01-036,TEM ABF Effluent (TF-1) (05-21-2025),5/21/2025,pH,7.43,7.43,,pH Units
+ST25MAY21-01-036,TEM ABF Effluent (TF-1) (05-21-2025),5/21/2025,Soluble BOD,161,161,,mg/L
+ST25MAY23-01-034 ,TEM ABF Effluent (05-22-2025),5/22/2025,% Volatile Suspended Solids,91,91,,%
+ST25MAY23-01-034 ,TEM ABF Effluent (05-22-2025),5/22/2025,Total Suspended Solids,178,178,,mg/L
+ST25MAY23-01-034 ,TEM ABF Effluent (05-22-2025),5/22/2025,Volatile Suspended Solids,162,162,,mg/L
+ST25MAY23-01-034 ,TEM ABF Effluent (05-22-2025),5/22/2025,pH,7.74,7.74,,pH Units
+ST25MAY23-01-034 ,TEM ABF Effluent (05-22-2025),5/22/2025,Soluble BOD,222,222,,mg/L
+ST25MAY23-01-039,TEM ABF Effluent (Special Project) (05-22-2025),5/22/2025,Chemical Oxygen Demand,345,345,,mg/L
+ST25MAY22-01-038,TEM ABF Effluent (TF-1) (05-22-2025),5/22/2025,pH,7.74,7.74,,pH Units
+ST25MAY22-01-038,TEM ABF Effluent (TF-1) (05-22-2025),5/22/2025,Soluble BOD,69,69,,mg/L
+ST25MAY22-01-039,TEM ABF Effluent (TF-4) (05-22-2025),5/22/2025,pH,7.79,7.79,,pH Units
+ST25MAY22-01-039,TEM ABF Effluent (TF-4) (05-22-2025),5/22/2025,Soluble BOD,33,33,,mg/L
+ST25MAY23-01-036,TEM ABF Effluent (TF-1) (05-23-2025),5/23/2025,pH,7.80,7.80,,pH Units
+ST25MAY23-01-036,TEM ABF Effluent (TF-1) (05-23-2025),5/23/2025,Soluble BOD,48,48,,mg/L
+ST25MAY23-01-037,TEM ABF Effluent (TF-4) (05-23-2025),5/23/2025,pH,7.85,7.85,,pH Units
+ST25MAY23-01-037,TEM ABF Effluent (TF-4) (05-23-2025),5/23/2025,Soluble BOD,30,30,,mg/L
+ST25MAY24-02-033 ,TEM ABF Effluent (05-23-2025),5/23/2025,% Volatile Suspended Solids,76,76,,%
+ST25MAY24-02-033 ,TEM ABF Effluent (05-23-2025),5/23/2025,Total Suspended Solids,457,457,,mg/L
+ST25MAY24-02-033 ,TEM ABF Effluent (05-23-2025),5/23/2025,Volatile Suspended Solids,347,347,,mg/L
+ST25MAY25-02-033 ,TEM ABF Effluent (05-24-2025),5/24/2025,% Volatile Suspended Solids,81,81,,%
+ST25MAY25-02-033 ,TEM ABF Effluent (05-24-2025),5/24/2025,Total Suspended Solids,354,354,,mg/L
+ST25MAY25-02-033 ,TEM ABF Effluent (05-24-2025),5/24/2025,Volatile Suspended Solids,288,288,,mg/L
+ST25MAY26-01-038,TEM ABF Effluent (SP) (05-25-2025),5/25/2025,Chemical Oxygen Demand,953,953,,mg/L
+ST25MAY27-01-034 ,TEM ABF Effluent (05-26-2025),5/26/2025,% Volatile Suspended Solids,71,71,,%
+ST25MAY27-01-034 ,TEM ABF Effluent (05-26-2025),5/26/2025,Total Suspended Solids,186,186,,mg/L
+ST25MAY27-01-034 ,TEM ABF Effluent (05-26-2025),5/26/2025,Volatile Suspended Solids,132,132,,mg/L
+ST25MAY27-01-038,TEM ABF Effluent (SP) (05-26-2025),5/26/2025,Chemical Oxygen Demand,901,901,,mg/L
+ST25MAY28-01-034 ,TEM ABF Effluent (05-27-2025),5/27/2025,% Volatile Suspended Solids,82,82,,%
+ST25MAY28-01-034 ,TEM ABF Effluent (05-27-2025),5/27/2025,Total Suspended Solids,105,105,,mg/L
+ST25MAY28-01-034 ,TEM ABF Effluent (05-27-2025),5/27/2025,Volatile Suspended Solids,85,85,,mg/L
+ST25MAY28-01-034 ,TEM ABF Effluent (05-27-2025),5/27/2025,pH,7.35,7.35,,pH Units
+ST25MAY28-01-034 ,TEM ABF Effluent (05-27-2025),5/27/2025,Soluble BOD,162,162,,mg/L
+ST25MAY27-01-036,TEM ABF Effluent (TF1) (05-27-2025),5/27/2025,pH,8.00,8.00,,pH Units
+ST25MAY27-01-036,TEM ABF Effluent (TF1) (05-27-2025),5/27/2025,Soluble BOD,24,24,,mg/L
+ST25MAY27-01-037,TEM ABF Effluent (TF4) (05-27-2025),5/27/2025,pH,7.94,7.94,,pH Units
+ST25MAY27-01-037,TEM ABF Effluent (TF4) (05-27-2025),5/27/2025,Soluble BOD,20,20,,mg/L
+ST25MAY28-01-035,TEM ABF Effluent (SP) (05-27-2025),5/27/2025,Chemical Oxygen Demand,186,186,,mg/L
+ST25MAY29-01-036 ,TEM ABF Effluent (05-28-2025),5/28/2025,% Volatile Suspended Solids,88,88,,%
+ST25MAY29-01-036 ,TEM ABF Effluent (05-28-2025),5/28/2025,Total Suspended Solids,251,251,,mg/L
+ST25MAY29-01-036 ,TEM ABF Effluent (05-28-2025),5/28/2025,Volatile Suspended Solids,221,221,,mg/L
+ST25MAY28-01-039,TEM ABF Effluent (TF1) (05-28-2025),5/28/2025,pH,7.78,7.78,,pH Units
+ST25MAY28-01-039,TEM ABF Effluent (TF1) (05-28-2025),5/28/2025,Soluble BOD,25,25,,mg/L
+ST25MAY28-01-040,TEM ABF Effluent (TF4) (05-28-2025),5/28/2025,pH,7.98,7.98,,pH Units
+ST25MAY28-01-040,TEM ABF Effluent (TF4) (05-28-2025),5/28/2025,Soluble BOD,24,24,,mg/L
+ST25MAY29-01-038,TEM ABF Effluent (SP) (05-28-2025),5/28/2025,Chemical Oxygen Demand,388,388,,mg/L
+ST25MAY29-01-041,TEM ABF Effluent (TF1) (05-29-2025),5/29/2025,pH,7.53,7.53,,pH Units
+ST25MAY29-01-041,TEM ABF Effluent (TF1) (05-29-2025),5/29/2025,Soluble BOD,98,98,,mg/L
+ST25MAY29-01-042,TEM ABF Effluent (TF4) (05-29-2025),5/29/2025,pH,7.69,7.69,,pH Units
+ST25MAY29-01-042,TEM ABF Effluent (TF4) (05-29-2025),5/29/2025,Soluble BOD,42,42,,mg/L
+ST25MAY31-02-033 ,TEM ABF Effluent (05-30-2025),5/30/2025,% Volatile Suspended Solids,76,76,,%
+ST25MAY31-02-033 ,TEM ABF Effluent (05-30-2025),5/30/2025,Total Suspended Solids,220,220,,mg/L
+ST25MAY31-02-033 ,TEM ABF Effluent (05-30-2025),5/30/2025,Volatile Suspended Solids,168,168,,mg/L
+ST25JUN01-07-033 ,TEM ABF Effluent (05-31-2025),5/31/2025,% Volatile Suspended Solids,82,82,,%
+ST25JUN01-07-033 ,TEM ABF Effluent (05-31-2025),5/31/2025,Total Suspended Solids,94,94,,mg/L
+ST25JUN01-07-033 ,TEM ABF Effluent (05-31-2025),5/31/2025,Volatile Suspended Solids,77,77,,mg/L
+ST25JUN02-01-034 ,TEM ABF Effluent (06-01-2025),6/1/2025,% Volatile Suspended Solids,86,86,,%
+ST25JUN02-01-034 ,TEM ABF Effluent (06-01-2025),6/1/2025,Total Suspended Solids,303,303,,mg/L
+ST25JUN02-01-034 ,TEM ABF Effluent (06-01-2025),6/1/2025,Volatile Suspended Solids,260,260,,mg/L
+

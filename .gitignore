@@ -1,6 +1,5 @@
 secrets.yaml
 .venv/
 .env
-imports/
 *.pyc
 *.xlsx

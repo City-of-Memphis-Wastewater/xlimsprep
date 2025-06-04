@@ -1,0 +1,1251 @@
+﻿SampleName,StartDate,EndDate
+TEM Primary Influent (06-01-2024),6/1/2024,6/1/2025
+
+SampleNumber,SampleName1,SampledDate,Parameter,SWPPRCalc,ReportedResult,Qual,Unit
+ST24JUN02-02-017 ,TEM Primary Influent (06-01-2024),6/1/2024,Total Suspended Solids,980,980,,mg/L
+ST24JUN02-02-017 ,TEM Primary Influent (06-01-2024),6/1/2024,TSS - Change in Wt,4.08,4.08,,%
+ST24JUN03-01-017 ,TEM Primary Influent (06-02-2024),6/2/2024,Total Suspended Solids,748,748,,mg/L
+ST24JUN03-01-017 ,TEM Primary Influent (06-02-2024),6/2/2024,TSS - Change in Wt,1.60,1.60,,%
+ST24JUN03-01-017 ,TEM Primary Influent (06-02-2024),6/2/2024,Biochemical Oxygen Demand,534,534,,mg/L
+ST24JUN03-01-017 ,TEM Primary Influent (06-02-2024),6/2/2024,pH,6.60,6.60,,pH Units
+ST24JUN04-01-017 ,TEM Primary Influent (06-03-2024),6/3/2024,Total Suspended Solids,860,860,,mg/L
+ST24JUN04-01-017 ,TEM Primary Influent (06-03-2024),6/3/2024,TSS - Change in Wt,0.78,0.78,,%
+ST24JUN04-01-017 ,TEM Primary Influent (06-03-2024),6/3/2024,Biochemical Oxygen Demand,570,570,,mg/L
+ST24JUN04-01-017 ,TEM Primary Influent (06-03-2024),6/3/2024,pH,6.52,6.52,,pH Units
+ST24JUN05-01-017 ,TEM Primary Influent (06-04-2024),6/4/2024,Total Suspended Solids,475,475,,mg/L
+ST24JUN05-01-017 ,TEM Primary Influent (06-04-2024),6/4/2024,TSS - Change in Wt,3.16,3.16,,%
+ST24JUN05-01-017 ,TEM Primary Influent (06-04-2024),6/4/2024,Biochemical Oxygen Demand,747,747,,mg/L
+ST24JUN05-01-017 ,TEM Primary Influent (06-04-2024),6/4/2024,pH,6.25,6.25,,pH Units
+ST24JUN06-01-017 ,TEM Primary Influent (06-05-2024),6/5/2024,Total Suspended Solids,636,636,,mg/L
+ST24JUN06-01-017 ,TEM Primary Influent (06-05-2024),6/5/2024,TSS - Change in Wt,0.63,0.63,,%
+ST24JUN06-01-017 ,TEM Primary Influent (06-05-2024),6/5/2024,Biochemical Oxygen Demand,595,595,,mg/L
+ST24JUN06-01-017 ,TEM Primary Influent (06-05-2024),6/5/2024,pH,6.49,6.49,,pH Units
+ST24JUN07-01-017 ,TEM Primary Influent (06-06-2024),6/6/2024,Total Suspended Solids,748,748,,mg/L
+ST24JUN07-01-017 ,TEM Primary Influent (06-06-2024),6/6/2024,TSS - Change in Wt,1.67,1.67,,%
+ST24JUN07-01-017 ,TEM Primary Influent (06-06-2024),6/6/2024,Biochemical Oxygen Demand,599,599,,mg/L
+ST24JUN07-01-017 ,TEM Primary Influent (06-06-2024),6/6/2024,pH,6.67,6.67,,pH Units
+ST24JUN08-02-017 ,TEM Primary Influent (06-07-2024),6/7/2024,Total Suspended Solids,1053,1053,,mg/L
+ST24JUN08-02-017 ,TEM Primary Influent (06-07-2024),6/7/2024,TSS - Change in Wt,1.27,1.27,,%
+ST24JUN09-02-017 ,TEM Primary Influent (06-08-2024),6/8/2024,Total Suspended Solids,1057,1057,,mg/L
+ST24JUN09-02-017 ,TEM Primary Influent (06-08-2024),6/8/2024,TSS - Change in Wt,1.58,1.58,,%
+ST24JUN10-01-017 ,TEM Primary Influent (06-09-2024),6/9/2024,Total Suspended Solids,1075,1075,,mg/L
+ST24JUN10-01-017 ,TEM Primary Influent (06-09-2024),6/9/2024,TSS - Change in Wt,0.47,0.47,,%
+ST24JUN10-01-017 ,TEM Primary Influent (06-09-2024),6/9/2024,Biochemical Oxygen Demand,642,642,,mg/L
+ST24JUN10-01-017 ,TEM Primary Influent (06-09-2024),6/9/2024,pH,6.56,6.56,,pH Units
+ST24JUN10-01-017 ,TEM Primary Influent (06-09-2024),6/9/2024,Biochemical Oxygen Demand,887,887,,mg/L
+ST24JUN10-01-017 ,TEM Primary Influent (06-09-2024),6/9/2024,pH,6.48,6.48,,pH Units
+ST24JUN11-01-017 ,TEM Primary Influent (06-10-2024),6/10/2024,Total Suspended Solids,1150,1150,,mg/L
+ST24JUN11-01-017 ,TEM Primary Influent (06-10-2024),6/10/2024,TSS - Change in Wt,0.00,0,,%
+ST24JUN12-02-017 ,TEM Primary Influent (06-11-2024),6/11/2024,Total Suspended Solids,1110,1110,,mg/L
+ST24JUN12-02-017 ,TEM Primary Influent (06-11-2024),6/11/2024,TSS - Change in Wt,0.00,0,,%
+ST24JUN12-02-017 ,TEM Primary Influent (06-11-2024),6/11/2024,Biochemical Oxygen Demand,709,709,,mg/L
+ST24JUN12-02-017 ,TEM Primary Influent (06-11-2024),6/11/2024,pH,6.39,6.39,,pH Units
+ST24JUN13-01-017 ,TEM Primary Influent (06-12-2024),6/12/2024,Total Suspended Solids,1227,1227,,mg/L
+ST24JUN13-01-017 ,TEM Primary Influent (06-12-2024),6/12/2024,TSS - Change in Wt,0.94,0.94,,%
+ST24JUN13-01-017 ,TEM Primary Influent (06-12-2024),6/12/2024,Biochemical Oxygen Demand,690,690,,mg/L
+ST24JUN13-01-017 ,TEM Primary Influent (06-12-2024),6/12/2024,pH,6.33,6.33,,pH Units
+ST24JUN14-01-017 ,TEM Primary Influent (06-13-2024),6/13/2024,Total Suspended Solids,688,688,,mg/L
+ST24JUN14-01-017 ,TEM Primary Influent (06-13-2024),6/13/2024,TSS - Change in Wt,0.58,0.58,,%
+ST24JUN14-01-017 ,TEM Primary Influent (06-13-2024),6/13/2024,Biochemical Oxygen Demand,640,640,,mg/L
+ST24JUN14-01-017 ,TEM Primary Influent (06-13-2024),6/13/2024,pH,6.44,6.44,,pH Units
+ST24JUN15-02-017 ,TEM Primary Influent (06-14-2024),6/14/2024,Total Suspended Solids,584,584,,mg/L
+ST24JUN15-02-017 ,TEM Primary Influent (06-14-2024),6/14/2024,TSS - Change in Wt,2.05,2.05,,%
+ST24JUN16-02-017 ,TEM Primary Influent (06-15-2024),6/15/2024,Total Suspended Solids,721,721,,mg/L
+ST24JUN16-02-017 ,TEM Primary Influent (06-15-2024),6/15/2024,TSS - Change in Wt,0.14,0.14,,%
+ST24JUN17-01-017 ,TEM Primary Influent (06-16-2024),6/16/2024,Total Suspended Solids,633,633,,mg/L
+ST24JUN17-01-017 ,TEM Primary Influent (06-16-2024),6/16/2024,TSS - Change in Wt,1.05,1.05,,%
+ST24JUN17-01-017 ,TEM Primary Influent (06-16-2024),6/16/2024,Biochemical Oxygen Demand,827,827,,mg/L
+ST24JUN17-01-017 ,TEM Primary Influent (06-16-2024),6/16/2024,pH,6.37,6.37,,pH Units
+ST24JUN18-01-017 ,TEM Primary Influent (06-17-2024),6/17/2024,Total Suspended Solids,558,558,,mg/L
+ST24JUN18-01-017 ,TEM Primary Influent (06-17-2024),6/17/2024,TSS - Change in Wt,0.45,0.45,,%
+ST24JUN18-01-017 ,TEM Primary Influent (06-17-2024),6/17/2024,Biochemical Oxygen Demand,570,570,,mg/L
+ST24JUN18-01-017 ,TEM Primary Influent (06-17-2024),6/17/2024,pH,6.38,6.38,,pH Units
+ST24JUN19-01-017 ,TEM Primary Influent (06-18-2024),6/18/2024,Total Suspended Solids,854,854,,mg/L
+ST24JUN19-01-017 ,TEM Primary Influent (06-18-2024),6/18/2024,TSS - Change in Wt,0.23,0.23,,%
+ST24JUN20-01-017 ,TEM Primary Influent (06-19-2024),6/19/2024,Total Suspended Solids,577,577,,mg/L
+ST24JUN20-01-017 ,TEM Primary Influent (06-19-2024),6/19/2024,TSS - Change in Wt,1.16,1.16,,%
+ST24JUN20-01-017 ,TEM Primary Influent (06-19-2024),6/19/2024,Biochemical Oxygen Demand,729,729,,mg/L
+ST24JUN20-01-017 ,TEM Primary Influent (06-19-2024),6/19/2024,pH,6.43,6.43,,pH Units
+ST24JUN21-01-017 ,TEM Primary Influent (06-20-2024),6/20/2024,Total Suspended Solids,675,675,,mg/L
+ST24JUN21-01-017 ,TEM Primary Influent (06-20-2024),6/20/2024,TSS - Change in Wt,2.22,2.22,,%
+ST24JUN21-01-017 ,TEM Primary Influent (06-20-2024),6/20/2024,Biochemical Oxygen Demand,722,722,,mg/L
+ST24JUN21-01-017 ,TEM Primary Influent (06-20-2024),6/20/2024,pH,6.30,6.30,,pH Units
+ST24JUN22-02-017 ,TEM Primary Influent (06-21-2024),6/21/2024,Total Suspended Solids,540,540,,mg/L
+ST24JUN22-02-017 ,TEM Primary Influent (06-21-2024),6/21/2024,TSS - Change in Wt,1.23,1.23,,%
+ST24JUN23-02-017 ,TEM Primary Influent (06-22-2024),6/22/2024,Total Suspended Solids,505,505,,mg/L
+ST24JUN23-02-017 ,TEM Primary Influent (06-22-2024),6/22/2024,TSS - Change in Wt,1.98,1.98,,%
+ST24JUN24-01-017 ,TEM Primary Influent (06-23-2024),6/23/2024,Total Suspended Solids,475,475,,mg/L
+ST24JUN24-01-017 ,TEM Primary Influent (06-23-2024),6/23/2024,TSS - Change in Wt,3.16,3.16,,%
+ST24JUN24-01-017 ,TEM Primary Influent (06-23-2024),6/23/2024,Biochemical Oxygen Demand,594,594,,mg/L
+ST24JUN24-01-017 ,TEM Primary Influent (06-23-2024),6/23/2024,pH,6.48,6.48,,pH Units
+ST24JUN25-01-017 ,TEM Primary Influent (06-24-2024),6/24/2024,Total Suspended Solids,797,797,,mg/L
+ST24JUN25-01-017 ,TEM Primary Influent (06-24-2024),6/24/2024,TSS - Change in Wt,2.09,2.09,,%
+ST24JUN25-01-017 ,TEM Primary Influent (06-24-2024),6/24/2024,Biochemical Oxygen Demand,677,677,,mg/L
+ST24JUN25-01-017 ,TEM Primary Influent (06-24-2024),6/24/2024,pH,6.40,6.40,,pH Units
+ST24JUN26-02-017 ,TEM Primary Influent (06-25-2024),6/25/2024,Total Suspended Solids,605,605,,mg/L
+ST24JUN26-02-017 ,TEM Primary Influent (06-25-2024),6/25/2024,TSS - Change in Wt,1.65,1.65,,%
+ST24JUN26-02-017 ,TEM Primary Influent (06-25-2024),6/25/2024,Biochemical Oxygen Demand,802,802,,mg/L
+ST24JUN26-02-017 ,TEM Primary Influent (06-25-2024),6/25/2024,pH,6.22,6.22,,pH Units
+ST24JUN27-01-017 ,TEM Primary Influent (06-26-2024),6/26/2024,Total Suspended Solids,917,917,,mg/L
+ST24JUN27-01-017 ,TEM Primary Influent (06-26-2024),6/26/2024,TSS - Change in Wt,2.55,2.55,,%
+ST24JUN27-01-017 ,TEM Primary Influent (06-26-2024),6/26/2024,Biochemical Oxygen Demand,751,751,,mg/L
+ST24JUN27-01-017 ,TEM Primary Influent (06-26-2024),6/26/2024,pH,6.28,6.28,,pH Units
+ST24JUN28-01-017 ,TEM Primary Influent (06-27-2024),6/27/2024,Total Suspended Solids,783,783,,mg/L
+ST24JUN28-01-017 ,TEM Primary Influent (06-27-2024),6/27/2024,TSS - Change in Wt,0.43,0.43,,%
+ST24JUN28-01-017 ,TEM Primary Influent (06-27-2024),6/27/2024,Biochemical Oxygen Demand,810,810,,mg/L
+ST24JUN28-01-017 ,TEM Primary Influent (06-27-2024),6/27/2024,pH,6.34,6.34,,pH Units
+ST24JUN29-02-017 ,TEM Primary Influent (06-28-2024),6/28/2024,Total Suspended Solids,615,615,,mg/L
+ST24JUN29-02-017 ,TEM Primary Influent (06-28-2024),6/28/2024,TSS - Change in Wt,4.07,4.07,,%
+ST24JUN30-02-017 ,TEM Primary Influent (06-29-2024),6/29/2024,Total Suspended Solids,490,490,,mg/L
+ST24JUN30-02-017 ,TEM Primary Influent (06-29-2024),6/29/2024,TSS - Change in Wt,2.04,2.04,,%
+ST24JUL01-06-017 ,TEM Primary Influent (06-30-2024),6/30/2024,Total Suspended Solids,473,473,,mg/L
+ST24JUL01-06-017 ,TEM Primary Influent (06-30-2024),6/30/2024,TSS - Change in Wt,1.41,1.41,,%
+ST24JUL01-06-017 ,TEM Primary Influent (06-30-2024),6/30/2024,Biochemical Oxygen Demand,659,659,,mg/L
+ST24JUL01-06-017 ,TEM Primary Influent (06-30-2024),6/30/2024,pH,6.54,6.54,,pH Units
+ST24JUL02-01-017 ,TEM Primary Influent (07-01-2024),7/1/2024,Total Suspended Solids,533,533,,mg/L
+ST24JUL02-01-017 ,TEM Primary Influent (07-01-2024),7/1/2024,TSS - Change in Wt,1.41,1.41,,%
+ST24JUL02-01-017 ,TEM Primary Influent (07-01-2024),7/1/2024,Biochemical Oxygen Demand,447,447,,mg/L
+ST24JUL02-01-017 ,TEM Primary Influent (07-01-2024),7/1/2024,pH,6.77,6.77,,pH Units
+ST24JUL03-01-017 ,TEM Primary Influent (07-02-2024),7/2/2024,Total Suspended Solids,560,560,,mg/L
+ST24JUL03-01-017 ,TEM Primary Influent (07-02-2024),7/2/2024,TSS - Change in Wt,2.14,2.14,,%
+ST24JUL03-01-017 ,TEM Primary Influent (07-02-2024),7/2/2024,Biochemical Oxygen Demand,657,657,,mg/L
+ST24JUL03-01-017 ,TEM Primary Influent (07-02-2024),7/2/2024,pH,6.17,6.17,,pH Units
+ST24JUL04-01-017 ,TEM Primary Influent (07-03-2024),7/3/2024,Total Suspended Solids,622,622,,mg/L
+ST24JUL04-01-017 ,TEM Primary Influent (07-03-2024),7/3/2024,TSS - Change in Wt,0.96,0.96,,%
+ST24JUL05-01-017 ,TEM Primary Influent (07-04-2024),7/4/2024,Total Suspended Solids,623,623,,mg/L
+ST24JUL05-01-017 ,TEM Primary Influent (07-04-2024),7/4/2024,TSS - Change in Wt,3.74,3.74,,%
+ST24JUL05-01-017 ,TEM Primary Influent (07-04-2024),7/4/2024,Biochemical Oxygen Demand,759,759,,mg/L
+ST24JUL05-01-017 ,TEM Primary Influent (07-04-2024),7/4/2024,pH,6.34,6.34,,pH Units
+ST24JUL06-02-017 ,TEM Primary Influent (07-05-2024),7/5/2024,Total Suspended Solids,727,727,,mg/L
+ST24JUL06-02-017 ,TEM Primary Influent (07-05-2024),7/5/2024,TSS - Change in Wt,1.83,1.83,,%
+ST24JUL07-02-017 ,TEM Primary Influent (07-06-2024),7/6/2024,Total Suspended Solids,780,780,,mg/L
+ST24JUL07-02-017 ,TEM Primary Influent (07-06-2024),7/6/2024,TSS - Change in Wt,1.71,1.71,,%
+ST24JUL08-01-017 ,TEM Primary Influent (07-07-2024),7/7/2024,Total Suspended Solids,790,790,,mg/L
+ST24JUL08-01-017 ,TEM Primary Influent (07-07-2024),7/7/2024,TSS - Change in Wt,4.64,4.64,,%
+ST24JUL08-01-017 ,TEM Primary Influent (07-07-2024),7/7/2024,Biochemical Oxygen Demand,644,644,,mg/L
+ST24JUL08-01-017 ,TEM Primary Influent (07-07-2024),7/7/2024,pH,6.59,6.59,,pH Units
+ST24JUL09-01-017 ,TEM Primary Influent (07-08-2024),7/8/2024,Total Suspended Solids,880,880,,mg/L
+ST24JUL09-01-017 ,TEM Primary Influent (07-08-2024),7/8/2024,TSS - Change in Wt,0.00,0,,%
+ST24JUL09-01-017 ,TEM Primary Influent (07-08-2024),7/8/2024,Biochemical Oxygen Demand,841,841,,mg/L
+ST24JUL09-01-017 ,TEM Primary Influent (07-08-2024),7/8/2024,pH,6.34,6.34,,pH Units
+ST24JUL10-01-017 ,TEM Primary Influent (07-09-2024),7/9/2024,Total Suspended Solids,905,905,,mg/L
+ST24JUL10-01-017 ,TEM Primary Influent (07-09-2024),7/9/2024,TSS - Change in Wt,2.76,2.76,,%
+ST24JUL10-01-017 ,TEM Primary Influent (07-09-2024),7/9/2024,Biochemical Oxygen Demand,778,778,,mg/L
+ST24JUL10-01-017 ,TEM Primary Influent (07-09-2024),7/9/2024,pH,6.24,6.24,,pH Units
+ST24JUL11-01-017 ,TEM Primary Influent (07-10-2024),7/10/2024,Total Suspended Solids,955,955,,mg/L
+ST24JUL11-01-017 ,TEM Primary Influent (07-10-2024),7/10/2024,TSS - Change in Wt,0.52,0.52,,%
+ST24JUL11-01-017 ,TEM Primary Influent (07-10-2024),7/10/2024,Biochemical Oxygen Demand,729,729,,mg/L
+ST24JUL11-01-017 ,TEM Primary Influent (07-10-2024),7/10/2024,pH,6.37,6.37,,pH Units
+ST24JUL12-01-017 ,TEM Primary Influent (07-11-2024),7/11/2024,Total Suspended Solids,887,887,,mg/L
+ST24JUL12-01-017 ,TEM Primary Influent (07-11-2024),7/11/2024,TSS - Change in Wt,0.75,0.75,,%
+ST24JUL12-01-017 ,TEM Primary Influent (07-11-2024),7/11/2024,Biochemical Oxygen Demand,731,731,,mg/L
+ST24JUL12-01-017 ,TEM Primary Influent (07-11-2024),7/11/2024,pH,6.27,6.27,,pH Units
+ST24JUL13-02-017 ,TEM Primary Influent (07-12-2024),7/12/2024,Total Suspended Solids,943,943,,mg/L
+ST24JUL13-02-017 ,TEM Primary Influent (07-12-2024),7/12/2024,TSS - Change in Wt,1.06,1.06,,%
+ST24JUL14-02-017 ,TEM Primary Influent (07-13-2024),7/13/2024,Total Suspended Solids,995,995,,mg/L
+ST24JUL14-02-017 ,TEM Primary Influent (07-13-2024),7/13/2024,TSS - Change in Wt,0.50,0.50,,%
+ST24JUL15-01-017 ,TEM Primary Influent (07-14-2024),7/14/2024,Total Suspended Solids,900,900,,mg/L
+ST24JUL15-01-017 ,TEM Primary Influent (07-14-2024),7/14/2024,TSS - Change in Wt,1.11,1.11,,%
+ST24JUL15-01-017 ,TEM Primary Influent (07-14-2024),7/14/2024,Biochemical Oxygen Demand,604,604,,mg/L
+ST24JUL15-01-017 ,TEM Primary Influent (07-14-2024),7/14/2024,pH,6.58,6.58,,pH Units
+ST24JUL16-01-017 ,TEM Primary Influent (07-15-2024),7/15/2024,Total Suspended Solids,1135,1135,,mg/L
+ST24JUL16-01-017 ,TEM Primary Influent (07-15-2024),7/15/2024,TSS - Change in Wt,0.44,0.44,,%
+ST24JUL16-01-017 ,TEM Primary Influent (07-15-2024),7/15/2024,Biochemical Oxygen Demand,715,715,,mg/L
+ST24JUL16-01-017 ,TEM Primary Influent (07-15-2024),7/15/2024,pH,6.49,6.49,,pH Units
+ST24JUL17-02-017 ,TEM Primary Influent (07-16-2024),7/16/2024,Total Suspended Solids,1190,1190,,mg/L
+ST24JUL17-02-017 ,TEM Primary Influent (07-16-2024),7/16/2024,TSS - Change in Wt,2.52,2.52,,%
+ST24JUL17-02-017 ,TEM Primary Influent (07-16-2024),7/16/2024,Biochemical Oxygen Demand,862,862,,mg/L
+ST24JUL17-02-017 ,TEM Primary Influent (07-16-2024),7/16/2024,pH,6.11,6.11,,pH Units
+ST24JUL18-01-017 ,TEM Primary Influent (07-17-2024),7/17/2024,Total Suspended Solids,1000,1000,,mg/L
+ST24JUL18-01-017 ,TEM Primary Influent (07-17-2024),7/17/2024,TSS - Change in Wt,2.00,2.00,,%
+ST24JUL18-01-017 ,TEM Primary Influent (07-17-2024),7/17/2024,Biochemical Oxygen Demand,624,624,,mg/L
+ST24JUL18-01-017 ,TEM Primary Influent (07-17-2024),7/17/2024,pH,6.64,6.64,,pH Units
+ST24JUL19-01-017 ,TEM Primary Influent (07-18-2024),7/18/2024,Total Suspended Solids,1070,1070,,mg/L
+ST24JUL19-01-017 ,TEM Primary Influent (07-18-2024),7/18/2024,TSS - Change in Wt,0.93,0.93,,%
+ST24JUL19-01-017 ,TEM Primary Influent (07-18-2024),7/18/2024,Biochemical Oxygen Demand,566,566,,mg/L
+ST24JUL19-01-017 ,TEM Primary Influent (07-18-2024),7/18/2024,pH,6.16,6.16,,pH Units
+ST24JUL20-02-017 ,TEM Primary Influent (07-19-2024),7/19/2024,Total Suspended Solids,1140,1140,,mg/L
+ST24JUL20-02-017 ,TEM Primary Influent (07-19-2024),7/19/2024,TSS - Change in Wt,0.88,0.88,,%
+ST24JUL21-02-017 ,TEM Primary Influent (07-20-2024),7/20/2024,Total Suspended Solids,1230,1230,,mg/L
+ST24JUL21-02-017 ,TEM Primary Influent (07-20-2024),7/20/2024,TSS - Change in Wt,1.63,1.63,,%
+ST24JUL22-01-017 ,TEM Primary Influent (07-21-2024),7/21/2024,Total Suspended Solids,1165,1165,,mg/L
+ST24JUL22-01-017 ,TEM Primary Influent (07-21-2024),7/21/2024,TSS - Change in Wt,2.15,2.15,,%
+ST24JUL22-01-017 ,TEM Primary Influent (07-21-2024),7/21/2024,Biochemical Oxygen Demand,805,805,,mg/L
+ST24JUL22-01-017 ,TEM Primary Influent (07-21-2024),7/21/2024,pH,6.43,6.43,,pH Units
+ST24JUL23-01-017 ,TEM Primary Influent (07-22-2024),7/22/2024,Total Suspended Solids,1180,1180,,mg/L
+ST24JUL23-01-017 ,TEM Primary Influent (07-22-2024),7/22/2024,TSS - Change in Wt,1.69,1.69,,%
+ST24JUL23-01-017 ,TEM Primary Influent (07-22-2024),7/22/2024,Biochemical Oxygen Demand,700,700,,mg/L
+ST24JUL23-01-017 ,TEM Primary Influent (07-22-2024),7/22/2024,pH,6.56,6.56,,pH Units
+ST24JUL24-01-017 ,TEM Primary Influent (07-23-2024),7/23/2024,Total Suspended Solids,965,965,,mg/L
+ST24JUL24-01-017 ,TEM Primary Influent (07-23-2024),7/23/2024,TSS - Change in Wt,1.55,1.55,,%
+ST24JUL24-01-017 ,TEM Primary Influent (07-23-2024),7/23/2024,Biochemical Oxygen Demand,719,719,,mg/L
+ST24JUL24-01-017 ,TEM Primary Influent (07-23-2024),7/23/2024,pH,6.32,6.32,,pH Units
+ST24JUL25-01-017 ,TEM Primary Influent (07-24-2024),7/24/2024,Total Suspended Solids,955,955,,mg/L
+ST24JUL25-01-017 ,TEM Primary Influent (07-24-2024),7/24/2024,TSS - Change in Wt,1.57,1.57,,%
+ST24JUL25-01-017 ,TEM Primary Influent (07-24-2024),7/24/2024,Biochemical Oxygen Demand,429,429,,mg/L
+ST24JUL25-01-017 ,TEM Primary Influent (07-24-2024),7/24/2024,pH,6.47,6.47,,pH Units
+ST24JUL26-01-017 ,TEM Primary Influent (07-25-2024),7/25/2024,Total Suspended Solids,1230,1230,,mg/L
+ST24JUL26-01-017 ,TEM Primary Influent (07-25-2024),7/25/2024,TSS - Change in Wt,0.00,0,,%
+ST24JUL26-01-017 ,TEM Primary Influent (07-25-2024),7/25/2024,Biochemical Oxygen Demand,751,751,,mg/L
+ST24JUL26-01-017 ,TEM Primary Influent (07-25-2024),7/25/2024,pH,6.31,6.31,,pH Units
+ST24JUL27-02-017 ,TEM Primary Influent (07-26-2024),7/26/2024,Total Suspended Solids,927,927,,mg/L
+ST24JUL27-02-017 ,TEM Primary Influent (07-26-2024),7/26/2024,TSS - Change in Wt,3.73,3.73,,%
+ST24JUL28-02-017 ,TEM Primary Influent (07-27-2024),7/27/2024,Total Suspended Solids,1140,1140,,mg/L
+ST24JUL28-02-017 ,TEM Primary Influent (07-27-2024),7/27/2024,TSS - Change in Wt,1.17,1.17,,%
+ST24JUL29-01-017 ,TEM Primary Influent (07-28-2024),7/28/2024,Total Suspended Solids,1290,1290,,mg/L
+ST24JUL29-01-017 ,TEM Primary Influent (07-28-2024),7/28/2024,TSS - Change in Wt,0.78,0.78,,%
+ST24JUL29-01-017 ,TEM Primary Influent (07-28-2024),7/28/2024,Biochemical Oxygen Demand,660,660,,mg/L
+ST24JUL29-01-017 ,TEM Primary Influent (07-28-2024),7/28/2024,pH,6.46,6.46,,pH Units
+ST24JUL30-01-017 ,TEM Primary Influent (07-29-2024),7/29/2024,Total Suspended Solids,1050,1050,,mg/L
+ST24JUL30-01-017 ,TEM Primary Influent (07-29-2024),7/29/2024,TSS - Change in Wt,0.95,0.95,,%
+ST24JUL30-01-017 ,TEM Primary Influent (07-29-2024),7/29/2024,Biochemical Oxygen Demand,359,359,,mg/L
+ST24JUL30-01-017 ,TEM Primary Influent (07-29-2024),7/29/2024,pH,6.71,6.71,,pH Units
+ST24JUL31-01-017 ,TEM Primary Influent (07-30-2024),7/30/2024,Total Suspended Solids,1180,1180,,mg/L
+ST24JUL31-01-017 ,TEM Primary Influent (07-30-2024),7/30/2024,TSS - Change in Wt,2.82,2.82,,%
+ST24JUL31-01-017 ,TEM Primary Influent (07-30-2024),7/30/2024,Biochemical Oxygen Demand,489,489,,mg/L
+ST24JUL31-01-017 ,TEM Primary Influent (07-30-2024),7/30/2024,pH,6.73,6.73,,pH Units
+ST24AUG01-06-017 ,TEM Primary Influent (07-31-2024),7/31/2024,Total Suspended Solids,1042,1042,,mg/L
+ST24AUG01-06-017 ,TEM Primary Influent (07-31-2024),7/31/2024,TSS - Change in Wt,0.37,0.37,,%
+ST24AUG01-06-017 ,TEM Primary Influent (07-31-2024),7/31/2024,Biochemical Oxygen Demand,385,385,,mg/L
+ST24AUG01-06-017 ,TEM Primary Influent (07-31-2024),7/31/2024,pH,6.78,6.78,,pH Units
+ST24AUG02-01-017 ,TEM Primary Influent (08-01-2024),8/1/2024,Total Suspended Solids,913,913,,mg/L
+ST24AUG02-01-017 ,TEM Primary Influent (08-01-2024),8/1/2024,TSS - Change in Wt,0.27,0.27,,%
+ST24AUG02-01-017 ,TEM Primary Influent (08-01-2024),8/1/2024,Biochemical Oxygen Demand,463,463,,mg/L
+ST24AUG02-01-017 ,TEM Primary Influent (08-01-2024),8/1/2024,pH,6.94,6.94,,pH Units
+ST24AUG03-02-017 ,TEM Primary Influent (08-02-2024),8/2/2024,Total Suspended Solids,1080,1080,,mg/L
+ST24AUG03-02-017 ,TEM Primary Influent (08-02-2024),8/2/2024,TSS - Change in Wt,0.00,0,,%
+ST24AUG04-02-017 ,TEM Primary Influent (08-03-2024),8/3/2024,Total Suspended Solids,760,760,,mg/L
+ST24AUG04-02-017 ,TEM Primary Influent (08-03-2024),8/3/2024,TSS - Change in Wt,0.00,0,,%
+ST24AUG05-01-017 ,TEM Primary Influent (08-04-2024),8/4/2024,Total Suspended Solids,540,540,,mg/L
+ST24AUG05-01-017 ,TEM Primary Influent (08-04-2024),8/4/2024,TSS - Change in Wt,2.78,2.78,,%
+ST24AUG05-01-017 ,TEM Primary Influent (08-04-2024),8/4/2024,Biochemical Oxygen Demand,706,706,,mg/L
+ST24AUG05-01-017 ,TEM Primary Influent (08-04-2024),8/4/2024,pH,6.44,6.44,,pH Units
+ST24AUG06-01-017 ,TEM Primary Influent (08-05-2024),8/5/2024,Total Suspended Solids,710,710,,mg/L
+ST24AUG06-01-017 ,TEM Primary Influent (08-05-2024),8/5/2024,TSS - Change in Wt,1.41,1.41,,%
+ST24AUG06-01-017 ,TEM Primary Influent (08-05-2024),8/5/2024,Biochemical Oxygen Demand,702,702,,mg/L
+ST24AUG06-01-017 ,TEM Primary Influent (08-05-2024),8/5/2024,pH,6.33,6.33,,pH Units
+ST24AUG07-01-017 ,TEM Primary Influent (08-06-2024),8/6/2024,Total Suspended Solids,523,523,,mg/L
+ST24AUG07-01-017 ,TEM Primary Influent (08-06-2024),8/6/2024,TSS - Change in Wt,2.39,2.39,,%
+ST24AUG07-01-017 ,TEM Primary Influent (08-06-2024),8/6/2024,Biochemical Oxygen Demand,970,970,,mg/L
+ST24AUG07-01-017 ,TEM Primary Influent (08-06-2024),8/6/2024,pH,6.20,6.20,,pH Units
+ST24AUG08-01-017 ,TEM Primary Influent (08-07-2024),8/7/2024,Total Suspended Solids,468,468,,mg/L
+ST24AUG08-01-017 ,TEM Primary Influent (08-07-2024),8/7/2024,TSS - Change in Wt,0.76,0.76,,%
+ST24AUG08-01-017 ,TEM Primary Influent (08-07-2024),8/7/2024,Biochemical Oxygen Demand,583,583,,mg/L
+ST24AUG08-01-017 ,TEM Primary Influent (08-07-2024),8/7/2024,pH,6.20,6.20,,pH Units
+ST24AUG09-01-017 ,TEM Primary Influent (08-08-2024),8/8/2024,Total Suspended Solids,443,443,,mg/L
+ST24AUG09-01-017 ,TEM Primary Influent (08-08-2024),8/8/2024,TSS - Change in Wt,0.75,0.75,,%
+ST24AUG09-01-017 ,TEM Primary Influent (08-08-2024),8/8/2024,Biochemical Oxygen Demand,754,754,,mg/L
+ST24AUG09-01-017 ,TEM Primary Influent (08-08-2024),8/8/2024,pH,6.50,6.50,,pH Units
+ST24AUG10-02-017 ,TEM Primary Influent (08-09-2024),8/9/2024,Total Suspended Solids,506,506,,mg/L
+ST24AUG10-02-017 ,TEM Primary Influent (08-09-2024),8/9/2024,TSS - Change in Wt,1.19,1.19,,%
+ST24AUG11-02-017 ,TEM Primary Influent (08-10-2024),8/10/2024,Total Suspended Solids,556,556,,mg/L
+ST24AUG11-02-017 ,TEM Primary Influent (08-10-2024),8/10/2024,TSS - Change in Wt,0.72,0.72,,%
+ST24AUG12-01-017 ,TEM Primary Influent (08-11-2024),8/11/2024,Total Suspended Solids,453,453,,mg/L
+ST24AUG12-01-017 ,TEM Primary Influent (08-11-2024),8/11/2024,TSS - Change in Wt,2.94,2.94,,%
+ST24AUG12-01-017 ,TEM Primary Influent (08-11-2024),8/11/2024,Biochemical Oxygen Demand,680,680,,mg/L
+ST24AUG12-01-017 ,TEM Primary Influent (08-11-2024),8/11/2024,pH,6.44,6.44,,pH Units
+ST24AUG13-01-017 ,TEM Primary Influent (08-12-2024),8/12/2024,Total Suspended Solids,540,540,,mg/L
+ST24AUG13-01-017 ,TEM Primary Influent (08-12-2024),8/12/2024,TSS - Change in Wt,1.85,1.85,,%
+ST24AUG13-01-017 ,TEM Primary Influent (08-12-2024),8/12/2024,Biochemical Oxygen Demand,658,658,,mg/L
+ST24AUG13-01-017 ,TEM Primary Influent (08-12-2024),8/12/2024,pH,6.47,6.47,,pH Units
+ST24AUG14-01-017 ,TEM Primary Influent (08-13-2024),8/13/2024,Total Suspended Solids,564,564,,mg/L
+ST24AUG14-01-017 ,TEM Primary Influent (08-13-2024),8/13/2024,TSS - Change in Wt,0.00,0,,%
+ST24AUG14-01-017 ,TEM Primary Influent (08-13-2024),8/13/2024,Biochemical Oxygen Demand,641,641,,mg/L
+ST24AUG14-01-017 ,TEM Primary Influent (08-13-2024),8/13/2024,pH,6.53,6.53,,pH Units
+ST24AUG15-01-017 ,TEM Primary Influent (08-14-2024),8/14/2024,Total Suspended Solids,575,575,,mg/L
+ST24AUG15-01-017 ,TEM Primary Influent (08-14-2024),8/14/2024,TSS - Change in Wt,2.61,2.61,,%
+ST24AUG15-01-017 ,TEM Primary Influent (08-14-2024),8/14/2024,Biochemical Oxygen Demand,551,551,,mg/L
+ST24AUG15-01-017 ,TEM Primary Influent (08-14-2024),8/14/2024,pH,6.51,6.51,,pH Units
+ST24AUG16-01-017 ,TEM Primary Influent (08-15-2024),8/15/2024,Total Suspended Solids,663,663,,mg/L
+ST24AUG16-01-017 ,TEM Primary Influent (08-15-2024),8/15/2024,TSS - Change in Wt,1.51,1.51,,%
+ST24AUG16-01-017 ,TEM Primary Influent (08-15-2024),8/15/2024,Biochemical Oxygen Demand,857,857,,mg/L
+ST24AUG16-01-017 ,TEM Primary Influent (08-15-2024),8/15/2024,pH,6.80,6.80,,pH Units
+ST24AUG17-02-017 ,TEM Primary Influent (08-16-2024),8/16/2024,Total Suspended Solids,723,723,,mg/L
+ST24AUG17-02-017 ,TEM Primary Influent (08-16-2024),8/16/2024,TSS - Change in Wt,2.30,2.30,,%
+ST24AUG18-02-017 ,TEM Primary Influent (08-17-2024),8/17/2024,Total Suspended Solids,672,672,,mg/L
+ST24AUG18-02-017 ,TEM Primary Influent (08-17-2024),8/17/2024,TSS - Change in Wt,0.60,0.60,,%
+ST24AUG19-01-017 ,TEM Primary Influent (08-18-2024),8/18/2024,Total Suspended Solids,530,530,,mg/L
+ST24AUG19-01-017 ,TEM Primary Influent (08-18-2024),8/18/2024,TSS - Change in Wt,0.63,0.63,,%
+ST24AUG19-01-017 ,TEM Primary Influent (08-18-2024),8/18/2024,Biochemical Oxygen Demand,466,466,,mg/L
+ST24AUG19-01-017 ,TEM Primary Influent (08-18-2024),8/18/2024,pH,6.68,6.68,,pH Units
+ST24AUG20-01-017 ,TEM Primary Influent (08-19-2024),8/19/2024,Total Suspended Solids,637,637,,mg/L
+ST24AUG20-01-017 ,TEM Primary Influent (08-19-2024),8/19/2024,TSS - Change in Wt,0.52,0.52,,%
+ST24AUG20-01-017 ,TEM Primary Influent (08-19-2024),8/19/2024,Biochemical Oxygen Demand,643,643,,mg/L
+ST24AUG20-01-017 ,TEM Primary Influent (08-19-2024),8/19/2024,pH,6.50,6.50,,pH Units
+ST24AUG21-02-017 ,TEM Primary Influent (08-20-2024),8/20/2024,Total Suspended Solids,785,785,,mg/L
+ST24AUG21-02-017 ,TEM Primary Influent (08-20-2024),8/20/2024,TSS - Change in Wt,3.18,3.18,,%
+ST24AUG21-02-017 ,TEM Primary Influent (08-20-2024),8/20/2024,Biochemical Oxygen Demand,721,721,,mg/L
+ST24AUG21-02-017 ,TEM Primary Influent (08-20-2024),8/20/2024,pH,6.44,6.44,,pH Units
+ST24AUG22-01-017 ,TEM Primary Influent (08-21-2024),8/21/2024,Total Suspended Solids,698,698,,mg/L
+ST24AUG22-01-017 ,TEM Primary Influent (08-21-2024),8/21/2024,TSS - Change in Wt,2.51,2.51,,%
+ST24AUG22-01-017 ,TEM Primary Influent (08-21-2024),8/21/2024,Biochemical Oxygen Demand,690,690,,mg/L
+ST24AUG22-01-017 ,TEM Primary Influent (08-21-2024),8/21/2024,pH,6.59,6.59,,pH Units
+ST24AUG23-01-017 ,TEM Primary Influent (08-22-2024),8/22/2024,Total Suspended Solids,753,753,,mg/L
+ST24AUG23-01-017 ,TEM Primary Influent (08-22-2024),8/22/2024,TSS - Change in Wt,0.00,0,,%
+ST24AUG23-01-017 ,TEM Primary Influent (08-22-2024),8/22/2024,Biochemical Oxygen Demand,697,697,,mg/L
+ST24AUG23-01-017 ,TEM Primary Influent (08-22-2024),8/22/2024,pH,6.40,6.40,,pH Units
+ST24AUG24-02-017 ,TEM Primary Influent (08-23-2024),8/23/2024,Total Suspended Solids,777,777,,mg/L
+ST24AUG24-02-017 ,TEM Primary Influent (08-23-2024),8/23/2024,TSS - Change in Wt,0.43,0.43,,%
+ST24AUG25-02-017 ,TEM Primary Influent (08-24-2024),8/24/2024,Total Suspended Solids,773,773,,mg/L
+ST24AUG25-02-017 ,TEM Primary Influent (08-24-2024),8/24/2024,TSS - Change in Wt,0.86,0.86,,%
+ST24AUG26-01-017 ,TEM Primary Influent (08-25-2024),8/25/2024,Total Suspended Solids,767,767,,mg/L
+ST24AUG26-01-017 ,TEM Primary Influent (08-25-2024),8/25/2024,TSS - Change in Wt,0.87,0.87,,%
+ST24AUG26-01-017 ,TEM Primary Influent (08-25-2024),8/25/2024,Biochemical Oxygen Demand,703,703,,mg/L
+ST24AUG26-01-017 ,TEM Primary Influent (08-25-2024),8/25/2024,pH,6.47,6.47,,pH Units
+ST24AUG27-01-017 ,TEM Primary Influent (08-26-2024),8/26/2024,Total Suspended Solids,460,460,,mg/L
+ST24AUG27-01-017 ,TEM Primary Influent (08-26-2024),8/26/2024,TSS - Change in Wt,1.09,1.09,,%
+ST24AUG27-01-017 ,TEM Primary Influent (08-26-2024),8/26/2024,Biochemical Oxygen Demand,710,710,,mg/L
+ST24AUG27-01-017 ,TEM Primary Influent (08-26-2024),8/26/2024,pH,6.25,6.25,,pH Units
+ST24AUG28-01-017 ,TEM Primary Influent (08-27-2024),8/27/2024,Total Suspended Solids,657,657,,mg/L
+ST24AUG28-01-017 ,TEM Primary Influent (08-27-2024),8/27/2024,TSS - Change in Wt,1.52,1.52,,%
+ST24AUG28-01-017 ,TEM Primary Influent (08-27-2024),8/27/2024,Biochemical Oxygen Demand,605,605,,mg/L
+ST24AUG28-01-017 ,TEM Primary Influent (08-27-2024),8/27/2024,pH,6.48,6.48,,pH Units
+ST24AUG29-01-017 ,TEM Primary Influent (08-28-2024),8/28/2024,Total Suspended Solids,820,820,,mg/L
+ST24AUG29-01-017 ,TEM Primary Influent (08-28-2024),8/28/2024,TSS - Change in Wt,1.63,1.63,,%
+ST24AUG29-01-017 ,TEM Primary Influent (08-28-2024),8/28/2024,Biochemical Oxygen Demand,878,878,,mg/L
+ST24AUG29-01-017 ,TEM Primary Influent (08-28-2024),8/28/2024,pH,6.34,6.34,,pH Units
+ST24AUG30-01-017 ,TEM Primary Influent (08-29-2024),8/29/2024,Total Suspended Solids,680,680,,mg/L
+ST24AUG30-01-017 ,TEM Primary Influent (08-29-2024),8/29/2024,TSS - Change in Wt,2.94,2.94,,%
+ST24AUG30-01-017 ,TEM Primary Influent (08-29-2024),8/29/2024,Biochemical Oxygen Demand,726,726,,mg/L
+ST24AUG30-01-017 ,TEM Primary Influent (08-29-2024),8/29/2024,pH,6.23,6.23,,pH Units
+ST24AUG31-02-017 ,TEM Primary Influent (08-30-2024),8/30/2024,Total Suspended Solids,643,643,,mg/L
+ST24AUG31-02-017 ,TEM Primary Influent (08-30-2024),8/30/2024,TSS - Change in Wt,2.59,2.59,,%
+ST24SEP01-08-017 ,TEM Primary Influent (08-31-2024),8/31/2024,Total Suspended Solids,858,858,,mg/L
+ST24SEP01-08-017 ,TEM Primary Influent (08-31-2024),8/31/2024,TSS - Change in Wt,1.17,1.17,,%
+ST24SEP02-01-017 ,TEM Primary Influent (09-01-2024),9/1/2024,Total Suspended Solids,665,665,,mg/L
+ST24SEP02-01-017 ,TEM Primary Influent (09-01-2024),9/1/2024,TSS - Change in Wt,0.75,0.75,,%
+ST24SEP02-01-017 ,TEM Primary Influent (09-01-2024),9/1/2024,Biochemical Oxygen Demand,762,762,,mg/L
+ST24SEP02-01-017 ,TEM Primary Influent (09-01-2024),9/1/2024,pH,6.32,6.32,,pH Units
+ST24SEP03-01-017 ,TEM Primary Influent (09-02-2024),9/2/2024,Total Suspended Solids,830,830,,mg/L
+ST24SEP03-01-017 ,TEM Primary Influent (09-02-2024),9/2/2024,TSS - Change in Wt,2.41,2.41,,%
+ST24SEP03-01-017 ,TEM Primary Influent (09-02-2024),9/2/2024,Biochemical Oxygen Demand,580,580,,mg/L
+ST24SEP03-01-017 ,TEM Primary Influent (09-02-2024),9/2/2024,pH,6.75,6.75,,pH Units
+ST24SEP04-01-017 ,TEM Primary Influent (09-03-2024),9/3/2024,Total Suspended Solids,845,845,,mg/L
+ST24SEP04-01-017 ,TEM Primary Influent (09-03-2024),9/3/2024,TSS - Change in Wt,1.18,1.18,,%
+ST24SEP04-01-017 ,TEM Primary Influent (09-03-2024),9/3/2024,Biochemical Oxygen Demand,720,720,,mg/L
+ST24SEP04-01-017 ,TEM Primary Influent (09-03-2024),9/3/2024,pH,6.43,6.43,,pH Units
+ST24SEP05-01-017 ,TEM Primary Influent (09-04-2024),9/4/2024,Total Suspended Solids,1043,1043,,mg/L
+ST24SEP05-01-017 ,TEM Primary Influent (09-04-2024),9/4/2024,TSS - Change in Wt,0.96,0.96,,%
+ST24SEP05-01-017 ,TEM Primary Influent (09-04-2024),9/4/2024,Biochemical Oxygen Demand,811,811,,mg/L
+ST24SEP05-01-017 ,TEM Primary Influent (09-04-2024),9/4/2024,pH,6.41,6.41,,pH Units
+ST24SEP06-01-017 ,TEM Primary Influent (09-05-2024),9/5/2024,Total Suspended Solids,1157,1157,,mg/L
+ST24SEP06-01-017 ,TEM Primary Influent (09-05-2024),9/5/2024,TSS - Change in Wt,3.75,3.75,,%
+ST24SEP06-01-017 ,TEM Primary Influent (09-05-2024),9/5/2024,Biochemical Oxygen Demand,776,776,,mg/L
+ST24SEP06-01-017 ,TEM Primary Influent (09-05-2024),9/5/2024,pH,6.29,6.29,,pH Units
+ST24SEP07-02-017 ,TEM Primary Influent (09-06-2024),9/6/2024,Total Suspended Solids,1050,1050,,mg/L
+ST24SEP07-02-017 ,TEM Primary Influent (09-06-2024),9/6/2024,TSS - Change in Wt,0.00,0,,%
+ST24SEP08-02-017 ,TEM Primary Influent (09-07-2024),9/7/2024,Total Suspended Solids,1505,1505,,mg/L
+ST24SEP08-02-017 ,TEM Primary Influent (09-07-2024),9/7/2024,TSS - Change in Wt,1.00,1.00,,%
+ST24SEP09-01-017 ,TEM Primary Influent (09-08-2024),9/8/2024,Total Suspended Solids,1410,1410,,mg/L
+ST24SEP09-01-017 ,TEM Primary Influent (09-08-2024),9/8/2024,TSS - Change in Wt,0.00,0,,%
+ST24SEP09-01-017 ,TEM Primary Influent (09-08-2024),9/8/2024,Biochemical Oxygen Demand,813,813,,mg/L
+ST24SEP09-01-017 ,TEM Primary Influent (09-08-2024),9/8/2024,pH,6.38,6.38,,pH Units
+ST24SEP10-01-017 ,TEM Primary Influent (09-09-2024),9/9/2024,Total Suspended Solids,1320,1320,,mg/L
+ST24SEP10-01-017 ,TEM Primary Influent (09-09-2024),9/9/2024,TSS - Change in Wt,1.52,1.52,,%
+ST24SEP10-01-017 ,TEM Primary Influent (09-09-2024),9/9/2024,Biochemical Oxygen Demand,762,762,,mg/L
+ST24SEP10-01-017 ,TEM Primary Influent (09-09-2024),9/9/2024,pH,6.32,6.32,,pH Units
+ST24SEP11-01-017 ,TEM Primary Influent (09-10-2024),9/10/2024,Total Suspended Solids,960,960,,mg/L
+ST24SEP11-01-017 ,TEM Primary Influent (09-10-2024),9/10/2024,TSS - Change in Wt,1.04,1.04,,%
+ST24SEP11-01-017 ,TEM Primary Influent (09-10-2024),9/10/2024,Biochemical Oxygen Demand,688,688,,mg/L
+ST24SEP11-01-017 ,TEM Primary Influent (09-10-2024),9/10/2024,pH,6.21,6.21,,pH Units
+ST24SEP12-01-017 ,TEM Primary Influent (09-11-2024),9/11/2024,Total Suspended Solids,603,603,,mg/L
+ST24SEP12-01-017 ,TEM Primary Influent (09-11-2024),9/11/2024,TSS - Change in Wt,2.76,2.76,,%
+ST24SEP12-01-017 ,TEM Primary Influent (09-11-2024),9/11/2024,Biochemical Oxygen Demand,743,743,,mg/L
+ST24SEP12-01-017 ,TEM Primary Influent (09-11-2024),9/11/2024,pH,6.08,6.08,,pH Units
+ST24SEP13-01-017 ,TEM Primary Influent (09-12-2024),9/12/2024,Total Suspended Solids,903,903,,mg/L
+ST24SEP13-01-017 ,TEM Primary Influent (09-12-2024),9/12/2024,TSS - Change in Wt,2.58,2.58,,%
+ST24SEP13-01-017 ,TEM Primary Influent (09-12-2024),9/12/2024,Biochemical Oxygen Demand,808,808,,mg/L
+ST24SEP13-01-017 ,TEM Primary Influent (09-12-2024),9/12/2024,pH,6.75,6.75,,pH Units
+ST24SEP14-02-017 ,TEM Primary Influent (09-13-2024),9/13/2024,Total Suspended Solids,478,478,,mg/L
+ST24SEP14-02-017 ,TEM Primary Influent (09-13-2024),9/13/2024,TSS - Change in Wt,2.93,2.93,,%
+ST24SEP15-02-017 ,TEM Primary Influent (09-14-2024),9/14/2024,Total Suspended Solids,346,346,,mg/L
+ST24SEP15-02-017 ,TEM Primary Influent (09-14-2024),9/14/2024,TSS - Change in Wt,3.31,3.31,,%
+ST24SEP16-01-017 ,TEM Primary Influent (09-15-2024),9/15/2024,Total Suspended Solids,495,495,,mg/L
+ST24SEP16-01-017 ,TEM Primary Influent (09-15-2024),9/15/2024,TSS - Change in Wt,4.04,4.04,,%
+ST24SEP16-01-017 ,TEM Primary Influent (09-15-2024),9/15/2024,Biochemical Oxygen Demand,603,603,,mg/L
+ST24SEP16-01-017 ,TEM Primary Influent (09-15-2024),9/15/2024,pH,6.46,6.46,,pH Units
+ST24SEP17-01-017 ,TEM Primary Influent (09-16-2024),9/16/2024,Total Suspended Solids,382,382,,mg/L
+ST24SEP17-01-017 ,TEM Primary Influent (09-16-2024),9/16/2024,TSS - Change in Wt,3.06,3.06,,%
+ST24SEP17-01-017 ,TEM Primary Influent (09-16-2024),9/16/2024,Biochemical Oxygen Demand,287,287,,mg/L
+ST24SEP17-01-017 ,TEM Primary Influent (09-16-2024),9/16/2024,pH,6.42,6.42,,pH Units
+ST24SEP18-01-017 ,TEM Primary Influent (09-17-2024),9/17/2024,Total Suspended Solids,321,321,,mg/L
+ST24SEP18-01-017 ,TEM Primary Influent (09-17-2024),9/17/2024,TSS - Change in Wt,0.44,0.44,,%
+ST24SEP18-01-017 ,TEM Primary Influent (09-17-2024),9/17/2024,Biochemical Oxygen Demand,327,327,,mg/L
+ST24SEP18-01-017 ,TEM Primary Influent (09-17-2024),9/17/2024,pH,6.64,6.64,,pH Units
+ST24SEP19-01-017 ,TEM Primary Influent (09-18-2024),9/18/2024,Total Suspended Solids,578,578,,mg/L
+ST24SEP19-01-017 ,TEM Primary Influent (09-18-2024),9/18/2024,TSS - Change in Wt,1.04,1.04,,%
+ST24SEP19-01-017 ,TEM Primary Influent (09-18-2024),9/18/2024,Biochemical Oxygen Demand,436,436,,mg/L
+ST24SEP19-01-017 ,TEM Primary Influent (09-18-2024),9/18/2024,pH,6.59,6.59,,pH Units
+ST24SEP20-01-017 ,TEM Primary Influent (09-19-2024),9/19/2024,Total Suspended Solids,472,472,,mg/L
+ST24SEP20-01-017 ,TEM Primary Influent (09-19-2024),9/19/2024,TSS - Change in Wt,0.35,0.35,,%
+ST24SEP20-01-017 ,TEM Primary Influent (09-19-2024),9/19/2024,Biochemical Oxygen Demand,636,636,,mg/L
+ST24SEP20-01-017 ,TEM Primary Influent (09-19-2024),9/19/2024,pH,6.22,6.22,,pH Units
+ST24SEP21-02-017 ,TEM Primary Influent (09-20-2024),9/20/2024,Total Suspended Solids,568,568,,mg/L
+ST24SEP21-02-017 ,TEM Primary Influent (09-20-2024),9/20/2024,TSS - Change in Wt,1.32,1.32,,%
+ST24SEP22-02-017 ,TEM Primary Influent (09-21-2024),9/21/2024,Total Suspended Solids,587,587,,mg/L
+ST24SEP22-02-017 ,TEM Primary Influent (09-21-2024),9/21/2024,TSS - Change in Wt,0.00,0,,%
+ST24SEP23-01-017 ,TEM Primary Influent (09-22-2024),9/22/2024,Total Suspended Solids,630,630,,mg/L
+ST24SEP23-01-017 ,TEM Primary Influent (09-22-2024),9/22/2024,TSS - Change in Wt,0.00,0,,%
+ST24SEP23-01-017 ,TEM Primary Influent (09-22-2024),9/22/2024,Biochemical Oxygen Demand,474,474,,mg/L
+ST24SEP23-01-017 ,TEM Primary Influent (09-22-2024),9/22/2024,pH,6.39,6.39,,pH Units
+ST24SEP24-01-017 ,TEM Primary Influent (09-23-2024),9/23/2024,Total Suspended Solids,640,640,,mg/L
+ST24SEP24-01-017 ,TEM Primary Influent (09-23-2024),9/23/2024,TSS - Change in Wt,0.00,0,,%
+ST24SEP24-01-017 ,TEM Primary Influent (09-23-2024),9/23/2024,Biochemical Oxygen Demand,442,442,,mg/L
+ST24SEP24-01-017 ,TEM Primary Influent (09-23-2024),9/23/2024,pH,6.57,6.57,,pH Units
+ST24SEP25-01-017 ,TEM Primary Influent (09-24-2024),9/24/2024,Total Suspended Solids,674,674,,mg/L
+ST24SEP25-01-017 ,TEM Primary Influent (09-24-2024),9/24/2024,TSS - Change in Wt,0.30,0.30,,%
+ST24SEP25-01-017 ,TEM Primary Influent (09-24-2024),9/24/2024,Biochemical Oxygen Demand,601,601,,mg/L
+ST24SEP25-01-017 ,TEM Primary Influent (09-24-2024),9/24/2024,pH,6.36,6.36,,pH Units
+ST24SEP26-01-017 ,TEM Primary Influent (09-25-2024),9/25/2024,Total Suspended Solids,825,825,,mg/L
+ST24SEP26-01-017 ,TEM Primary Influent (09-25-2024),9/25/2024,TSS - Change in Wt,1.82,1.82,,%
+ST24SEP26-01-017 ,TEM Primary Influent (09-25-2024),9/25/2024,Biochemical Oxygen Demand,644,644,,mg/L
+ST24SEP26-01-017 ,TEM Primary Influent (09-25-2024),9/25/2024,pH,6.40,6.40,,pH Units
+ST24SEP27-01-017 ,TEM Primary Influent (09-26-2024),9/26/2024,Total Suspended Solids,810,810,,mg/L
+ST24SEP27-01-017 ,TEM Primary Influent (09-26-2024),9/26/2024,TSS - Change in Wt,1.23,1.23,,%
+ST24SEP27-01-017 ,TEM Primary Influent (09-26-2024),9/26/2024,Biochemical Oxygen Demand,812,812,,mg/L
+ST24SEP27-01-017 ,TEM Primary Influent (09-26-2024),9/26/2024,pH,6.20,6.20,,pH Units
+ST24SEP28-02-017 ,TEM Primary Influent (09-27-2024),9/27/2024,Total Suspended Solids,680,680,,mg/L
+ST24SEP28-02-017 ,TEM Primary Influent (09-27-2024),9/27/2024,TSS - Change in Wt,0.00,0,,%
+ST24SEP29-02-017 ,TEM Primary Influent (09-28-2024),9/28/2024,Total Suspended Solids,1770,1770,,mg/L
+ST24SEP29-02-017 ,TEM Primary Influent (09-28-2024),9/28/2024,TSS - Change in Wt,1.13,1.13,,%
+ST24SEP30-01-017 ,TEM Primary Influent (09-29-2024),9/29/2024,Total Suspended Solids,298,298,,mg/L
+ST24SEP30-01-017 ,TEM Primary Influent (09-29-2024),9/29/2024,TSS - Change in Wt,0.84,0.84,,%
+ST24SEP30-01-017 ,TEM Primary Influent (09-29-2024),9/29/2024,Biochemical Oxygen Demand,<200,<200,*,mg/L
+ST24SEP30-01-017 ,TEM Primary Influent (09-29-2024),9/29/2024,pH,7.02,7.02,,pH Units
+ST24OCT01-07-017 ,TEM Primary Influent (09-30-2024),9/30/2024,Total Suspended Solids,342,342,,mg/L
+ST24OCT01-07-017 ,TEM Primary Influent (09-30-2024),9/30/2024,TSS - Change in Wt,1.75,1.75,,%
+ST24OCT01-07-017 ,TEM Primary Influent (09-30-2024),9/30/2024,Biochemical Oxygen Demand,303,303,,mg/L
+ST24OCT01-07-017 ,TEM Primary Influent (09-30-2024),9/30/2024,pH,6.69,6.69,,pH Units
+ST24OCT02-01-017 ,TEM Primary Influent (10-01-2024),10/1/2024,Total Suspended Solids,270,270,,mg/L
+ST24OCT02-01-017 ,TEM Primary Influent (10-01-2024),10/1/2024,TSS - Change in Wt,1.59,1.59,,%
+ST24OCT02-01-017 ,TEM Primary Influent (10-01-2024),10/1/2024,Biochemical Oxygen Demand,444,444,,mg/L
+ST24OCT02-01-017 ,TEM Primary Influent (10-01-2024),10/1/2024,pH,6.47,6.47,,pH Units
+ST24OCT03-01-017 ,TEM Primary Influent (10-02-2024),10/2/2024,Total Suspended Solids,793,793,,mg/L
+ST24OCT03-01-017 ,TEM Primary Influent (10-02-2024),10/2/2024,TSS - Change in Wt,1.98,1.98,,%
+ST24OCT03-01-017 ,TEM Primary Influent (10-02-2024),10/2/2024,Biochemical Oxygen Demand,908,908,,mg/L
+ST24OCT03-01-017 ,TEM Primary Influent (10-02-2024),10/2/2024,pH,6.55,6.55,,pH Units
+ST24OCT04-01-017 ,TEM Primary Influent (10-03-2024),10/3/2024,Total Suspended Solids,553,553,,mg/L
+ST24OCT04-01-017 ,TEM Primary Influent (10-03-2024),10/3/2024,TSS - Change in Wt,0.45,0.45,,%
+ST24OCT04-01-017 ,TEM Primary Influent (10-03-2024),10/3/2024,Biochemical Oxygen Demand,793,793,,mg/L
+ST24OCT04-01-017 ,TEM Primary Influent (10-03-2024),10/3/2024,pH,6.39,6.39,,pH Units
+ST24OCT05-02-017 ,TEM Primary Influent (10-04-2024),10/4/2024,Total Suspended Solids,544,544,,mg/L
+ST24OCT05-02-017 ,TEM Primary Influent (10-04-2024),10/4/2024,TSS - Change in Wt,2.89,2.89,,%
+ST24OCT06-02-017 ,TEM Primary Influent (10-05-2024),10/5/2024,Total Suspended Solids,478,478,,mg/L
+ST24OCT06-02-017 ,TEM Primary Influent (10-05-2024),10/5/2024,TSS - Change in Wt,1.26,1.26,,%
+ST24OCT07-01-017 ,TEM Primary Influent (10-06-2024),10/6/2024,Total Suspended Solids,368,368,,mg/L
+ST24OCT07-01-017 ,TEM Primary Influent (10-06-2024),10/6/2024,TSS - Change in Wt,1.09,1.09,,%
+ST24OCT07-01-017 ,TEM Primary Influent (10-06-2024),10/6/2024,Biochemical Oxygen Demand,586,586,,mg/L
+ST24OCT07-01-017 ,TEM Primary Influent (10-06-2024),10/6/2024,pH,6.34,6.34,,pH Units
+ST24OCT08-01-017 ,TEM Primary Influent (10-07-2024),10/7/2024,Total Suspended Solids,504,504,,mg/L
+ST24OCT08-01-017 ,TEM Primary Influent (10-07-2024),10/7/2024,TSS - Change in Wt,1.59,1.59,,%
+ST24OCT08-01-017 ,TEM Primary Influent (10-07-2024),10/7/2024,Biochemical Oxygen Demand,774,774,,mg/L
+ST24OCT08-01-017 ,TEM Primary Influent (10-07-2024),10/7/2024,pH,6.64,6.64,,pH Units
+ST24OCT09-01-017 ,TEM Primary Influent (10-08-2024),10/8/2024,Total Suspended Solids,524,524,,mg/L
+ST24OCT09-01-017 ,TEM Primary Influent (10-08-2024),10/8/2024,TSS - Change in Wt,2.29,2.29,,%
+ST24OCT09-01-017 ,TEM Primary Influent (10-08-2024),10/8/2024,Biochemical Oxygen Demand,824,824,,mg/L
+ST24OCT09-01-017 ,TEM Primary Influent (10-08-2024),10/8/2024,pH,6.17,6.17,,pH Units
+ST24OCT10-01-017 ,TEM Primary Influent (10-09-2024),10/9/2024,Total Suspended Solids,453,453,,mg/L
+ST24OCT10-01-017 ,TEM Primary Influent (10-09-2024),10/9/2024,TSS - Change in Wt,2.94,2.94,,%
+ST24OCT10-01-017 ,TEM Primary Influent (10-09-2024),10/9/2024,Biochemical Oxygen Demand,785,785,,mg/L
+ST24OCT10-01-017 ,TEM Primary Influent (10-09-2024),10/9/2024,pH,6.11,6.11,,pH Units
+ST24OCT11-01-017 ,TEM Primary Influent (10-10-2024),10/10/2024,Total Suspended Solids,516,516,,mg/L
+ST24OCT11-01-017 ,TEM Primary Influent (10-10-2024),10/10/2024,TSS - Change in Wt,0.00,0,,%
+ST24OCT11-01-017 ,TEM Primary Influent (10-10-2024),10/10/2024,Biochemical Oxygen Demand,851,851,,mg/L
+ST24OCT11-01-017 ,TEM Primary Influent (10-10-2024),10/10/2024,pH,6.48,6.48,,pH Units
+ST24OCT12-02-017 ,TEM Primary Influent (10-11-2024),10/11/2024,Total Suspended Solids,486,486,,mg/L
+ST24OCT12-02-017 ,TEM Primary Influent (10-11-2024),10/11/2024,TSS - Change in Wt,1.23,1.23,,%
+ST24OCT13-02-017 ,TEM Primary Influent (10-12-2024),10/12/2024,Total Suspended Solids,458,458,,mg/L
+ST24OCT13-02-017 ,TEM Primary Influent (10-12-2024),10/12/2024,TSS - Change in Wt,0.55,0.55,,%
+ST24OCT14-01-017 ,TEM Primary Influent (10-13-2024),10/13/2024,Total Suspended Solids,440,440,,mg/L
+ST24OCT14-01-017 ,TEM Primary Influent (10-13-2024),10/13/2024,TSS - Change in Wt,1.14,1.14,,%
+ST24OCT14-01-017 ,TEM Primary Influent (10-13-2024),10/13/2024,Biochemical Oxygen Demand,732,732,,mg/L
+ST24OCT14-01-017 ,TEM Primary Influent (10-13-2024),10/13/2024,pH,6.56,6.56,,pH Units
+ST24OCT15-01-017 ,TEM Primary Influent (10-14-2024),10/14/2024,Total Suspended Solids,498,498,,mg/L
+ST24OCT15-01-017 ,TEM Primary Influent (10-14-2024),10/14/2024,TSS - Change in Wt,0.40,0.40,,%
+ST24OCT15-01-017 ,TEM Primary Influent (10-14-2024),10/14/2024,Biochemical Oxygen Demand,889,889,,mg/L
+ST24OCT15-01-017 ,TEM Primary Influent (10-14-2024),10/14/2024,pH,6.33,6.33,,pH Units
+ST24OCT16-01-017 ,TEM Primary Influent (10-15-2024),10/15/2024,Total Suspended Solids,414,414,,mg/L
+ST24OCT16-01-017 ,TEM Primary Influent (10-15-2024),10/15/2024,TSS - Change in Wt,1.45,1.45,,%
+ST24OCT16-01-017 ,TEM Primary Influent (10-15-2024),10/15/2024,Biochemical Oxygen Demand,752,752,,mg/L
+ST24OCT16-01-017 ,TEM Primary Influent (10-15-2024),10/15/2024,pH,6.27,6.27,,pH Units
+ST24OCT17-01-017 ,TEM Primary Influent (10-16-2024),10/16/2024,Total Suspended Solids,412,412,,mg/L
+ST24OCT17-01-017 ,TEM Primary Influent (10-16-2024),10/16/2024,TSS - Change in Wt,0.97,0.97,,%
+ST24OCT17-01-017 ,TEM Primary Influent (10-16-2024),10/16/2024,Biochemical Oxygen Demand,707,707,,mg/L
+ST24OCT17-01-017 ,TEM Primary Influent (10-16-2024),10/16/2024,pH,6.43,6.43,,pH Units
+ST24OCT18-01-017 ,TEM Primary Influent (10-17-2024),10/17/2024,Total Suspended Solids,498,498,,mg/L
+ST24OCT18-01-017 ,TEM Primary Influent (10-17-2024),10/17/2024,TSS - Change in Wt,2.01,2.01,,%
+ST24OCT18-01-017 ,TEM Primary Influent (10-17-2024),10/17/2024,Biochemical Oxygen Demand,829,829,,mg/L
+ST24OCT18-01-017 ,TEM Primary Influent (10-17-2024),10/17/2024,pH,6.50,6.50,,pH Units
+ST24OCT19-02-017 ,TEM Primary Influent (10-18-2024),10/18/2024,Total Suspended Solids,403,403,,mg/L
+ST24OCT19-02-017 ,TEM Primary Influent (10-18-2024),10/18/2024,TSS - Change in Wt,0.83,0.83,,%
+ST24OCT20-02-017 ,TEM Primary Influent (10-19-2024),10/19/2024,Total Suspended Solids,413,413,,mg/L
+ST24OCT20-02-017 ,TEM Primary Influent (10-19-2024),10/19/2024,TSS - Change in Wt,0.61,0.61,,%
+ST24OCT21-01-017 ,TEM Primary Influent (10-20-2024),10/20/2024,Total Suspended Solids,479,479,,mg/L
+ST24OCT21-01-017 ,TEM Primary Influent (10-20-2024),10/20/2024,TSS - Change in Wt,1.49,1.49,,%
+ST24OCT21-01-017 ,TEM Primary Influent (10-20-2024),10/20/2024,Biochemical Oxygen Demand,621,621,,mg/L
+ST24OCT21-01-017 ,TEM Primary Influent (10-20-2024),10/20/2024,pH,6.49,6.49,,pH Units
+ST24OCT22-02-017 ,TEM Primary Influent (10-21-2024),10/21/2024,Total Suspended Solids,396,396,,mg/L
+ST24OCT22-02-017 ,TEM Primary Influent (10-21-2024),10/21/2024,TSS - Change in Wt,0.56,0.56,,%
+ST24OCT22-02-017 ,TEM Primary Influent (10-21-2024),10/21/2024,Biochemical Oxygen Demand,675,675,,mg/L
+ST24OCT22-02-017 ,TEM Primary Influent (10-21-2024),10/21/2024,pH,6.21,6.21,,pH Units
+ST24OCT23-02-017 ,TEM Primary Influent (10-22-2024),10/22/2024,Total Suspended Solids,388,388,,mg/L
+ST24OCT23-02-017 ,TEM Primary Influent (10-22-2024),10/22/2024,TSS - Change in Wt,2.06,2.06,,%
+ST24OCT23-02-017 ,TEM Primary Influent (10-22-2024),10/22/2024,Biochemical Oxygen Demand,669,669,,mg/L
+ST24OCT23-02-017 ,TEM Primary Influent (10-22-2024),10/22/2024,pH,6.35,6.35,,pH Units
+ST24OCT24-01-017 ,TEM Primary Influent (10-23-2024),10/23/2024,Total Suspended Solids,524,524,,mg/L
+ST24OCT24-01-017 ,TEM Primary Influent (10-23-2024),10/23/2024,TSS - Change in Wt,0.76,0.76,,%
+ST24OCT24-01-017 ,TEM Primary Influent (10-23-2024),10/23/2024,Biochemical Oxygen Demand,752,752,,mg/L
+ST24OCT24-01-017 ,TEM Primary Influent (10-23-2024),10/23/2024,pH,6.50,6.50,,pH Units
+ST24OCT25-01-017 ,TEM Primary Influent (10-24-2024),10/24/2024,Total Suspended Solids,535,535,,mg/L
+ST24OCT25-01-017 ,TEM Primary Influent (10-24-2024),10/24/2024,TSS - Change in Wt,2.80,2.80,,%
+ST24OCT25-01-017 ,TEM Primary Influent (10-24-2024),10/24/2024,Biochemical Oxygen Demand,907,907,,mg/L
+ST24OCT25-01-017 ,TEM Primary Influent (10-24-2024),10/24/2024,pH,6.38,6.38,,pH Units
+ST24OCT26-02-017 ,TEM Primary Influent (10-25-2024),10/25/2024,Total Suspended Solids,523,523,,mg/L
+ST24OCT26-02-017 ,TEM Primary Influent (10-25-2024),10/25/2024,TSS - Change in Wt,1.09,1.09,,%
+ST24OCT27-02-017 ,TEM Primary Influent (10-26-2024),10/26/2024,Total Suspended Solids,557,557,,mg/L
+ST24OCT27-02-017 ,TEM Primary Influent (10-26-2024),10/26/2024,TSS - Change in Wt,4.10,4.10,,%
+ST24OCT28-01-017 ,TEM Primary Influent (10-27-2024),10/27/2024,Total Suspended Solids,440,440,,mg/L
+ST24OCT28-01-017 ,TEM Primary Influent (10-27-2024),10/27/2024,TSS - Change in Wt,0.91,0.91,,%
+ST24OCT28-01-017 ,TEM Primary Influent (10-27-2024),10/27/2024,Biochemical Oxygen Demand,514,514,,mg/L
+ST24OCT28-01-017 ,TEM Primary Influent (10-27-2024),10/27/2024,pH,6.44,6.44,,pH Units
+ST24OCT29-01-017 ,TEM Primary Influent (10-28-2024),10/28/2024,Total Suspended Solids,349,349,,mg/L
+ST24OCT29-01-017 ,TEM Primary Influent (10-28-2024),10/28/2024,TSS - Change in Wt,1.08,1.08,,%
+ST24OCT29-01-017 ,TEM Primary Influent (10-28-2024),10/28/2024,Biochemical Oxygen Demand,542,542,,mg/L
+ST24OCT29-01-017 ,TEM Primary Influent (10-28-2024),10/28/2024,pH,6.65,6.65,,pH Units
+ST24OCT30-01-017 ,TEM Primary Influent (10-29-2024),10/29/2024,Total Suspended Solids,301,301,,mg/L
+ST24OCT30-01-017 ,TEM Primary Influent (10-29-2024),10/29/2024,TSS - Change in Wt,2.37,2.37,,%
+ST24OCT30-01-017 ,TEM Primary Influent (10-29-2024),10/29/2024,Biochemical Oxygen Demand,394,394,,mg/L
+ST24OCT30-01-017 ,TEM Primary Influent (10-29-2024),10/29/2024,pH,6.82,6.82,,pH Units
+ST24OCT31-01-017 ,TEM Primary Influent (10-30-2024),10/30/2024,Total Suspended Solids,276,276,,mg/L
+ST24OCT31-01-017 ,TEM Primary Influent (10-30-2024),10/30/2024,TSS - Change in Wt,1.55,1.55,,%
+ST24OCT31-01-017 ,TEM Primary Influent (10-30-2024),10/30/2024,Biochemical Oxygen Demand,425,425,,mg/L
+ST24OCT31-01-017 ,TEM Primary Influent (10-30-2024),10/30/2024,pH,6.59,6.59,,pH Units
+ST24NOV01-07-017 ,TEM Primary Influent (10-31-2024),10/31/2024,Total Suspended Solids,242,242,,mg/L
+ST24NOV01-07-017 ,TEM Primary Influent (10-31-2024),10/31/2024,TSS - Change in Wt,3.31,3.31,,%
+ST24NOV01-07-017 ,TEM Primary Influent (10-31-2024),10/31/2024,Biochemical Oxygen Demand,429,429,,mg/L
+ST24NOV01-07-017 ,TEM Primary Influent (10-31-2024),10/31/2024,pH,6.62,6.62,,pH Units
+ST24NOV02-02-017 ,TEM Primary Influent (11-01-2024),11/1/2024,Total Suspended Solids,187,187,,mg/L
+ST24NOV02-02-017 ,TEM Primary Influent (11-01-2024),11/1/2024,TSS - Change in Wt,3.57,3.57,,%
+ST24NOV03-02-017 ,TEM Primary Influent (11-02-2024),11/2/2024,Total Suspended Solids,194,194,,mg/L
+ST24NOV03-02-017 ,TEM Primary Influent (11-02-2024),11/2/2024,TSS - Change in Wt,2.15,2.15,,%
+ST24NOV04-01-017 ,TEM Primary Influent (11-03-2024),11/3/2024,Total Suspended Solids,299,299,,mg/L
+ST24NOV04-01-017 ,TEM Primary Influent (11-03-2024),11/3/2024,TSS - Change in Wt,1.26,1.26,,%
+ST24NOV04-01-017 ,TEM Primary Influent (11-03-2024),11/3/2024,Biochemical Oxygen Demand,536,536,,mg/L
+ST24NOV04-01-017 ,TEM Primary Influent (11-03-2024),11/3/2024,pH,6.30,6.30,,pH Units
+ST24NOV05-01-017,TEM Primary Influent (11-04-2024),11/4/2024,Total Suspended Solids,386,386,,mg/L
+ST24NOV05-01-017,TEM Primary Influent (11-04-2024),11/4/2024,TSS - Change in Wt,3.17,3.17,,%
+ST24NOV05-01-017,TEM Primary Influent (11-04-2024),11/4/2024,Biochemical Oxygen Demand,672,672,,mg/L
+ST24NOV05-01-017,TEM Primary Influent (11-04-2024),11/4/2024,pH,6.74,6.74,,pH Units
+ST24NOV06-01-017 ,TEM Primary Influent (11-05-2024),11/5/2024,Total Suspended Solids,436,436,,mg/L
+ST24NOV06-01-017 ,TEM Primary Influent (11-05-2024),11/5/2024,TSS - Change in Wt,1.64,1.64,,%
+ST24NOV06-01-017 ,TEM Primary Influent (11-05-2024),11/5/2024,Biochemical Oxygen Demand,802,802,,mg/L
+ST24NOV06-01-017 ,TEM Primary Influent (11-05-2024),11/5/2024,pH,6.70,6.70,,pH Units
+ST24NOV07-01-017 ,TEM Primary Influent (11-06-2024),11/6/2024,Total Suspended Solids,630,630,,mg/L
+ST24NOV07-01-017 ,TEM Primary Influent (11-06-2024),11/6/2024,TSS - Change in Wt,2.86,2.86,,%
+ST24NOV07-01-017 ,TEM Primary Influent (11-06-2024),11/6/2024,Biochemical Oxygen Demand,367,367,,mg/L
+ST24NOV07-01-017 ,TEM Primary Influent (11-06-2024),11/6/2024,pH,6.54,6.54,,pH Units
+ST24NOV08-01-017 ,TEM Primary Influent (11-07-2024),11/7/2024,Total Suspended Solids,323,323,,mg/L
+ST24NOV08-01-017 ,TEM Primary Influent (11-07-2024),11/7/2024,TSS - Change in Wt,2.06,2.06,,%
+ST24NOV08-01-017 ,TEM Primary Influent (11-07-2024),11/7/2024,Biochemical Oxygen Demand,393,393,,mg/L
+ST24NOV08-01-017 ,TEM Primary Influent (11-07-2024),11/7/2024,pH,6.17,6.17,,pH Units
+ST24NOV09-02-017 ,TEM Primary Influent (11-08-2024),11/8/2024,Total Suspended Solids,468,468,,mg/L
+ST24NOV09-02-017 ,TEM Primary Influent (11-08-2024),11/8/2024,TSS - Change in Wt,1.71,1.71,,%
+ST24NOV10-02-017 ,TEM Primary Influent (11-09-2024),11/9/2024,Total Suspended Solids,540,540,,mg/L
+ST24NOV10-02-017 ,TEM Primary Influent (11-09-2024),11/9/2024,TSS - Change in Wt,0.00,0,,%
+ST24NOV11-01-017 ,TEM Primary Influent (11-10-2024),11/10/2024,Total Suspended Solids,493,493,,mg/L
+ST24NOV11-01-017 ,TEM Primary Influent (11-10-2024),11/10/2024,TSS - Change in Wt,1.45,1.45,,%
+ST24NOV12-01-017 ,TEM Primary Influent (11-11-2024),11/11/2024,Total Suspended Solids,470,470,,mg/L
+ST24NOV12-01-017 ,TEM Primary Influent (11-11-2024),11/11/2024,TSS - Change in Wt,2.13,2.13,,%
+ST24NOV12-01-017 ,TEM Primary Influent (11-11-2024),11/11/2024,Biochemical Oxygen Demand,676,676,,mg/L
+ST24NOV12-01-017 ,TEM Primary Influent (11-11-2024),11/11/2024,pH,6.55,6.55,,pH Units
+ST24NOV13-01-017 ,TEM Primary Influent (11-12-2024),11/12/2024,Total Suspended Solids,502,502,,mg/L
+ST24NOV13-01-017 ,TEM Primary Influent (11-12-2024),11/12/2024,TSS - Change in Wt,1.99,1.99,,%
+ST24NOV13-01-017 ,TEM Primary Influent (11-12-2024),11/12/2024,Biochemical Oxygen Demand,694,694,,mg/L
+ST24NOV13-01-017 ,TEM Primary Influent (11-12-2024),11/12/2024,pH,6.50,6.50,,pH Units
+ST24NOV14-01-017 ,TEM Primary Influent (11-13-2024),11/13/2024,Total Suspended Solids,522,522,,mg/L
+ST24NOV14-01-017 ,TEM Primary Influent (11-13-2024),11/13/2024,TSS - Change in Wt,2.68,2.68,,%
+ST24NOV14-01-017 ,TEM Primary Influent (11-13-2024),11/13/2024,Biochemical Oxygen Demand,647,647,,mg/L
+ST24NOV14-01-017 ,TEM Primary Influent (11-13-2024),11/13/2024,pH,6.07,6.07,,pH Units
+ST24NOV15-01-017 ,TEM Primary Influent (11-14-2024),11/14/2024,Total Suspended Solids,468,468,,mg/L
+ST24NOV15-01-017 ,TEM Primary Influent (11-14-2024),11/14/2024,TSS - Change in Wt,3.42,3.42,,%
+ST24NOV15-01-017 ,TEM Primary Influent (11-14-2024),11/14/2024,Biochemical Oxygen Demand,393,393,,mg/L
+ST24NOV15-01-017 ,TEM Primary Influent (11-14-2024),11/14/2024,pH,6.22,6.22,,pH Units
+ST24NOV16-02-017 ,TEM Primary Influent (11-15-2024),11/15/2024,Total Suspended Solids,627,627,,mg/L
+ST24NOV16-02-017 ,TEM Primary Influent (11-15-2024),11/15/2024,TSS - Change in Wt,1.06,1.06,,%
+ST24NOV17-02-017 ,TEM Primary Influent (11-16-2024),11/16/2024,Total Suspended Solids,658,658,,mg/L
+ST24NOV17-02-017 ,TEM Primary Influent (11-16-2024),11/16/2024,TSS - Change in Wt,1.14,1.14,,%
+ST24NOV18-01-017 ,TEM Primary Influent (11-17-2024),11/17/2024,Total Suspended Solids,614,614,,mg/L
+ST24NOV18-01-017 ,TEM Primary Influent (11-17-2024),11/17/2024,TSS - Change in Wt,2.28,2.28,,%
+ST24NOV18-01-017 ,TEM Primary Influent (11-17-2024),11/17/2024,Biochemical Oxygen Demand,701,701,,mg/L
+ST24NOV18-01-017 ,TEM Primary Influent (11-17-2024),11/17/2024,pH,6.45,6.45,,pH Units
+ST24NOV19-01-017 ,TEM Primary Influent (11-18-2024),11/18/2024,Total Suspended Solids,574,574,,mg/L
+ST24NOV19-01-017 ,TEM Primary Influent (11-18-2024),11/18/2024,TSS - Change in Wt,0.35,0.35,,%
+ST24NOV19-01-017 ,TEM Primary Influent (11-18-2024),11/18/2024,Biochemical Oxygen Demand,837,837,,mg/L
+ST24NOV19-01-017 ,TEM Primary Influent (11-18-2024),11/18/2024,pH,6.39,6.39,,pH Units
+ST24NOV20-02-017 ,TEM Primary Influent (11-19-2024),11/19/2024,Total Suspended Solids,536,536,,mg/L
+ST24NOV20-02-017 ,TEM Primary Influent (11-19-2024),11/19/2024,TSS - Change in Wt,1.49,1.49,,%
+ST24NOV20-02-017 ,TEM Primary Influent (11-19-2024),11/19/2024,Biochemical Oxygen Demand,530,530,,mg/L
+ST24NOV20-02-017 ,TEM Primary Influent (11-19-2024),11/19/2024,pH,6.20,6.20,,pH Units
+ST24NOV21-02-017 ,TEM Primary Influent (11-20-2024),11/20/2024,Total Suspended Solids,753,753,,mg/L
+ST24NOV21-02-017 ,TEM Primary Influent (11-20-2024),11/20/2024,TSS - Change in Wt,0.88,0.88,,%
+ST24NOV21-02-017 ,TEM Primary Influent (11-20-2024),11/20/2024,Biochemical Oxygen Demand,603,603,,mg/L
+ST24NOV21-02-017 ,TEM Primary Influent (11-20-2024),11/20/2024,pH,6.11,6.11,,pH Units
+ST24NOV22-01-017 ,TEM Primary Influent (11-21-2024),11/21/2024,Total Suspended Solids,538,538,,mg/L
+ST24NOV22-01-017 ,TEM Primary Influent (11-21-2024),11/21/2024,TSS - Change in Wt,1.86,1.86,,%
+ST24NOV22-01-017 ,TEM Primary Influent (11-21-2024),11/21/2024,Biochemical Oxygen Demand,685,685,,mg/L
+ST24NOV22-01-017 ,TEM Primary Influent (11-21-2024),11/21/2024,pH,6.12,6.12,,pH Units
+ST24NOV23-02-017 ,TEM Primary Influent (11-22-2024),11/22/2024,Total Suspended Solids,600,600,,mg/L
+ST24NOV23-02-017 ,TEM Primary Influent (11-22-2024),11/22/2024,TSS - Change in Wt,1.11,1.11,,%
+ST24NOV24-02-017 ,TEM Primary Influent (11-23-2024),11/23/2024,Total Suspended Solids,538,538,,mg/L
+ST24NOV24-02-017 ,TEM Primary Influent (11-23-2024),11/23/2024,TSS - Change in Wt,1.40,1.40,,%
+ST24NOV25-01-017 ,TEM Primary Influent (11-24-2024),11/24/2024,Total Suspended Solids,443,443,,mg/L
+ST24NOV25-01-017 ,TEM Primary Influent (11-24-2024),11/24/2024,TSS - Change in Wt,1.29,1.29,,%
+ST24NOV25-01-017 ,TEM Primary Influent (11-24-2024),11/24/2024,Biochemical Oxygen Demand,576,576,,mg/L
+ST24NOV25-01-017 ,TEM Primary Influent (11-24-2024),11/24/2024,pH,6.15,6.15,,pH Units
+ST24NOV26-01-017 ,TEM Primary Influent (11-25-2024),11/25/2024,Total Suspended Solids,471,471,,mg/L
+ST24NOV26-01-017 ,TEM Primary Influent (11-25-2024),11/25/2024,TSS - Change in Wt,0.00,0,,%
+ST24NOV26-01-017 ,TEM Primary Influent (11-25-2024),11/25/2024,Biochemical Oxygen Demand,512,512,,mg/L
+ST24NOV26-01-017 ,TEM Primary Influent (11-25-2024),11/25/2024,pH,6.34,6.34,,pH Units
+ST24NOV27-01-017 ,TEM Primary Influent (11-26-2024),11/26/2024,Total Suspended Solids,546,546,,mg/L
+ST24NOV27-01-017 ,TEM Primary Influent (11-26-2024),11/26/2024,TSS - Change in Wt,0.37,0.37,,%
+ST24NOV27-01-017 ,TEM Primary Influent (11-26-2024),11/26/2024,Biochemical Oxygen Demand,695,695,,mg/L
+ST24NOV27-01-017 ,TEM Primary Influent (11-26-2024),11/26/2024,pH,6.47,6.47,,pH Units
+ST24NOV28-01-017 ,TEM Primary Influent (11-27-2024),11/27/2024,Total Suspended Solids,480,480,,mg/L
+ST24NOV28-01-017 ,TEM Primary Influent (11-27-2024),11/27/2024,TSS - Change in Wt,1.67,1.67,,%
+ST24NOV29-01-017 ,TEM Primary Influent (11-28-2024),11/28/2024,Total Suspended Solids,595,595,,mg/L
+ST24NOV29-01-017 ,TEM Primary Influent (11-28-2024),11/28/2024,TSS - Change in Wt,0.84,0.84,,%
+ST24NOV30-02-017 ,TEM Primary Influent (11-29-2024),11/29/2024,Total Suspended Solids,473,473,,mg/L
+ST24NOV30-02-017 ,TEM Primary Influent (11-29-2024),11/29/2024,TSS - Change in Wt,0.91,0.91,,%
+ST24DEC01-08-017 ,TEM Primary Influent (11-30-2024),11/30/2024,Total Suspended Solids,443,443,,mg/L
+ST24DEC01-08-017 ,TEM Primary Influent (11-30-2024),11/30/2024,TSS - Change in Wt,0.56,0.56,,%
+ST24DEC02-01-017 ,TEM Primary Influent (12-01-2024),12/1/2024,Total Suspended Solids,477,477,,mg/L
+ST24DEC02-01-017 ,TEM Primary Influent (12-01-2024),12/1/2024,TSS - Change in Wt,3.50,3.50,,%
+ST24DEC02-01-017 ,TEM Primary Influent (12-01-2024),12/1/2024,Biochemical Oxygen Demand,505,505,,mg/L
+ST24DEC02-01-017 ,TEM Primary Influent (12-01-2024),12/1/2024,pH,6.22,6.22,,pH Units
+ST24DEC03-01-017 ,TEM Primary Influent (12-02-2024),12/2/2024,Total Suspended Solids,418,418,,mg/L
+ST24DEC03-01-017 ,TEM Primary Influent (12-02-2024),12/2/2024,TSS - Change in Wt,2.39,2.39,,%
+ST24DEC03-01-017 ,TEM Primary Influent (12-02-2024),12/2/2024,Biochemical Oxygen Demand,364,364,,mg/L
+ST24DEC03-01-017 ,TEM Primary Influent (12-02-2024),12/2/2024,pH,6.40,6.40,,pH Units
+ST24DEC04-01-017 ,TEM Primary Influent (12-03-2024),12/3/2024,Total Suspended Solids,498,498,,mg/L
+ST24DEC04-01-017 ,TEM Primary Influent (12-03-2024),12/3/2024,TSS - Change in Wt,3.52,3.52,,%
+ST24DEC04-01-017 ,TEM Primary Influent (12-03-2024),12/3/2024,Biochemical Oxygen Demand,625,625,,mg/L
+ST24DEC04-01-017 ,TEM Primary Influent (12-03-2024),12/3/2024,pH,6.26,6.26,,pH Units
+ST24DEC05-01-017 ,TEM Primary Influent (12-04-2024),12/4/2024,Total Suspended Solids,573,573,,mg/L
+ST24DEC05-01-017 ,TEM Primary Influent (12-04-2024),12/4/2024,TSS - Change in Wt,2.33,2.33,,%
+ST24DEC05-01-017 ,TEM Primary Influent (12-04-2024),12/4/2024,Biochemical Oxygen Demand,560,560,,mg/L
+ST24DEC05-01-017 ,TEM Primary Influent (12-04-2024),12/4/2024,pH,6.12,6.12,,pH Units
+ST24DEC06-01-017 ,TEM Primary Influent (12-05-2024),12/5/2024,Total Suspended Solids,502,502,,mg/L
+ST24DEC06-01-017 ,TEM Primary Influent (12-05-2024),12/5/2024,TSS - Change in Wt,3.65,3.65,,%
+ST24DEC06-01-017 ,TEM Primary Influent (12-05-2024),12/5/2024,Biochemical Oxygen Demand,691,691,!,mg/L
+ST24DEC06-01-017 ,TEM Primary Influent (12-05-2024),12/5/2024,pH,6.18,6.18,,pH Units
+ST24DEC07-02-017 ,TEM Primary Influent (12-06-2024),12/6/2024,Total Suspended Solids,672,672,,mg/L
+ST24DEC07-02-017 ,TEM Primary Influent (12-06-2024),12/6/2024,TSS - Change in Wt,0.00,0,,%
+ST24DEC08-02-017 ,TEM Primary Influent (12-07-2024),12/7/2024,Total Suspended Solids,600,600,,mg/L
+ST24DEC08-02-017 ,TEM Primary Influent (12-07-2024),12/7/2024,TSS - Change in Wt,0.00,0,,%
+ST24DEC09-01-017 ,TEM Primary Influent (12-08-2024),12/8/2024,Total Suspended Solids,528,528,,mg/L
+ST24DEC09-01-017 ,TEM Primary Influent (12-08-2024),12/8/2024,TSS - Change in Wt,0.47,0.47,,%
+ST24DEC09-01-017 ,TEM Primary Influent (12-08-2024),12/8/2024,Biochemical Oxygen Demand,821,821,,mg/L
+ST24DEC09-01-017 ,TEM Primary Influent (12-08-2024),12/8/2024,pH,6.99,6.99,,pH Units
+ST24DEC10-01-017 ,TEM Primary Influent (12-09-2024),12/9/2024,Total Suspended Solids,532,532,,mg/L
+ST24DEC10-01-017 ,TEM Primary Influent (12-09-2024),12/9/2024,TSS - Change in Wt,0.00,0,,%
+ST24DEC10-01-017 ,TEM Primary Influent (12-09-2024),12/9/2024,Biochemical Oxygen Demand,589,589,,mg/L
+ST24DEC10-01-017 ,TEM Primary Influent (12-09-2024),12/9/2024,pH,6.00,6.00,,pH Units
+ST24DEC11-01-017 ,TEM Primary Influent (12-10-2024),12/10/2024,Total Suspended Solids,347,347,,mg/L
+ST24DEC11-01-017 ,TEM Primary Influent (12-10-2024),12/10/2024,TSS - Change in Wt,2.56,2.56,,%
+ST24DEC11-01-017 ,TEM Primary Influent (12-10-2024),12/10/2024,Biochemical Oxygen Demand,369,369,,mg/L
+ST24DEC11-01-017 ,TEM Primary Influent (12-10-2024),12/10/2024,pH,6.16,6.16,,pH Units
+ST24DEC12-01-017 ,TEM Primary Influent (12-11-2024),12/11/2024,Total Suspended Solids,540,540,,mg/L
+ST24DEC12-01-017 ,TEM Primary Influent (12-11-2024),12/11/2024,TSS - Change in Wt,1.48,1.48,,%
+ST24DEC12-01-017 ,TEM Primary Influent (12-11-2024),12/11/2024,Biochemical Oxygen Demand,512,512,,mg/L
+ST24DEC12-01-017 ,TEM Primary Influent (12-11-2024),12/11/2024,pH,6.16,6.16,,pH Units
+ST24DEC13-01-017 ,TEM Primary Influent (12-12-2024),12/12/2024,Total Suspended Solids,450,450,,mg/L
+ST24DEC13-01-017 ,TEM Primary Influent (12-12-2024),12/12/2024,TSS - Change in Wt,0.44,0.44,,%
+ST24DEC13-01-017 ,TEM Primary Influent (12-12-2024),12/12/2024,Biochemical Oxygen Demand,620,620,,mg/L
+ST24DEC13-01-017 ,TEM Primary Influent (12-12-2024),12/12/2024,pH,6.17,6.17,,pH Units
+ST24DEC14-02-017 ,TEM Primary Influent (12-13-2024),12/13/2024,Total Suspended Solids,390,390,,mg/L
+ST24DEC14-02-017 ,TEM Primary Influent (12-13-2024),12/13/2024,TSS - Change in Wt,1.71,1.71,,%
+ST24DEC15-02-017 ,TEM Primary Influent (12-14-2024),12/14/2024,Total Suspended Solids,473,473,,mg/L
+ST24DEC15-02-017 ,TEM Primary Influent (12-14-2024),12/14/2024,TSS - Change in Wt,0.70,0.70,,%
+ST24DEC16-01-017 ,TEM Primary Influent (12-15-2024),12/15/2024,Total Suspended Solids,515,515,,mg/L
+ST24DEC16-01-017 ,TEM Primary Influent (12-15-2024),12/15/2024,TSS - Change in Wt,0.97,0.97,,%
+ST24DEC16-01-017 ,TEM Primary Influent (12-15-2024),12/15/2024,Biochemical Oxygen Demand,612,612,,mg/L
+ST24DEC16-01-017 ,TEM Primary Influent (12-15-2024),12/15/2024,pH,6.27,6.27,,pH Units
+ST24DEC17-01-017 ,TEM Primary Influent (12-16-2024),12/16/2024,Total Suspended Solids,470,470,,mg/L
+ST24DEC17-01-017 ,TEM Primary Influent (12-16-2024),12/16/2024,TSS - Change in Wt,1.28,1.28,,%
+ST24DEC17-01-017 ,TEM Primary Influent (12-16-2024),12/16/2024,Biochemical Oxygen Demand,711,711,,mg/L
+ST24DEC17-01-017 ,TEM Primary Influent (12-16-2024),12/16/2024,pH,6.60,6.60,,pH Units
+ST24DEC18-01-017 ,TEM Primary Influent (12-17-2024),12/17/2024,Total Suspended Solids,410,410,,mg/L
+ST24DEC18-01-017 ,TEM Primary Influent (12-17-2024),12/17/2024,TSS - Change in Wt,1.46,1.46,,%
+ST24DEC18-01-017 ,TEM Primary Influent (12-17-2024),12/17/2024,Biochemical Oxygen Demand,651,651,,mg/L
+ST24DEC18-01-017 ,TEM Primary Influent (12-17-2024),12/17/2024,pH,6.07,6.07,,pH Units
+ST24DEC19-01-017 ,TEM Primary Influent (12-18-2024),12/18/2024,Total Suspended Solids,326,326,,mg/L
+ST24DEC19-01-017 ,TEM Primary Influent (12-18-2024),12/18/2024,TSS - Change in Wt,3.07,3.07,,%
+ST24DEC19-01-017 ,TEM Primary Influent (12-18-2024),12/18/2024,Biochemical Oxygen Demand,414,414,,mg/L
+ST24DEC19-01-017 ,TEM Primary Influent (12-18-2024),12/18/2024,pH,6.54,6.54,,pH Units
+ST24DEC20-01-017 ,TEM Primary Influent (12-19-2024),12/19/2024,Total Suspended Solids,318,318,,mg/L
+ST24DEC20-01-017 ,TEM Primary Influent (12-19-2024),12/19/2024,TSS - Change in Wt,0.63,0.63,,%
+ST24DEC20-01-017 ,TEM Primary Influent (12-19-2024),12/19/2024,Biochemical Oxygen Demand,562,562,,mg/L
+ST24DEC20-01-017 ,TEM Primary Influent (12-19-2024),12/19/2024,pH,6.25,6.25,,pH Units
+ST24DEC21-02-017 ,TEM Primary Influent (12-20-2024),12/20/2024,Total Suspended Solids,291,291,,mg/L
+ST24DEC21-02-017 ,TEM Primary Influent (12-20-2024),12/20/2024,TSS - Change in Wt,0.98,0.98,,%
+ST24DEC22-02-017 ,TEM Primary Influent (12-21-2024),12/21/2024,Total Suspended Solids,518,518,,mg/L
+ST24DEC22-02-017 ,TEM Primary Influent (12-21-2024),12/21/2024,TSS - Change in Wt,1.16,1.16,,%
+ST24DEC23-01-017 ,TEM Primary Influent (12-22-2024),12/22/2024,Total Suspended Solids,561,561,,mg/L
+ST24DEC23-01-017 ,TEM Primary Influent (12-22-2024),12/22/2024,TSS - Change in Wt,0.54,0.54,,%
+ST24DEC23-01-017 ,TEM Primary Influent (12-22-2024),12/22/2024,Biochemical Oxygen Demand,571,571,,mg/L
+ST24DEC23-01-017 ,TEM Primary Influent (12-22-2024),12/22/2024,pH,6.41,6.41,,pH Units
+ST24DEC24-01-017 ,TEM Primary Influent (12-23-2024),12/23/2024,Total Suspended Solids,475,475,,mg/L
+ST24DEC24-01-017 ,TEM Primary Influent (12-23-2024),12/23/2024,TSS - Change in Wt,0.00,0,,%
+ST24DEC25-01-017 ,TEM Primary Influent (12-24-2024),12/24/2024,Total Suspended Solids,482,482,,mg/L
+ST24DEC25-01-017 ,TEM Primary Influent (12-24-2024),12/24/2024,TSS - Change in Wt,1.24,1.24,,%
+ST24DEC26-01-017 ,TEM Primary Influent (12-25-2024),12/25/2024,Total Suspended Solids,632,632,,mg/L
+ST24DEC26-01-017 ,TEM Primary Influent (12-25-2024),12/25/2024,TSS - Change in Wt,0.63,0.63,,%
+ST24DEC26-01-017 ,TEM Primary Influent (12-25-2024),12/25/2024,Biochemical Oxygen Demand,635,635,,mg/L
+ST24DEC26-01-017 ,TEM Primary Influent (12-25-2024),12/25/2024,pH,6.32,6.32,,pH Units
+ST24DEC27-01-017 ,TEM Primary Influent (12-26-2024),12/26/2024,Total Suspended Solids,568,568,,mg/L
+ST24DEC27-01-017 ,TEM Primary Influent (12-26-2024),12/26/2024,TSS - Change in Wt,2.82,2.82,,%
+ST24DEC27-01-017 ,TEM Primary Influent (12-26-2024),12/26/2024,Biochemical Oxygen Demand,780,780,,mg/L
+ST24DEC27-01-017 ,TEM Primary Influent (12-26-2024),12/26/2024,pH,6.56,6.56,,pH Units
+ST24DEC28-02-017 ,TEM Primary Influent (12-27-2024),12/27/2024,Total Suspended Solids,580,580,,mg/L
+ST24DEC28-02-017 ,TEM Primary Influent (12-27-2024),12/27/2024,TSS - Change in Wt,1.38,1.38,,%
+ST24DEC29-02-017 ,TEM Primary Influent (12-28-2024),12/28/2024,Total Suspended Solids,524,524,,mg/L
+ST24DEC29-02-017 ,TEM Primary Influent (12-28-2024),12/28/2024,TSS - Change in Wt,1.53,1.53,,%
+ST24DEC30-01-017 ,TEM Primary Influent (12-29-2024),12/29/2024,Total Suspended Solids,382,382,,mg/L
+ST24DEC30-01-017 ,TEM Primary Influent (12-29-2024),12/29/2024,TSS - Change in Wt,2.62,2.62,,%
+ST24DEC30-01-017 ,TEM Primary Influent (12-29-2024),12/29/2024,Biochemical Oxygen Demand,240,240,,mg/L
+ST24DEC30-01-017 ,TEM Primary Influent (12-29-2024),12/29/2024,pH,6.47,6.47,,pH Units
+ST24DEC31-01-017 ,TEM Primary Influent (12-30-2024),12/30/2024,Total Suspended Solids,297,297,,mg/L
+ST24DEC31-01-017 ,TEM Primary Influent (12-30-2024),12/30/2024,TSS - Change in Wt,3.37,3.37,,%
+ST24DEC31-01-017 ,TEM Primary Influent (12-30-2024),12/30/2024,Biochemical Oxygen Demand,644,644,,mg/L
+ST24DEC31-01-017 ,TEM Primary Influent (12-30-2024),12/30/2024,pH,6.62,6.62,,pH Units
+ST25JAN01-07-017 ,TEM Primary Influent (12-31-2024),12/31/2024,Total Suspended Solids,404,404,,mg/L
+ST25JAN01-07-017 ,TEM Primary Influent (12-31-2024),12/31/2024,TSS - Change in Wt,0.99,0.99,,%
+ST25JAN02-04-017,TEM Primary Influent (01-01-2025),1/1/2025,Total Suspended Solids,525,525,,mg/L
+ST25JAN02-04-017,TEM Primary Influent (01-01-2025),1/1/2025,TSS - Change in Wt,0.95,0.95,,%
+ST25JAN02-04-017,TEM Primary Influent (01-01-2025),1/1/2025,Biochemical Oxygen Demand,420,420,,mg/L
+ST25JAN02-04-017,TEM Primary Influent (01-01-2025),1/1/2025,pH,6.57,6.57,,pH Units
+ST25JAN03-01-017,TEM Primary Influent (01-02-2025),1/2/2025,Total Suspended Solids,588,588,,mg/L
+ST25JAN03-01-017,TEM Primary Influent (01-02-2025),1/2/2025,TSS - Change in Wt,0.43,0.43,,%
+ST25JAN03-01-017,TEM Primary Influent (01-02-2025),1/2/2025,Biochemical Oxygen Demand,744,744,,mg/L
+ST25JAN03-01-017,TEM Primary Influent (01-02-2025),1/2/2025,pH,6.16,6.16,,pH Units
+ST25JAN04-02-017 ,TEM Primary Influent (01-03-2025),1/3/2025,Total Suspended Solids,648,648,,mg/L
+ST25JAN04-02-017 ,TEM Primary Influent (01-03-2025),1/3/2025,TSS - Change in Wt,0.62,0.62,,%
+ST25JAN05-02-017 ,TEM Primary Influent (01-04-2025),1/4/2025,Total Suspended Solids,769,769,,mg/L
+ST25JAN05-02-017 ,TEM Primary Influent (01-04-2025),1/4/2025,TSS - Change in Wt,0.37,0.37,,%
+ST25JAN06-01-017 ,TEM Primary Influent (01-05-2025),1/5/2025,Total Suspended Solids,708,708,,mg/L
+ST25JAN06-01-017 ,TEM Primary Influent (01-05-2025),1/5/2025,TSS - Change in Wt,0.00,0,,%
+ST25JAN06-01-017 ,TEM Primary Influent (01-05-2025),1/5/2025,Biochemical Oxygen Demand,791,791,,mg/L
+ST25JAN06-01-017 ,TEM Primary Influent (01-05-2025),1/5/2025,pH,6.28,6.28,,pH Units
+ST25JAN07-01-017 ,TEM Primary Influent (01-06-2025),1/6/2025,Total Suspended Solids,526,526,,mg/L
+ST25JAN07-01-017 ,TEM Primary Influent (01-06-2025),1/6/2025,TSS - Change in Wt,1.14,1.14,,%
+ST25JAN07-01-017 ,TEM Primary Influent (01-06-2025),1/6/2025,Biochemical Oxygen Demand,457,457,,mg/L
+ST25JAN07-01-017 ,TEM Primary Influent (01-06-2025),1/6/2025,pH,6.56,6.56,,pH Units
+ST25JAN08-01-017 ,TEM Primary Influent (01-07-2025),1/7/2025,Total Suspended Solids,481,481,,mg/L
+ST25JAN08-01-017 ,TEM Primary Influent (01-07-2025),1/7/2025,TSS - Change in Wt,0.30,0.30,,%
+ST25JAN08-01-017 ,TEM Primary Influent (01-07-2025),1/7/2025,Biochemical Oxygen Demand,791,791,,mg/L
+ST25JAN08-01-017 ,TEM Primary Influent (01-07-2025),1/7/2025,pH,6.67,6.67,,pH Units
+ST25JAN09-01-017 ,TEM Primary Influent (01-08-2025),1/8/2025,Total Suspended Solids,566,566,,mg/L
+ST25JAN09-01-017 ,TEM Primary Influent (01-08-2025),1/8/2025,TSS - Change in Wt,2.47,2.47,,%
+ST25JAN09-01-017 ,TEM Primary Influent (01-08-2025),1/8/2025,Biochemical Oxygen Demand,487,487,,mg/L
+ST25JAN09-01-017 ,TEM Primary Influent (01-08-2025),1/8/2025,pH,6.54,6.54,,pH Units
+ST25JAN10-01-017 ,TEM Primary Influent (01-09-2025),1/9/2025,Total Suspended Solids,535,535,,mg/L
+ST25JAN10-01-017 ,TEM Primary Influent (01-09-2025),1/9/2025,TSS - Change in Wt,0.93,0.93,,%
+ST25JAN10-01-017 ,TEM Primary Influent (01-09-2025),1/9/2025,Biochemical Oxygen Demand,641,641,,mg/L
+ST25JAN10-01-017 ,TEM Primary Influent (01-09-2025),1/9/2025,pH,6.31,6.31,,pH Units
+ST25JAN11-02-017 ,TEM Primary Influent (01-10-2025),1/10/2025,Total Suspended Solids,498,498,,mg/L
+ST25JAN11-02-017 ,TEM Primary Influent (01-10-2025),1/10/2025,TSS - Change in Wt,0.40,0.40,,%
+ST25JAN12-02-017 ,TEM Primary Influent (01-11-2025),1/11/2025,Total Suspended Solids,412,412,,mg/L
+ST25JAN12-02-017 ,TEM Primary Influent (01-11-2025),1/11/2025,TSS - Change in Wt,0.97,0.97,,%
+ST25JAN13-01-017 ,TEM Primary Influent (01-12-2025),1/12/2025,Total Suspended Solids,474,474,,mg/L
+ST25JAN13-01-017 ,TEM Primary Influent (01-12-2025),1/12/2025,TSS - Change in Wt,2.11,2.11,,%
+ST25JAN13-01-017 ,TEM Primary Influent (01-12-2025),1/12/2025,Biochemical Oxygen Demand,464,464,,mg/L
+ST25JAN13-01-017 ,TEM Primary Influent (01-12-2025),1/12/2025,pH,6.42,6.42,,pH Units
+ST25JAN14-01-017 ,TEM Primary Influent (01-13-2025),1/13/2025,Total Suspended Solids,563,563,,mg/L
+ST25JAN14-01-017 ,TEM Primary Influent (01-13-2025),1/13/2025,TSS - Change in Wt,2.22,2.22,,%
+ST25JAN14-01-017 ,TEM Primary Influent (01-13-2025),1/13/2025,Biochemical Oxygen Demand,557,557,,mg/L
+ST25JAN14-01-017 ,TEM Primary Influent (01-13-2025),1/13/2025,pH,6.34,6.34,,pH Units
+ST25JAN15-01-017 ,TEM Primary Influent (01-14-2025),1/14/2025,Total Suspended Solids,613,613,,mg/L
+ST25JAN15-01-017 ,TEM Primary Influent (01-14-2025),1/14/2025,TSS - Change in Wt,0.41,0.41,,%
+ST25JAN16-01-017 ,TEM Primary Influent (01-15-2025),1/15/2025,Total Suspended Solids,580,580,,mg/L
+ST25JAN16-01-017 ,TEM Primary Influent (01-15-2025),1/15/2025,TSS - Change in Wt,0.86,0.86,,%
+ST25JAN17-01-017 ,TEM Primary Influent (01-16-2025),1/16/2025,Total Suspended Solids,653,653,,mg/L
+ST25JAN17-01-017 ,TEM Primary Influent (01-16-2025),1/16/2025,TSS - Change in Wt,1.92,1.92,,%
+ST25JAN18-02-017 ,TEM Primary Influent (01-17-2025),1/17/2025,Total Suspended Solids,643,643,,mg/L
+ST25JAN18-02-017 ,TEM Primary Influent (01-17-2025),1/17/2025,TSS - Change in Wt,2.59,2.59,,%
+ST25JAN19-02-017 ,TEM Primary Influent (01-18-2025),1/18/2025,Total Suspended Solids,645,645,,mg/L
+ST25JAN19-02-017 ,TEM Primary Influent (01-18-2025),1/18/2025,TSS - Change in Wt,1.55,1.55,,%
+ST25JAN20-01-017 ,TEM Primary Influent (01-19-2025),1/19/2025,Total Suspended Solids,542,542,,mg/L
+ST25JAN20-01-017 ,TEM Primary Influent (01-19-2025),1/19/2025,TSS - Change in Wt,0.37,0.37,,%
+ST25JAN21-01-017 ,TEM Primary Influent (01-20-2025),1/20/2025,Total Suspended Solids,577,577,,mg/L
+ST25JAN21-01-017 ,TEM Primary Influent (01-20-2025),1/20/2025,TSS - Change in Wt,1.73,1.73,,%
+ST25JAN22-01-017 ,TEM Primary Influent (01-21-2025),1/21/2025,Total Suspended Solids,444,444,,mg/L
+ST25JAN22-01-017 ,TEM Primary Influent (01-21-2025),1/21/2025,TSS - Change in Wt,0.90,0.90,,%
+ST25JAN23-01-017 ,TEM Primary Influent (01-22-2025),1/22/2025,Total Suspended Solids,580,580,,mg/L
+ST25JAN23-01-017 ,TEM Primary Influent (01-22-2025),1/22/2025,TSS - Change in Wt,1.38,1.38,,%
+ST25JAN24-02-017,TEM Primary Influent (01-23-2025),1/23/2025,Total Suspended Solids,360,360,,mg/L
+ST25JAN24-02-017,TEM Primary Influent (01-23-2025),1/23/2025,TSS - Change in Wt,2.22,2.22,,%
+ST25JAN25-02-017 ,TEM Primary Influent (01-24-2025),1/24/2025,Total Suspended Solids,785,785,,mg/L
+ST25JAN25-02-017 ,TEM Primary Influent (01-24-2025),1/24/2025,TSS - Change in Wt,0.64,0.64,,%
+ST25JAN26-02-017 ,TEM Primary Influent (01-25-2025),1/25/2025,Total Suspended Solids,635,635,,mg/L
+ST25JAN26-02-017 ,TEM Primary Influent (01-25-2025),1/25/2025,TSS - Change in Wt,0.79,0.79,,%
+ST25JAN27-01-017 ,TEM Primary Influent (01-26-2025),1/26/2025,Total Suspended Solids,655,655,,mg/L
+ST25JAN27-01-017 ,TEM Primary Influent (01-26-2025),1/26/2025,TSS - Change in Wt,0.76,0.76,,%
+ST25JAN28-01-017 ,TEM Primary Influent (01-27-2025),1/27/2025,Total Suspended Solids,625,625,,mg/L
+ST25JAN28-01-017 ,TEM Primary Influent (01-27-2025),1/27/2025,TSS - Change in Wt,0.00,0,,%
+ST25JAN29-01-017 ,TEM Primary Influent (01-28-2025),1/28/2025,Total Suspended Solids,680,680,,mg/L
+ST25JAN29-01-017 ,TEM Primary Influent (01-28-2025),1/28/2025,TSS - Change in Wt,1.47,1.47,,%
+ST25JAN30-01-017 ,TEM Primary Influent (01-29-2025),1/29/2025,Total Suspended Solids,618,618,,mg/L
+ST25JAN30-01-017 ,TEM Primary Influent (01-29-2025),1/29/2025,TSS - Change in Wt,0.40,0.40,,%
+ST25JAN31-01-017 ,TEM Primary Influent (01-30-2025),1/30/2025,Total Suspended Solids,748,748,,mg/L
+ST25JAN31-01-017 ,TEM Primary Influent (01-30-2025),1/30/2025,TSS - Change in Wt,3.68,3.68,,%
+ST25FEB01-08-017 ,TEM Primary Influent (01-31-2025),1/31/2025,Total Suspended Solids,498,498,,mg/L
+ST25FEB01-08-017 ,TEM Primary Influent (01-31-2025),1/31/2025,TSS - Change in Wt,1.51,1.51,,%
+ST25FEB02-02-017 ,TEM Primary Influent (02-01-2025),2/1/2025,Total Suspended Solids,493,493,,mg/L
+ST25FEB02-02-017 ,TEM Primary Influent (02-01-2025),2/1/2025,TSS - Change in Wt,1.52,1.52,,%
+ST25FEB03-01-017 ,TEM Primary Influent (02-02-2025),2/2/2025,Total Suspended Solids,547,547,,mg/L
+ST25FEB03-01-017 ,TEM Primary Influent (02-02-2025),2/2/2025,TSS - Change in Wt,0.00,0,,%
+ST25FEB04-01-017 ,TEM Primary Influent (02-03-2025),2/3/2025,Total Suspended Solids,557,557,,mg/L
+ST25FEB04-01-017 ,TEM Primary Influent (02-03-2025),2/3/2025,TSS - Change in Wt,2.99,2.99,,%
+ST25FEB05-01-017 ,TEM Primary Influent (02-04-2025),2/4/2025,Total Suspended Solids,703,703,,mg/L
+ST25FEB05-01-017 ,TEM Primary Influent (02-04-2025),2/4/2025,TSS - Change in Wt,1.42,1.42,,%
+ST25FEB06-01-017 ,TEM Primary Influent (02-05-2025),2/5/2025,Total Suspended Solids,525,525,,mg/L
+ST25FEB06-01-017 ,TEM Primary Influent (02-05-2025),2/5/2025,TSS - Change in Wt,0.95,0.95,,%
+ST25FEB07-01-017 ,TEM Primary Influent (02-06-2025),2/6/2025,Total Suspended Solids,628,628,,mg/L
+ST25FEB07-01-017 ,TEM Primary Influent (02-06-2025),2/6/2025,TSS - Change in Wt,3.59,3.59,,%
+ST25FEB08-02-017 ,TEM Primary Influent (02-07-2025),2/7/2025,Total Suspended Solids,630,630,,mg/L
+ST25FEB08-02-017 ,TEM Primary Influent (02-07-2025),2/7/2025,TSS - Change in Wt,1.59,1.59,,%
+ST25FEB09-02-017 ,TEM Primary Influent (02-08-2025),2/8/2025,Total Suspended Solids,603,603,,mg/L
+ST25FEB09-02-017 ,TEM Primary Influent (02-08-2025),2/8/2025,TSS - Change in Wt,4.42,4.42,,%
+ST25FEB10-01-017 ,TEM Primary Influent (02-09-2025),2/9/2025,Total Suspended Solids,740,740,,mg/L
+ST25FEB10-01-017 ,TEM Primary Influent (02-09-2025),2/9/2025,TSS - Change in Wt,0.54,0.54,,%
+ST25FEB11-01-017 ,TEM Primary Influent (02-10-2025),2/10/2025,Total Suspended Solids,638,638,,mg/L
+ST25FEB11-01-017 ,TEM Primary Influent (02-10-2025),2/10/2025,TSS - Change in Wt,2.19,2.19,,%
+ST25FEB12-01-017 ,TEM Primary Influent (02-11-2025),2/11/2025,Total Suspended Solids,690,690,,mg/L
+ST25FEB12-01-017 ,TEM Primary Influent (02-11-2025),2/11/2025,TSS - Change in Wt,3.38,3.38,,%
+ST25FEB13-01-017 ,TEM Primary Influent (02-12-2025),2/12/2025,Total Suspended Solids,440,440,,mg/L
+ST25FEB13-01-017 ,TEM Primary Influent (02-12-2025),2/12/2025,TSS - Change in Wt,1.14,1.14,,%
+ST25FEB14-01-017 ,TEM Primary Influent (02-13-2025),2/13/2025,Total Suspended Solids,698,698,,mg/L
+ST25FEB14-01-017 ,TEM Primary Influent (02-13-2025),2/13/2025,TSS - Change in Wt,0.36,0.36,,%
+ST25FEB15-02-017 ,TEM Primary Influent (02-14-2025),2/14/2025,Total Suspended Solids,578,578,,mg/L
+ST25FEB15-02-017 ,TEM Primary Influent (02-14-2025),2/14/2025,TSS - Change in Wt,0.43,0.43,,%
+ST25FEB16-02-017 ,TEM Primary Influent (02-15-2025),2/15/2025,Total Suspended Solids,484,484,,mg/L
+ST25FEB16-02-017 ,TEM Primary Influent (02-15-2025),2/15/2025,TSS - Change in Wt,0.26,0.26,,%
+ST25FEB17-01-017 ,TEM Primary Influent (02-16-2025),2/16/2025,Total Suspended Solids,408,408,,mg/L
+ST25FEB17-01-017 ,TEM Primary Influent (02-16-2025),2/16/2025,TSS - Change in Wt,1.84,1.84,,%
+ST25FEB18-01-017 ,TEM Primary Influent (02-17-2025),2/17/2025,Total Suspended Solids,394,394,,mg/L
+ST25FEB18-01-017 ,TEM Primary Influent (02-17-2025),2/17/2025,TSS - Change in Wt,3.55,3.55,,%
+ST25FEB19-01-017 ,TEM Primary Influent (02-18-2025),2/18/2025,Total Suspended Solids,423,423,,mg/L
+ST25FEB19-01-017 ,TEM Primary Influent (02-18-2025),2/18/2025,TSS - Change in Wt,2.96,2.96,,%
+ST25FEB20-01-017 ,TEM Primary Influent (02-19-2025),2/19/2025,Total Suspended Solids,460,460,,mg/L
+ST25FEB20-01-017 ,TEM Primary Influent (02-19-2025),2/19/2025,TSS - Change in Wt,2.17,2.17,,%
+ST25FEB21-01-017 ,TEM Primary Influent (02-20-2025),2/20/2025,Total Suspended Solids,353,353,,mg/L
+ST25FEB21-01-017 ,TEM Primary Influent (02-20-2025),2/20/2025,TSS - Change in Wt,0.71,0.71,,%
+ST25FEB22-02-017 ,TEM Primary Influent (02-21-2025),2/21/2025,Total Suspended Solids,450,450,,mg/L
+ST25FEB22-02-017 ,TEM Primary Influent (02-21-2025),2/21/2025,TSS - Change in Wt,2.22,2.22,,%
+ST25FEB23-02-017 ,TEM Primary Influent (02-22-2025),2/22/2025,Total Suspended Solids,505,505,,mg/L
+ST25FEB23-02-017 ,TEM Primary Influent (02-22-2025),2/22/2025,TSS - Change in Wt,1.98,1.98,,%
+ST25FEB24-01-017 ,TEM Primary Influent (02-23-2025),2/23/2025,Total Suspended Solids,430,430,,mg/L
+ST25FEB24-01-017 ,TEM Primary Influent (02-23-2025),2/23/2025,TSS - Change in Wt,1.16,1.16,,%
+ST25FEB25-01-017 ,TEM Primary Influent (02-24-2025),2/24/2025,Total Suspended Solids,385,385,,mg/L
+ST25FEB25-01-017 ,TEM Primary Influent (02-24-2025),2/24/2025,TSS - Change in Wt,2.60,2.60,,%
+ST25FEB26-01-017 ,TEM Primary Influent (02-25-2025),2/25/2025,Total Suspended Solids,592,592,,mg/L
+ST25FEB26-01-017 ,TEM Primary Influent (02-25-2025),2/25/2025,TSS - Change in Wt,2.70,2.70,,%
+ST25FEB27-01-017 ,TEM Primary Influent (02-26-2025),2/26/2025,Total Suspended Solids,588,588,,mg/L
+ST25FEB27-01-017 ,TEM Primary Influent (02-26-2025),2/26/2025,TSS - Change in Wt,0.00,0,,%
+ST25FEB27-01-017 ,TEM Primary Influent (02-26-2025),2/26/2025,Biochemical Oxygen Demand,677,677,,mg/L
+ST25FEB27-01-017 ,TEM Primary Influent (02-26-2025),2/26/2025,pH,6.02,6.02,,pH Units
+ST25FEB28-01-017 ,TEM Primary Influent (02-27-2025),2/27/2025,Total Suspended Solids,620,620,,mg/L
+ST25FEB28-01-017 ,TEM Primary Influent (02-27-2025),2/27/2025,TSS - Change in Wt,0.00,0,,%
+ST25FEB28-01-017 ,TEM Primary Influent (02-27-2025),2/27/2025,Biochemical Oxygen Demand,833,833,,mg/L
+ST25FEB28-01-017 ,TEM Primary Influent (02-27-2025),2/27/2025,pH,7.40,7.40,,pH Units
+ST25MAR01-07-017 ,TEM Primary Influent (02-28-2025),2/28/2025,Total Suspended Solids,558,558,,mg/L
+ST25MAR01-07-017 ,TEM Primary Influent (02-28-2025),2/28/2025,TSS - Change in Wt,0.45,0.45,,%
+ST25MAR02-02-017 ,TEM Primary Influent (03-01-2025),3/1/2025,Total Suspended Solids,543,543,,mg/L
+ST25MAR02-02-017 ,TEM Primary Influent (03-01-2025),3/1/2025,TSS - Change in Wt,0.46,0.46,,%
+ST25MAR03-03-017 ,TEM Primary Influent (03-02-2025),3/2/2025,Total Suspended Solids,563,563,,mg/L
+ST25MAR03-03-017 ,TEM Primary Influent (03-02-2025),3/2/2025,TSS - Change in Wt,0.44,0.44,,%
+ST25MAR03-03-017 ,TEM Primary Influent (03-02-2025),3/2/2025,Biochemical Oxygen Demand,691,691,,mg/L
+ST25MAR03-03-017 ,TEM Primary Influent (03-02-2025),3/2/2025,pH,6.16,6.16,,pH Units
+ST25MAR04-01-017 ,TEM Primary Influent (03-03-2025),3/3/2025,Total Suspended Solids,656,656,,mg/L
+ST25MAR04-01-017 ,TEM Primary Influent (03-03-2025),3/3/2025,TSS - Change in Wt,0.61,0.61,,%
+ST25MAR04-01-017 ,TEM Primary Influent (03-03-2025),3/3/2025,Biochemical Oxygen Demand,872,872,,mg/L
+ST25MAR04-01-017 ,TEM Primary Influent (03-03-2025),3/3/2025,pH,6.09,6.09,,pH Units
+ST25MAR05-01-017 ,TEM Primary Influent (03-04-2025),3/4/2025,Total Suspended Solids,603,603,,mg/L
+ST25MAR05-01-017 ,TEM Primary Influent (03-04-2025),3/4/2025,TSS - Change in Wt,0.41,0.41,,%
+ST25MAR05-01-017 ,TEM Primary Influent (03-04-2025),3/4/2025,Biochemical Oxygen Demand,742,742,,mg/L
+ST25MAR05-01-017 ,TEM Primary Influent (03-04-2025),3/4/2025,pH,6.14,6.14,,pH Units
+ST25MAR06-01-017 ,TEM Primary Influent (03-05-2025),3/5/2025,Total Suspended Solids,590,590,,mg/L
+ST25MAR06-01-017 ,TEM Primary Influent (03-05-2025),3/5/2025,TSS - Change in Wt,0.00,0,,%
+ST25MAR06-01-017 ,TEM Primary Influent (03-05-2025),3/5/2025,Biochemical Oxygen Demand,640,640,,mg/L
+ST25MAR06-01-017 ,TEM Primary Influent (03-05-2025),3/5/2025,pH,6.19,6.19,,pH Units
+ST25MAR07-01-017 ,TEM Primary Influent (03-06-2025),3/6/2025,Total Suspended Solids,853,853,,mg/L
+ST25MAR07-01-017 ,TEM Primary Influent (03-06-2025),3/6/2025,TSS - Change in Wt,0.00,0,,%
+ST25MAR07-01-017 ,TEM Primary Influent (03-06-2025),3/6/2025,Biochemical Oxygen Demand,808,808,,mg/L
+ST25MAR07-01-017 ,TEM Primary Influent (03-06-2025),3/6/2025,pH,6.00,6.00,,pH Units
+ST25MAR08-02-017 ,TEM Primary Influent (03-07-2025),3/7/2025,Total Suspended Solids,513,513,,mg/L
+ST25MAR08-02-017 ,TEM Primary Influent (03-07-2025),3/7/2025,TSS - Change in Wt,0.49,0.49,,%
+ST25MAR09-02-017 ,TEM Primary Influent (03-08-2025),3/8/2025,Total Suspended Solids,565,565,,mg/L
+ST25MAR09-02-017 ,TEM Primary Influent (03-08-2025),3/8/2025,TSS - Change in Wt,2.65,2.65,,%
+ST25MAR10-01-017 ,TEM Primary Influent (03-09-2025),3/9/2025,Total Suspended Solids,610,610,,mg/L
+ST25MAR10-01-017 ,TEM Primary Influent (03-09-2025),3/9/2025,TSS - Change in Wt,2.73,2.73,,%
+ST25MAR10-01-017 ,TEM Primary Influent (03-09-2025),3/9/2025,Biochemical Oxygen Demand,705,705,,mg/L
+ST25MAR10-01-017 ,TEM Primary Influent (03-09-2025),3/9/2025,pH,6.22,6.22,,pH Units
+ST25MAR11-01-017 ,TEM Primary Influent (03-10-2025),3/10/2025,Total Suspended Solids,670,670,,mg/L
+ST25MAR11-01-017 ,TEM Primary Influent (03-10-2025),3/10/2025,TSS - Change in Wt,1.49,1.49,,%
+ST25MAR11-01-017 ,TEM Primary Influent (03-10-2025),3/10/2025,Biochemical Oxygen Demand,574,574,,mg/L
+ST25MAR11-01-017 ,TEM Primary Influent (03-10-2025),3/10/2025,pH,6.19,6.19,,pH Units
+ST25MAR12-01-036,TEM Primary Influent (03-11-2025),3/11/2025,Biochemical Oxygen Demand,179,179,,mg/L
+ST25MAR12-01-036,TEM Primary Influent (03-11-2025),3/11/2025,pH,5.89,5.89,,pH Units
+ST25MAR12-01-017 ,TEM Primary Influent (03-11-2025),3/11/2025,Total Suspended Solids,750,750,,mg/L
+ST25MAR12-01-017 ,TEM Primary Influent (03-11-2025),3/11/2025,TSS - Change in Wt,2.67,2.67,,%
+ST25MAR12-01-017 ,TEM Primary Influent (03-11-2025),3/11/2025,Biochemical Oxygen Demand,819,819,,mg/L
+ST25MAR12-01-017 ,TEM Primary Influent (03-11-2025),3/11/2025,pH,6.28,6.28,,pH Units
+ST25MAR13-01-017 ,TEM Primary Influent (03-12-2025),3/12/2025,Total Suspended Solids,830,830,,mg/L
+ST25MAR13-01-017 ,TEM Primary Influent (03-12-2025),3/12/2025,TSS - Change in Wt,0.40,0.40,,%
+ST25MAR13-01-017 ,TEM Primary Influent (03-12-2025),3/12/2025,Biochemical Oxygen Demand,719,719,,mg/L
+ST25MAR13-01-017 ,TEM Primary Influent (03-12-2025),3/12/2025,pH,6.22,6.22,,pH Units
+ST25MAR14-01-017 ,TEM Primary Influent (03-13-2025),3/13/2025,Total Suspended Solids,1167,1167,,mg/L
+ST25MAR14-01-017 ,TEM Primary Influent (03-13-2025),3/13/2025,TSS - Change in Wt,0.00,0,,%
+ST25MAR14-01-017 ,TEM Primary Influent (03-13-2025),3/13/2025,Biochemical Oxygen Demand,693,693,,mg/L
+ST25MAR14-01-017 ,TEM Primary Influent (03-13-2025),3/13/2025,pH,6.21,6.21,,pH Units
+ST25MAR15-02-017 ,TEM Primary Influent (03-14-2025),3/14/2025,Total Suspended Solids,750,750,,mg/L
+ST25MAR15-02-017 ,TEM Primary Influent (03-14-2025),3/14/2025,TSS - Change in Wt,1.33,1.33,,%
+ST25MAR16-02-017 ,TEM Primary Influent (03-15-2025),3/15/2025,Total Suspended Solids,627,627,,mg/L
+ST25MAR16-02-017 ,TEM Primary Influent (03-15-2025),3/15/2025,TSS - Change in Wt,3.19,3.19,,%
+ST25MAR17-01-017 ,TEM Primary Influent (03-16-2025),3/16/2025,Total Suspended Solids,367,367,,mg/L
+ST25MAR17-01-017 ,TEM Primary Influent (03-16-2025),3/16/2025,TSS - Change in Wt,0.91,0.91,,%
+ST25MAR17-01-017 ,TEM Primary Influent (03-16-2025),3/16/2025,Biochemical Oxygen Demand,361,361,,mg/L
+ST25MAR17-01-017 ,TEM Primary Influent (03-16-2025),3/16/2025,pH,6.49,6.49,,pH Units
+ST25MAR18-01-017 ,TEM Primary Influent (03-17-2025),3/17/2025,Total Suspended Solids,438,438,,mg/L
+ST25MAR18-01-017 ,TEM Primary Influent (03-17-2025),3/17/2025,TSS - Change in Wt,0.46,0.46,,%
+ST25MAR18-01-017 ,TEM Primary Influent (03-17-2025),3/17/2025,Biochemical Oxygen Demand,453,453,,mg/L
+ST25MAR18-01-017 ,TEM Primary Influent (03-17-2025),3/17/2025,pH,6.45,6.45,,pH Units
+ST25MAR19-01-017 ,TEM Primary Influent (03-18-2025),3/18/2025,Total Suspended Solids,677,677,,mg/L
+ST25MAR19-01-017 ,TEM Primary Influent (03-18-2025),3/18/2025,TSS - Change in Wt,1.48,1.48,,%
+ST25MAR19-01-017 ,TEM Primary Influent (03-18-2025),3/18/2025,Biochemical Oxygen Demand,875,875,,mg/L
+ST25MAR19-01-017 ,TEM Primary Influent (03-18-2025),3/18/2025,pH,6.44,6.44,,pH Units
+ST25MAR19-01-017 ,TEM Primary Influent (03-18-2025),3/18/2025,Biochemical Oxygen Demand,78,78,,mg/L
+ST25MAR19-01-017 ,TEM Primary Influent (03-18-2025),3/18/2025,Dissolved Oxygen,,,,ppm
+ST25MAR19-01-017 ,TEM Primary Influent (03-18-2025),3/18/2025,pH,6.32,6.32,,pH Units
+ST25MAR20-01-017 ,TEM Primary Influent (03-19-2025),3/19/2025,Total Suspended Solids,677,677,,mg/L
+ST25MAR20-01-017 ,TEM Primary Influent (03-19-2025),3/19/2025,TSS - Change in Wt,0.49,0.49,,%
+ST25MAR20-01-017 ,TEM Primary Influent (03-19-2025),3/19/2025,Biochemical Oxygen Demand,867,867,,mg/L
+ST25MAR20-01-017 ,TEM Primary Influent (03-19-2025),3/19/2025,pH,6.54,6.54,,pH Units
+ST25MAR21-01-017 ,TEM Primary Influent (03-20-2025),3/20/2025,Total Suspended Solids,645,645,,mg/L
+ST25MAR21-01-017 ,TEM Primary Influent (03-20-2025),3/20/2025,TSS - Change in Wt,0.78,0.78,,%
+ST25MAR21-01-017 ,TEM Primary Influent (03-20-2025),3/20/2025,Biochemical Oxygen Demand,664,664,,mg/L
+ST25MAR21-01-017 ,TEM Primary Influent (03-20-2025),3/20/2025,pH,6.47,6.47,,pH Units
+ST25MAR22-02-017 ,TEM Primary Influent (03-21-2025),3/21/2025,Total Suspended Solids,573,573,,mg/L
+ST25MAR22-02-017 ,TEM Primary Influent (03-21-2025),3/21/2025,TSS - Change in Wt,3.49,3.49,,%
+ST25MAR23-02-017 ,TEM Primary Influent (03-22-2025),3/22/2025,Total Suspended Solids,625,625,,mg/L
+ST25MAR23-02-017 ,TEM Primary Influent (03-22-2025),3/22/2025,TSS - Change in Wt,2.40,2.40,,%
+ST25MAR24-01-017 ,TEM Primary Influent (03-23-2025),3/23/2025,Total Suspended Solids,540,540,,mg/L
+ST25MAR24-01-017 ,TEM Primary Influent (03-23-2025),3/23/2025,TSS - Change in Wt,0.00,0,,%
+ST25MAR24-01-017 ,TEM Primary Influent (03-23-2025),3/23/2025,Biochemical Oxygen Demand,676,676,,mg/L
+ST25MAR24-01-017 ,TEM Primary Influent (03-23-2025),3/23/2025,pH,6.20,6.20,,pH Units
+ST25MAR25-01-017 ,TEM Primary Influent (03-24-2025),3/24/2025,Total Suspended Solids,542,542,,mg/L
+ST25MAR25-01-017 ,TEM Primary Influent (03-24-2025),3/24/2025,TSS - Change in Wt,0.37,0.37,,%
+ST25MAR25-01-017 ,TEM Primary Influent (03-24-2025),3/24/2025,Biochemical Oxygen Demand,565,565,,mg/L
+ST25MAR25-01-017 ,TEM Primary Influent (03-24-2025),3/24/2025,pH,6.31,6.31,,pH Units
+ST25MAR26-01-017 ,TEM Primary Influent (03-25-2025),3/25/2025,Total Suspended Solids,530,530,,mg/L
+ST25MAR26-01-017 ,TEM Primary Influent (03-25-2025),3/25/2025,TSS - Change in Wt,0.38,0.38,,%
+ST25MAR26-01-017 ,TEM Primary Influent (03-25-2025),3/25/2025,Biochemical Oxygen Demand,242,242,,mg/L
+ST25MAR26-01-017 ,TEM Primary Influent (03-25-2025),3/25/2025,Dissolved Oxygen,,,,ppm
+ST25MAR26-01-017 ,TEM Primary Influent (03-25-2025),3/25/2025,pH,5.92,5.92,,pH Units
+ST25MAR26-01-017 ,TEM Primary Influent (03-25-2025),3/25/2025,Biochemical Oxygen Demand,695,695,,mg/L
+ST25MAR26-01-017 ,TEM Primary Influent (03-25-2025),3/25/2025,pH,6.04,6.04,,pH Units
+ST25MAR27-01-017 ,TEM Primary Influent (03-26-2025),3/26/2025,Total Suspended Solids,580,580,,mg/L
+ST25MAR27-01-017 ,TEM Primary Influent (03-26-2025),3/26/2025,TSS - Change in Wt,0.00,0,,%
+ST25MAR27-01-017 ,TEM Primary Influent (03-26-2025),3/26/2025,Biochemical Oxygen Demand,695,695,,mg/L
+ST25MAR27-01-017 ,TEM Primary Influent (03-26-2025),3/26/2025,pH,6.88,6.88,,pH Units
+ST25MAR28-01-017 ,TEM Primary Influent (03-27-2025),3/27/2025,Total Suspended Solids,1150,1150,,mg/L
+ST25MAR28-01-017 ,TEM Primary Influent (03-27-2025),3/27/2025,TSS - Change in Wt,0.87,0.87,,%
+ST25MAR28-01-017 ,TEM Primary Influent (03-27-2025),3/27/2025,Biochemical Oxygen Demand,1100,1100,,mg/L
+ST25MAR28-01-017 ,TEM Primary Influent (03-27-2025),3/27/2025,pH,6.36,6.36,,pH Units
+ST25MAR28-01-017 ,TEM Primary Influent (03-27-2025),3/27/2025,Biochemical Oxygen Demand,665,665,,mg/L
+ST25MAR28-01-017 ,TEM Primary Influent (03-27-2025),3/27/2025,Dissolved Oxygen,,,,ppm
+ST25MAR28-01-017 ,TEM Primary Influent (03-27-2025),3/27/2025,pH,6.87,6.87,,pH Units
+ST25MAR29-02-017 ,TEM Primary Influent (03-28-2025),3/28/2025,Total Suspended Solids,860,860,,mg/L
+ST25MAR29-02-017 ,TEM Primary Influent (03-28-2025),3/28/2025,TSS - Change in Wt,1.55,1.55,,%
+ST25MAR30-02-017 ,TEM Primary Influent (03-29-2025),3/29/2025,Total Suspended Solids,565,565,,mg/L
+ST25MAR30-02-017 ,TEM Primary Influent (03-29-2025),3/29/2025,TSS - Change in Wt,0.88,0.88,,%
+ST25MAR31-01-017 ,TEM Primary Influent (03-30-2025),3/30/2025,Total Suspended Solids,524,524,,mg/L
+ST25MAR31-01-017 ,TEM Primary Influent (03-30-2025),3/30/2025,TSS - Change in Wt,2.29,2.29,,%
+ST25MAR31-01-017 ,TEM Primary Influent (03-30-2025),3/30/2025,Biochemical Oxygen Demand,598,598,,mg/L
+ST25MAR31-01-017 ,TEM Primary Influent (03-30-2025),3/30/2025,pH,6.28,6.28,,pH Units
+ST25APR01-06-017 ,TEM Primary Influent (03-31-2025),3/31/2025,Total Suspended Solids,454,454,,mg/L
+ST25APR01-06-017 ,TEM Primary Influent (03-31-2025),3/31/2025,TSS - Change in Wt,1.26,1.26,,%
+ST25APR01-06-017 ,TEM Primary Influent (03-31-2025),3/31/2025,Biochemical Oxygen Demand,464,464,,mg/L
+ST25APR01-06-017 ,TEM Primary Influent (03-31-2025),3/31/2025,pH,6.39,6.39,,pH Units
+ST25APR02-01-017 ,TEM Primary Influent (04-01-2025),4/1/2025,Total Suspended Solids,750,750,,mg/L
+ST25APR02-01-017 ,TEM Primary Influent (04-01-2025),4/1/2025,TSS - Change in Wt,3.33,3.33,,%
+ST25APR02-01-017 ,TEM Primary Influent (04-01-2025),4/1/2025,Biochemical Oxygen Demand,792,792,,mg/L
+ST25APR02-01-017 ,TEM Primary Influent (04-01-2025),4/1/2025,pH,6.07,6.07,,pH Units
+ST25APR02-01-017 ,TEM Primary Influent (04-01-2025),4/1/2025,Biochemical Oxygen Demand,>220,>220,,mg/L
+ST25APR02-01-017 ,TEM Primary Influent (04-01-2025),4/1/2025,Dissolved Oxygen,,,,ppm
+ST25APR02-01-017 ,TEM Primary Influent (04-01-2025),4/1/2025,pH,6.20,6.20,,pH Units
+ST25APR03-01-017 ,TEM Primary Influent (04-02-2025),4/2/2025,Total Suspended Solids,1010,1010,,mg/L
+ST25APR03-01-017 ,TEM Primary Influent (04-02-2025),4/2/2025,TSS - Change in Wt,1.65,1.65,,%
+ST25APR03-01-017 ,TEM Primary Influent (04-02-2025),4/2/2025,Biochemical Oxygen Demand,870,870,,mg/L
+ST25APR03-01-017 ,TEM Primary Influent (04-02-2025),4/2/2025,pH,6.14,6.14,,pH Units
+ST25APR04-01-017 ,TEM Primary Influent (04-03-2025),4/3/2025,Total Suspended Solids,565,565,,mg/L
+ST25APR04-01-017 ,TEM Primary Influent (04-03-2025),4/3/2025,TSS - Change in Wt,0.88,0.88,,%
+ST25APR05-02-017 ,TEM Primary Influent (04-04-2025),4/4/2025,Total Suspended Solids,319,319,,mg/L
+ST25APR05-02-017 ,TEM Primary Influent (04-04-2025),4/4/2025,TSS - Change in Wt,0.39,0.39,,%
+ST25APR06-02-017 ,TEM Primary Influent (04-05-2025),4/5/2025,Total Suspended Solids,404,404,,mg/L
+ST25APR06-02-017 ,TEM Primary Influent (04-05-2025),4/5/2025,TSS - Change in Wt,0.31,0.31,,%
+ST25APR07-01-017 ,TEM Primary Influent (04-06-2025),4/6/2025,Total Suspended Solids,287,287,,mg/L
+ST25APR07-01-017 ,TEM Primary Influent (04-06-2025),4/6/2025,TSS - Change in Wt,0.00,0,,%
+ST25APR07-01-017 ,TEM Primary Influent (04-06-2025),4/6/2025,Biochemical Oxygen Demand,<200,<200,,mg/L
+ST25APR07-01-017 ,TEM Primary Influent (04-06-2025),4/6/2025,pH,6.74,6.74,,pH Units
+ST25APR08-01-035,TEM Primary Influent (04-07-2025),4/7/2025,Biochemical Oxygen Demand,420,420,,mg/L
+ST25APR08-01-035,TEM Primary Influent (04-07-2025),4/7/2025,Dissolved Oxygen,,,,ppm
+ST25APR08-01-035,TEM Primary Influent (04-07-2025),4/7/2025,pH,6.23,6.23,,pH Units
+ST25APR08-01-036,TEM Primary Influent (04-07-2025),4/7/2025,Biochemical Oxygen Demand,420,420,,mg/L
+ST25APR08-01-036,TEM Primary Influent (04-07-2025),4/7/2025,Dissolved Oxygen,,,,ppm
+ST25APR08-01-036,TEM Primary Influent (04-07-2025),4/7/2025,pH,6.23,6.23,,pH Units
+ST25APR08-01-017 ,TEM Primary Influent (04-07-2025),4/7/2025,Total Suspended Solids,360,360,,mg/L
+ST25APR08-01-017 ,TEM Primary Influent (04-07-2025),4/7/2025,TSS - Change in Wt,0.93,0.93,,%
+ST25APR08-01-017 ,TEM Primary Influent (04-07-2025),4/7/2025,Biochemical Oxygen Demand,420,420,,mg/L
+ST25APR08-01-017 ,TEM Primary Influent (04-07-2025),4/7/2025,Dissolved Oxygen,,,,ppm
+ST25APR08-01-017 ,TEM Primary Influent (04-07-2025),4/7/2025,pH,6.23,6.23,,pH Units
+ST25APR09-03-017 ,TEM Primary Influent (04-08-2025),4/8/2025,Total Suspended Solids,430,430,,mg/L
+ST25APR09-03-017 ,TEM Primary Influent (04-08-2025),4/8/2025,TSS - Change in Wt,0.78,0.78,,%
+ST25APR09-03-017 ,TEM Primary Influent (04-08-2025),4/8/2025,Biochemical Oxygen Demand,498,498,,mg/L
+ST25APR09-03-017 ,TEM Primary Influent (04-08-2025),4/8/2025,pH,6.39,6.39,,pH Units
+ST25APR10-01-017 ,TEM Primary Influent (04-09-2025),4/9/2025,Total Suspended Solids,420,420,,mg/L
+ST25APR10-01-017 ,TEM Primary Influent (04-09-2025),4/9/2025,TSS - Change in Wt,1.90,1.90,,%
+ST25APR10-01-017 ,TEM Primary Influent (04-09-2025),4/9/2025,Biochemical Oxygen Demand,374,374,,mg/L
+ST25APR10-01-017 ,TEM Primary Influent (04-09-2025),4/9/2025,pH,6.56,6.56,,pH Units
+ST25APR10-01-018 ,TEM Primary Influent (04-09-2025),4/9/2025,Biochemical Oxygen Demand,269.7,269.7,,mg/L
+ST25APR10-01-018 ,TEM Primary Influent (04-09-2025),4/9/2025,Dissolved Oxygen,,,,ppm
+ST25APR10-01-018 ,TEM Primary Influent (04-09-2025),4/9/2025,pH,6.76,6.76,,pH Units
+ST25APR11-01-035,TEM Primary Influent (04-10-2025),4/10/2025,Biochemical Oxygen Demand,452,452,,mg/L
+ST25APR11-01-035,TEM Primary Influent (04-10-2025),4/10/2025,Dissolved Oxygen,,,,ppm
+ST25APR11-01-035,TEM Primary Influent (04-10-2025),4/10/2025,pH,6.17,6.17,,pH Units
+ST25APR11-01-017 ,TEM Primary Influent (04-10-2025),4/10/2025,Total Suspended Solids,454,454,,mg/L
+ST25APR11-01-017 ,TEM Primary Influent (04-10-2025),4/10/2025,TSS - Change in Wt,2.20,2.20,,%
+ST25APR11-01-017 ,TEM Primary Influent (04-10-2025),4/10/2025,Biochemical Oxygen Demand,496,496,,mg/L
+ST25APR11-01-017 ,TEM Primary Influent (04-10-2025),4/10/2025,pH,6.30,6.30,,pH Units
+ST25APR11-01-018 ,TEM Primary Influent (04-10-2025),4/10/2025,Biochemical Oxygen Demand,452,452,,mg/L
+ST25APR11-01-018 ,TEM Primary Influent (04-10-2025),4/10/2025,Dissolved Oxygen,,,,ppm
+ST25APR11-01-018 ,TEM Primary Influent (04-10-2025),4/10/2025,pH,6.17,6.17,,pH Units
+ST25APR12-02-017 ,TEM Primary Influent (04-11-2025),4/11/2025,Total Suspended Solids,444,444,,mg/L
+ST25APR12-02-017 ,TEM Primary Influent (04-11-2025),4/11/2025,TSS - Change in Wt,0.90,0.90,,%
+ST25APR13-02-017 ,TEM Primary Influent (04-12-2025),4/12/2025,Total Suspended Solids,483,483,,mg/L
+ST25APR13-02-017 ,TEM Primary Influent (04-12-2025),4/12/2025,TSS - Change in Wt,2.07,2.07,,%
+ST25APR14-01-017 ,TEM Primary Influent (04-13-2025),4/13/2025,Total Suspended Solids,593,593,,mg/L
+ST25APR14-01-017 ,TEM Primary Influent (04-13-2025),4/13/2025,TSS - Change in Wt,2.11,2.11,,%
+ST25APR14-01-017 ,TEM Primary Influent (04-13-2025),4/13/2025,Biochemical Oxygen Demand,567,567,,mg/L
+ST25APR14-01-017 ,TEM Primary Influent (04-13-2025),4/13/2025,pH,6.57,6.57,,pH Units
+ST25APR15-01-017 ,TEM Primary Influent (04-14-2025),4/14/2025,Total Suspended Solids,780,780,,mg/L
+ST25APR15-01-017 ,TEM Primary Influent (04-14-2025),4/14/2025,TSS - Change in Wt,0.00,0,,%
+ST25APR15-01-017 ,TEM Primary Influent (04-14-2025),4/14/2025,Biochemical Oxygen Demand,739,739,,mg/L
+ST25APR15-01-017 ,TEM Primary Influent (04-14-2025),4/14/2025,pH,6.45,6.45,,pH Units
+ST25APR16-01-035,TEM Primary Influent (04-15-2025),4/15/2025,Biochemical Oxygen Demand,524,524,,mg/L
+ST25APR16-01-035,TEM Primary Influent (04-15-2025),4/15/2025,Dissolved Oxygen,,,,ppm
+ST25APR16-01-035,TEM Primary Influent (04-15-2025),4/15/2025,pH,6.47,6.47,,pH Units
+ST25APR16-01-017 ,TEM Primary Influent (04-15-2025),4/15/2025,Total Suspended Solids,1085,1085,,mg/L
+ST25APR16-01-017 ,TEM Primary Influent (04-15-2025),4/15/2025,TSS - Change in Wt,0.46,0.46,,%
+ST25APR16-01-017 ,TEM Primary Influent (04-15-2025),4/15/2025,Biochemical Oxygen Demand,806,806,,mg/L
+ST25APR16-01-017 ,TEM Primary Influent (04-15-2025),4/15/2025,pH,6.48,6.48,,pH Units
+ST25APR17-01-038,TEM Primary Influent (04-16-2025),4/16/2025,Biochemical Oxygen Demand,650,650,,mg/L
+ST25APR17-01-038,TEM Primary Influent (04-16-2025),4/16/2025,Dissolved Oxygen,,,,ppm
+ST25APR17-01-038,TEM Primary Influent (04-16-2025),4/16/2025,pH,6.91,6.91,,pH Units
+ST25APR17-01-017 ,TEM Primary Influent (04-16-2025),4/16/2025,Total Suspended Solids,810,810,,mg/L
+ST25APR17-01-017 ,TEM Primary Influent (04-16-2025),4/16/2025,TSS - Change in Wt,4.94,4.94,,%
+ST25APR17-01-017 ,TEM Primary Influent (04-16-2025),4/16/2025,Biochemical Oxygen Demand,537,537,,mg/L
+ST25APR17-01-017 ,TEM Primary Influent (04-16-2025),4/16/2025,pH,6.46,6.46,,pH Units
+ST25APR18-01-017 ,TEM Primary Influent (04-17-2025),4/17/2025,Total Suspended Solids,830,830,,mg/L
+ST25APR18-01-017 ,TEM Primary Influent (04-17-2025),4/17/2025,TSS - Change in Wt,3.61,3.61,,%
+ST25APR19-02-017 ,TEM Primary Influent (04-18-2025),4/18/2025,Total Suspended Solids,910,910,,mg/L
+ST25APR19-02-017 ,TEM Primary Influent (04-18-2025),4/18/2025,TSS - Change in Wt,1.10,1.10,,%
+ST25APR20-02-017 ,TEM Primary Influent (04-19-2025),4/19/2025,Total Suspended Solids,663,663,,mg/L
+ST25APR20-02-017 ,TEM Primary Influent (04-19-2025),4/19/2025,TSS - Change in Wt,2.51,2.51,,%
+ST25APR21-01-017 ,TEM Primary Influent (04-20-2025),4/20/2025,Total Suspended Solids,640,640,,mg/L
+ST25APR21-01-017 ,TEM Primary Influent (04-20-2025),4/20/2025,TSS - Change in Wt,0.00,0,,%
+ST25APR21-01-017 ,TEM Primary Influent (04-20-2025),4/20/2025,Biochemical Oxygen Demand,685,685,,mg/L
+ST25APR21-01-017 ,TEM Primary Influent (04-20-2025),4/20/2025,pH,6.76,6.76,,pH Units
+ST25APR22-01-039,TEM Primary Influent (04-21-2025),4/21/2025,Biochemical Oxygen Demand,230,230,,mg/L
+ST25APR22-01-039,TEM Primary Influent (04-21-2025),4/21/2025,Dissolved Oxygen,,,,ppm
+ST25APR22-01-039,TEM Primary Influent (04-21-2025),4/21/2025,pH,6.30,6.30,,pH Units
+ST25APR22-01-017 ,TEM Primary Influent (04-21-2025),4/21/2025,Total Suspended Solids,943,943,,mg/L
+ST25APR22-01-017 ,TEM Primary Influent (04-21-2025),4/21/2025,TSS - Change in Wt,0.35,0.35,,%
+ST25APR22-01-017 ,TEM Primary Influent (04-21-2025),4/21/2025,Biochemical Oxygen Demand,729,729,,mg/L
+ST25APR22-01-017 ,TEM Primary Influent (04-21-2025),4/21/2025,pH,6.45,6.45,,pH Units
+ST25APR23-01-039,TEM Primary Influent (04-22-2025),4/22/2025,% Volatile Suspended Solids,84,84,,%
+ST25APR23-01-039,TEM Primary Influent (04-22-2025),4/22/2025,Total Suspended Solids,887,887,,mg/L
+ST25APR23-01-039,TEM Primary Influent (04-22-2025),4/22/2025,Volatile Suspended Solids,747,747,,mg/L
+ST25APR23-01-039,TEM Primary Influent (04-22-2025),4/22/2025,Biochemical Oxygen Demand,232,232,,mg/L
+ST25APR23-01-039,TEM Primary Influent (04-22-2025),4/22/2025,Dissolved Oxygen,,,,ppm
+ST25APR23-01-039,TEM Primary Influent (04-22-2025),4/22/2025,pH,6.42,6.42,,pH Units
+ST25APR23-01-017 ,TEM Primary Influent (04-22-2025),4/22/2025,Total Suspended Solids,843,843,,mg/L
+ST25APR23-01-017 ,TEM Primary Influent (04-22-2025),4/22/2025,TSS - Change in Wt,0.40,0.40,,%
+ST25APR23-01-017 ,TEM Primary Influent (04-22-2025),4/22/2025,Biochemical Oxygen Demand,748,748,,mg/L
+ST25APR23-01-017 ,TEM Primary Influent (04-22-2025),4/22/2025,pH,6.44,6.44,,pH Units
+ST25APR24-01-041,TEM Primary Influent (04-23-2025),4/23/2025,Biochemical Oxygen Demand,812,812,,mg/L
+ST25APR24-01-041,TEM Primary Influent (04-23-2025),4/23/2025,Dissolved Oxygen,,,,ppm
+ST25APR24-01-041,TEM Primary Influent (04-23-2025),4/23/2025,pH,19.2,19.2,,pH Units
+ST25APR24-01-017 ,TEM Primary Influent (04-23-2025),4/23/2025,Total Suspended Solids,887,887,,mg/L
+ST25APR24-01-017 ,TEM Primary Influent (04-23-2025),4/23/2025,TSS - Change in Wt,0.75,0.75,,%
+ST25APR24-01-017 ,TEM Primary Influent (04-23-2025),4/23/2025,Biochemical Oxygen Demand,734,734,,mg/L
+ST25APR24-01-017 ,TEM Primary Influent (04-23-2025),4/23/2025,pH,6.38,6.38,,pH Units
+ST25APR25-01-035,TEM Primary Influent (04-24-2025),4/24/2025,Biochemical Oxygen Demand,560,560,,mg/L
+ST25APR25-01-035,TEM Primary Influent (04-24-2025),4/24/2025,Dissolved Oxygen,,,,ppm
+ST25APR25-01-035,TEM Primary Influent (04-24-2025),4/24/2025,pH,6.17,6.17,,pH Units
+ST25APR25-01-017 ,TEM Primary Influent (04-24-2025),4/24/2025,Total Suspended Solids,943,943,,mg/L
+ST25APR25-01-017 ,TEM Primary Influent (04-24-2025),4/24/2025,TSS - Change in Wt,0.35,0.35,,%
+ST25APR25-01-017 ,TEM Primary Influent (04-24-2025),4/24/2025,Biochemical Oxygen Demand,768,768,,mg/L
+ST25APR25-01-017 ,TEM Primary Influent (04-24-2025),4/24/2025,pH,6.35,6.35,,pH Units
+ST25APR26-02-017 ,TEM Primary Influent (04-25-2025),4/25/2025,Total Suspended Solids,780,780,,mg/L
+ST25APR26-02-017 ,TEM Primary Influent (04-25-2025),4/25/2025,TSS - Change in Wt,1.28,1.28,,%
+ST25APR27-02-017 ,TEM Primary Influent (04-26-2025),4/26/2025,Total Suspended Solids,600,600,,mg/L
+ST25APR27-02-017 ,TEM Primary Influent (04-26-2025),4/26/2025,TSS - Change in Wt,0.83,0.83,,%
+ST25APR28-01-017 ,TEM Primary Influent (04-27-2025),4/27/2025,Total Suspended Solids,827,827,,mg/L
+ST25APR28-01-017 ,TEM Primary Influent (04-27-2025),4/27/2025,TSS - Change in Wt,1.61,1.61,,%
+ST25APR28-01-017 ,TEM Primary Influent (04-27-2025),4/27/2025,Biochemical Oxygen Demand,678,678,,mg/L
+ST25APR28-01-017 ,TEM Primary Influent (04-27-2025),4/27/2025,pH,6.30,6.30,,pH Units
+ST25APR29-01-041,TEM Primary Influent (Grab Special Project) (04-28-2025),4/28/2025,Biochemical Oxygen Demand,298,298,,mg/L
+ST25APR29-01-041,TEM Primary Influent (Grab Special Project) (04-28-2025),4/28/2025,Dissolved Oxygen,,,,ppm
+ST25APR29-01-041,TEM Primary Influent (Grab Special Project) (04-28-2025),4/28/2025,pH,6.28,6.28,,pH Units
+ST25APR29-01-017 ,TEM Primary Influent (04-28-2025),4/28/2025,Total Suspended Solids,517,517,,mg/L
+ST25APR29-01-017 ,TEM Primary Influent (04-28-2025),4/28/2025,TSS - Change in Wt,3.23,3.23,,%
+ST25APR29-01-017 ,TEM Primary Influent (04-28-2025),4/28/2025,Biochemical Oxygen Demand,441,441,,mg/L
+ST25APR29-01-017 ,TEM Primary Influent (04-28-2025),4/28/2025,pH,6.66,6.66,,pH Units
+ST25APR30-01-038,TEM Primary Influent (Grab-Special Project) (04-29-2025),4/29/2025,Biochemical Oxygen Demand,416,416,,mg/L
+ST25APR30-01-038,TEM Primary Influent (Grab-Special Project) (04-29-2025),4/29/2025,Dissolved Oxygen,,,,ppm
+ST25APR30-01-038,TEM Primary Influent (Grab-Special Project) (04-29-2025),4/29/2025,pH,6.69,6.69,,pH Units
+ST25APR30-01-017 ,TEM Primary Influent (04-29-2025),4/29/2025,Total Suspended Solids,700,700,,mg/L
+ST25APR30-01-017 ,TEM Primary Influent (04-29-2025),4/29/2025,TSS - Change in Wt,2.86,2.86,,%
+ST25APR30-01-017 ,TEM Primary Influent (04-29-2025),4/29/2025,Biochemical Oxygen Demand,567,567,,mg/L
+ST25APR30-01-017 ,TEM Primary Influent (04-29-2025),4/29/2025,pH,6.70,6.70,,pH Units
+ST25MAY01-06-040,TEM Primary Influent (Grab Special Project) (04-30-2025),4/30/2025,Biochemical Oxygen Demand,516,516,,mg/L
+ST25MAY01-06-040,TEM Primary Influent (Grab Special Project) (04-30-2025),4/30/2025,Dissolved Oxygen,,,,ppm
+ST25MAY01-06-040,TEM Primary Influent (Grab Special Project) (04-30-2025),4/30/2025,pH,6.38,6.38,,pH Units
+ST25MAY01-06-017 ,TEM Primary Influent (04-30-2025),4/30/2025,Total Suspended Solids,760,760,,mg/L
+ST25MAY01-06-017 ,TEM Primary Influent (04-30-2025),4/30/2025,TSS - Change in Wt,0.00,0,,%
+ST25MAY01-06-017 ,TEM Primary Influent (04-30-2025),4/30/2025,Biochemical Oxygen Demand,506,506,,mg/L
+ST25MAY01-06-017 ,TEM Primary Influent (04-30-2025),4/30/2025,pH,6.77,6.77,,pH Units
+ST25MAY02-01-039,TEM Primary Influent (Grab Special Project) (05-01-2025),5/1/2025,Biochemical Oxygen Demand,30,30,,mg/L
+ST25MAY02-01-039,TEM Primary Influent (Grab Special Project) (05-01-2025),5/1/2025,Dissolved Oxygen,,,,ppm
+ST25MAY02-01-039,TEM Primary Influent (Grab Special Project) (05-01-2025),5/1/2025,pH,6.53,6.53,,pH Units
+ST25MAY02-01-017 ,TEM Primary Influent (05-01-2025),5/1/2025,Total Suspended Solids,690,690,,mg/L
+ST25MAY02-01-017 ,TEM Primary Influent (05-01-2025),5/1/2025,TSS - Change in Wt,1.45,1.45,,%
+ST25MAY02-01-017 ,TEM Primary Influent (05-01-2025),5/1/2025,Biochemical Oxygen Demand,526,526,,mg/L
+ST25MAY02-01-017 ,TEM Primary Influent (05-01-2025),5/1/2025,pH,6.76,6.76,,pH Units
+ST25MAY03-02-017 ,TEM Primary Influent (05-02-2025),5/2/2025,Total Suspended Solids,698,698,,mg/L
+ST25MAY03-02-017 ,TEM Primary Influent (05-02-2025),5/2/2025,TSS - Change in Wt,1.08,1.08,,%
+ST25MAY04-02-017 ,TEM Primary Influent (05-03-2025),5/3/2025,Total Suspended Solids,654,654,,mg/L
+ST25MAY04-02-017 ,TEM Primary Influent (05-03-2025),5/3/2025,TSS - Change in Wt,0.55,0.55,,%
+ST25MAY05-01-017 ,TEM Primary Influent (05-04-2025),5/4/2025,Total Suspended Solids,717,717,,mg/L
+ST25MAY05-01-017 ,TEM Primary Influent (05-04-2025),5/4/2025,TSS - Change in Wt,0.78,0.78,,%
+ST25MAY05-01-017 ,TEM Primary Influent (05-04-2025),5/4/2025,Biochemical Oxygen Demand,606,606,,mg/L
+ST25MAY05-01-017 ,TEM Primary Influent (05-04-2025),5/4/2025,pH,6.52,6.52,,pH Units
+ST25MAY06-01-017 ,TEM Primary Influent (05-05-2025),5/5/2025,Total Suspended Solids,805,805,,mg/L
+ST25MAY06-01-017 ,TEM Primary Influent (05-05-2025),5/5/2025,TSS - Change in Wt,1.86,1.86,,%
+ST25MAY06-01-017 ,TEM Primary Influent (05-05-2025),5/5/2025,Biochemical Oxygen Demand,682,682,,mg/L
+ST25MAY06-01-017 ,TEM Primary Influent (05-05-2025),5/5/2025,pH,6.11,6.11,,pH Units
+ST25MAY06-01-041,TEM Primary Influent (SP) (05-05-2025),5/5/2025,Biochemical Oxygen Demand,452,452,,mg/L
+ST25MAY06-01-041,TEM Primary Influent (SP) (05-05-2025),5/5/2025,pH,6.78,6.78,,pH Units
+ST25MAY07-01-017 ,TEM Primary Influent (05-06-2025),5/6/2025,Total Suspended Solids,745,745,,mg/L
+ST25MAY07-01-017 ,TEM Primary Influent (05-06-2025),5/6/2025,TSS - Change in Wt,2.01,2.01,,%
+ST25MAY07-01-017 ,TEM Primary Influent (05-06-2025),5/6/2025,Biochemical Oxygen Demand,604,604,,mg/L
+ST25MAY07-01-017 ,TEM Primary Influent (05-06-2025),5/6/2025,pH,6.32,6.32,,pH Units
+ST25MAY07-01-036,TEM Primary Influent (SP) (05-06-2025),5/6/2025,Biochemical Oxygen Demand,572,572,,mg/L
+ST25MAY07-01-036,TEM Primary Influent (SP) (05-06-2025),5/6/2025,pH,6.89,6.89,,pH Units
+ST25MAY08-01-017 ,TEM Primary Influent (05-07-2025),5/7/2025,Total Suspended Solids,640,640,,mg/L
+ST25MAY08-01-017 ,TEM Primary Influent (05-07-2025),5/7/2025,TSS - Change in Wt,0.00,0,,%
+ST25MAY08-01-017 ,TEM Primary Influent (05-07-2025),5/7/2025,Biochemical Oxygen Demand,521,521,,mg/L
+ST25MAY08-01-017 ,TEM Primary Influent (05-07-2025),5/7/2025,pH,6.97,6.97,,pH Units
+ST25MAY08-01-017 ,TEM Primary Influent (05-07-2025),5/7/2025,Biochemical Oxygen Demand,518,518,,mg/L
+ST25MAY08-01-017 ,TEM Primary Influent (05-07-2025),5/7/2025,pH,6.37,6.37,,pH Units
+ST25MAY09-01-017 ,TEM Primary Influent (05-08-2025),5/8/2025,Total Suspended Solids,618,618,,mg/L
+ST25MAY09-01-017 ,TEM Primary Influent (05-08-2025),5/8/2025,TSS - Change in Wt,0.40,0.40,,%
+ST25MAY09-01-017 ,TEM Primary Influent (05-08-2025),5/8/2025,Biochemical Oxygen Demand,422,422,,mg/L
+ST25MAY09-01-017 ,TEM Primary Influent (05-08-2025),5/8/2025,pH,5.94,5.94,,pH Units
+ST25MAY09-01-017 ,TEM Primary Influent (05-08-2025),5/8/2025,Biochemical Oxygen Demand,564,564,,mg/L
+ST25MAY09-01-017 ,TEM Primary Influent (05-08-2025),5/8/2025,pH,6.23,6.23,,pH Units
+ST25MAY10-02-017 ,TEM Primary Influent (05-09-2025),5/9/2025,Total Suspended Solids,657,657,,mg/L
+ST25MAY10-02-017 ,TEM Primary Influent (05-09-2025),5/9/2025,TSS - Change in Wt,2.54,2.54,,%
+ST25MAY11-02-017 ,TEM Primary Influent (05-10-2025),5/10/2025,Total Suspended Solids,643,643,,mg/L
+ST25MAY11-02-017 ,TEM Primary Influent (05-10-2025),5/10/2025,TSS - Change in Wt,1.95,1.95,,%
+ST25MAY12-01-017 ,TEM Primary Influent (05-11-2025),5/11/2025,Total Suspended Solids,730,730,,mg/L
+ST25MAY12-01-017 ,TEM Primary Influent (05-11-2025),5/11/2025,TSS - Change in Wt,1.37,1.37,,%
+ST25MAY12-01-017 ,TEM Primary Influent (05-11-2025),5/11/2025,Biochemical Oxygen Demand,629,629,,mg/L
+ST25MAY12-01-017 ,TEM Primary Influent (05-11-2025),5/11/2025,pH,6.55,6.55,,pH Units
+ST25MAY13-01-040,TEM Primary Influent (SP Project) (05-12-2025),5/12/2025,Biochemical Oxygen Demand,136,136,,mg/L
+ST25MAY13-01-040,TEM Primary Influent (SP Project) (05-12-2025),5/12/2025,pH,6.37,6.37,,pH Units
+ST25MAY13-01-017 ,TEM Primary Influent (05-12-2025),5/12/2025,Total Suspended Solids,770,770,,mg/L
+ST25MAY13-01-017 ,TEM Primary Influent (05-12-2025),5/12/2025,TSS - Change in Wt,0.43,0.43,,%
+ST25MAY13-01-017 ,TEM Primary Influent (05-12-2025),5/12/2025,Biochemical Oxygen Demand,675,675,,mg/L
+ST25MAY13-01-017 ,TEM Primary Influent (05-12-2025),5/12/2025,pH,6.39,6.39,,pH Units
+ST25MAY14-01-046,TEM Primary Influent (SP Project) (05-13-2025),5/13/2025,Biochemical Oxygen Demand,264,264,,mg/L
+ST25MAY14-01-046,TEM Primary Influent (SP Project) (05-13-2025),5/13/2025,pH,6.24,6.24,,pH Units
+ST25MAY14-01-017 ,TEM Primary Influent (05-13-2025),5/13/2025,Total Suspended Solids,546,546,,mg/L
+ST25MAY14-01-017 ,TEM Primary Influent (05-13-2025),5/13/2025,TSS - Change in Wt,1.10,1.10,,%
+ST25MAY14-01-017 ,TEM Primary Influent (05-13-2025),5/13/2025,Biochemical Oxygen Demand,637,637,,mg/L
+ST25MAY14-01-017 ,TEM Primary Influent (05-13-2025),5/13/2025,pH,6.26,6.26,,pH Units
+ST25MAY15-01-017 ,TEM Primary Influent (05-14-2025),5/14/2025,Total Suspended Solids,650,650,,mg/L
+ST25MAY15-01-017 ,TEM Primary Influent (05-14-2025),5/14/2025,TSS - Change in Wt,3.59,3.59,,%
+ST25MAY15-01-017 ,TEM Primary Influent (05-14-2025),5/14/2025,Biochemical Oxygen Demand,530,530,,mg/L
+ST25MAY15-01-017 ,TEM Primary Influent (05-14-2025),5/14/2025,pH,6.53,6.53,,pH Units
+ST25MAY15-01-040,TEM Primary Influent (SP) (05-14-2025),5/14/2025,Biochemical Oxygen Demand,558,558,,mg/L
+ST25MAY15-01-040,TEM Primary Influent (SP) (05-14-2025),5/14/2025,pH,6.50,6.50,,pH Units
+ST25MAY16-01-017 ,TEM Primary Influent (05-15-2025),5/15/2025,Total Suspended Solids,917,917,,mg/L
+ST25MAY16-01-017 ,TEM Primary Influent (05-15-2025),5/15/2025,TSS - Change in Wt,0.36,0.36,,%
+ST25MAY16-01-017 ,TEM Primary Influent (05-15-2025),5/15/2025,Biochemical Oxygen Demand,833,833,,mg/L
+ST25MAY16-01-017 ,TEM Primary Influent (05-15-2025),5/15/2025,pH,6.32,6.32,,pH Units
+ST25MAY17-02-017 ,TEM Primary Influent (05-16-2025),5/16/2025,Total Suspended Solids,667,667,,mg/L
+ST25MAY17-02-017 ,TEM Primary Influent (05-16-2025),5/16/2025,TSS - Change in Wt,1.00,1.00,,%
+ST25MAY18-02-017 ,TEM Primary Influent (05-17-2025),5/17/2025,Total Suspended Solids,603,603,,mg/L
+ST25MAY18-02-017 ,TEM Primary Influent (05-17-2025),5/17/2025,TSS - Change in Wt,0.55,0.55,,%
+ST25MAY19-01-017 ,TEM Primary Influent (05-18-2025),5/18/2025,Total Suspended Solids,668,668,,mg/L
+ST25MAY19-01-017 ,TEM Primary Influent (05-18-2025),5/18/2025,TSS - Change in Wt,1.12,1.12,,%
+ST25MAY19-01-017 ,TEM Primary Influent (05-18-2025),5/18/2025,Biochemical Oxygen Demand,676,676,,mg/L
+ST25MAY19-01-017 ,TEM Primary Influent (05-18-2025),5/18/2025,pH,6.29,6.29,,pH Units
+ST25MAY20-07-043,TEM Primary Influent (SP) (05-19-2025),5/19/2025,pH,6.50,6.50,,pH Units
+ST25MAY20-07-043,TEM Primary Influent (SP) (05-19-2025),5/19/2025,Soluble BOD,18,18,,mg/L
+ST25MAY20-07-017 ,TEM Primary Influent (05-19-2025),5/19/2025,Total Suspended Solids,478,478,,mg/L
+ST25MAY20-07-017 ,TEM Primary Influent (05-19-2025),5/19/2025,TSS - Change in Wt,1.57,1.57,,%
+ST25MAY20-07-017 ,TEM Primary Influent (05-19-2025),5/19/2025,Biochemical Oxygen Demand,482,482,,mg/L
+ST25MAY20-07-017 ,TEM Primary Influent (05-19-2025),5/19/2025,pH,6.54,6.54,,pH Units
+ST25MAY21-01-041,TEM Primary Influent (Special Project) (05-20-2025),5/20/2025,Biochemical Oxygen Demand,39,39,,mg/L
+ST25MAY21-01-041,TEM Primary Influent (Special Project) (05-20-2025),5/20/2025,Dissolved Oxygen,,,,ppm
+ST25MAY21-01-041,TEM Primary Influent (Special Project) (05-20-2025),5/20/2025,pH,6.33,6.33,,pH Units
+ST25MAY21-01-017 ,TEM Primary Influent (05-20-2025),5/20/2025,Total Suspended Solids,450,450,,mg/L
+ST25MAY21-01-017 ,TEM Primary Influent (05-20-2025),5/20/2025,TSS - Change in Wt,1.33,1.33,,%
+ST25MAY22-01-045,TEM Primary Influent (Special Project) (05-21-2025),5/21/2025,Biochemical Oxygen Demand,29,29,,mg/L
+ST25MAY22-01-045,TEM Primary Influent (Special Project) (05-21-2025),5/21/2025,Dissolved Oxygen,,,,ppm
+ST25MAY22-01-045,TEM Primary Influent (Special Project) (05-21-2025),5/21/2025,pH,6.35,6.35,,pH Units
+ST25MAY22-01-017 ,TEM Primary Influent (05-21-2025),5/21/2025,Total Suspended Solids,464,464,,mg/L
+ST25MAY22-01-017 ,TEM Primary Influent (05-21-2025),5/21/2025,TSS - Change in Wt,0.86,0.86,,%
+ST25MAY22-01-017 ,TEM Primary Influent (05-21-2025),5/21/2025,Biochemical Oxygen Demand,472,472,,mg/L
+ST25MAY22-01-017 ,TEM Primary Influent (05-21-2025),5/21/2025,pH,6.40,6.40,,pH Units
+ST25MAY23-01-042,TEM Primary Influent (Special Project) (05-22-2025),5/22/2025,Biochemical Oxygen Demand,509,509,,mg/L
+ST25MAY23-01-042,TEM Primary Influent (Special Project) (05-22-2025),5/22/2025,Dissolved Oxygen,,,,ppm
+ST25MAY23-01-042,TEM Primary Influent (Special Project) (05-22-2025),5/22/2025,pH,6.18,6.18,,pH Units
+ST25MAY23-01-017 ,TEM Primary Influent (05-22-2025),5/22/2025,Total Suspended Solids,568,568,,mg/L
+ST25MAY23-01-017 ,TEM Primary Influent (05-22-2025),5/22/2025,TSS - Change in Wt,2.11,2.11,,%
+ST25MAY23-01-017 ,TEM Primary Influent (05-22-2025),5/22/2025,Biochemical Oxygen Demand,550,550,,mg/L
+ST25MAY23-01-017 ,TEM Primary Influent (05-22-2025),5/22/2025,pH,6.46,6.46,,pH Units
+ST25MAY24-02-017 ,TEM Primary Influent (05-23-2025),5/23/2025,Total Suspended Solids,570,570,,mg/L
+ST25MAY24-02-017 ,TEM Primary Influent (05-23-2025),5/23/2025,TSS - Change in Wt,1.75,1.75,,%
+ST25MAY25-02-017 ,TEM Primary Influent (05-24-2025),5/24/2025,Total Suspended Solids,483,483,,mg/L
+ST25MAY25-02-017 ,TEM Primary Influent (05-24-2025),5/24/2025,TSS - Change in Wt,0.69,0.69,,%
+ST25MAY26-01-017 ,TEM Primary Influent (05-25-2025),5/25/2025,Total Suspended Solids,225,225,,mg/L
+ST25MAY26-01-017 ,TEM Primary Influent (05-25-2025),5/25/2025,TSS - Change in Wt,3.11,3.11,,%
+ST25MAY27-01-017 ,TEM Primary Influent (05-26-2025),5/26/2025,Total Suspended Solids,295,295,,mg/L
+ST25MAY27-01-017 ,TEM Primary Influent (05-26-2025),5/26/2025,TSS - Change in Wt,0.85,0.85,,%
+ST25MAY27-01-017 ,TEM Primary Influent (05-26-2025),5/26/2025,Biochemical Oxygen Demand,214,214,,mg/L
+ST25MAY27-01-017 ,TEM Primary Influent (05-26-2025),5/26/2025,pH,7.05,7.05,,pH Units
+ST25MAY28-01-017 ,TEM Primary Influent (05-27-2025),5/27/2025,Total Suspended Solids,251,251,,mg/L
+ST25MAY28-01-017 ,TEM Primary Influent (05-27-2025),5/27/2025,TSS - Change in Wt,0.88,0.88,,%
+ST25MAY28-01-017 ,TEM Primary Influent (05-27-2025),5/27/2025,Biochemical Oxygen Demand,270,270,,mg/L
+ST25MAY28-01-017 ,TEM Primary Influent (05-27-2025),5/27/2025,pH,7.01,7.01,,pH Units
+ST25MAY29-01-017 ,TEM Primary Influent (05-28-2025),5/28/2025,Total Suspended Solids,470,470,,mg/L
+ST25MAY29-01-017 ,TEM Primary Influent (05-28-2025),5/28/2025,TSS - Change in Wt,1.06,1.06,,%
+ST25MAY29-01-017 ,TEM Primary Influent (05-28-2025),5/28/2025,Biochemical Oxygen Demand,516,516,,mg/L
+ST25MAY29-01-017 ,TEM Primary Influent (05-28-2025),5/28/2025,pH,6.43,6.43,,pH Units
+ST25MAY30-01-017 ,TEM Primary Influent (05-29-2025),5/29/2025,Total Suspended Solids,459,459,,mg/L
+ST25MAY30-01-017 ,TEM Primary Influent (05-29-2025),5/29/2025,TSS - Change in Wt,1.56,1.56,,%
+
