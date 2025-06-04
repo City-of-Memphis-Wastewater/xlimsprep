@@ -4,7 +4,6 @@ from pprint import pprint
 from src.config import config_show_parameter_list
 
 def convert_xlims_data_to_columns(df_xlims):
-    #print(f"df_xlims['Parameter'] = {df_xlims['Parameter']}")
 
     # Pivot the DataFrame so each parameter becomes a column
     df_sanitized = convert_df_single_parameter_column_and_multiple_date_rows_to_multiple_paramter_columns_and_one_row_per_date(df_xlims)

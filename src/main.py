@@ -20,6 +20,7 @@ from src.helpers import convert_csv_import_filepath_to_csv_export_filepath
 from src.sanitizer import convert_xlims_data_to_columns
 from src.sanitizer import compare_columns
 from src.sanitizer import check_for_diversity_in_parameter_units_dictionary
+from src.exporter import export_sanitized
 from src.plotter import plot_sanitized
 from src.exporter import export_sanitized
 

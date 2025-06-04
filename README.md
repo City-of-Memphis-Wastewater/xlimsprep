@@ -11,7 +11,7 @@ Inherently, X-LIMS tends to export CSV files that look something like this:
 | 6/1/2024    | TSS - Change in Wt          | 0.68      | 0.68           | %        |
 | 6/1/2024    | Volatile Suspended Solids   | 690       | 690            | mg/L     |
 
-Notice that the **Parameter** column has multiple parameters in it, and that the SampledDate column has redundant values.
+Notice that the **Parameter** column has multiple parameters in it, and that the **SampledDate** column has redundant values.
 Let's use pandas to get this CSV into **wide format**, with a column for each parameter and one row per time stamp! This will help with plotting curves, analyzing trends, and making our lives generally easier.
 
 # Organization:
@@ -102,6 +102,20 @@ Turn off your *venv* virtural environment.
 It is easy to forget to turn your venv on and off, which is a major argument in favor of [Poetry](https://github.com/python-poetry/poetry).
 
 ```Deactivate```
+
+
+See which parameters are suppressed from plotting to the PNG charts.
+If a parameters is commented out using a pound sign in the skip_parameters list, it will *not* be suppressed.
+Confusing, right?
+The list is of items that will be suppressed.
+So, if you prevent an item from being in the list by commenting it out, it will be kept in the plots.
+
+```
+cat .\configs\exclude_variables.toml
+notepad .\configs\exclude_variables.toml
+```
+
+Okay, good luck.
 
 # Rollout:
 
