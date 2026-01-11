@@ -1,7 +1,7 @@
 [project]
 name = "xlimsprep"
 version = "0.1.1"
-description = "This program is meant for sanitizing and plotting data exported from the X-LIMS system."
+description = "This program is meant for sanitizing and plotting data exported from the X-LIMS system. At City of Memphis, the XLIMS url is: <https://xlims.memphistn.gov/lmEntry.aspx>"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
