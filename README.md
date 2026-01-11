@@ -30,7 +30,7 @@ Let's use pandas to get this CSV into **wide format**, with a column for each pa
 # Quick Start
 ## Windows:
 ```
-git clone https://github.com/City-of-Memphis-Wastewater/xlimsprep
+git clone https://github.com/City-of-Memphis-Wastewater/xlimsprep.git
 
 cd xlimsprep
 
@@ -41,7 +41,7 @@ cat main.ps1
 
 ## Linux:
 ```
-git clone https://github.com/City-of-Memphis-Wastewater/xlimsprep
+git clone https://github.com/City-of-Memphis-Wastewater/xlimsprep.git
 
 cd xlimsprep
 
