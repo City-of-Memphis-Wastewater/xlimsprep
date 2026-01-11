@@ -56,7 +56,7 @@ chmod +x main.sh
 ## Windows:
 Clone this repository, generating a folder in your current folder.
 
-```git clone https://github.com/City-of-Memphis-Wastewater/xlimsprep ```
+```git clone https://github.com/City-of-Memphis-Wastewater/xlimsprep.git ```
 
 Navigate into the newly cloned directory.
 
