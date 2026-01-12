@@ -1,0 +1,2331 @@
+﻿SampleName,StartDate,EndDate
+TEM Influent (08-01-2025),8/1/2025,1/9/2026
+
+SampleNumber,SampleName1,SampledDate,Parameter,SWPPRCalc,ReportedResult,Qual,Unit
+ST25AUG02-02-001,TEM Influent (08-01-2025),8/1/2025,Biochemical Oxygen Demand,1000,1000,,mg/L
+ST25AUG02-02-001,TEM Influent (08-01-2025),8/1/2025,pH,6.64,6.64,,pH Units
+ST25AUG02-02-001,TEM Influent (08-01-2025),8/1/2025,% Volatile Suspended Solids,93,93,,%
+ST25AUG02-02-001,TEM Influent (08-01-2025),8/1/2025,Total Suspended Solids,502,502,,mg/L
+ST25AUG02-02-001,TEM Influent (08-01-2025),8/1/2025,TSS - Change in Wt,1.33,1.33,,%
+ST25AUG02-02-001,TEM Influent (08-01-2025),8/1/2025,Volatile Suspended Solids,467,467,,mg/L
+ST25AUG02-02-001,TEM Influent (08-01-2025),8/1/2025,Sample Amount,1000,1000,,ml
+ST25AUG02-02-001,TEM Influent (08-01-2025),8/1/2025,Settleable Solids,22,22,,ml/L
+ST25AUG02-02-001,TEM Influent (08-01-2025),8/1/2025,Sulfur,27.2,27.2,,mg/L
+ST25AUG02-02-001,TEM Influent (08-01-2025),8/1/2025,Ammonia as N,18.5,18.5,,mg/L
+ST25AUG02-02-001,TEM Influent (08-01-2025),8/1/2025,Volatile Acids,303,303,,mg/L
+ST25AUG02-02-001,TEM Influent (08-01-2025),8/1/2025,Chemical Oxygen Demand,1606,1606,,mg/L
+ST25AUG03-02-001,TEM Influent (08-02-2025),8/2/2025,Biochemical Oxygen Demand,710,710,,mg/L
+ST25AUG03-02-001,TEM Influent (08-02-2025),8/2/2025,pH,7.10,7.10,,pH Units
+ST25AUG03-02-001,TEM Influent (08-02-2025),8/2/2025,% Volatile Suspended Solids,90,90,,%
+ST25AUG03-02-001,TEM Influent (08-02-2025),8/2/2025,Total Suspended Solids,464,464,,mg/L
+ST25AUG03-02-001,TEM Influent (08-02-2025),8/2/2025,TSS - Change in Wt,0.44,0.44,,%
+ST25AUG03-02-001,TEM Influent (08-02-2025),8/2/2025,Volatile Suspended Solids,419,419,,mg/L
+ST25AUG03-02-001,TEM Influent (08-02-2025),8/2/2025,Sample Amount,1000,1000,,ml
+ST25AUG03-02-001,TEM Influent (08-02-2025),8/2/2025,Settleable Solids,23,23,,ml/L
+ST25AUG03-02-001,TEM Influent (08-02-2025),8/2/2025,Sulfur,32.1,32.1,,mg/L
+ST25AUG03-02-001,TEM Influent (08-02-2025),8/2/2025,Ammonia as N,18.4,18.4,,mg/L
+ST25AUG03-02-001,TEM Influent (08-02-2025),8/2/2025,Volatile Acids,360,360,,mg/L
+ST25AUG03-02-001,TEM Influent (08-02-2025),8/2/2025,Chemical Oxygen Demand,1590,1590,,mg/L
+ST25AUG04-01-001,TEM Influent (08-03-2025),8/3/2025,Biochemical Oxygen Demand,637,637,,mg/L
+ST25AUG04-01-001,TEM Influent (08-03-2025),8/3/2025,pH,6.76,6.76,,pH Units
+ST25AUG04-01-001,TEM Influent (08-03-2025),8/3/2025,Sample Amount,1000,1000,,ml
+ST25AUG04-01-001,TEM Influent (08-03-2025),8/3/2025,Settleable Solids,10,10,,ml/L
+ST25AUG04-01-001,TEM Influent (08-03-2025),8/3/2025,% Volatile Suspended Solids,100,100,,%
+ST25AUG04-01-001,TEM Influent (08-03-2025),8/3/2025,Total Suspended Solids,304,304,,mg/L
+ST25AUG04-01-001,TEM Influent (08-03-2025),8/3/2025,TSS - Change in Wt,3.29,3.29,,%
+ST25AUG04-01-001,TEM Influent (08-03-2025),8/3/2025,Volatile Suspended Solids,305,305,,mg/L
+ST25AUG04-01-001,TEM Influent (08-03-2025),8/3/2025,Sulfur,30.6,30.6,,mg/L
+ST25AUG04-01-001,TEM Influent (08-03-2025),8/3/2025,Ammonia as N,16.9,16.9,,mg/L
+ST25AUG04-01-001,TEM Influent (08-03-2025),8/3/2025,Volatile Acids,306,306,,mg/L
+ST25AUG04-01-001,TEM Influent (08-03-2025),8/3/2025,Chemical Oxygen Demand,1416,1416,,mg/L
+ST25AUG05-01-001,TEM Influent (08-04-2025),8/4/2025,Biochemical Oxygen Demand,466,466,,mg/L
+ST25AUG05-01-001,TEM Influent (08-04-2025),8/4/2025,pH,6.26,6.26,,pH Units
+ST25AUG05-01-001,TEM Influent (08-04-2025),8/4/2025,Sample Amount,1000,1000,,ml
+ST25AUG05-01-001,TEM Influent (08-04-2025),8/4/2025,Settleable Solids,11,11,,ml/L
+ST25AUG05-01-001,TEM Influent (08-04-2025),8/4/2025,% Volatile Suspended Solids,97,97,,%
+ST25AUG05-01-001,TEM Influent (08-04-2025),8/4/2025,Total Suspended Solids,411,411,,mg/L
+ST25AUG05-01-001,TEM Influent (08-04-2025),8/4/2025,TSS - Change in Wt,3.88,3.88,,%
+ST25AUG05-01-001,TEM Influent (08-04-2025),8/4/2025,Volatile Suspended Solids,399,399,,mg/L
+ST25AUG05-01-001,TEM Influent (08-04-2025),8/4/2025,Sulfur,30.8,30.8,,mg/L
+ST25AUG05-01-001,TEM Influent (08-04-2025),8/4/2025,Ammonia as N,18.9,18.9,,mg/L
+ST25AUG05-01-001,TEM Influent (08-04-2025),8/4/2025,Volatile Acids,369,369,,mg/L
+ST25AUG05-01-001,TEM Influent (08-04-2025),8/4/2025,SARS-COV2,20880,20880,,cop/L
+ST25AUG05-01-001,TEM Influent (08-04-2025),8/4/2025,Chemical Oxygen Demand,1502,1502,,mg/L
+ST25AUG06-01-001,TEM Influent (08-05-2025),8/5/2025,Biochemical Oxygen Demand,722,722,,mg/L
+ST25AUG06-01-001,TEM Influent (08-05-2025),8/5/2025,pH,6.51,6.51,,pH Units
+ST25AUG06-01-001,TEM Influent (08-05-2025),8/5/2025,% Volatile Suspended Solids,97,97,,%
+ST25AUG06-01-001,TEM Influent (08-05-2025),8/5/2025,Total Suspended Solids,416,416,,mg/L
+ST25AUG06-01-001,TEM Influent (08-05-2025),8/5/2025,TSS - Change in Wt,0.12,0.12,,%
+ST25AUG06-01-001,TEM Influent (08-05-2025),8/5/2025,Volatile Suspended Solids,402,402,,mg/L
+ST25AUG06-01-001,TEM Influent (08-05-2025),8/5/2025,Sample Amount,1000,1000,,ml
+ST25AUG06-01-001,TEM Influent (08-05-2025),8/5/2025,Settleable Solids,14,14,,ml/L
+ST25AUG06-01-001,TEM Influent (08-05-2025),8/5/2025,Sulfur,38.1,38.1,,mg/L
+ST25AUG06-01-001,TEM Influent (08-05-2025),8/5/2025,Ammonia as N,20,20,,mg/L
+ST25AUG06-01-001,TEM Influent (08-05-2025),8/5/2025,Volatile Acids,369,369,,mg/L
+ST25AUG06-01-001,TEM Influent (08-05-2025),8/5/2025,Chemical Oxygen Demand,1772,1772,,mg/L
+ST25AUG07-01-001,TEM Influent (08-06-2025),8/6/2025,Biochemical Oxygen Demand,848,848,,mg/L
+ST25AUG07-01-001,TEM Influent (08-06-2025),8/6/2025,pH,6.75,6.75,,pH Units
+ST25AUG07-01-001,TEM Influent (08-06-2025),8/6/2025,% Volatile Suspended Solids,90,90,,%
+ST25AUG07-01-001,TEM Influent (08-06-2025),8/6/2025,Total Suspended Solids,532,532,,mg/L
+ST25AUG07-01-001,TEM Influent (08-06-2025),8/6/2025,TSS - Change in Wt,0.40,0.40,,%
+ST25AUG07-01-001,TEM Influent (08-06-2025),8/6/2025,Volatile Suspended Solids,477,477,,mg/L
+ST25AUG07-01-001,TEM Influent (08-06-2025),8/6/2025,Sample Amount,1000,1000,,ml
+ST25AUG07-01-001,TEM Influent (08-06-2025),8/6/2025,Settleable Solids,11,11,,ml/L
+ST25AUG07-01-001,TEM Influent (08-06-2025),8/6/2025,Sulfur,37.7,37.7,,mg/L
+ST25AUG07-01-001,TEM Influent (08-06-2025),8/6/2025,Ammonia as N,21.7,21.7,,mg/L
+ST25AUG07-01-001,TEM Influent (08-06-2025),8/6/2025,Volatile Acids,345,345,,mg/L
+ST25AUG07-01-001,TEM Influent (08-06-2025),8/6/2025,Chemical Oxygen Demand,1904,1904,,mg/L
+ST25AUG08-01-001,TEM Influent (08-07-2025),8/7/2025,Biochemical Oxygen Demand,820,820,,mg/L
+ST25AUG08-01-001,TEM Influent (08-07-2025),8/7/2025,pH,6.55,6.55,,pH Units
+ST25AUG08-01-001,TEM Influent (08-07-2025),8/7/2025,Sample Amount,1000,1000,,ml
+ST25AUG08-01-001,TEM Influent (08-07-2025),8/7/2025,Settleable Solids,13,13,,ml/L
+ST25AUG08-01-001,TEM Influent (08-07-2025),8/7/2025,% Volatile Suspended Solids,92,92,,%
+ST25AUG08-01-001,TEM Influent (08-07-2025),8/7/2025,Total Suspended Solids,592,592,,mg/L
+ST25AUG08-01-001,TEM Influent (08-07-2025),8/7/2025,TSS - Change in Wt,2.36,2.36,,%
+ST25AUG08-01-001,TEM Influent (08-07-2025),8/7/2025,Volatile Suspended Solids,545,545,,mg/L
+ST25AUG08-01-001,TEM Influent (08-07-2025),8/7/2025,Sulfur,26.1,26.1,,mg/L
+ST25AUG08-01-001,TEM Influent (08-07-2025),8/7/2025,Ammonia as N,16.5,16.5,,mg/L
+ST25AUG08-01-001,TEM Influent (08-07-2025),8/7/2025,Volatile Acids,330,330,,mg/L
+ST25AUG08-01-001,TEM Influent (08-07-2025),8/7/2025,Chemical Oxygen Demand,1136,1136,,mg/L
+ST25AUG09-02-001,TEM Influent (08-08-2025),8/8/2025,Biochemical Oxygen Demand,965,965,,mg/L
+ST25AUG09-02-001,TEM Influent (08-08-2025),8/8/2025,pH,6.71,6.71,,pH Units
+ST25AUG09-02-001,TEM Influent (08-08-2025),8/8/2025,% Volatile Suspended Solids,91,91,,%
+ST25AUG09-02-001,TEM Influent (08-08-2025),8/8/2025,Total Suspended Solids,616,616,,mg/L
+ST25AUG09-02-001,TEM Influent (08-08-2025),8/8/2025,TSS - Change in Wt,2.03,2.03,,%
+ST25AUG09-02-001,TEM Influent (08-08-2025),8/8/2025,Volatile Suspended Solids,561,561,,mg/L
+ST25AUG09-02-001,TEM Influent (08-08-2025),8/8/2025,Sample Amount,1000,1000,,ml
+ST25AUG09-02-001,TEM Influent (08-08-2025),8/8/2025,Settleable Solids,12,12,,ml/L
+ST25AUG09-02-001,TEM Influent (08-08-2025),8/8/2025,Sulfur,29.1,29.1,,mg/L
+ST25AUG09-02-001,TEM Influent (08-08-2025),8/8/2025,Chemical Oxygen Demand,1942,1942,,mg/L
+ST25AUG09-02-001,TEM Influent (08-08-2025),8/8/2025,Ammonia as N,20.3,20.3,,mg/L
+ST25AUG09-02-001,TEM Influent (08-08-2025),8/8/2025,Volatile Acids,387,387,,mg/L
+ST25AUG10-02-001,TEM Influent (08-09-2025),8/9/2025,Biochemical Oxygen Demand,611,611,,mg/L
+ST25AUG10-02-001,TEM Influent (08-09-2025),8/9/2025,pH,7.44,7.44,,pH Units
+ST25AUG10-02-001,TEM Influent (08-09-2025),8/9/2025,% Volatile Suspended Solids,87,87,,%
+ST25AUG10-02-001,TEM Influent (08-09-2025),8/9/2025,Total Suspended Solids,455,455,,mg/L
+ST25AUG10-02-001,TEM Influent (08-09-2025),8/9/2025,TSS - Change in Wt,2.75,2.75,,%
+ST25AUG10-02-001,TEM Influent (08-09-2025),8/9/2025,Volatile Suspended Solids,395,395,,mg/L
+ST25AUG10-02-001,TEM Influent (08-09-2025),8/9/2025,Sample Amount,1000,1000,,ml
+ST25AUG10-02-001,TEM Influent (08-09-2025),8/9/2025,Settleable Solids,11,11,,ml/L
+ST25AUG10-02-001,TEM Influent (08-09-2025),8/9/2025,Sulfur,30.5,30.5,,mg/L
+ST25AUG10-02-001,TEM Influent (08-09-2025),8/9/2025,Ammonia as N,15.8,15.8,,mg/L
+ST25AUG10-02-001,TEM Influent (08-09-2025),8/9/2025,Volatile Acids,171,171,,mg/L
+ST25AUG10-02-001,TEM Influent (08-09-2025),8/9/2025,Chemical Oxygen Demand,1254,1254,,mg/L
+ST25AUG11-01-001,TEM Influent (08-10-2025),8/10/2025,Biochemical Oxygen Demand,660,660,,mg/L
+ST25AUG11-01-001,TEM Influent (08-10-2025),8/10/2025,pH,6.56,6.56,,pH Units
+ST25AUG11-01-001,TEM Influent (08-10-2025),8/10/2025,Sample Amount,1000,1000,,ml
+ST25AUG11-01-001,TEM Influent (08-10-2025),8/10/2025,Settleable Solids,7,7,,ml/L
+ST25AUG11-01-001,TEM Influent (08-10-2025),8/10/2025,% Volatile Suspended Solids,91,91,,%
+ST25AUG11-01-001,TEM Influent (08-10-2025),8/10/2025,Total Suspended Solids,297,297,,mg/L
+ST25AUG11-01-001,TEM Influent (08-10-2025),8/10/2025,TSS - Change in Wt,0.34,0.34,,%
+ST25AUG11-01-001,TEM Influent (08-10-2025),8/10/2025,Volatile Suspended Solids,269,269,,mg/L
+ST25AUG11-01-001,TEM Influent (08-10-2025),8/10/2025,Sulfur,28.9,28.9,,mg/L
+ST25AUG11-01-001,TEM Influent (08-10-2025),8/10/2025,Volatile Acids,296,296,,mg/L
+ST25AUG11-01-001,TEM Influent (08-10-2025),8/10/2025,Ammonia as N,18.2,18.2,,mg/L
+ST25AUG11-01-001,TEM Influent (08-10-2025),8/10/2025,Chemical Oxygen Demand,1296,1296,,mg/L
+ST25AUG12-01-001,TEM Influent (08-11-2025),8/11/2025,Biochemical Oxygen Demand,723,723,,mg/L
+ST25AUG12-01-001,TEM Influent (08-11-2025),8/11/2025,pH,6.74,6.74,,pH Units
+ST25AUG12-01-001,TEM Influent (08-11-2025),8/11/2025,Sample Amount,1000,1000,,ml
+ST25AUG12-01-001,TEM Influent (08-11-2025),8/11/2025,Settleable Solids,5,5,,ml/L
+ST25AUG12-01-001,TEM Influent (08-11-2025),8/11/2025,% Volatile Suspended Solids,94,94,,%
+ST25AUG12-01-001,TEM Influent (08-11-2025),8/11/2025,Total Suspended Solids,311,311,,mg/L
+ST25AUG12-01-001,TEM Influent (08-11-2025),8/11/2025,TSS - Change in Wt,2.04,2.04,,%
+ST25AUG12-01-001,TEM Influent (08-11-2025),8/11/2025,Volatile Suspended Solids,292,292,,mg/L
+ST25AUG12-01-001,TEM Influent (08-11-2025),8/11/2025,Sulfur,35.7,35.7,,mg/L
+ST25AUG12-01-001,TEM Influent (08-11-2025),8/11/2025,Chemical Oxygen Demand,1516,1516,,mg/L
+ST25AUG12-01-001,TEM Influent (08-11-2025),8/11/2025,Ammonia as N,17.6,17.6,,mg/L
+ST25AUG12-01-001,TEM Influent (08-11-2025),8/11/2025,Volatile Acids,330,330,,mg/L
+ST25AUG13-01-001,TEM Influent (08-12-2025),8/12/2025,Biochemical Oxygen Demand,927,927,,mg/L
+ST25AUG13-01-001,TEM Influent (08-12-2025),8/12/2025,pH,6.89,6.89,,pH Units
+ST25AUG13-01-001,TEM Influent (08-12-2025),8/12/2025,% Volatile Suspended Solids,94,94,,%
+ST25AUG13-01-001,TEM Influent (08-12-2025),8/12/2025,Total Suspended Solids,318,318,,mg/L
+ST25AUG13-01-001,TEM Influent (08-12-2025),8/12/2025,TSS - Change in Wt,0.31,0.31,,%
+ST25AUG13-01-001,TEM Influent (08-12-2025),8/12/2025,Volatile Suspended Solids,299,299,,mg/L
+ST25AUG13-01-001,TEM Influent (08-12-2025),8/12/2025,Sample Amount,1000,1000,,ml
+ST25AUG13-01-001,TEM Influent (08-12-2025),8/12/2025,Settleable Solids,6,6,,ml/L
+ST25AUG13-01-001,TEM Influent (08-12-2025),8/12/2025,Sulfur,34.8,34.8,,mg/L
+ST25AUG13-01-001,TEM Influent (08-12-2025),8/12/2025,Ammonia as N,19.7,19.7,,mg/L
+ST25AUG13-01-001,TEM Influent (08-12-2025),8/12/2025,Volatile Acids,375,375,,mg/L
+ST25AUG13-01-001,TEM Influent (08-12-2025),8/12/2025,Chemical Oxygen Demand,1164,1164,,mg/L
+ST25AUG14-01-001,TEM Influent (08-13-2025),8/13/2025,Biochemical Oxygen Demand,826,826,,mg/L
+ST25AUG14-01-001,TEM Influent (08-13-2025),8/13/2025,pH,6.52,6.52,,pH Units
+ST25AUG14-01-001,TEM Influent (08-13-2025),8/13/2025,% Volatile Suspended Solids,92,92,,%
+ST25AUG14-01-001,TEM Influent (08-13-2025),8/13/2025,Total Suspended Solids,426,426,,mg/L
+ST25AUG14-01-001,TEM Influent (08-13-2025),8/13/2025,TSS - Change in Wt,1.88,1.88,,%
+ST25AUG14-01-001,TEM Influent (08-13-2025),8/13/2025,Volatile Suspended Solids,390,390,,mg/L
+ST25AUG14-01-001,TEM Influent (08-13-2025),8/13/2025,Sample Amount,1000,1000,,ml
+ST25AUG14-01-001,TEM Influent (08-13-2025),8/13/2025,Settleable Solids,8,8,,ml/L
+ST25AUG14-01-001,TEM Influent (08-13-2025),8/13/2025,Sulfur,40.5,40.5,,mg/L
+ST25AUG14-01-001,TEM Influent (08-13-2025),8/13/2025,Chemical Oxygen Demand,1401,1401,,mg/L
+ST25AUG14-01-001,TEM Influent (08-13-2025),8/13/2025,Ammonia as N,18.1,18.1,,mg/L
+ST25AUG14-01-001,TEM Influent (08-13-2025),8/13/2025,Volatile Acids,372,372,,mg/L
+ST25AUG15-01-001,TEM Influent (08-14-2025),8/14/2025,Biochemical Oxygen Demand,889,889,,mg/L
+ST25AUG15-01-001,TEM Influent (08-14-2025),8/14/2025,pH,7.04,7.04,,pH Units
+ST25AUG15-01-001,TEM Influent (08-14-2025),8/14/2025,Sample Amount,1000,1000,,ml
+ST25AUG15-01-001,TEM Influent (08-14-2025),8/14/2025,Settleable Solids,16,16,,ml/L
+ST25AUG15-01-001,TEM Influent (08-14-2025),8/14/2025,% Volatile Suspended Solids,89,89,,%
+ST25AUG15-01-001,TEM Influent (08-14-2025),8/14/2025,Total Suspended Solids,633,633,,mg/L
+ST25AUG15-01-001,TEM Influent (08-14-2025),8/14/2025,TSS - Change in Wt,0.08,0.08,,%
+ST25AUG15-01-001,TEM Influent (08-14-2025),8/14/2025,Volatile Suspended Solids,562,562,,mg/L
+ST25AUG15-01-001,TEM Influent (08-14-2025),8/14/2025,Sulfur,40.1,40.1,,mg/L
+ST25AUG15-01-001,TEM Influent (08-14-2025),8/14/2025,Chemical Oxygen Demand,1830,1830,,mg/L
+ST25AUG15-01-001,TEM Influent (08-14-2025),8/14/2025,Ammonia as N,21.2,21.2,,mg/L
+ST25AUG15-01-001,TEM Influent (08-14-2025),8/14/2025,Volatile Acids,366,366,,mg/L
+ST25AUG16-02-001,TEM Influent (08-15-2025),8/15/2025,Biochemical Oxygen Demand,729,729,,mg/L
+ST25AUG16-02-001,TEM Influent (08-15-2025),8/15/2025,pH,6.71,6.71,,pH Units
+ST25AUG16-02-001,TEM Influent (08-15-2025),8/15/2025,% Volatile Suspended Solids,89,89,,%
+ST25AUG16-02-001,TEM Influent (08-15-2025),8/15/2025,Total Suspended Solids,408,408,,mg/L
+ST25AUG16-02-001,TEM Influent (08-15-2025),8/15/2025,TSS - Change in Wt,0.75,0.75,,%
+ST25AUG16-02-001,TEM Influent (08-15-2025),8/15/2025,Volatile Suspended Solids,362,362,,mg/L
+ST25AUG16-02-001,TEM Influent (08-15-2025),8/15/2025,Sample Amount,1000,1000,,ml
+ST25AUG16-02-001,TEM Influent (08-15-2025),8/15/2025,Settleable Solids,11,11,,ml/L
+ST25AUG16-02-001,TEM Influent (08-15-2025),8/15/2025,Sulfur,34,34,,mg/L
+ST25AUG16-02-001,TEM Influent (08-15-2025),8/15/2025,Chemical Oxygen Demand,1624,1624,,mg/L
+ST25AUG16-02-001,TEM Influent (08-15-2025),8/15/2025,Ammonia as N,18.4,18.4,,mg/L
+ST25AUG16-02-001,TEM Influent (08-15-2025),8/15/2025,Volatile Acids,348,348,,mg/L
+ST25AUG17-02-001,TEM Influent (08-16-2025),8/16/2025,Biochemical Oxygen Demand,659,659,,mg/L
+ST25AUG17-02-001,TEM Influent (08-16-2025),8/16/2025,pH,6.88,6.88,,pH Units
+ST25AUG17-02-001,TEM Influent (08-16-2025),8/16/2025,% Volatile Suspended Solids,95,95,,%
+ST25AUG17-02-001,TEM Influent (08-16-2025),8/16/2025,Total Suspended Solids,636,636,,mg/L
+ST25AUG17-02-001,TEM Influent (08-16-2025),8/16/2025,TSS - Change in Wt,2.64,2.64,,%
+ST25AUG17-02-001,TEM Influent (08-16-2025),8/16/2025,Volatile Suspended Solids,604,604,,mg/L
+ST25AUG17-02-001,TEM Influent (08-16-2025),8/16/2025,Sample Amount,1000,1000,,ml
+ST25AUG17-02-001,TEM Influent (08-16-2025),8/16/2025,Settleable Solids,7,7,,ml/L
+ST25AUG17-02-001,TEM Influent (08-16-2025),8/16/2025,Sulfur,40.3,40.3,,mg/L
+ST25AUG17-02-001,TEM Influent (08-16-2025),8/16/2025,Chemical Oxygen Demand,1472,1472,,mg/L
+ST25AUG17-02-001,TEM Influent (08-16-2025),8/16/2025,Ammonia as N,18.6,18.6,,mg/L
+ST25AUG17-02-001,TEM Influent (08-16-2025),8/16/2025,Volatile Acids,333,333,,mg/L
+ST25AUG18-01-001,TEM Influent (08-17-2025),8/17/2025,Biochemical Oxygen Demand,646,646,,mg/L
+ST25AUG18-01-001,TEM Influent (08-17-2025),8/17/2025,pH,6.01,6.01,,pH Units
+ST25AUG18-01-001,TEM Influent (08-17-2025),8/17/2025,Sample Amount,1000,1000,,ml
+ST25AUG18-01-001,TEM Influent (08-17-2025),8/17/2025,Settleable Solids,12,12,,ml/L
+ST25AUG18-01-001,TEM Influent (08-17-2025),8/17/2025,% Volatile Suspended Solids,92,92,,%
+ST25AUG18-01-001,TEM Influent (08-17-2025),8/17/2025,Total Suspended Solids,420,420,,mg/L
+ST25AUG18-01-001,TEM Influent (08-17-2025),8/17/2025,TSS - Change in Wt,3.76,3.76,,%
+ST25AUG18-01-001,TEM Influent (08-17-2025),8/17/2025,Volatile Suspended Solids,387,387,,mg/L
+ST25AUG18-01-001,TEM Influent (08-17-2025),8/17/2025,Sulfur,34.6,34.6,,mg/L
+ST25AUG18-01-001,TEM Influent (08-17-2025),8/17/2025,Ammonia as N,17.9,17.9,,mg/L
+ST25AUG18-01-001,TEM Influent (08-17-2025),8/17/2025,Volatile Acids,287,287,,mg/L
+ST25AUG18-01-001,TEM Influent (08-17-2025),8/17/2025,Chemical Oxygen Demand,1454,1454,,mg/L
+ST25AUG19-01-001,TEM Influent (08-18-2025),8/18/2025,Biochemical Oxygen Demand,745,745,,mg/L
+ST25AUG19-01-001,TEM Influent (08-18-2025),8/18/2025,pH,7.06,7.06,,pH Units
+ST25AUG19-01-001,TEM Influent (08-18-2025),8/18/2025,Sample Amount,1000,1000,,ml
+ST25AUG19-01-001,TEM Influent (08-18-2025),8/18/2025,Settleable Solids,15,15,,ml/L
+ST25AUG19-01-001,TEM Influent (08-18-2025),8/18/2025,% Volatile Suspended Solids,93,93,,%
+ST25AUG19-01-001,TEM Influent (08-18-2025),8/18/2025,Total Suspended Solids,451,451,,mg/L
+ST25AUG19-01-001,TEM Influent (08-18-2025),8/18/2025,TSS - Change in Wt,0.44,0.44,,%
+ST25AUG19-01-001,TEM Influent (08-18-2025),8/18/2025,Volatile Suspended Solids,418,418,,mg/L
+ST25AUG19-01-001,TEM Influent (08-18-2025),8/18/2025,Sulfur,32.5,32.5,,mg/L
+ST25AUG19-01-001,TEM Influent (08-18-2025),8/18/2025,Ammonia as N,15.1,15.1,,mg/L
+ST25AUG19-01-001,TEM Influent (08-18-2025),8/18/2025,Volatile Acids,369,369,,mg/L
+ST25AUG19-01-001,TEM Influent (08-18-2025),8/18/2025,Chemical Oxygen Demand,1706,1706,,mg/L
+ST25AUG20-01-001,TEM Influent (08-19-2025),8/19/2025,Biochemical Oxygen Demand,677,677,,mg/L
+ST25AUG20-01-001,TEM Influent (08-19-2025),8/19/2025,pH,6.77,6.77,,pH Units
+ST25AUG20-01-001,TEM Influent (08-19-2025),8/19/2025,% Volatile Suspended Solids,90,90,,%
+ST25AUG20-01-001,TEM Influent (08-19-2025),8/19/2025,Total Suspended Solids,377,377,,mg/L
+ST25AUG20-01-001,TEM Influent (08-19-2025),8/19/2025,TSS - Change in Wt,1.96,1.96,,%
+ST25AUG20-01-001,TEM Influent (08-19-2025),8/19/2025,Volatile Suspended Solids,340,340,,mg/L
+ST25AUG20-01-001,TEM Influent (08-19-2025),8/19/2025,Sample Amount,1000,1000,,ml
+ST25AUG20-01-001,TEM Influent (08-19-2025),8/19/2025,Settleable Solids,11,11,,ml/L
+ST25AUG20-01-001,TEM Influent (08-19-2025),8/19/2025,Sulfur,32.2,32.2,,mg/L
+ST25AUG20-01-001,TEM Influent (08-19-2025),8/19/2025,Ammonia as N,14.2,14.2,,mg/L
+ST25AUG20-01-001,TEM Influent (08-19-2025),8/19/2025,Volatile Acids,327,327,,mg/L
+ST25AUG20-01-001,TEM Influent (08-19-2025),8/19/2025,Chemical Oxygen Demand,1352,1352,,mg/L
+ST25AUG21-01-001,TEM Influent (08-20-2025),8/20/2025,Biochemical Oxygen Demand,632,632,,mg/L
+ST25AUG21-01-001,TEM Influent (08-20-2025),8/20/2025,pH,7.05,7.05,,pH Units
+ST25AUG21-01-001,TEM Influent (08-20-2025),8/20/2025,% Volatile Suspended Solids,97,97,,%
+ST25AUG21-01-001,TEM Influent (08-20-2025),8/20/2025,Total Suspended Solids,269,269,,mg/L
+ST25AUG21-01-001,TEM Influent (08-20-2025),8/20/2025,TSS - Change in Wt,3.70,3.70,,%
+ST25AUG21-01-001,TEM Influent (08-20-2025),8/20/2025,Volatile Suspended Solids,260,260,,mg/L
+ST25AUG21-01-001,TEM Influent (08-20-2025),8/20/2025,Sample Amount,1000,1000,,ml
+ST25AUG21-01-001,TEM Influent (08-20-2025),8/20/2025,Settleable Solids,4,4,,ml/L
+ST25AUG21-01-001,TEM Influent (08-20-2025),8/20/2025,Sulfur,43.8,43.8,,mg/L
+ST25AUG21-01-001,TEM Influent (08-20-2025),8/20/2025,Chemical Oxygen Demand,1422,1422,,mg/L
+ST25AUG21-01-001,TEM Influent (08-20-2025),8/20/2025,Ammonia as N,17.6,17.6,,mg/L
+ST25AUG21-01-001,TEM Influent (08-20-2025),8/20/2025,Volatile Acids,333,333,,mg/L
+ST25AUG22-01-001,TEM Influent (08-21-2025),8/21/2025,Biochemical Oxygen Demand,761,761,,mg/L
+ST25AUG22-01-001,TEM Influent (08-21-2025),8/21/2025,pH,6.74,6.74,,pH Units
+ST25AUG22-01-001,TEM Influent (08-21-2025),8/21/2025,Sample Amount,1000,1000,,ml
+ST25AUG22-01-001,TEM Influent (08-21-2025),8/21/2025,Settleable Solids,7,7,,ml/L
+ST25AUG22-01-001,TEM Influent (08-21-2025),8/21/2025,% Volatile Suspended Solids,96,96,,%
+ST25AUG22-01-001,TEM Influent (08-21-2025),8/21/2025,Total Suspended Solids,470,470,,mg/L
+ST25AUG22-01-001,TEM Influent (08-21-2025),8/21/2025,TSS - Change in Wt,1.17,1.17,,%
+ST25AUG22-01-001,TEM Influent (08-21-2025),8/21/2025,Volatile Suspended Solids,450,450,,mg/L
+ST25AUG22-01-001,TEM Influent (08-21-2025),8/21/2025,Sulfur,38.3,38.3,,mg/L
+ST25AUG22-01-001,TEM Influent (08-21-2025),8/21/2025,Chemical Oxygen Demand,1570,1570,,mg/L
+ST25AUG22-01-001,TEM Influent (08-21-2025),8/21/2025,Ammonia as N,13,13,,mg/L
+ST25AUG22-01-001,TEM Influent (08-21-2025),8/21/2025,Volatile Acids,378,378,,mg/L
+ST25AUG23-02-001,TEM Influent (08-22-2025),8/22/2025,Biochemical Oxygen Demand,766,766,,mg/L
+ST25AUG23-02-001,TEM Influent (08-22-2025),8/22/2025,pH,6.58,6.58,,pH Units
+ST25AUG23-02-001,TEM Influent (08-22-2025),8/22/2025,% Volatile Suspended Solids,94,94,,%
+ST25AUG23-02-001,TEM Influent (08-22-2025),8/22/2025,Total Suspended Solids,136,136,,mg/L
+ST25AUG23-02-001,TEM Influent (08-22-2025),8/22/2025,TSS - Change in Wt,3.68,3.68,,%
+ST25AUG23-02-001,TEM Influent (08-22-2025),8/22/2025,Volatile Suspended Solids,128,128,,mg/L
+ST25AUG23-02-001,TEM Influent (08-22-2025),8/22/2025,Sample Amount,1000,1000,,ml
+ST25AUG23-02-001,TEM Influent (08-22-2025),8/22/2025,Settleable Solids,6,6,,ml/L
+ST25AUG23-02-001,TEM Influent (08-22-2025),8/22/2025,Sulfur,30.4,30.4,,mg/L
+ST25AUG23-02-001,TEM Influent (08-22-2025),8/22/2025,Ammonia as N,17.1,17.1,,mg/L
+ST25AUG23-02-001,TEM Influent (08-22-2025),8/22/2025,Volatile Acids,409,409,,mg/L
+ST25AUG23-02-001,TEM Influent (08-22-2025),8/22/2025,Chemical Oxygen Demand,1692,1692,,mg/L
+ST25AUG24-02-001,TEM Influent (08-23-2025),8/23/2025,Biochemical Oxygen Demand,640,640,,mg/L
+ST25AUG24-02-001,TEM Influent (08-23-2025),8/23/2025,pH,6.50,6.50,,pH Units
+ST25AUG24-02-001,TEM Influent (08-23-2025),8/23/2025,% Volatile Suspended Solids,97,97,,%
+ST25AUG24-02-001,TEM Influent (08-23-2025),8/23/2025,Total Suspended Solids,284,284,,mg/L
+ST25AUG24-02-001,TEM Influent (08-23-2025),8/23/2025,TSS - Change in Wt,3.35,3.35,,%
+ST25AUG24-02-001,TEM Influent (08-23-2025),8/23/2025,Volatile Suspended Solids,276,276,,mg/L
+ST25AUG24-02-001,TEM Influent (08-23-2025),8/23/2025,Sample Amount,1000,1000,,ml
+ST25AUG24-02-001,TEM Influent (08-23-2025),8/23/2025,Settleable Solids,5,5,,ml/L
+ST25AUG24-02-001,TEM Influent (08-23-2025),8/23/2025,Sulfur,35.6,35.6,,mg/L
+ST25AUG24-02-001,TEM Influent (08-23-2025),8/23/2025,Chemical Oxygen Demand,1023,1023,,mg/L
+ST25AUG24-02-001,TEM Influent (08-23-2025),8/23/2025,Ammonia as N,12.4,12.4,,mg/L
+ST25AUG24-02-001,TEM Influent (08-23-2025),8/23/2025,Volatile Acids,318,318,,mg/L
+ST25AUG25-01-001,TEM Influent (08-24-2025),8/24/2025,Biochemical Oxygen Demand,707,707,,mg/L
+ST25AUG25-01-001,TEM Influent (08-24-2025),8/24/2025,pH,6.55,6.55,,pH Units
+ST25AUG25-01-001,TEM Influent (08-24-2025),8/24/2025,Sample Amount,1000,1000,,ml
+ST25AUG25-01-001,TEM Influent (08-24-2025),8/24/2025,Settleable Solids,5,5,,ml/L
+ST25AUG25-01-001,TEM Influent (08-24-2025),8/24/2025,% Volatile Suspended Solids,97,97,,%
+ST25AUG25-01-001,TEM Influent (08-24-2025),8/24/2025,Total Suspended Solids,276,276,,mg/L
+ST25AUG25-01-001,TEM Influent (08-24-2025),8/24/2025,TSS - Change in Wt,0.20,0.20,,%
+ST25AUG25-01-001,TEM Influent (08-24-2025),8/24/2025,Volatile Suspended Solids,267,267,,mg/L
+ST25AUG25-01-001,TEM Influent (08-24-2025),8/24/2025,Sulfur,25.5,25.5,,mg/L
+ST25AUG25-01-001,TEM Influent (08-24-2025),8/24/2025,Ammonia as N,18.9,18.9,,mg/L
+ST25AUG25-01-001,TEM Influent (08-24-2025),8/24/2025,Volatile Acids,281,281,,mg/L
+ST25AUG25-01-001,TEM Influent (08-24-2025),8/24/2025,Chemical Oxygen Demand,1666,1666,,mg/L
+ST25AUG26-01-001,TEM Influent (08-25-2025),8/25/2025,Biochemical Oxygen Demand,862,862,,mg/L
+ST25AUG26-01-001,TEM Influent (08-25-2025),8/25/2025,pH,6.64,6.64,,pH Units
+ST25AUG26-01-001,TEM Influent (08-25-2025),8/25/2025,Sample Amount,1000,1000,,ml
+ST25AUG26-01-001,TEM Influent (08-25-2025),8/25/2025,Settleable Solids,9,9,,ml/L
+ST25AUG26-01-001,TEM Influent (08-25-2025),8/25/2025,% Volatile Suspended Solids,97,97,,%
+ST25AUG26-01-001,TEM Influent (08-25-2025),8/25/2025,Total Suspended Solids,362,362,,mg/L
+ST25AUG26-01-001,TEM Influent (08-25-2025),8/25/2025,TSS - Change in Wt,0.31,0.31,,%
+ST25AUG26-01-001,TEM Influent (08-25-2025),8/25/2025,Volatile Suspended Solids,351,351,,mg/L
+ST25AUG26-01-001,TEM Influent (08-25-2025),8/25/2025,Sulfur,31.8,31.8,,mg/L
+ST25AUG26-01-001,TEM Influent (08-25-2025),8/25/2025,Ammonia as N,16.8,16.8,,mg/L
+ST25AUG26-01-001,TEM Influent (08-25-2025),8/25/2025,Volatile Acids,284,284,,mg/L
+ST25AUG26-01-001,TEM Influent (08-25-2025),8/25/2025,SARS-COV2,35061,35061,,cop/L
+ST25AUG26-01-001,TEM Influent (08-25-2025),8/25/2025,Chemical Oxygen Demand,1694,1694,,mg/L
+ST25AUG27-01-001,TEM Influent (08-26-2025),8/26/2025,Biochemical Oxygen Demand,621,621,,mg/L
+ST25AUG27-01-001,TEM Influent (08-26-2025),8/26/2025,pH,6.69,6.69,,pH Units
+ST25AUG27-01-001,TEM Influent (08-26-2025),8/26/2025,% Volatile Suspended Solids,94,94,,%
+ST25AUG27-01-001,TEM Influent (08-26-2025),8/26/2025,Total Suspended Solids,305,305,,mg/L
+ST25AUG27-01-001,TEM Influent (08-26-2025),8/26/2025,TSS - Change in Wt,1.64,1.64,,%
+ST25AUG27-01-001,TEM Influent (08-26-2025),8/26/2025,Volatile Suspended Solids,288,288,,mg/L
+ST25AUG27-01-001,TEM Influent (08-26-2025),8/26/2025,Sample Amount,1000,1000,,ml
+ST25AUG27-01-001,TEM Influent (08-26-2025),8/26/2025,Settleable Solids,8,8,,ml/L
+ST25AUG27-01-001,TEM Influent (08-26-2025),8/26/2025,Sulfur,30.4,30.4,,mg/L
+ST25AUG27-01-001,TEM Influent (08-26-2025),8/26/2025,Ammonia as N,21.1,21.1,,mg/L
+ST25AUG27-01-001,TEM Influent (08-26-2025),8/26/2025,Volatile Acids,143,143,,mg/L
+ST25AUG27-01-001,TEM Influent (08-26-2025),8/26/2025,Chemical Oxygen Demand,1422,1422,,mg/L
+ST25AUG28-01-001,TEM Influent (08-27-2025),8/27/2025,Biochemical Oxygen Demand,1107,1107,,mg/L
+ST25AUG28-01-001,TEM Influent (08-27-2025),8/27/2025,pH,6.54,6.54,,pH Units
+ST25AUG28-01-001,TEM Influent (08-27-2025),8/27/2025,% Volatile Suspended Solids,90,90,,%
+ST25AUG28-01-001,TEM Influent (08-27-2025),8/27/2025,Total Suspended Solids,855,855,,mg/L
+ST25AUG28-01-001,TEM Influent (08-27-2025),8/27/2025,TSS - Change in Wt,2.92,2.92,,%
+ST25AUG28-01-001,TEM Influent (08-27-2025),8/27/2025,Volatile Suspended Solids,767,767,,mg/L
+ST25AUG28-01-001,TEM Influent (08-27-2025),8/27/2025,Sample Amount,1000,1000,,ml
+ST25AUG28-01-001,TEM Influent (08-27-2025),8/27/2025,Settleable Solids,15,15,,ml/L
+ST25AUG28-01-001,TEM Influent (08-27-2025),8/27/2025,Sulfur,54.9,54.9,,mg/L
+ST25AUG28-01-001,TEM Influent (08-27-2025),8/27/2025,Ammonia as N,34.9,34.9,,mg/L
+ST25AUG28-01-001,TEM Influent (08-27-2025),8/27/2025,Volatile Acids,321,321,,mg/L
+ST25AUG28-01-001,TEM Influent (08-27-2025),8/27/2025,Chemical Oxygen Demand,610,610,,mg/L
+ST25AUG29-01-001,TEM Influent (08-28-2025),8/28/2025,Biochemical Oxygen Demand,742,742,,mg/L
+ST25AUG29-01-001,TEM Influent (08-28-2025),8/28/2025,pH,6.21,6.21,,pH Units
+ST25AUG29-01-001,TEM Influent (08-28-2025),8/28/2025,Sample Amount,1000,1000,,ml
+ST25AUG29-01-001,TEM Influent (08-28-2025),8/28/2025,Settleable Solids,7,7,,ml/L
+ST25AUG29-01-001,TEM Influent (08-28-2025),8/28/2025,% Volatile Suspended Solids,98,98,,%
+ST25AUG29-01-001,TEM Influent (08-28-2025),8/28/2025,Total Suspended Solids,298,298,,mg/L
+ST25AUG29-01-001,TEM Influent (08-28-2025),8/28/2025,TSS - Change in Wt,0.93,0.93,,%
+ST25AUG29-01-001,TEM Influent (08-28-2025),8/28/2025,Volatile Suspended Solids,292,292,,mg/L
+ST25AUG29-01-001,TEM Influent (08-28-2025),8/28/2025,Sulfur,28.4,28.4,,mg/L
+ST25AUG29-01-001,TEM Influent (08-28-2025),8/28/2025,Chemical Oxygen Demand,164,164,,mg/L
+ST25AUG29-01-001,TEM Influent (08-28-2025),8/28/2025,Ammonia as N,46.5,46.5,,mg/L
+ST25AUG29-01-001,TEM Influent (08-28-2025),8/28/2025,Volatile Acids,381,381,,mg/L
+ST25AUG30-02-001,TEM Influent (08-29-2025),8/29/2025,Biochemical Oxygen Demand,803,803,,mg/L
+ST25AUG30-02-001,TEM Influent (08-29-2025),8/29/2025,pH,6.52,6.52,,pH Units
+ST25AUG30-02-001,TEM Influent (08-29-2025),8/29/2025,% Volatile Suspended Solids,89,89,,%
+ST25AUG30-02-001,TEM Influent (08-29-2025),8/29/2025,Total Suspended Solids,466,466,,mg/L
+ST25AUG30-02-001,TEM Influent (08-29-2025),8/29/2025,TSS - Change in Wt,3.00,3.00,,%
+ST25AUG30-02-001,TEM Influent (08-29-2025),8/29/2025,Volatile Suspended Solids,416,416,,mg/L
+ST25AUG30-02-001,TEM Influent (08-29-2025),8/29/2025,Sample Amount,1000,1000,,ml
+ST25AUG30-02-001,TEM Influent (08-29-2025),8/29/2025,Settleable Solids,10,10,,ml/L
+ST25AUG30-02-001,TEM Influent (08-29-2025),8/29/2025,Sulfur,33.8,33.8,,mg/L
+ST25AUG30-02-001,TEM Influent (08-29-2025),8/29/2025,Chemical Oxygen Demand,1600,1600,,mg/L
+ST25AUG30-02-001,TEM Influent (08-29-2025),8/29/2025,Ammonia as N,30.8,30.8,,mg/L
+ST25AUG30-02-001,TEM Influent (08-29-2025),8/29/2025,Volatile Acids,421,421,,mg/L
+ST25AUG31-02-001,TEM Influent (08-30-2025),8/30/2025,Biochemical Oxygen Demand,712,712,,mg/L
+ST25AUG31-02-001,TEM Influent (08-30-2025),8/30/2025,pH,6.49,6.49,,pH Units
+ST25AUG31-02-001,TEM Influent (08-30-2025),8/30/2025,% Volatile Suspended Solids,92,92,,%
+ST25AUG31-02-001,TEM Influent (08-30-2025),8/30/2025,Total Suspended Solids,481,481,,mg/L
+ST25AUG31-02-001,TEM Influent (08-30-2025),8/30/2025,TSS - Change in Wt,3.12,3.12,,%
+ST25AUG31-02-001,TEM Influent (08-30-2025),8/30/2025,Volatile Suspended Solids,442,442,,mg/L
+ST25AUG31-02-001,TEM Influent (08-30-2025),8/30/2025,Sample Amount,1000,1000,,ml
+ST25AUG31-02-001,TEM Influent (08-30-2025),8/30/2025,Settleable Solids,13,13,,ml/L
+ST25AUG31-02-001,TEM Influent (08-30-2025),8/30/2025,Sulfur,28.9,28.9,,mg/L
+ST25AUG31-02-001,TEM Influent (08-30-2025),8/30/2025,Ammonia as N,84.6,84.6,,mg/L
+ST25AUG31-02-001,TEM Influent (08-30-2025),8/30/2025,Volatile Acids,336,336,,mg/L
+ST25AUG31-02-001,TEM Influent (08-30-2025),8/30/2025,Chemical Oxygen Demand,1850,1850,,mg/L
+ST25SEP01-06-001,TEM Influent (08-31-2025),8/31/2025,Biochemical Oxygen Demand,760,760,,mg/L
+ST25SEP01-06-001,TEM Influent (08-31-2025),8/31/2025,pH,6.95,6.95,,pH Units
+ST25SEP01-06-001,TEM Influent (08-31-2025),8/31/2025,Sample Amount,1000,1000,,ml
+ST25SEP01-06-001,TEM Influent (08-31-2025),8/31/2025,Settleable Solids,11,11,,ml/L
+ST25SEP01-06-001,TEM Influent (08-31-2025),8/31/2025,% Volatile Suspended Solids,93,93,,%
+ST25SEP01-06-001,TEM Influent (08-31-2025),8/31/2025,Total Suspended Solids,485,485,,mg/L
+ST25SEP01-06-001,TEM Influent (08-31-2025),8/31/2025,TSS - Change in Wt,0.93,0.93,,%
+ST25SEP01-06-001,TEM Influent (08-31-2025),8/31/2025,Volatile Suspended Solids,452,452,,mg/L
+ST25SEP01-06-001,TEM Influent (08-31-2025),8/31/2025,Sulfur,30.8,30.8,,mg/L
+ST25SEP01-06-001,TEM Influent (08-31-2025),8/31/2025,Ammonia as N,37.5,37.5,,mg/L
+ST25SEP01-06-001,TEM Influent (08-31-2025),8/31/2025,Volatile Acids,409,409,,mg/L
+ST25SEP01-06-001,TEM Influent (08-31-2025),8/31/2025,Chemical Oxygen Demand,650,650,,mg/L
+ST25SEP01-06-001,TEM Influent (08-31-2025),8/31/2025,Total Nitrogen,66,66,,mg/L
+ST25SEP01-06-001,TEM Influent (08-31-2025),8/31/2025,Phosphorus-total,17,17,,mg/L
+ST25SEP02-01-001,TEM Influent (09-01-2025),9/1/2025,Biochemical Oxygen Demand,764,764,,mg/L
+ST25SEP02-01-001,TEM Influent (09-01-2025),9/1/2025,pH,6.36,6.36,,pH Units
+ST25SEP02-01-001,TEM Influent (09-01-2025),9/1/2025,Sample Amount,1000,1000,,ml
+ST25SEP02-01-001,TEM Influent (09-01-2025),9/1/2025,Settleable Solids,16,16,,ml/L
+ST25SEP02-01-001,TEM Influent (09-01-2025),9/1/2025,% Volatile Suspended Solids,96,96,,%
+ST25SEP02-01-001,TEM Influent (09-01-2025),9/1/2025,Total Suspended Solids,416,416,,mg/L
+ST25SEP02-01-001,TEM Influent (09-01-2025),9/1/2025,TSS - Change in Wt,0.36,0.36,,%
+ST25SEP02-01-001,TEM Influent (09-01-2025),9/1/2025,Volatile Suspended Solids,399,399,,mg/L
+ST25SEP02-01-001,TEM Influent (09-01-2025),9/1/2025,Sulfur,28.7,28.7,,mg/L
+ST25SEP02-01-001,TEM Influent (09-01-2025),9/1/2025,Ammonia as N,63,63,,mg/L
+ST25SEP02-01-001,TEM Influent (09-01-2025),9/1/2025,Volatile Acids,430,430,,mg/L
+ST25SEP02-01-001,TEM Influent (09-01-2025),9/1/2025,Chemical Oxygen Demand,1200,1200,,mg/L
+ST25SEP03-01-001,TEM Influent (09-02-2025),9/2/2025,Biochemical Oxygen Demand,873,873,,mg/L
+ST25SEP03-01-001,TEM Influent (09-02-2025),9/2/2025,pH,6.39,6.39,,pH Units
+ST25SEP03-01-001,TEM Influent (09-02-2025),9/2/2025,% Volatile Suspended Solids,92,92,,%
+ST25SEP03-01-001,TEM Influent (09-02-2025),9/2/2025,Total Suspended Solids,537,537,,mg/L
+ST25SEP03-01-001,TEM Influent (09-02-2025),9/2/2025,TSS - Change in Wt,2.79,2.79,,%
+ST25SEP03-01-001,TEM Influent (09-02-2025),9/2/2025,Volatile Suspended Solids,495,495,,mg/L
+ST25SEP03-01-001,TEM Influent (09-02-2025),9/2/2025,Sample Amount,1000,1000,,ml
+ST25SEP03-01-001,TEM Influent (09-02-2025),9/2/2025,Settleable Solids,15,15,,ml/L
+ST25SEP03-01-001,TEM Influent (09-02-2025),9/2/2025,Sulfur,29.2,29.2,,mg/L
+ST25SEP03-01-001,TEM Influent (09-02-2025),9/2/2025,Volatile Acids,363,363,,mg/L
+ST25SEP03-01-001,TEM Influent (09-02-2025),9/2/2025,Total Nitrogen,111,111,,mg/L
+ST25SEP03-01-001,TEM Influent (09-02-2025),9/2/2025,Phosphorus-total,22.9,22.9,,mg/L
+ST25SEP03-01-001,TEM Influent (09-02-2025),9/2/2025,Chemical Oxygen Demand,1200,1200,,mg/L
+ST25SEP04-01-001,TEM Influent (09-03-2025),9/3/2025,Biochemical Oxygen Demand,984,984,,mg/L
+ST25SEP04-01-001,TEM Influent (09-03-2025),9/3/2025,pH,6.26,6.26,,pH Units
+ST25SEP04-01-001,TEM Influent (09-03-2025),9/3/2025,% Volatile Suspended Solids,90,90,,%
+ST25SEP04-01-001,TEM Influent (09-03-2025),9/3/2025,Total Suspended Solids,546,546,,mg/L
+ST25SEP04-01-001,TEM Influent (09-03-2025),9/3/2025,TSS - Change in Wt,0.64,0.64,,%
+ST25SEP04-01-001,TEM Influent (09-03-2025),9/3/2025,Volatile Suspended Solids,493,493,,mg/L
+ST25SEP04-01-001,TEM Influent (09-03-2025),9/3/2025,Sample Amount,1000,1000,,ml
+ST25SEP04-01-001,TEM Influent (09-03-2025),9/3/2025,Settleable Solids,15,15,,ml/L
+ST25SEP04-01-001,TEM Influent (09-03-2025),9/3/2025,Sulfur,44.3,44.3,,mg/L
+ST25SEP04-01-001,TEM Influent (09-03-2025),9/3/2025,Chemical Oxygen Demand,1420,1420,,mg/L
+ST25SEP04-01-001,TEM Influent (09-03-2025),9/3/2025,Volatile Acids,575,575,,mg/L
+ST25SEP04-01-001,TEM Influent (09-03-2025),9/3/2025,Ammonia as N,55.4,55.4,,mg/L
+ST25SEP04-01-001,TEM Influent (09-03-2025),9/3/2025,Apparent Color,2750,2750,,PCU
+ST25SEP04-01-001,TEM Influent (09-03-2025),9/3/2025,pH Apparent Color,6.26,6.26,,
+ST25SEP04-01-001,TEM Influent (09-03-2025),9/3/2025,True Color,460,460,,PCU
+ST25SEP05-01-001,TEM Influent (09-04-2025),9/4/2025,Biochemical Oxygen Demand,1097,1097,,mg/L
+ST25SEP05-01-001,TEM Influent (09-04-2025),9/4/2025,pH,6.50,6.50,,pH Units
+ST25SEP05-01-001,TEM Influent (09-04-2025),9/4/2025,Sample Amount,1000,1000,,ml
+ST25SEP05-01-001,TEM Influent (09-04-2025),9/4/2025,Settleable Solids,13,13,,ml/L
+ST25SEP05-01-001,TEM Influent (09-04-2025),9/4/2025,% Volatile Suspended Solids,94,94,,%
+ST25SEP05-01-001,TEM Influent (09-04-2025),9/4/2025,Total Suspended Solids,512,512,,mg/L
+ST25SEP05-01-001,TEM Influent (09-04-2025),9/4/2025,TSS - Change in Wt,1.37,1.37,,%
+ST25SEP05-01-001,TEM Influent (09-04-2025),9/4/2025,Volatile Suspended Solids,481,481,,mg/L
+ST25SEP05-01-001,TEM Influent (09-04-2025),9/4/2025,Sulfur,30.7,30.7,,mg/L
+ST25SEP05-01-001,TEM Influent (09-04-2025),9/4/2025,Ammonia as N,26.6,26.6,,mg/L
+ST25SEP05-01-001,TEM Influent (09-04-2025),9/4/2025,Volatile Acids,457,457,,mg/L
+ST25SEP05-01-001,TEM Influent (09-04-2025),9/4/2025,Chemical Oxygen Demand,1320,1320,,mg/L
+ST25SEP05-01-001,TEM Influent (09-04-2025),9/4/2025,Apparent Color,2720,2720,,PCU
+ST25SEP05-01-001,TEM Influent (09-04-2025),9/4/2025,pH Apparent Color,6.50,6.50,,
+ST25SEP05-01-001,TEM Influent (09-04-2025),9/4/2025,True Color,200,200,,PCU
+ST25SEP06-02-001,TEM Influent (09-05-2025),9/5/2025,Biochemical Oxygen Demand,702,702,,mg/L
+ST25SEP06-02-001,TEM Influent (09-05-2025),9/5/2025,pH,6.12,6.12,,pH Units
+ST25SEP06-02-001,TEM Influent (09-05-2025),9/5/2025,% Volatile Suspended Solids,93,93,,%
+ST25SEP06-02-001,TEM Influent (09-05-2025),9/5/2025,Total Suspended Solids,471,471,,mg/L
+ST25SEP06-02-001,TEM Influent (09-05-2025),9/5/2025,TSS - Change in Wt,0.74,0.74,,%
+ST25SEP06-02-001,TEM Influent (09-05-2025),9/5/2025,Volatile Suspended Solids,436,436,,mg/L
+ST25SEP06-02-001,TEM Influent (09-05-2025),9/5/2025,Sample Amount,1000,1000,,ml
+ST25SEP06-02-001,TEM Influent (09-05-2025),9/5/2025,Settleable Solids,7,7,,ml/L
+ST25SEP06-02-001,TEM Influent (09-05-2025),9/5/2025,Sulfur,32.5,32.5,,mg/L
+ST25SEP06-02-001,TEM Influent (09-05-2025),9/5/2025,Ammonia as N,48.9,48.9,,mg/L
+ST25SEP06-02-001,TEM Influent (09-05-2025),9/5/2025,Volatile Acids,384,384,,mg/L
+ST25SEP06-02-001,TEM Influent (09-05-2025),9/5/2025,Chemical Oxygen Demand,1300,1300,,mg/L
+ST25SEP06-02-001,TEM Influent (09-05-2025),9/5/2025,Apparent Color,2280,2280,,PCU
+ST25SEP06-02-001,TEM Influent (09-05-2025),9/5/2025,pH Apparent Color,6.12,6.12,,
+ST25SEP06-02-001,TEM Influent (09-05-2025),9/5/2025,True Color,1140,1140,,PCU
+ST25SEP07-02-001,TEM Influent (09-06-2025),9/6/2025,Biochemical Oxygen Demand,639,639,,mg/L
+ST25SEP07-02-001,TEM Influent (09-06-2025),9/6/2025,pH,6.57,6.57,,pH Units
+ST25SEP07-02-001,TEM Influent (09-06-2025),9/6/2025,% Volatile Suspended Solids,91,91,,%
+ST25SEP07-02-001,TEM Influent (09-06-2025),9/6/2025,Total Suspended Solids,422,422,,mg/L
+ST25SEP07-02-001,TEM Influent (09-06-2025),9/6/2025,TSS - Change in Wt,0.47,0.47,,%
+ST25SEP07-02-001,TEM Influent (09-06-2025),9/6/2025,Volatile Suspended Solids,385,385,,mg/L
+ST25SEP07-02-001,TEM Influent (09-06-2025),9/6/2025,Sample Amount,1000,1000,,ml
+ST25SEP07-02-001,TEM Influent (09-06-2025),9/6/2025,Settleable Solids,14,14,,ml/L
+ST25SEP07-02-001,TEM Influent (09-06-2025),9/6/2025,Sulfur,24.5,24.5,,mg/L
+ST25SEP07-02-001,TEM Influent (09-06-2025),9/6/2025,Ammonia as N,31.2,31.2,,mg/L
+ST25SEP07-02-001,TEM Influent (09-06-2025),9/6/2025,Volatile Acids,372,372,,mg/L
+ST25SEP07-02-001,TEM Influent (09-06-2025),9/6/2025,Chemical Oxygen Demand,1400,1400,,mg/L
+ST25SEP07-02-001,TEM Influent (09-06-2025),9/6/2025,Apparent Color,4170,4170,,PCU
+ST25SEP07-02-001,TEM Influent (09-06-2025),9/6/2025,pH Apparent Color,6.57,6.57,,
+ST25SEP07-02-001,TEM Influent (09-06-2025),9/6/2025,True Color,1420,1420,,PCU
+ST25SEP08-01-001,TEM Influent (09-07-2025),9/7/2025,Biochemical Oxygen Demand,734,734,,mg/L
+ST25SEP08-01-001,TEM Influent (09-07-2025),9/7/2025,pH,6.86,6.86,,pH Units
+ST25SEP08-01-001,TEM Influent (09-07-2025),9/7/2025,Sample Amount,1000,1000,,ml
+ST25SEP08-01-001,TEM Influent (09-07-2025),9/7/2025,Settleable Solids,5,5,,ml/L
+ST25SEP08-01-001,TEM Influent (09-07-2025),9/7/2025,% Volatile Suspended Solids,94,94,,%
+ST25SEP08-01-001,TEM Influent (09-07-2025),9/7/2025,Total Suspended Solids,247,247,,mg/L
+ST25SEP08-01-001,TEM Influent (09-07-2025),9/7/2025,TSS - Change in Wt,3.53,3.53,,%
+ST25SEP08-01-001,TEM Influent (09-07-2025),9/7/2025,Volatile Suspended Solids,233,233,,mg/L
+ST25SEP08-01-001,TEM Influent (09-07-2025),9/7/2025,Sulfur,30.6,30.6,,mg/L
+ST25SEP08-01-001,TEM Influent (09-07-2025),9/7/2025,Ammonia as N,26.6,26.6,,mg/L
+ST25SEP08-01-001,TEM Influent (09-07-2025),9/7/2025,Volatile Acids,363,363,,mg/L
+ST25SEP08-01-001,TEM Influent (09-07-2025),9/7/2025,Chemical Oxygen Demand,1940,1940,,mg/L
+ST25SEP08-01-001,TEM Influent (09-07-2025),9/7/2025,Apparent Color,2220,2220,,PCU
+ST25SEP08-01-001,TEM Influent (09-07-2025),9/7/2025,pH Apparent Color,6.86,6.86,,
+ST25SEP08-01-001,TEM Influent (09-07-2025),9/7/2025,True Color,760,760,,PCU
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,Biochemical Oxygen Demand,640,640,,mg/L
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,pH,6.55,6.55,,pH Units
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,Sample Amount,1000,1000,,ml
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,Settleable Solids,6,6,,ml/L
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,% Volatile Suspended Solids,97,97,,%
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,Total Suspended Solids,273,273,,mg/L
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,TSS - Change in Wt,0.98,0.98,,%
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,Volatile Suspended Solids,264,264,,mg/L
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,Sulfur,32.8,32.8,,mg/L
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,Ammonia as N,36.6,36.6,,mg/L
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,Volatile Acids,321,321,,mg/L
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,SARS-COV2,15746,15746,,cop/L
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,Chemical Oxygen Demand,1060,1060,,mg/L
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,Apparent Color,1760,1760,,PCU
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,pH Apparent Color,6.55,6.55,,
+ST25SEP09-01-001,TEM Influent (09-08-2025),9/8/2025,True Color,700,700,,PCU
+ST25SEP10-01-001,TEM Influent (09-09-2025),9/9/2025,Biochemical Oxygen Demand,675,675,,mg/L
+ST25SEP10-01-001,TEM Influent (09-09-2025),9/9/2025,pH,6.37,6.37,,pH Units
+ST25SEP10-01-001,TEM Influent (09-09-2025),9/9/2025,% Volatile Suspended Solids,97,97,,%
+ST25SEP10-01-001,TEM Influent (09-09-2025),9/9/2025,Total Suspended Solids,230,230,,mg/L
+ST25SEP10-01-001,TEM Influent (09-09-2025),9/9/2025,TSS - Change in Wt,0.87,0.87,,%
+ST25SEP10-01-001,TEM Influent (09-09-2025),9/9/2025,Volatile Suspended Solids,224,224,,mg/L
+ST25SEP10-01-001,TEM Influent (09-09-2025),9/9/2025,Sample Amount,1000,1000,,ml
+ST25SEP10-01-001,TEM Influent (09-09-2025),9/9/2025,Settleable Solids,3,3,,ml/L
+ST25SEP10-01-001,TEM Influent (09-09-2025),9/9/2025,Sulfur,21.6,21.6,,mg/L
+ST25SEP10-01-001,TEM Influent (09-09-2025),9/9/2025,Ammonia as N,34.3,34.3,,mg/L
+ST25SEP10-01-001,TEM Influent (09-09-2025),9/9/2025,Volatile Acids,415,415,,mg/L
+ST25SEP10-01-001,TEM Influent (09-09-2025),9/9/2025,Chemical Oxygen Demand,1060,1060,,mg/L
+ST25SEP11-01-001,TEM Influent (09-10-2025),9/10/2025,Biochemical Oxygen Demand,734,734,,mg/L
+ST25SEP11-01-001,TEM Influent (09-10-2025),9/10/2025,pH,6.69,6.69,,pH Units
+ST25SEP11-01-001,TEM Influent (09-10-2025),9/10/2025,% Volatile Suspended Solids,93,93,,%
+ST25SEP11-01-001,TEM Influent (09-10-2025),9/10/2025,Total Suspended Solids,569,569,,mg/L
+ST25SEP11-01-001,TEM Influent (09-10-2025),9/10/2025,TSS - Change in Wt,0.44,0.44,,%
+ST25SEP11-01-001,TEM Influent (09-10-2025),9/10/2025,Volatile Suspended Solids,527,527,,mg/L
+ST25SEP11-01-001,TEM Influent (09-10-2025),9/10/2025,Sample Amount,1000,1000,,ml
+ST25SEP11-01-001,TEM Influent (09-10-2025),9/10/2025,Settleable Solids,10,10,,ml/L
+ST25SEP11-01-001,TEM Influent (09-10-2025),9/10/2025,Sulfur,29.8,29.8,,mg/L
+ST25SEP11-01-001,TEM Influent (09-10-2025),9/10/2025,Ammonia as N,20,20,,mg/L
+ST25SEP11-01-001,TEM Influent (09-10-2025),9/10/2025,Volatile Acids,333,333,,mg/L
+ST25SEP11-01-001,TEM Influent (09-10-2025),9/10/2025,Chemical Oxygen Demand,1380,1380,,mg/L
+ST25SEP11-01-001,TEM Influent (09-10-2025),9/10/2025,Apparent Color,2610,2610,,PCU
+ST25SEP11-01-001,TEM Influent (09-10-2025),9/10/2025,pH Apparent Color,6.69,6.69,,
+ST25SEP11-01-001,TEM Influent (09-10-2025),9/10/2025,True Color,1390,1390,,PCU
+ST25SEP12-04-001,TEM Influent (Grab) (09-11-2025),9/11/2025,Arsenic,<0.0100,<0.0100,,mg/L
+ST25SEP12-04-001,TEM Influent (Grab) (09-11-2025),9/11/2025,Cadmium,<0.0020,<0.0020,,mg/L
+ST25SEP12-04-001,TEM Influent (Grab) (09-11-2025),9/11/2025,Chromium,<0.0050,<0.0050,,mg/L
+ST25SEP12-04-001,TEM Influent (Grab) (09-11-2025),9/11/2025,Cobalt,<0.0100,<0.0100,,mg/L
+ST25SEP12-04-001,TEM Influent (Grab) (09-11-2025),9/11/2025,Copper,0.0761,0.0761,,mg/L
+ST25SEP12-04-001,TEM Influent (Grab) (09-11-2025),9/11/2025,Lead,<0.0060,<0.0060,,mg/L
+ST25SEP12-04-001,TEM Influent (Grab) (09-11-2025),9/11/2025,Analysis Date/Time,9/17/2025 14:38,9/17/2025 14:38,,
+ST25SEP12-04-001,TEM Influent (Grab) (09-11-2025),9/11/2025,Mercury,<0.00020,<0.00020,,mg/L
+ST25SEP12-04-001,TEM Influent (Grab) (09-11-2025),9/11/2025,Method Reference,EPA-245.1,EPA-245.1,,
+ST25SEP12-04-001,TEM Influent (Grab) (09-11-2025),9/11/2025,Subcontract Lab ID,Waypoint Analytical LLC.,Waypoint Analytical LLC.,,
+ST25SEP12-04-001,TEM Influent (Grab) (09-11-2025),9/11/2025,Molybdenum,0.0122,0.0122,,mg/L
+ST25SEP12-04-001,TEM Influent (Grab) (09-11-2025),9/11/2025,Nickel,0.024,0.024,,mg/L
+ST25SEP12-04-001,TEM Influent (Grab) (09-11-2025),9/11/2025,Selenium,<0.0100,<0.0100,,mg/L
+ST25SEP12-04-001,TEM Influent (Grab) (09-11-2025),9/11/2025,Zinc,0.263,0.263,,mg/L
+ST25SEP12-01-001,TEM Influent (09-11-2025),9/11/2025,Biochemical Oxygen Demand,755,755,,mg/L
+ST25SEP12-01-001,TEM Influent (09-11-2025),9/11/2025,pH,6.59,6.59,,pH Units
+ST25SEP12-01-001,TEM Influent (09-11-2025),9/11/2025,Sample Amount,1000,1000,,ml
+ST25SEP12-01-001,TEM Influent (09-11-2025),9/11/2025,Settleable Solids,5,5,,ml/L
+ST25SEP12-01-001,TEM Influent (09-11-2025),9/11/2025,% Volatile Suspended Solids,96,96,,%
+ST25SEP12-01-001,TEM Influent (09-11-2025),9/11/2025,Total Suspended Solids,275,275,,mg/L
+ST25SEP12-01-001,TEM Influent (09-11-2025),9/11/2025,TSS - Change in Wt,0.64,0.64,,%
+ST25SEP12-01-001,TEM Influent (09-11-2025),9/11/2025,Volatile Suspended Solids,263,263,,mg/L
+ST25SEP12-01-001,TEM Influent (09-11-2025),9/11/2025,Sulfur,19.7,19.7,,mg/L
+ST25SEP12-01-001,TEM Influent (09-11-2025),9/11/2025,Ammonia as N,23,23,,mg/L
+ST25SEP12-01-001,TEM Influent (09-11-2025),9/11/2025,Volatile Acids,327,327,,mg/L
+ST25SEP12-01-001,TEM Influent (09-11-2025),9/11/2025,Chemical Oxygen Demand,1440,1440,,mg/L
+ST25SEP12-01-001,TEM Influent (09-11-2025),9/11/2025,Apparent Color,3880,3880,,PCU
+ST25SEP12-01-001,TEM Influent (09-11-2025),9/11/2025,pH Apparent Color,6.59,6.59,,
+ST25SEP12-01-001,TEM Influent (09-11-2025),9/11/2025,True Color,460,460,,PCU
+ST25SEP13-02-001,TEM Influent (09-12-2025),9/12/2025,Biochemical Oxygen Demand,706,706,,mg/L
+ST25SEP13-02-001,TEM Influent (09-12-2025),9/12/2025,pH,6.25,6.25,,pH Units
+ST25SEP13-02-001,TEM Influent (09-12-2025),9/12/2025,% Volatile Suspended Solids,94,94,,%
+ST25SEP13-02-001,TEM Influent (09-12-2025),9/12/2025,Total Suspended Solids,304,304,,mg/L
+ST25SEP13-02-001,TEM Influent (09-12-2025),9/12/2025,TSS - Change in Wt,1.64,1.64,,%
+ST25SEP13-02-001,TEM Influent (09-12-2025),9/12/2025,Volatile Suspended Solids,286,286,,mg/L
+ST25SEP13-02-001,TEM Influent (09-12-2025),9/12/2025,Sample Amount,1000,1000,,ml
+ST25SEP13-02-001,TEM Influent (09-12-2025),9/12/2025,Settleable Solids,8,8,,ml/L
+ST25SEP13-02-001,TEM Influent (09-12-2025),9/12/2025,Sulfur,25.6,25.6,,mg/L
+ST25SEP13-02-001,TEM Influent (09-12-2025),9/12/2025,Chemical Oxygen Demand,1210,1210,,mg/L
+ST25SEP13-02-001,TEM Influent (09-12-2025),9/12/2025,Volatile Acids,351,351,,mg/L
+ST25SEP13-02-001,TEM Influent (09-12-2025),9/12/2025,Ammonia as N,56,56,,mg/L
+ST25SEP14-02-001,TEM Influent (09-13-2025),9/13/2025,Biochemical Oxygen Demand,766,766,,mg/L
+ST25SEP14-02-001,TEM Influent (09-13-2025),9/13/2025,pH,6.74,6.74,,pH Units
+ST25SEP14-02-001,TEM Influent (09-13-2025),9/13/2025,% Volatile Suspended Solids,94,94,,%
+ST25SEP14-02-001,TEM Influent (09-13-2025),9/13/2025,Total Suspended Solids,471,471,,mg/L
+ST25SEP14-02-001,TEM Influent (09-13-2025),9/13/2025,TSS - Change in Wt,0.11,0.11,,%
+ST25SEP14-02-001,TEM Influent (09-13-2025),9/13/2025,Volatile Suspended Solids,441,441,,mg/L
+ST25SEP14-02-001,TEM Influent (09-13-2025),9/13/2025,Sample Amount,1000,1000,,ml
+ST25SEP14-02-001,TEM Influent (09-13-2025),9/13/2025,Settleable Solids,15,15,,ml/L
+ST25SEP14-02-001,TEM Influent (09-13-2025),9/13/2025,Sulfur,32.7,32.7,,mg/L
+ST25SEP14-02-001,TEM Influent (09-13-2025),9/13/2025,Chemical Oxygen Demand,1170,1170,,mg/L
+ST25SEP14-02-001,TEM Influent (09-13-2025),9/13/2025,Ammonia as N,16.2,16.2,,mg/L
+ST25SEP14-02-001,TEM Influent (09-13-2025),9/13/2025,Volatile Acids,339,339,,mg/L
+ST25SEP14-02-001,TEM Influent (09-13-2025),9/13/2025,Apparent Color,2930,2930,,PCU
+ST25SEP14-02-001,TEM Influent (09-13-2025),9/13/2025,pH Apparent Color,9.74,9.74,,
+ST25SEP14-02-001,TEM Influent (09-13-2025),9/13/2025,True Color,470,470,,PCU
+ST25SEP15-01-001,TEM Influent (09-14-2025),9/14/2025,Biochemical Oxygen Demand,873,873,,mg/L
+ST25SEP15-01-001,TEM Influent (09-14-2025),9/14/2025,pH,6.60,6.60,,pH Units
+ST25SEP15-01-001,TEM Influent (09-14-2025),9/14/2025,Sample Amount,1000,1000,,ml
+ST25SEP15-01-001,TEM Influent (09-14-2025),9/14/2025,Settleable Solids,11,11,,ml/L
+ST25SEP15-01-001,TEM Influent (09-14-2025),9/14/2025,% Volatile Suspended Solids,96,96,,%
+ST25SEP15-01-001,TEM Influent (09-14-2025),9/14/2025,Total Suspended Solids,392,392,,mg/L
+ST25SEP15-01-001,TEM Influent (09-14-2025),9/14/2025,TSS - Change in Wt,2.17,2.17,,%
+ST25SEP15-01-001,TEM Influent (09-14-2025),9/14/2025,Volatile Suspended Solids,375,375,,mg/L
+ST25SEP15-01-001,TEM Influent (09-14-2025),9/14/2025,Sulfur,38.7,38.7,,mg/L
+ST25SEP15-01-001,TEM Influent (09-14-2025),9/14/2025,Ammonia as N,18.8,18.8,,mg/L
+ST25SEP15-01-001,TEM Influent (09-14-2025),9/14/2025,Volatile Acids,406,406,,mg/L
+ST25SEP15-01-001,TEM Influent (09-14-2025),9/14/2025,Apparent Color,2320,2320,,PCU
+ST25SEP15-01-001,TEM Influent (09-14-2025),9/14/2025,pH Apparent Color,6.60,6.60,,
+ST25SEP15-01-001,TEM Influent (09-14-2025),9/14/2025,True Color,870,870,,PCU
+ST25SEP15-01-001,TEM Influent (09-14-2025),9/14/2025,Chemical Oxygen Demand,1450,1450,,mg/L
+ST25SEP16-01-001,TEM Influent (09-15-2025),9/15/2025,Biochemical Oxygen Demand,933,933,,mg/L
+ST25SEP16-01-001,TEM Influent (09-15-2025),9/15/2025,pH,6.52,6.52,,pH Units
+ST25SEP16-01-001,TEM Influent (09-15-2025),9/15/2025,Sample Amount,1000,1000,,ml
+ST25SEP16-01-001,TEM Influent (09-15-2025),9/15/2025,Settleable Solids,12,12,,ml/L
+ST25SEP16-01-001,TEM Influent (09-15-2025),9/15/2025,% Volatile Suspended Solids,97,97,,%
+ST25SEP16-01-001,TEM Influent (09-15-2025),9/15/2025,Total Suspended Solids,500,500,,mg/L
+ST25SEP16-01-001,TEM Influent (09-15-2025),9/15/2025,TSS - Change in Wt,0.90,0.90,,%
+ST25SEP16-01-001,TEM Influent (09-15-2025),9/15/2025,Volatile Suspended Solids,485,485,,mg/L
+ST25SEP16-01-001,TEM Influent (09-15-2025),9/15/2025,Sulfur,26.2,26.2,,mg/L
+ST25SEP16-01-001,TEM Influent (09-15-2025),9/15/2025,Chemical Oxygen Demand,1960,1960,,mg/L
+ST25SEP16-01-001,TEM Influent (09-15-2025),9/15/2025,Apparent Color,2620,2620,,PCU
+ST25SEP16-01-001,TEM Influent (09-15-2025),9/15/2025,pH Apparent Color,6.52,6.52,,
+ST25SEP16-01-001,TEM Influent (09-15-2025),9/15/2025,True Color,980,980,,PCU
+ST25SEP16-01-001,TEM Influent (09-15-2025),9/15/2025,Ammonia as N,24.2,24.2,,mg/L
+ST25SEP16-01-001,TEM Influent (09-15-2025),9/15/2025,Volatile Acids,390,390,,mg/L
+ST25SEP17-02-001,TEM Influent (09-16-2025),9/16/2025,Biochemical Oxygen Demand,856,856,,mg/L
+ST25SEP17-02-001,TEM Influent (09-16-2025),9/16/2025,pH,6.64,6.64,,pH Units
+ST25SEP17-02-001,TEM Influent (09-16-2025),9/16/2025,% Volatile Suspended Solids,98,98,,%
+ST25SEP17-02-001,TEM Influent (09-16-2025),9/16/2025,Total Suspended Solids,435,435,,mg/L
+ST25SEP17-02-001,TEM Influent (09-16-2025),9/16/2025,TSS - Change in Wt,1.27,1.27,,%
+ST25SEP17-02-001,TEM Influent (09-16-2025),9/16/2025,Volatile Suspended Solids,425,425,,mg/L
+ST25SEP17-02-001,TEM Influent (09-16-2025),9/16/2025,Sample Amount,1000,1000,,ml
+ST25SEP17-02-001,TEM Influent (09-16-2025),9/16/2025,Settleable Solids,15,15,,ml/L
+ST25SEP17-02-001,TEM Influent (09-16-2025),9/16/2025,Sulfur,26.2,26.2,,mg/L
+ST25SEP17-02-001,TEM Influent (09-16-2025),9/16/2025,Ammonia as N,32,32,,mg/L
+ST25SEP17-02-001,TEM Influent (09-16-2025),9/16/2025,Volatile Acids,390,390,,mg/L
+ST25SEP17-02-001,TEM Influent (09-16-2025),9/16/2025,Chemical Oxygen Demand,408,408,,mg/L
+ST25SEP17-02-001,TEM Influent (09-16-2025),9/16/2025,Apparent Color,1964,1964,,PCU
+ST25SEP17-02-001,TEM Influent (09-16-2025),9/16/2025,pH Apparent Color,6.64,6.64,,
+ST25SEP17-02-001,TEM Influent (09-16-2025),9/16/2025,True Color,352,352,,PCU
+ST25SEP18-01-001,TEM Influent (09-17-2025),9/17/2025,Biochemical Oxygen Demand,668,668,,mg/L
+ST25SEP18-01-001,TEM Influent (09-17-2025),9/17/2025,pH,6.05,6.05,,pH Units
+ST25SEP18-01-001,TEM Influent (09-17-2025),9/17/2025,% Volatile Suspended Solids,96,96,,%
+ST25SEP18-01-001,TEM Influent (09-17-2025),9/17/2025,Total Suspended Solids,294,294,,mg/L
+ST25SEP18-01-001,TEM Influent (09-17-2025),9/17/2025,TSS - Change in Wt,0.67,0.67,,%
+ST25SEP18-01-001,TEM Influent (09-17-2025),9/17/2025,Volatile Suspended Solids,282,282,,mg/L
+ST25SEP18-01-001,TEM Influent (09-17-2025),9/17/2025,Sample Amount,1000,1000,,ml
+ST25SEP18-01-001,TEM Influent (09-17-2025),9/17/2025,Settleable Solids,4.5,4.5,,ml/L
+ST25SEP18-01-001,TEM Influent (09-17-2025),9/17/2025,Sulfur,32.1,32.1,,mg/L
+ST25SEP18-01-001,TEM Influent (09-17-2025),9/17/2025,Chemical Oxygen Demand,695,695,,mg/L
+ST25SEP18-01-001,TEM Influent (09-17-2025),9/17/2025,Apparent Color,2485,2485,,PCU
+ST25SEP18-01-001,TEM Influent (09-17-2025),9/17/2025,pH Apparent Color,6.05,6.05,,
+ST25SEP18-01-001,TEM Influent (09-17-2025),9/17/2025,True Color,1580,1580,,PCU
+ST25SEP18-01-001,TEM Influent (09-17-2025),9/17/2025,Volatile Acids,487,487,,mg/L
+ST25SEP18-01-001,TEM Influent (09-17-2025),9/17/2025,Ammonia as N,55,55,,mg/L
+ST25SEP19-01-001,TEM Influent (09-18-2025),9/18/2025,Biochemical Oxygen Demand,712,712,,mg/L
+ST25SEP19-01-001,TEM Influent (09-18-2025),9/18/2025,pH,6.36,6.36,,pH Units
+ST25SEP19-01-001,TEM Influent (09-18-2025),9/18/2025,Sample Amount,1000,1000,,ml
+ST25SEP19-01-001,TEM Influent (09-18-2025),9/18/2025,Settleable Solids,4,4,,ml/L
+ST25SEP19-01-001,TEM Influent (09-18-2025),9/18/2025,% Volatile Suspended Solids,97,97,,%
+ST25SEP19-01-001,TEM Influent (09-18-2025),9/18/2025,Total Suspended Solids,260,260,,mg/L
+ST25SEP19-01-001,TEM Influent (09-18-2025),9/18/2025,TSS - Change in Wt,2.50,2.50,,%
+ST25SEP19-01-001,TEM Influent (09-18-2025),9/18/2025,Volatile Suspended Solids,252,252,,mg/L
+ST25SEP19-01-001,TEM Influent (09-18-2025),9/18/2025,Sulfur,28.6,28.6,,mg/L
+ST25SEP19-01-001,TEM Influent (09-18-2025),9/18/2025,Volatile Acids,442,442,,mg/L
+ST25SEP19-01-001,TEM Influent (09-18-2025),9/18/2025,Ammonia as N,42.9,42.9,,mg/L
+ST25SEP19-01-001,TEM Influent (09-18-2025),9/18/2025,Apparent Color,2020,2020,,PCU
+ST25SEP19-01-001,TEM Influent (09-18-2025),9/18/2025,pH Apparent Color,6.36,6.36,,
+ST25SEP19-01-001,TEM Influent (09-18-2025),9/18/2025,True Color,960,960,,PCU
+ST25SEP19-01-001,TEM Influent (09-18-2025),9/18/2025,Chemical Oxygen Demand,960,960,,mg/L
+ST25SEP20-02-001,TEM Influent (09-19-2025),9/19/2025,Biochemical Oxygen Demand,867,867,,mg/L
+ST25SEP20-02-001,TEM Influent (09-19-2025),9/19/2025,pH,6.78,6.78,,pH Units
+ST25SEP20-02-001,TEM Influent (09-19-2025),9/19/2025,% Volatile Suspended Solids,94,94,,%
+ST25SEP20-02-001,TEM Influent (09-19-2025),9/19/2025,Total Suspended Solids,527,527,,mg/L
+ST25SEP20-02-001,TEM Influent (09-19-2025),9/19/2025,TSS - Change in Wt,0.28,0.28,,%
+ST25SEP20-02-001,TEM Influent (09-19-2025),9/19/2025,Volatile Suspended Solids,496,496,,mg/L
+ST25SEP20-02-001,TEM Influent (09-19-2025),9/19/2025,Sample Amount,1000,1000,,ml
+ST25SEP20-02-001,TEM Influent (09-19-2025),9/19/2025,Settleable Solids,13,13,,ml/L
+ST25SEP20-02-001,TEM Influent (09-19-2025),9/19/2025,Sulfur,18.4,18.4,,mg/L
+ST25SEP20-02-001,TEM Influent (09-19-2025),9/19/2025,Ammonia as N,22.5,22.5,,mg/L
+ST25SEP20-02-001,TEM Influent (09-19-2025),9/19/2025,Volatile Acids,515,515,,mg/L
+ST25SEP20-02-001,TEM Influent (09-19-2025),9/19/2025,Chemical Oxygen Demand,1670,1670,,mg/L
+ST25SEP20-02-001,TEM Influent (09-19-2025),9/19/2025,Apparent Color,3830,3830,,PCU
+ST25SEP20-02-001,TEM Influent (09-19-2025),9/19/2025,pH Apparent Color,6.78,6.78,,
+ST25SEP20-02-001,TEM Influent (09-19-2025),9/19/2025,True Color,570,570,,PCU
+ST25SEP21-02-001,TEM Influent (09-20-2025),9/20/2025,Biochemical Oxygen Demand,815,815,,mg/L
+ST25SEP21-02-001,TEM Influent (09-20-2025),9/20/2025,pH,6.69,6.69,,pH Units
+ST25SEP21-02-001,TEM Influent (09-20-2025),9/20/2025,% Volatile Suspended Solids,93,93,,%
+ST25SEP21-02-001,TEM Influent (09-20-2025),9/20/2025,Total Suspended Solids,516,516,,mg/L
+ST25SEP21-02-001,TEM Influent (09-20-2025),9/20/2025,TSS - Change in Wt,0.10,0.10,,%
+ST25SEP21-02-001,TEM Influent (09-20-2025),9/20/2025,Volatile Suspended Solids,477,477,,mg/L
+ST25SEP21-02-001,TEM Influent (09-20-2025),9/20/2025,Sample Amount,1000,1000,,ml
+ST25SEP21-02-001,TEM Influent (09-20-2025),9/20/2025,Settleable Solids,13,13,,ml/L
+ST25SEP21-02-001,TEM Influent (09-20-2025),9/20/2025,Sulfur,33.5,33.5,,mg/L
+ST25SEP21-02-001,TEM Influent (09-20-2025),9/20/2025,Chemical Oxygen Demand,1340,1340,,mg/L
+ST25SEP21-02-001,TEM Influent (09-20-2025),9/20/2025,Apparent Color,3200,3200,,PCU
+ST25SEP21-02-001,TEM Influent (09-20-2025),9/20/2025,pH Apparent Color,6.69,6.69,,
+ST25SEP21-02-001,TEM Influent (09-20-2025),9/20/2025,True Color,860,860,,PCU
+ST25SEP21-02-001,TEM Influent (09-20-2025),9/20/2025,Ammonia as N,23.4,23.4,,mg/L
+ST25SEP21-02-001,TEM Influent (09-20-2025),9/20/2025,Volatile Acids,375,375,,mg/L
+ST25SEP22-01-001,TEM Influent (09-21-2025),9/21/2025,Biochemical Oxygen Demand,427,427,,mg/L
+ST25SEP22-01-001,TEM Influent (09-21-2025),9/21/2025,pH,6.66,6.66,,pH Units
+ST25SEP22-01-001,TEM Influent (09-21-2025),9/21/2025,Sample Amount,1000,1000,,ml
+ST25SEP22-01-001,TEM Influent (09-21-2025),9/21/2025,Settleable Solids,12,12,,ml/L
+ST25SEP22-01-001,TEM Influent (09-21-2025),9/21/2025,% Volatile Suspended Solids,96,96,,%
+ST25SEP22-01-001,TEM Influent (09-21-2025),9/21/2025,Total Suspended Solids,363,363,,mg/L
+ST25SEP22-01-001,TEM Influent (09-21-2025),9/21/2025,TSS - Change in Wt,3.16,3.16,,%
+ST25SEP22-01-001,TEM Influent (09-21-2025),9/21/2025,Volatile Suspended Solids,348,348,,mg/L
+ST25SEP22-01-001,TEM Influent (09-21-2025),9/21/2025,Sulfur,19.4,19.4,,mg/L
+ST25SEP22-01-001,TEM Influent (09-21-2025),9/21/2025,Chemical Oxygen Demand,1100,1100,,mg/L
+ST25SEP22-01-001,TEM Influent (09-21-2025),9/21/2025,Apparent Color,600,600,,PCU
+ST25SEP22-01-001,TEM Influent (09-21-2025),9/21/2025,pH Apparent Color,6.66,6.66,,
+ST25SEP22-01-001,TEM Influent (09-21-2025),9/21/2025,True Color,,,,PCU
+ST25SEP22-01-001,TEM Influent (09-21-2025),9/21/2025,Ammonia as N,23.3,23.3,,mg/L
+ST25SEP22-01-001,TEM Influent (09-21-2025),9/21/2025,Volatile Acids,303,303,,mg/L
+ST25SEP23-01-001,TEM Influent (09-22-2025),9/22/2025,Biochemical Oxygen Demand,676,676,,mg/L
+ST25SEP23-01-001,TEM Influent (09-22-2025),9/22/2025,pH,6.73,6.73,,pH Units
+ST25SEP23-01-001,TEM Influent (09-22-2025),9/22/2025,Sample Amount,1000,1000,,ml
+ST25SEP23-01-001,TEM Influent (09-22-2025),9/22/2025,Settleable Solids,4.5,4.5,,ml/L
+ST25SEP23-01-001,TEM Influent (09-22-2025),9/22/2025,% Volatile Suspended Solids,92,92,,%
+ST25SEP23-01-001,TEM Influent (09-22-2025),9/22/2025,Total Suspended Solids,208,208,,mg/L
+ST25SEP23-01-001,TEM Influent (09-22-2025),9/22/2025,TSS - Change in Wt,0.24,0.24,,%
+ST25SEP23-01-001,TEM Influent (09-22-2025),9/22/2025,Volatile Suspended Solids,191,191,,mg/L
+ST25SEP23-01-001,TEM Influent (09-22-2025),9/22/2025,Sulfur,13.7,13.7,,mg/L
+ST25SEP23-01-001,TEM Influent (09-22-2025),9/22/2025,Chemical Oxygen Demand,1260,1260,,mg/L
+ST25SEP23-01-001,TEM Influent (09-22-2025),9/22/2025,Apparent Color,2010,2010,,PCU
+ST25SEP23-01-001,TEM Influent (09-22-2025),9/22/2025,pH Apparent Color,6.73,6.73,,
+ST25SEP23-01-001,TEM Influent (09-22-2025),9/22/2025,True Color,760,760,,PCU
+ST25SEP23-01-001,TEM Influent (09-22-2025),9/22/2025,Volatile Acids,333,333,,mg/L
+ST25SEP23-01-001,TEM Influent (09-22-2025),9/22/2025,Ammonia as N,23.3,23.3,,mg/L
+ST25SEP24-01-001,TEM Influent (09-23-2025),9/23/2025,Biochemical Oxygen Demand,776,776,,mg/L
+ST25SEP24-01-001,TEM Influent (09-23-2025),9/23/2025,pH,6.60,6.60,,pH Units
+ST25SEP24-01-001,TEM Influent (09-23-2025),9/23/2025,% Volatile Suspended Solids,95,95,,%
+ST25SEP24-01-001,TEM Influent (09-23-2025),9/23/2025,Total Suspended Solids,291,291,,mg/L
+ST25SEP24-01-001,TEM Influent (09-23-2025),9/23/2025,TSS - Change in Wt,2.06,2.06,,%
+ST25SEP24-01-001,TEM Influent (09-23-2025),9/23/2025,Volatile Suspended Solids,277,277,,mg/L
+ST25SEP24-01-001,TEM Influent (09-23-2025),9/23/2025,Sample Amount,1000,1000,,ml
+ST25SEP24-01-001,TEM Influent (09-23-2025),9/23/2025,Settleable Solids,6,6,,ml/L
+ST25SEP24-01-001,TEM Influent (09-23-2025),9/23/2025,Sulfur,31.6,31.6,,mg/L
+ST25SEP24-01-001,TEM Influent (09-23-2025),9/23/2025,Chemical Oxygen Demand,1350,1350,,mg/L
+ST25SEP24-01-001,TEM Influent (09-23-2025),9/23/2025,Ammonia as N,24.1,24.1,,mg/L
+ST25SEP24-01-001,TEM Influent (09-23-2025),9/23/2025,Volatile Acids,357,357,,mg/L
+ST25SEP24-01-001,TEM Influent (09-23-2025),9/23/2025,Apparent Color,2550,2550,,PCU
+ST25SEP24-01-001,TEM Influent (09-23-2025),9/23/2025,pH Apparent Color,6.60,6.60,,
+ST25SEP24-01-001,TEM Influent (09-23-2025),9/23/2025,True Color,,,,PCU
+ST25SEP25-01-001,TEM Influent (09-24-2025),9/24/2025,Biochemical Oxygen Demand,614,614,,mg/L
+ST25SEP25-01-001,TEM Influent (09-24-2025),9/24/2025,pH,7.45,7.45,,pH Units
+ST25SEP25-01-001,TEM Influent (09-24-2025),9/24/2025,% Volatile Suspended Solids,75,75,,%
+ST25SEP25-01-001,TEM Influent (09-24-2025),9/24/2025,Total Suspended Solids,518,518,,mg/L
+ST25SEP25-01-001,TEM Influent (09-24-2025),9/24/2025,TSS - Change in Wt,2.41,2.41,,%
+ST25SEP25-01-001,TEM Influent (09-24-2025),9/24/2025,Volatile Suspended Solids,388,388,,mg/L
+ST25SEP25-01-001,TEM Influent (09-24-2025),9/24/2025,Sample Amount,1000,1000,,ml
+ST25SEP25-01-001,TEM Influent (09-24-2025),9/24/2025,Settleable Solids,7,7,,ml/L
+ST25SEP25-01-001,TEM Influent (09-24-2025),9/24/2025,Sulfur,29.9,29.9,,mg/L
+ST25SEP25-01-001,TEM Influent (09-24-2025),9/24/2025,Volatile Acids,135,135,,mg/L
+ST25SEP25-01-001,TEM Influent (09-24-2025),9/24/2025,Ammonia as N,15,15,,mg/L
+ST25SEP25-01-001,TEM Influent (09-24-2025),9/24/2025,Chemical Oxygen Demand,1100,1100,,mg/L
+ST25SEP25-01-001,TEM Influent (09-24-2025),9/24/2025,Apparent Color,2980,2980,,PCU
+ST25SEP25-01-001,TEM Influent (09-24-2025),9/24/2025,pH Apparent Color,7.45,7.45,,
+ST25SEP25-01-001,TEM Influent (09-24-2025),9/24/2025,True Color,1120,1120,,PCU
+ST25SEP26-01-001,TEM Influent (09-25-2025),9/25/2025,Biochemical Oxygen Demand,762,762,,mg/L
+ST25SEP26-01-001,TEM Influent (09-25-2025),9/25/2025,pH,6.86,6.86,,pH Units
+ST25SEP26-01-001,TEM Influent (09-25-2025),9/25/2025,Sample Amount,1000,1000,,ml
+ST25SEP26-01-001,TEM Influent (09-25-2025),9/25/2025,Settleable Solids,10,10,,ml/L
+ST25SEP26-01-001,TEM Influent (09-25-2025),9/25/2025,% Volatile Suspended Solids,89,89,,%
+ST25SEP26-01-001,TEM Influent (09-25-2025),9/25/2025,Total Suspended Solids,427,427,,mg/L
+ST25SEP26-01-001,TEM Influent (09-25-2025),9/25/2025,TSS - Change in Wt,0.35,0.35,,%
+ST25SEP26-01-001,TEM Influent (09-25-2025),9/25/2025,Volatile Suspended Solids,379,379,,mg/L
+ST25SEP26-01-001,TEM Influent (09-25-2025),9/25/2025,Sulfur,21.6,21.6,,mg/L
+ST25SEP26-01-001,TEM Influent (09-25-2025),9/25/2025,Volatile Acids,299,299,,mg/L
+ST25SEP26-01-001,TEM Influent (09-25-2025),9/25/2025,Ammonia as N,27.6,27.6,,mg/L
+ST25SEP26-01-001,TEM Influent (09-25-2025),9/25/2025,Chemical Oxygen Demand,2640,2640,,mg/L
+ST25SEP26-01-001,TEM Influent (09-25-2025),9/25/2025,Apparent Color,5880,5880,,PCU
+ST25SEP26-01-001,TEM Influent (09-25-2025),9/25/2025,pH Apparent Color,6.86,6.86,,
+ST25SEP26-01-001,TEM Influent (09-25-2025),9/25/2025,True Color,1960,1960,,PCU
+ST25SEP27-02-001,TEM Influent (09-26-2025),9/26/2025,Biochemical Oxygen Demand,660,660,,mg/L
+ST25SEP27-02-001,TEM Influent (09-26-2025),9/26/2025,pH,6.04,6.04,,pH Units
+ST25SEP27-02-001,TEM Influent (09-26-2025),9/26/2025,% Volatile Suspended Solids,91,91,,%
+ST25SEP27-02-001,TEM Influent (09-26-2025),9/26/2025,Total Suspended Solids,369,369,,mg/L
+ST25SEP27-02-001,TEM Influent (09-26-2025),9/26/2025,TSS - Change in Wt,3.12,3.12,,%
+ST25SEP27-02-001,TEM Influent (09-26-2025),9/26/2025,Volatile Suspended Solids,335,335,,mg/L
+ST25SEP27-02-001,TEM Influent (09-26-2025),9/26/2025,Sample Amount,1000,1000,,ml
+ST25SEP27-02-001,TEM Influent (09-26-2025),9/26/2025,Settleable Solids,9,9,,ml/L
+ST25SEP27-02-001,TEM Influent (09-26-2025),9/26/2025,Sulfur,32.1,32.1,,mg/L
+ST25SEP27-02-001,TEM Influent (09-26-2025),9/26/2025,Chemical Oxygen Demand,1160,1160,,mg/L
+ST25SEP27-02-001,TEM Influent (09-26-2025),9/26/2025,Apparent Color,2660,2660,,PCU
+ST25SEP27-02-001,TEM Influent (09-26-2025),9/26/2025,pH Apparent Color,6.04,6.04,,
+ST25SEP27-02-001,TEM Influent (09-26-2025),9/26/2025,True Color,520,520,,PCU
+ST25SEP27-02-001,TEM Influent (09-26-2025),9/26/2025,Ammonia as N,35.8,35.8,,mg/L
+ST25SEP27-02-001,TEM Influent (09-26-2025),9/26/2025,Volatile Acids,330,330,,mg/L
+ST25SEP28-02-001,TEM Influent (09-27-2025),9/27/2025,Biochemical Oxygen Demand,742,742,,mg/L
+ST25SEP28-02-001,TEM Influent (09-27-2025),9/27/2025,pH,6.33,6.33,,pH Units
+ST25SEP28-02-001,TEM Influent (09-27-2025),9/27/2025,% Volatile Suspended Solids,98,98,,%
+ST25SEP28-02-001,TEM Influent (09-27-2025),9/27/2025,Total Suspended Solids,406,406,,mg/L
+ST25SEP28-02-001,TEM Influent (09-27-2025),9/27/2025,TSS - Change in Wt,0.46,0.46,,%
+ST25SEP28-02-001,TEM Influent (09-27-2025),9/27/2025,Volatile Suspended Solids,396,396,,mg/L
+ST25SEP28-02-001,TEM Influent (09-27-2025),9/27/2025,Sample Amount,1000,1000,,ml
+ST25SEP28-02-001,TEM Influent (09-27-2025),9/27/2025,Settleable Solids,10,10,,ml/L
+ST25SEP28-02-001,TEM Influent (09-27-2025),9/27/2025,Sulfur,21.4,21.4,,mg/L
+ST25SEP28-02-001,TEM Influent (09-27-2025),9/27/2025,Chemical Oxygen Demand,1660,1660,,mg/L
+ST25SEP28-02-001,TEM Influent (09-27-2025),9/27/2025,Apparent Color,3150,3150,,PCU
+ST25SEP28-02-001,TEM Influent (09-27-2025),9/27/2025,pH Apparent Color,6.33,6.33,,
+ST25SEP28-02-001,TEM Influent (09-27-2025),9/27/2025,True Color,1200,1200,,PCU
+ST25SEP28-02-001,TEM Influent (09-27-2025),9/27/2025,Ammonia as N,70,70,,mg/L
+ST25SEP28-02-001,TEM Influent (09-27-2025),9/27/2025,Volatile Acids,339,339,,mg/L
+ST25SEP29-01-001,TEM Influent (09-28-2025),9/28/2025,Biochemical Oxygen Demand,419,419,,mg/L
+ST25SEP29-01-001,TEM Influent (09-28-2025),9/28/2025,pH,6.10,6.10,,pH Units
+ST25SEP29-01-001,TEM Influent (09-28-2025),9/28/2025,Sample Amount,1000,1000,,ml
+ST25SEP29-01-001,TEM Influent (09-28-2025),9/28/2025,Settleable Solids,10,10,,ml/L
+ST25SEP29-01-001,TEM Influent (09-28-2025),9/28/2025,% Volatile Suspended Solids,97,97,,%
+ST25SEP29-01-001,TEM Influent (09-28-2025),9/28/2025,Total Suspended Solids,308,308,,mg/L
+ST25SEP29-01-001,TEM Influent (09-28-2025),9/28/2025,TSS - Change in Wt,2.98,2.98,,%
+ST25SEP29-01-001,TEM Influent (09-28-2025),9/28/2025,Volatile Suspended Solids,300,300,,mg/L
+ST25SEP29-01-001,TEM Influent (09-28-2025),9/28/2025,Sulfur,24.4,24.4,,mg/L
+ST25SEP29-01-001,TEM Influent (09-28-2025),9/28/2025,Ammonia as N,33.3,33.3,,mg/L
+ST25SEP29-01-001,TEM Influent (09-28-2025),9/28/2025,Volatile Acids,293,293,,mg/L
+ST25SEP29-01-001,TEM Influent (09-28-2025),9/28/2025,Apparent Color,2660,2660,,PCU
+ST25SEP29-01-001,TEM Influent (09-28-2025),9/28/2025,pH Apparent Color,6.10,6.10,,
+ST25SEP29-01-001,TEM Influent (09-28-2025),9/28/2025,True Color,570,570,,PCU
+ST25SEP29-01-001,TEM Influent (09-28-2025),9/28/2025,Chemical Oxygen Demand,1040,1040,,mg/L
+ST25SEP30-01-001,TEM Influent (09-29-2025),9/29/2025,Biochemical Oxygen Demand,600,600,,mg/L
+ST25SEP30-01-001,TEM Influent (09-29-2025),9/29/2025,pH,6.26,6.26,,pH Units
+ST25SEP30-01-001,TEM Influent (09-29-2025),9/29/2025,Sample Amount,1000,1000,,ml
+ST25SEP30-01-001,TEM Influent (09-29-2025),9/29/2025,Settleable Solids,10,10,,ml/L
+ST25SEP30-01-001,TEM Influent (09-29-2025),9/29/2025,% Volatile Suspended Solids,88,88,,%
+ST25SEP30-01-001,TEM Influent (09-29-2025),9/29/2025,Total Suspended Solids,352,352,,mg/L
+ST25SEP30-01-001,TEM Influent (09-29-2025),9/29/2025,TSS - Change in Wt,1.56,1.56,,%
+ST25SEP30-01-001,TEM Influent (09-29-2025),9/29/2025,Volatile Suspended Solids,308,308,,mg/L
+ST25SEP30-01-001,TEM Influent (09-29-2025),9/29/2025,Sulfur,31.3,31.3,,mg/L
+ST25SEP30-01-001,TEM Influent (09-29-2025),9/29/2025,Ammonia as N,30.1,30.1,,mg/L
+ST25SEP30-01-001,TEM Influent (09-29-2025),9/29/2025,Volatile Acids,284,284,,mg/L
+ST25SEP30-01-001,TEM Influent (09-29-2025),9/29/2025,Apparent Color,2510,2510,,PCU
+ST25SEP30-01-001,TEM Influent (09-29-2025),9/29/2025,pH Apparent Color,6.26,6.26,,
+ST25SEP30-01-001,TEM Influent (09-29-2025),9/29/2025,True Color,420,420,,PCU
+ST25SEP30-01-001,TEM Influent (09-29-2025),9/29/2025,Chemical Oxygen Demand,1000,1000,,mg/L
+ST25OCT01-06-001,TEM Influent (09-30-2025),9/30/2025,Biochemical Oxygen Demand,740,740,,mg/L
+ST25OCT01-06-001,TEM Influent (09-30-2025),9/30/2025,pH,6.24,6.24,,pH Units
+ST25OCT01-06-001,TEM Influent (09-30-2025),9/30/2025,% Volatile Suspended Solids,86,86,,%
+ST25OCT01-06-001,TEM Influent (09-30-2025),9/30/2025,Total Suspended Solids,376,376,,mg/L
+ST25OCT01-06-001,TEM Influent (09-30-2025),9/30/2025,TSS - Change in Wt,0.93,0.93,,%
+ST25OCT01-06-001,TEM Influent (09-30-2025),9/30/2025,Volatile Suspended Solids,325,325,,mg/L
+ST25OCT01-06-001,TEM Influent (09-30-2025),9/30/2025,Sample Amount,1000,1000,,ml
+ST25OCT01-06-001,TEM Influent (09-30-2025),9/30/2025,Settleable Solids,11,11,,ml/L
+ST25OCT01-06-001,TEM Influent (09-30-2025),9/30/2025,Sulfur,30.2,30.2,,mg/L
+ST25OCT01-06-001,TEM Influent (09-30-2025),9/30/2025,Ammonia as N,48.7,48.7,,mg/L
+ST25OCT01-06-001,TEM Influent (09-30-2025),9/30/2025,Volatile Acids,309,309,,mg/L
+ST25OCT01-06-001,TEM Influent (09-30-2025),9/30/2025,Chemical Oxygen Demand,1200,1200,,mg/L
+ST25OCT01-06-001,TEM Influent (09-30-2025),9/30/2025,Apparent Color,2770,2770,,PCU
+ST25OCT01-06-001,TEM Influent (09-30-2025),9/30/2025,pH Apparent Color,6.24,6.24,,
+ST25OCT01-06-001,TEM Influent (09-30-2025),9/30/2025,True Color,410,410,,PCU
+ST25OCT02-01-001,TEM Influent (10-01-2025),10/1/2025,Biochemical Oxygen Demand,641,641,,mg/L
+ST25OCT02-01-001,TEM Influent (10-01-2025),10/1/2025,pH,6.09,6.09,,pH Units
+ST25OCT02-01-001,TEM Influent (10-01-2025),10/1/2025,% Volatile Suspended Solids,92,92,,%
+ST25OCT02-01-001,TEM Influent (10-01-2025),10/1/2025,Total Suspended Solids,492,492,,mg/L
+ST25OCT02-01-001,TEM Influent (10-01-2025),10/1/2025,TSS - Change in Wt,0.51,0.51,,%
+ST25OCT02-01-001,TEM Influent (10-01-2025),10/1/2025,Volatile Suspended Solids,453,453,,mg/L
+ST25OCT02-01-001,TEM Influent (10-01-2025),10/1/2025,Sample Amount,1000,1000,,ml
+ST25OCT02-01-001,TEM Influent (10-01-2025),10/1/2025,Settleable Solids,15,15,,ml/L
+ST25OCT02-01-001,TEM Influent (10-01-2025),10/1/2025,Sulfur,13.5,13.5,,mg/L
+ST25OCT02-01-001,TEM Influent (10-01-2025),10/1/2025,Chemical Oxygen Demand,1150,1150,,mg/L
+ST25OCT02-01-001,TEM Influent (10-01-2025),10/1/2025,Apparent Color,2940,2940,,PCU
+ST25OCT02-01-001,TEM Influent (10-01-2025),10/1/2025,pH Apparent Color,6.09,6.09,,
+ST25OCT02-01-001,TEM Influent (10-01-2025),10/1/2025,True Color,530,530,,PCU
+ST25OCT02-01-001,TEM Influent (10-01-2025),10/1/2025,Ammonia as N,25.1,25.1,,mg/L
+ST25OCT02-01-001,TEM Influent (10-01-2025),10/1/2025,Volatile Acids,345,345,,mg/L
+ST25OCT03-01-001,TEM Influent (10-02-2025),10/2/2025,Biochemical Oxygen Demand,625,625,,mg/L
+ST25OCT03-01-001,TEM Influent (10-02-2025),10/2/2025,pH,6.33,6.33,,pH Units
+ST25OCT03-01-001,TEM Influent (10-02-2025),10/2/2025,Sample Amount,1000,1000,,ml
+ST25OCT03-01-001,TEM Influent (10-02-2025),10/2/2025,Settleable Solids,10.5,10.5,,ml/L
+ST25OCT03-01-001,TEM Influent (10-02-2025),10/2/2025,% Volatile Suspended Solids,97,97,,%
+ST25OCT03-01-001,TEM Influent (10-02-2025),10/2/2025,Total Suspended Solids,323,323,,mg/L
+ST25OCT03-01-001,TEM Influent (10-02-2025),10/2/2025,TSS - Change in Wt,1.53,1.53,,%
+ST25OCT03-01-001,TEM Influent (10-02-2025),10/2/2025,Volatile Suspended Solids,313,313,,mg/L
+ST25OCT03-01-001,TEM Influent (10-02-2025),10/2/2025,Sulfur,13.2,13.2,,mg/L
+ST25OCT03-01-001,TEM Influent (10-02-2025),10/2/2025,Chemical Oxygen Demand,270,270,,mg/L
+ST25OCT03-01-001,TEM Influent (10-02-2025),10/2/2025,Ammonia as N,34.9,34.9,,mg/L
+ST25OCT03-01-001,TEM Influent (10-02-2025),10/2/2025,Volatile Acids,281,281,,mg/L
+ST25OCT03-01-001,TEM Influent (10-02-2025),10/2/2025,Apparent Color,1600,1600,,PCU
+ST25OCT03-01-001,TEM Influent (10-02-2025),10/2/2025,pH Apparent Color,6.33,6.33,,
+ST25OCT03-01-001,TEM Influent (10-02-2025),10/2/2025,True Color,345,345,,PCU
+ST25OCT04-02-001,TEM Influent (10-03-2025),10/3/2025,Biochemical Oxygen Demand,523,523,,mg/L
+ST25OCT04-02-001,TEM Influent (10-03-2025),10/3/2025,pH,6.78,6.78,,pH Units
+ST25OCT04-02-001,TEM Influent (10-03-2025),10/3/2025,Sample Amount,1000,1000,,ml
+ST25OCT04-02-001,TEM Influent (10-03-2025),10/3/2025,Settleable Solids,4,4,,ml/L
+ST25OCT04-02-001,TEM Influent (10-03-2025),10/3/2025,Sulfur,20,20,,mg/L
+ST25OCT04-02-001,TEM Influent (10-03-2025),10/3/2025,Volatile Acids,290,290,,mg/L
+ST25OCT04-02-001,TEM Influent (10-03-2025),10/3/2025,Ammonia as N,87,87,,mg/L
+ST25OCT04-02-001,TEM Influent (10-03-2025),10/3/2025,Chemical Oxygen Demand,990,990,,mg/L
+ST25OCT04-02-001,TEM Influent (10-03-2025),10/3/2025,Apparent Color,2570,2570,,PCU
+ST25OCT04-02-001,TEM Influent (10-03-2025),10/3/2025,pH Apparent Color,6.78,6.78,,
+ST25OCT04-02-001,TEM Influent (10-03-2025),10/3/2025,True Color,760,760,,PCU
+ST25OCT04-02-001,TEM Influent (10-03-2025),10/3/2025,% Volatile Suspended Solids,90,90,,%
+ST25OCT04-02-001,TEM Influent (10-03-2025),10/3/2025,Total Suspended Solids,257,257,,mg/L
+ST25OCT04-02-001,TEM Influent (10-03-2025),10/3/2025,TSS - Change in Wt,2.82,2.82,,%
+ST25OCT04-02-001,TEM Influent (10-03-2025),10/3/2025,Volatile Suspended Solids,231,231,,mg/L
+ST25OCT05-02-001,TEM Influent (10-04-2025),10/4/2025,Biochemical Oxygen Demand,545,545,,mg/L
+ST25OCT05-02-001,TEM Influent (10-04-2025),10/4/2025,pH,6.53,6.53,,pH Units
+ST25OCT05-02-001,TEM Influent (10-04-2025),10/4/2025,% Volatile Suspended Solids,85,85,,%
+ST25OCT05-02-001,TEM Influent (10-04-2025),10/4/2025,Total Suspended Solids,289,289,,mg/L
+ST25OCT05-02-001,TEM Influent (10-04-2025),10/4/2025,TSS - Change in Wt,3.65,3.65,,%
+ST25OCT05-02-001,TEM Influent (10-04-2025),10/4/2025,Volatile Suspended Solids,247,247,,mg/L
+ST25OCT05-02-001,TEM Influent (10-04-2025),10/4/2025,Sample Amount,1000,1000,,ml
+ST25OCT05-02-001,TEM Influent (10-04-2025),10/4/2025,Settleable Solids,8,8,,ml/L
+ST25OCT05-02-001,TEM Influent (10-04-2025),10/4/2025,Sulfur,9.4,9.4,,mg/L
+ST25OCT05-02-001,TEM Influent (10-04-2025),10/4/2025,Chemical Oxygen Demand,1500,1500,,mg/L
+ST25OCT05-02-001,TEM Influent (10-04-2025),10/4/2025,Ammonia as N,58.5,58.5,,mg/L
+ST25OCT05-02-001,TEM Influent (10-04-2025),10/4/2025,Volatile Acids,161,161,,mg/L
+ST25OCT05-02-001,TEM Influent (10-04-2025),10/4/2025,Apparent Color,2900,2900,,PCU
+ST25OCT05-02-001,TEM Influent (10-04-2025),10/4/2025,pH Apparent Color,6.53,6.53,,
+ST25OCT05-02-001,TEM Influent (10-04-2025),10/4/2025,True Color,400,400,,PCU
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,Biochemical Oxygen Demand,688,688,,mg/L
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,pH,6.34,6.34,,pH Units
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,Sample Amount,1000,1000,,ml
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,Settleable Solids,10,10,,ml/L
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,% Volatile Suspended Solids,93,93,,%
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,Total Suspended Solids,330,330,,mg/L
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,TSS - Change in Wt,1.21,1.21,,%
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,Volatile Suspended Solids,306,306,,mg/L
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,Sulfur,11.4,11.4,,mg/L
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,Chemical Oxygen Demand,1350,1350,,mg/L
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,Volatile Acids,330,330,,mg/L
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,Ammonia as N,29.9,29.9,,mg/L
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,Total Nitrogen,67.5,67.5,,mg/L
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,Phosphorus-total,11.5,11.5,,mg/L
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,Apparent Color,2720,2720,,PCU
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,pH Apparent Color,6.34,6.34,,
+ST25OCT06-01-001,TEM Influent (10-05-2025),10/5/2025,True Color,510,510,,PCU
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,Biochemical Oxygen Demand,630,630,,mg/L
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,pH,6.32,6.32,,pH Units
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,Sample Amount,1000,1000,,ml
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,Settleable Solids,11,11,,ml/L
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,% Volatile Suspended Solids,86,86,,%
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,Total Suspended Solids,436,436,,mg/L
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,TSS - Change in Wt,1.39,1.39,,%
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,Volatile Suspended Solids,376,376,,mg/L
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,Sulfur,15.3,15.3,,mg/L
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,Ammonia as N,23.2,23.2,,mg/L
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,Volatile Acids,278,278,,mg/L
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,SARS-COV2,12225,12225,,cop/L
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,Apparent Color,3200,3200,,PCU
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,pH Apparent Color,6.32,6.32,,
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,True Color,460,460,,PCU
+ST25OCT07-01-001,TEM Influent (10-06-2025),10/6/2025,Chemical Oxygen Demand,1350,1350,,mg/L
+ST25OCT08-01-001,TEM Influent (10-07-2025),10/7/2025,Biochemical Oxygen Demand,431,431,,mg/L
+ST25OCT08-01-001,TEM Influent (10-07-2025),10/7/2025,pH,6.15,6.15,,pH Units
+ST25OCT08-01-001,TEM Influent (10-07-2025),10/7/2025,% Volatile Suspended Solids,67,67,,%
+ST25OCT08-01-001,TEM Influent (10-07-2025),10/7/2025,Total Suspended Solids,401,401,,mg/L
+ST25OCT08-01-001,TEM Influent (10-07-2025),10/7/2025,TSS - Change in Wt,1.87,1.87,,%
+ST25OCT08-01-001,TEM Influent (10-07-2025),10/7/2025,Volatile Suspended Solids,267,267,,mg/L
+ST25OCT08-01-001,TEM Influent (10-07-2025),10/7/2025,Sample Amount,1000,1000,,ml
+ST25OCT08-01-001,TEM Influent (10-07-2025),10/7/2025,Settleable Solids,7,7,,ml/L
+ST25OCT08-01-001,TEM Influent (10-07-2025),10/7/2025,Sulfur,30.4,30.4,,mg/L
+ST25OCT08-01-001,TEM Influent (10-07-2025),10/7/2025,Volatile Acids,113,113,,mg/L
+ST25OCT08-01-001,TEM Influent (10-07-2025),10/7/2025,Ammonia as N,15.7,15.7,,mg/L
+ST25OCT08-01-001,TEM Influent (10-07-2025),10/7/2025,Chemical Oxygen Demand,978,978,,mg/L
+ST25OCT08-01-001,TEM Influent (10-07-2025),10/7/2025,Apparent Color,1980,1980,,PCU
+ST25OCT08-01-001,TEM Influent (10-07-2025),10/7/2025,pH Apparent Color,6.15,6.15,,
+ST25OCT08-01-001,TEM Influent (10-07-2025),10/7/2025,True Color,150,150,,PCU
+ST25OCT09-01-001,TEM Influent (10-08-2025),10/8/2025,Biochemical Oxygen Demand,748,748,,mg/L
+ST25OCT09-01-001,TEM Influent (10-08-2025),10/8/2025,pH,6.48,6.48,,pH Units
+ST25OCT09-01-001,TEM Influent (10-08-2025),10/8/2025,% Volatile Suspended Solids,90,90,,%
+ST25OCT09-01-001,TEM Influent (10-08-2025),10/8/2025,Total Suspended Solids,385,385,,mg/L
+ST25OCT09-01-001,TEM Influent (10-08-2025),10/8/2025,TSS - Change in Wt,1.69,1.69,,%
+ST25OCT09-01-001,TEM Influent (10-08-2025),10/8/2025,Volatile Suspended Solids,346,346,,mg/L
+ST25OCT09-01-001,TEM Influent (10-08-2025),10/8/2025,Sample Amount,1000,1000,,ml
+ST25OCT09-01-001,TEM Influent (10-08-2025),10/8/2025,Settleable Solids,7,7,,ml/L
+ST25OCT09-01-001,TEM Influent (10-08-2025),10/8/2025,Sulfur,18.6,18.6,,mg/L
+ST25OCT09-01-001,TEM Influent (10-08-2025),10/8/2025,Ammonia as N,23,23,,mg/L
+ST25OCT09-01-001,TEM Influent (10-08-2025),10/8/2025,Volatile Acids,299,299,,mg/L
+ST25OCT09-01-001,TEM Influent (10-08-2025),10/8/2025,Apparent Color,2360,2360,,PCU
+ST25OCT09-01-001,TEM Influent (10-08-2025),10/8/2025,pH Apparent Color,6.48,6.48,,
+ST25OCT09-01-001,TEM Influent (10-08-2025),10/8/2025,True Color,520,520,,PCU
+ST25OCT09-01-001,TEM Influent (10-08-2025),10/8/2025,Chemical Oxygen Demand,1340,1340,,mg/L
+ST25OCT10-01-001,TEM Influent (10-09-2025),10/9/2025,Biochemical Oxygen Demand,752,752,,mg/L
+ST25OCT10-01-001,TEM Influent (10-09-2025),10/9/2025,pH,6.03,6.03,,pH Units
+ST25OCT10-01-001,TEM Influent (10-09-2025),10/9/2025,Sample Amount,1000,1000,,ml
+ST25OCT10-01-001,TEM Influent (10-09-2025),10/9/2025,Settleable Solids,11,11,,ml/L
+ST25OCT10-01-001,TEM Influent (10-09-2025),10/9/2025,% Volatile Suspended Solids,89,89,,%
+ST25OCT10-01-001,TEM Influent (10-09-2025),10/9/2025,Total Suspended Solids,360,360,,mg/L
+ST25OCT10-01-001,TEM Influent (10-09-2025),10/9/2025,TSS - Change in Wt,1.66,1.66,,%
+ST25OCT10-01-001,TEM Influent (10-09-2025),10/9/2025,Volatile Suspended Solids,319,319,,mg/L
+ST25OCT10-01-001,TEM Influent (10-09-2025),10/9/2025,Sulfur,37.2,37.2,,mg/L
+ST25OCT10-01-001,TEM Influent (10-09-2025),10/9/2025,Volatile Acids,315,315,,mg/L
+ST25OCT10-01-001,TEM Influent (10-09-2025),10/9/2025,Ammonia as N,25.5,25.5,,mg/L
+ST25OCT10-01-001,TEM Influent (10-09-2025),10/9/2025,Apparent Color,2550,2550,,PCU
+ST25OCT10-01-001,TEM Influent (10-09-2025),10/9/2025,pH Apparent Color,6.03,6.03,,
+ST25OCT10-01-001,TEM Influent (10-09-2025),10/9/2025,True Color,370,370,,PCU
+ST25OCT10-01-001,TEM Influent (10-09-2025),10/9/2025,Chemical Oxygen Demand,1380,1380,,mg/L
+ST25OCT11-02-001,TEM Influent (10-10-2025),10/10/2025,Biochemical Oxygen Demand,603,603,,mg/L
+ST25OCT11-02-001,TEM Influent (10-10-2025),10/10/2025,pH,6.45,6.45,,pH Units
+ST25OCT11-02-001,TEM Influent (10-10-2025),10/10/2025,% Volatile Suspended Solids,89,89,,%
+ST25OCT11-02-001,TEM Influent (10-10-2025),10/10/2025,Total Suspended Solids,344,344,,mg/L
+ST25OCT11-02-001,TEM Influent (10-10-2025),10/10/2025,TSS - Change in Wt,1.01,1.01,,%
+ST25OCT11-02-001,TEM Influent (10-10-2025),10/10/2025,Volatile Suspended Solids,305,305,,mg/L
+ST25OCT11-02-001,TEM Influent (10-10-2025),10/10/2025,Sample Amount,1000,1000,,ml
+ST25OCT11-02-001,TEM Influent (10-10-2025),10/10/2025,Settleable Solids,8,8,,ml/L
+ST25OCT11-02-001,TEM Influent (10-10-2025),10/10/2025,Sulfur,18.1,18.1,,mg/L
+ST25OCT11-02-001,TEM Influent (10-10-2025),10/10/2025,Chemical Oxygen Demand,1370,1370,,mg/L
+ST25OCT11-02-001,TEM Influent (10-10-2025),10/10/2025,Apparent Color,1750,1750,,PCU
+ST25OCT11-02-001,TEM Influent (10-10-2025),10/10/2025,pH Apparent Color,6.45,6.45,,
+ST25OCT11-02-001,TEM Influent (10-10-2025),10/10/2025,True Color,610,610,,PCU
+ST25OCT11-02-001,TEM Influent (10-10-2025),10/10/2025,Ammonia as N,57,57,,mg/L
+ST25OCT11-02-001,TEM Influent (10-10-2025),10/10/2025,Volatile Acids,181,181,,mg/L
+ST25OCT12-02-001,TEM Influent (10-11-2025),10/11/2025,Biochemical Oxygen Demand,518,518,,mg/L
+ST25OCT12-02-001,TEM Influent (10-11-2025),10/11/2025,pH,6.35,6.35,,pH Units
+ST25OCT12-02-001,TEM Influent (10-11-2025),10/11/2025,% Volatile Suspended Solids,92,92,,%
+ST25OCT12-02-001,TEM Influent (10-11-2025),10/11/2025,Total Suspended Solids,341,341,,mg/L
+ST25OCT12-02-001,TEM Influent (10-11-2025),10/11/2025,TSS - Change in Wt,1.17,1.17,,%
+ST25OCT12-02-001,TEM Influent (10-11-2025),10/11/2025,Volatile Suspended Solids,313,313,,mg/L
+ST25OCT12-02-001,TEM Influent (10-11-2025),10/11/2025,Sample Amount,1000,1000,,ml
+ST25OCT12-02-001,TEM Influent (10-11-2025),10/11/2025,Settleable Solids,9,9,,ml/L
+ST25OCT12-02-001,TEM Influent (10-11-2025),10/11/2025,Sulfur,16.7,16.7,,mg/L
+ST25OCT12-02-001,TEM Influent (10-11-2025),10/11/2025,Ammonia as N,39.7,39.7,,mg/L
+ST25OCT12-02-001,TEM Influent (10-11-2025),10/11/2025,Apparent Color,2055,2055,,PCU
+ST25OCT12-02-001,TEM Influent (10-11-2025),10/11/2025,pH Apparent Color,6.35,6.35,,
+ST25OCT12-02-001,TEM Influent (10-11-2025),10/11/2025,True Color,660,660,,PCU
+ST25OCT12-02-001,TEM Influent (10-11-2025),10/11/2025,Volatile Acids,287,287,,mg/L
+ST25OCT12-02-001,TEM Influent (10-11-2025),10/11/2025,Chemical Oxygen Demand,880,880,,mg/L
+ST25OCT13-01-001,TEM Influent (10-12-2025),10/12/2025,Biochemical Oxygen Demand,656,656,,mg/L
+ST25OCT13-01-001,TEM Influent (10-12-2025),10/12/2025,pH,6.38,6.38,,pH Units
+ST25OCT13-01-001,TEM Influent (10-12-2025),10/12/2025,Sample Amount,1000,1000,,ml
+ST25OCT13-01-001,TEM Influent (10-12-2025),10/12/2025,Settleable Solids,12,12,,ml/L
+ST25OCT13-01-001,TEM Influent (10-12-2025),10/12/2025,% Volatile Suspended Solids,96,96,,%
+ST25OCT13-01-001,TEM Influent (10-12-2025),10/12/2025,Total Suspended Solids,311,311,,mg/L
+ST25OCT13-01-001,TEM Influent (10-12-2025),10/12/2025,TSS - Change in Wt,2.97,2.97,,%
+ST25OCT13-01-001,TEM Influent (10-12-2025),10/12/2025,Volatile Suspended Solids,298,298,,mg/L
+ST25OCT13-01-001,TEM Influent (10-12-2025),10/12/2025,Sulfur,16.5,16.5,,mg/L
+ST25OCT13-01-001,TEM Influent (10-12-2025),10/12/2025,Chemical Oxygen Demand,1050,1050,,mg/L
+ST25OCT13-01-001,TEM Influent (10-12-2025),10/12/2025,Ammonia as N,35.2,35.2,,mg/L
+ST25OCT13-01-001,TEM Influent (10-12-2025),10/12/2025,Volatile Acids,169,169,,mg/L
+ST25OCT13-01-001,TEM Influent (10-12-2025),10/12/2025,Apparent Color,1900,1900,,PCU
+ST25OCT13-01-001,TEM Influent (10-12-2025),10/12/2025,pH Apparent Color,6.35,6.35,,
+ST25OCT13-01-001,TEM Influent (10-12-2025),10/12/2025,True Color,400,400,,PCU
+ST25OCT14-01-001,TEM Influent (10-13-2025),10/13/2025,Biochemical Oxygen Demand,662,662,,mg/L
+ST25OCT14-01-001,TEM Influent (10-13-2025),10/13/2025,pH,6.14,6.14,,pH Units
+ST25OCT14-01-001,TEM Influent (10-13-2025),10/13/2025,Sample Amount,1000,1000,,ml
+ST25OCT14-01-001,TEM Influent (10-13-2025),10/13/2025,Settleable Solids,6,6,,ml/L
+ST25OCT14-01-001,TEM Influent (10-13-2025),10/13/2025,% Volatile Suspended Solids,96,96,,%
+ST25OCT14-01-001,TEM Influent (10-13-2025),10/13/2025,Total Suspended Solids,241,241,,mg/L
+ST25OCT14-01-001,TEM Influent (10-13-2025),10/13/2025,TSS - Change in Wt,4.60,4.60,,%
+ST25OCT14-01-001,TEM Influent (10-13-2025),10/13/2025,Volatile Suspended Solids,231,231,,mg/L
+ST25OCT14-01-001,TEM Influent (10-13-2025),10/13/2025,Sulfur,16,16,,mg/L
+ST25OCT14-01-001,TEM Influent (10-13-2025),10/13/2025,Ammonia as N,44.7,44.7,,mg/L
+ST25OCT14-01-001,TEM Influent (10-13-2025),10/13/2025,Volatile Acids,406,406,,mg/L
+ST25OCT14-01-001,TEM Influent (10-13-2025),10/13/2025,Chemical Oxygen Demand,1300,1300,,mg/L
+ST25OCT14-01-001,TEM Influent (10-13-2025),10/13/2025,Apparent Color,3220,3220,,PCU
+ST25OCT14-01-001,TEM Influent (10-13-2025),10/13/2025,pH Apparent Color,6.14,6.14,,
+ST25OCT14-01-001,TEM Influent (10-13-2025),10/13/2025,True Color,360,360,,PCU
+ST25OCT15-01-001,TEM Influent (10-14-2025),10/14/2025,Biochemical Oxygen Demand,621,621,,mg/L
+ST25OCT15-01-001,TEM Influent (10-14-2025),10/14/2025,pH,6.27,6.27,,pH Units
+ST25OCT15-01-001,TEM Influent (10-14-2025),10/14/2025,% Volatile Suspended Solids,97,97,,%
+ST25OCT15-01-001,TEM Influent (10-14-2025),10/14/2025,Total Suspended Solids,207,207,,mg/L
+ST25OCT15-01-001,TEM Influent (10-14-2025),10/14/2025,TSS - Change in Wt,0.48,0.48,,%
+ST25OCT15-01-001,TEM Influent (10-14-2025),10/14/2025,Volatile Suspended Solids,201,201,,mg/L
+ST25OCT15-01-001,TEM Influent (10-14-2025),10/14/2025,Sample Amount,1000,1000,,ml
+ST25OCT15-01-001,TEM Influent (10-14-2025),10/14/2025,Settleable Solids,5,5,,ml/L
+ST25OCT15-01-001,TEM Influent (10-14-2025),10/14/2025,Sulfur,33.8,33.8,,mg/L
+ST25OCT15-01-001,TEM Influent (10-14-2025),10/14/2025,Volatile Acids,372,372,,mg/L
+ST25OCT15-01-001,TEM Influent (10-14-2025),10/14/2025,Ammonia as N,42.6,42.6,,mg/L
+ST25OCT15-01-001,TEM Influent (10-14-2025),10/14/2025,Apparent Color,1220,1220,,PCU
+ST25OCT15-01-001,TEM Influent (10-14-2025),10/14/2025,pH Apparent Color,6.27,6.27,,
+ST25OCT15-01-001,TEM Influent (10-14-2025),10/14/2025,True Color,200,200,,PCU
+ST25OCT15-01-001,TEM Influent (10-14-2025),10/14/2025,Chemical Oxygen Demand,1412,1412,,mg/L
+ST25OCT16-01-001,TEM Influent (10-15-2025),10/15/2025,Biochemical Oxygen Demand,536,536,,mg/L
+ST25OCT16-01-001,TEM Influent (10-15-2025),10/15/2025,pH,6.57,6.57,,pH Units
+ST25OCT16-01-001,TEM Influent (10-15-2025),10/15/2025,% Volatile Suspended Solids,95,95,,%
+ST25OCT16-01-001,TEM Influent (10-15-2025),10/15/2025,Total Suspended Solids,247,247,,mg/L
+ST25OCT16-01-001,TEM Influent (10-15-2025),10/15/2025,TSS - Change in Wt,1.63,1.63,,%
+ST25OCT16-01-001,TEM Influent (10-15-2025),10/15/2025,Volatile Suspended Solids,235,235,,mg/L
+ST25OCT16-01-001,TEM Influent (10-15-2025),10/15/2025,Sample Amount,1000,1000,,ml
+ST25OCT16-01-001,TEM Influent (10-15-2025),10/15/2025,Settleable Solids,6,6,,ml/L
+ST25OCT16-01-001,TEM Influent (10-15-2025),10/15/2025,Sulfur,32.9,32.9,,mg/L
+ST25OCT16-01-001,TEM Influent (10-15-2025),10/15/2025,Ammonia as N,23.8,23.8,,mg/L
+ST25OCT16-01-001,TEM Influent (10-15-2025),10/15/2025,Volatile Acids,345,345,,mg/L
+ST25OCT16-01-001,TEM Influent (10-15-2025),10/15/2025,Apparent Color,2440,2440,,PCU
+ST25OCT16-01-001,TEM Influent (10-15-2025),10/15/2025,pH Apparent Color,6.57,6.57,,
+ST25OCT16-01-001,TEM Influent (10-15-2025),10/15/2025,True Color,880,880,,PCU
+ST25OCT16-01-001,TEM Influent (10-15-2025),10/15/2025,Chemical Oxygen Demand,1360,1360,,mg/L
+ST25OCT17-01-001,TEM Influent (10-16-2025),10/16/2025,Biochemical Oxygen Demand,569,569,,mg/L
+ST25OCT17-01-001,TEM Influent (10-16-2025),10/16/2025,pH,6.99,6.99,,pH Units
+ST25OCT17-01-001,TEM Influent (10-16-2025),10/16/2025,Sample Amount,1000,1000,,ml
+ST25OCT17-01-001,TEM Influent (10-16-2025),10/16/2025,Settleable Solids,7,7,,ml/L
+ST25OCT17-01-001,TEM Influent (10-16-2025),10/16/2025,% Volatile Suspended Solids,96,96,,%
+ST25OCT17-01-001,TEM Influent (10-16-2025),10/16/2025,Total Suspended Solids,290,290,,mg/L
+ST25OCT17-01-001,TEM Influent (10-16-2025),10/16/2025,TSS - Change in Wt,1.55,1.55,,%
+ST25OCT17-01-001,TEM Influent (10-16-2025),10/16/2025,Volatile Suspended Solids,278,278,,mg/L
+ST25OCT17-01-001,TEM Influent (10-16-2025),10/16/2025,Sulfur,11.3,11.3,,mg/L
+ST25OCT17-01-001,TEM Influent (10-16-2025),10/16/2025,Volatile Acids,290,290,,mg/L
+ST25OCT17-01-001,TEM Influent (10-16-2025),10/16/2025,Ammonia as N,17.2,17.2,,mg/L
+ST25OCT17-01-001,TEM Influent (10-16-2025),10/16/2025,Chemical Oxygen Demand,1220,1220,,mg/L
+ST25OCT17-01-001,TEM Influent (10-16-2025),10/16/2025,Apparent Color,2360,2360,,PCU
+ST25OCT17-01-001,TEM Influent (10-16-2025),10/16/2025,pH Apparent Color,6.99,6.99,,
+ST25OCT17-01-001,TEM Influent (10-16-2025),10/16/2025,True Color,800,800,,PCU
+ST25OCT18-02-001,TEM Influent (10-17-2025),10/17/2025,Biochemical Oxygen Demand,658,658,,mg/L
+ST25OCT18-02-001,TEM Influent (10-17-2025),10/17/2025,pH,7.00,7.00,,pH Units
+ST25OCT18-02-001,TEM Influent (10-17-2025),10/17/2025,% Volatile Suspended Solids,96,96,,%
+ST25OCT18-02-001,TEM Influent (10-17-2025),10/17/2025,Total Suspended Solids,354,354,,mg/L
+ST25OCT18-02-001,TEM Influent (10-17-2025),10/17/2025,TSS - Change in Wt,0.00,0,,%
+ST25OCT18-02-001,TEM Influent (10-17-2025),10/17/2025,Volatile Suspended Solids,340,340,,mg/L
+ST25OCT18-02-001,TEM Influent (10-17-2025),10/17/2025,Sample Amount,1000,1000,,ml
+ST25OCT18-02-001,TEM Influent (10-17-2025),10/17/2025,Settleable Solids,15,15,,ml/L
+ST25OCT18-02-001,TEM Influent (10-17-2025),10/17/2025,Sulfur,33.9,33.9,,mg/L
+ST25OCT18-02-001,TEM Influent (10-17-2025),10/17/2025,Ammonia as N,22.1,22.1,,mg/L
+ST25OCT18-02-001,TEM Influent (10-17-2025),10/17/2025,Volatile Acids,330,330,,mg/L
+ST25OCT18-02-001,TEM Influent (10-17-2025),10/17/2025,Apparent Color,1850,1850,,PCU
+ST25OCT18-02-001,TEM Influent (10-17-2025),10/17/2025,pH Apparent Color,7.00,7.00,,
+ST25OCT18-02-001,TEM Influent (10-17-2025),10/17/2025,True Color,280,280,,PCU
+ST25OCT18-02-001,TEM Influent (10-17-2025),10/17/2025,Chemical Oxygen Demand,1120,1120,,mg/L
+ST25OCT19-02-001,TEM Influent (10-18-2025),10/18/2025,Biochemical Oxygen Demand,734,734,,mg/L
+ST25OCT19-02-001,TEM Influent (10-18-2025),10/18/2025,pH,7.37,7.37,,pH Units
+ST25OCT19-02-001,TEM Influent (10-18-2025),10/18/2025,% Volatile Suspended Solids,96,96,,%
+ST25OCT19-02-001,TEM Influent (10-18-2025),10/18/2025,Total Suspended Solids,411,411,,mg/L
+ST25OCT19-02-001,TEM Influent (10-18-2025),10/18/2025,TSS - Change in Wt,0.61,0.61,,%
+ST25OCT19-02-001,TEM Influent (10-18-2025),10/18/2025,Volatile Suspended Solids,393,393,,mg/L
+ST25OCT19-02-001,TEM Influent (10-18-2025),10/18/2025,Sample Amount,1000,1000,,ml
+ST25OCT19-02-001,TEM Influent (10-18-2025),10/18/2025,Settleable Solids,14,14,,ml/L
+ST25OCT19-02-001,TEM Influent (10-18-2025),10/18/2025,Sulfur,16.3,16.3,,mg/L
+ST25OCT19-02-001,TEM Influent (10-18-2025),10/18/2025,Ammonia as N,17.2,17.2,,mg/L
+ST25OCT19-02-001,TEM Influent (10-18-2025),10/18/2025,Volatile Acids,366,366,,mg/L
+ST25OCT19-02-001,TEM Influent (10-18-2025),10/18/2025,Apparent Color,2170,2170,,PCU
+ST25OCT19-02-001,TEM Influent (10-18-2025),10/18/2025,pH Apparent Color,7.37,7.37,,
+ST25OCT19-02-001,TEM Influent (10-18-2025),10/18/2025,True Color,380,380,,PCU
+ST25OCT19-02-001,TEM Influent (10-18-2025),10/18/2025,Chemical Oxygen Demand,1160,1160,,mg/L
+ST25OCT20-01-001,TEM Influent (10-19-2025),10/19/2025,Biochemical Oxygen Demand,646,646,,mg/L
+ST25OCT20-01-001,TEM Influent (10-19-2025),10/19/2025,pH,7.14,7.14,,pH Units
+ST25OCT20-01-001,TEM Influent (10-19-2025),10/19/2025,Sample Amount,1000,1000,,ml
+ST25OCT20-01-001,TEM Influent (10-19-2025),10/19/2025,Settleable Solids,8,8,,ml/L
+ST25OCT20-01-001,TEM Influent (10-19-2025),10/19/2025,% Volatile Suspended Solids,97,97,,%
+ST25OCT20-01-001,TEM Influent (10-19-2025),10/19/2025,Total Suspended Solids,368,368,,mg/L
+ST25OCT20-01-001,TEM Influent (10-19-2025),10/19/2025,TSS - Change in Wt,1.90,1.90,,%
+ST25OCT20-01-001,TEM Influent (10-19-2025),10/19/2025,Volatile Suspended Solids,356,356,,mg/L
+ST25OCT20-01-001,TEM Influent (10-19-2025),10/19/2025,Sulfur,13.3,13.3,,mg/L
+ST25OCT20-01-001,TEM Influent (10-19-2025),10/19/2025,Ammonia as N,22.5,22.5,,mg/L
+ST25OCT20-01-001,TEM Influent (10-19-2025),10/19/2025,Volatile Acids,181,181,,mg/L
+ST25OCT20-01-001,TEM Influent (10-19-2025),10/19/2025,Apparent Color,2120,2120,,PCU
+ST25OCT20-01-001,TEM Influent (10-19-2025),10/19/2025,pH Apparent Color,7.14,7.14,,
+ST25OCT20-01-001,TEM Influent (10-19-2025),10/19/2025,True Color,670,670,,PCU
+ST25OCT20-01-001,TEM Influent (10-19-2025),10/19/2025,Chemical Oxygen Demand,1160,1160,,mg/L
+ST25OCT21-01-001,TEM Influent (10-20-2025),10/20/2025,Biochemical Oxygen Demand,661,661,,mg/L
+ST25OCT21-01-001,TEM Influent (10-20-2025),10/20/2025,pH,6.75,6.75,,pH Units
+ST25OCT21-01-001,TEM Influent (10-20-2025),10/20/2025,Sample Amount,1000,1000,,ml
+ST25OCT21-01-001,TEM Influent (10-20-2025),10/20/2025,Settleable Solids,5,5,,ml/L
+ST25OCT21-01-001,TEM Influent (10-20-2025),10/20/2025,% Volatile Suspended Solids,97,97,,%
+ST25OCT21-01-001,TEM Influent (10-20-2025),10/20/2025,Total Suspended Solids,324,324,,mg/L
+ST25OCT21-01-001,TEM Influent (10-20-2025),10/20/2025,TSS - Change in Wt,3.40,3.40,,%
+ST25OCT21-01-001,TEM Influent (10-20-2025),10/20/2025,Volatile Suspended Solids,315,315,,mg/L
+ST25OCT21-01-001,TEM Influent (10-20-2025),10/20/2025,Sulfur,12.2,12.2,,mg/L
+ST25OCT21-01-001,TEM Influent (10-20-2025),10/20/2025,Chemical Oxygen Demand,1480,1480,,mg/L
+ST25OCT21-01-001,TEM Influent (10-20-2025),10/20/2025,Apparent Color,2730,2730,,PCU
+ST25OCT21-01-001,TEM Influent (10-20-2025),10/20/2025,pH Apparent Color,6.75,6.75,,
+ST25OCT21-01-001,TEM Influent (10-20-2025),10/20/2025,True Color,1220,1220,,PCU
+ST25OCT21-01-001,TEM Influent (10-20-2025),10/20/2025,Ammonia as N,21.3,21.3,,mg/L
+ST25OCT21-01-001,TEM Influent (10-20-2025),10/20/2025,Volatile Acids,354,354,,mg/L
+ST25OCT22-01-001,TEM Influent (10-21-2025),10/21/2025,Biochemical Oxygen Demand,596,596,,mg/L
+ST25OCT22-01-001,TEM Influent (10-21-2025),10/21/2025,pH,6.56,6.56,,pH Units
+ST25OCT22-01-001,TEM Influent (10-21-2025),10/21/2025,% Volatile Suspended Solids,96,96,,%
+ST25OCT22-01-001,TEM Influent (10-21-2025),10/21/2025,Total Suspended Solids,259,259,,mg/L
+ST25OCT22-01-001,TEM Influent (10-21-2025),10/21/2025,TSS - Change in Wt,1.79,1.79,,%
+ST25OCT22-01-001,TEM Influent (10-21-2025),10/21/2025,Volatile Suspended Solids,249,249,,mg/L
+ST25OCT22-01-001,TEM Influent (10-21-2025),10/21/2025,Sample Amount,1000,1000,,ml
+ST25OCT22-01-001,TEM Influent (10-21-2025),10/21/2025,Settleable Solids,5,5,,ml/L
+ST25OCT22-01-001,TEM Influent (10-21-2025),10/21/2025,Sulfur,36.2,36.2,,mg/L
+ST25OCT22-01-001,TEM Influent (10-21-2025),10/21/2025,Ammonia as N,20.1,20.1,,mg/L
+ST25OCT22-01-001,TEM Influent (10-21-2025),10/21/2025,Volatile Acids,324,324,,mg/L
+ST25OCT22-01-001,TEM Influent (10-21-2025),10/21/2025,Chemical Oxygen Demand,1389,1389,,mg/L
+ST25OCT22-01-001,TEM Influent (10-21-2025),10/21/2025,Apparent Color,1400,1400,,PCU
+ST25OCT22-01-001,TEM Influent (10-21-2025),10/21/2025,pH Apparent Color,6.56,6.56,,
+ST25OCT22-01-001,TEM Influent (10-21-2025),10/21/2025,True Color,270,270,,PCU
+ST25OCT23-01-001,TEM Influent (10-22-2025),10/22/2025,Biochemical Oxygen Demand,743,743,,mg/L
+ST25OCT23-01-001,TEM Influent (10-22-2025),10/22/2025,pH,6.12,6.12,,pH Units
+ST25OCT23-01-001,TEM Influent (10-22-2025),10/22/2025,% Volatile Suspended Solids,96,96,,%
+ST25OCT23-01-001,TEM Influent (10-22-2025),10/22/2025,Total Suspended Solids,467,467,,mg/L
+ST25OCT23-01-001,TEM Influent (10-22-2025),10/22/2025,TSS - Change in Wt,0.43,0.43,,%
+ST25OCT23-01-001,TEM Influent (10-22-2025),10/22/2025,Volatile Suspended Solids,449,449,,mg/L
+ST25OCT23-01-001,TEM Influent (10-22-2025),10/22/2025,Sample Amount,1000,1000,,ml
+ST25OCT23-01-001,TEM Influent (10-22-2025),10/22/2025,Settleable Solids,8 ,8,,ml/L
+ST25OCT23-01-001,TEM Influent (10-22-2025),10/22/2025,Sulfur,13.6,13.6,,mg/L
+ST25OCT23-01-001,TEM Influent (10-22-2025),10/22/2025,Ammonia as N,33.9,33.9,,mg/L
+ST25OCT23-01-001,TEM Influent (10-22-2025),10/22/2025,Volatile Acids,315,315,,mg/L
+ST25OCT23-01-001,TEM Influent (10-22-2025),10/22/2025,Chemical Oxygen Demand,2054,2054,,mg/L
+ST25OCT23-01-001,TEM Influent (10-22-2025),10/22/2025,Apparent Color,1970,1970,,PCU
+ST25OCT23-01-001,TEM Influent (10-22-2025),10/22/2025,pH Apparent Color,6.12,6.12,,
+ST25OCT23-01-001,TEM Influent (10-22-2025),10/22/2025,True Color,720,720,,PCU
+ST25OCT24-01-001,TEM Influent (10-23-2025),10/23/2025,Biochemical Oxygen Demand,558,558,,mg/L
+ST25OCT24-01-001,TEM Influent (10-23-2025),10/23/2025,pH,6.50,6.50,,pH Units
+ST25OCT24-01-001,TEM Influent (10-23-2025),10/23/2025,Sample Amount,1000,1000,,ml
+ST25OCT24-01-001,TEM Influent (10-23-2025),10/23/2025,Settleable Solids,4,4,,ml/L
+ST25OCT24-01-001,TEM Influent (10-23-2025),10/23/2025,% Volatile Suspended Solids,100,100,,%
+ST25OCT24-01-001,TEM Influent (10-23-2025),10/23/2025,Total Suspended Solids,220,220,,mg/L
+ST25OCT24-01-001,TEM Influent (10-23-2025),10/23/2025,TSS - Change in Wt,2.26,2.26,,%
+ST25OCT24-01-001,TEM Influent (10-23-2025),10/23/2025,Volatile Suspended Solids,220,220,,mg/L
+ST25OCT24-01-001,TEM Influent (10-23-2025),10/23/2025,Sulfur,18,18,,mg/L
+ST25OCT24-01-001,TEM Influent (10-23-2025),10/23/2025,Volatile Acids,357,357,,mg/L
+ST25OCT24-01-001,TEM Influent (10-23-2025),10/23/2025,Ammonia as N,19.2,19.2,,mg/L
+ST25OCT24-01-001,TEM Influent (10-23-2025),10/23/2025,Chemical Oxygen Demand,1600,1600,,mg/L
+ST25OCT24-01-001,TEM Influent (10-23-2025),10/23/2025,Apparent Color,2800,2800,,PCU
+ST25OCT24-01-001,TEM Influent (10-23-2025),10/23/2025,pH Apparent Color,6.50,6.50,,
+ST25OCT24-01-001,TEM Influent (10-23-2025),10/23/2025,True Color,2440,2440,,PCU
+ST25OCT25-02-001,TEM Influent (10-24-2025),10/24/2025,Biochemical Oxygen Demand,415,415,,mg/L
+ST25OCT25-02-001,TEM Influent (10-24-2025),10/24/2025,pH,6.59,6.59,,pH Units
+ST25OCT25-02-001,TEM Influent (10-24-2025),10/24/2025,% Volatile Suspended Solids,85,85,,%
+ST25OCT25-02-001,TEM Influent (10-24-2025),10/24/2025,Total Suspended Solids,156,156,,mg/L
+ST25OCT25-02-001,TEM Influent (10-24-2025),10/24/2025,TSS - Change in Wt,0.98,0.98,,%
+ST25OCT25-02-001,TEM Influent (10-24-2025),10/24/2025,Volatile Suspended Solids,133,133,,mg/L
+ST25OCT25-02-001,TEM Influent (10-24-2025),10/24/2025,Sample Amount,1000,1000,,ml
+ST25OCT25-02-001,TEM Influent (10-24-2025),10/24/2025,Settleable Solids,4,4,,ml/L
+ST25OCT25-02-001,TEM Influent (10-24-2025),10/24/2025,Sulfur,12.6,12.6,,mg/L
+ST25OCT25-02-001,TEM Influent (10-24-2025),10/24/2025,Chemical Oxygen Demand,720,720,,mg/L
+ST25OCT25-02-001,TEM Influent (10-24-2025),10/24/2025,Apparent Color,3250,3250,,PCU
+ST25OCT25-02-001,TEM Influent (10-24-2025),10/24/2025,pH Apparent Color,6.59,6.59,,
+ST25OCT25-02-001,TEM Influent (10-24-2025),10/24/2025,True Color,320,320,,PCU
+ST25OCT25-02-001,TEM Influent (10-24-2025),10/24/2025,Volatile Acids,181,181,,mg/L
+ST25OCT25-02-001,TEM Influent (10-24-2025),10/24/2025,Ammonia as N,75,75,,mg/L
+ST25OCT26-02-001,TEM Influent (10-25-2025),10/25/2025,Biochemical Oxygen Demand,666,666,,mg/L
+ST25OCT26-02-001,TEM Influent (10-25-2025),10/25/2025,pH,6.19,6.19,,pH Units
+ST25OCT26-02-001,TEM Influent (10-25-2025),10/25/2025,% Volatile Suspended Solids,92,92,,%
+ST25OCT26-02-001,TEM Influent (10-25-2025),10/25/2025,Total Suspended Solids,384,384,,mg/L
+ST25OCT26-02-001,TEM Influent (10-25-2025),10/25/2025,TSS - Change in Wt,1.57,1.57,,%
+ST25OCT26-02-001,TEM Influent (10-25-2025),10/25/2025,Volatile Suspended Solids,354,354,,mg/L
+ST25OCT26-02-001,TEM Influent (10-25-2025),10/25/2025,Sample Amount,1000,1000,,ml
+ST25OCT26-02-001,TEM Influent (10-25-2025),10/25/2025,Settleable Solids,13,13,,ml/L
+ST25OCT26-02-001,TEM Influent (10-25-2025),10/25/2025,Sulfur,19.7,19.7,,mg/L
+ST25OCT26-02-001,TEM Influent (10-25-2025),10/25/2025,Ammonia as N,47.4,47.4,,mg/L
+ST25OCT26-02-001,TEM Influent (10-25-2025),10/25/2025,Volatile Acids,24,24,,mg/L
+ST25OCT26-02-001,TEM Influent (10-25-2025),10/25/2025,Chemical Oxygen Demand,775,775,,mg/L
+ST25OCT26-02-001,TEM Influent (10-25-2025),10/25/2025,Apparent Color,1130,1130,,PCU
+ST25OCT26-02-001,TEM Influent (10-25-2025),10/25/2025,pH Apparent Color,6.19,6.19,,
+ST25OCT26-02-001,TEM Influent (10-25-2025),10/25/2025,True Color,500,500,,PCU
+ST25OCT27-01-001,TEM Influent (10-26-2025),10/26/2025,Biochemical Oxygen Demand,433,433,,mg/L
+ST25OCT27-01-001,TEM Influent (10-26-2025),10/26/2025,pH,6.15,6.15,,pH Units
+ST25OCT27-01-001,TEM Influent (10-26-2025),10/26/2025,Sample Amount,1000,1000,,ml
+ST25OCT27-01-001,TEM Influent (10-26-2025),10/26/2025,Settleable Solids,6,6,,ml/L
+ST25OCT27-01-001,TEM Influent (10-26-2025),10/26/2025,% Volatile Suspended Solids,80,80,,%
+ST25OCT27-01-001,TEM Influent (10-26-2025),10/26/2025,Total Suspended Solids,372,372,,mg/L
+ST25OCT27-01-001,TEM Influent (10-26-2025),10/26/2025,TSS - Change in Wt,1.21,1.21,,%
+ST25OCT27-01-001,TEM Influent (10-26-2025),10/26/2025,Volatile Suspended Solids,297,297,,mg/L
+ST25OCT27-01-001,TEM Influent (10-26-2025),10/26/2025,Sulfur,21.4,21.4,,mg/L
+ST25OCT27-01-001,TEM Influent (10-26-2025),10/26/2025,Volatile Acids,111,111,,mg/L
+ST25OCT27-01-001,TEM Influent (10-26-2025),10/26/2025,Ammonia as N,28,28,,mg/L
+ST25OCT27-01-001,TEM Influent (10-26-2025),10/26/2025,Chemical Oxygen Demand,1019,1019,,mg/L
+ST25OCT27-01-001,TEM Influent (10-26-2025),10/26/2025,Apparent Color,2260,2260,,PCU
+ST25OCT27-01-001,TEM Influent (10-26-2025),10/26/2025,pH Apparent Color,6.15,6.15,,
+ST25OCT27-01-001,TEM Influent (10-26-2025),10/26/2025,True Color,720,720,,PCU
+ST25OCT28-01-001,TEM Influent (10-27-2025),10/27/2025,Biochemical Oxygen Demand,397,397,,mg/L
+ST25OCT28-01-001,TEM Influent (10-27-2025),10/27/2025,pH,6.21,6.21,,pH Units
+ST25OCT28-01-001,TEM Influent (10-27-2025),10/27/2025,Sample Amount,1000,1000,,ml
+ST25OCT28-01-001,TEM Influent (10-27-2025),10/27/2025,Settleable Solids,3.5,3.5,,ml/L
+ST25OCT28-01-001,TEM Influent (10-27-2025),10/27/2025,% Volatile Suspended Solids,97,97,,%
+ST25OCT28-01-001,TEM Influent (10-27-2025),10/27/2025,Total Suspended Solids,169,169,,mg/L
+ST25OCT28-01-001,TEM Influent (10-27-2025),10/27/2025,TSS - Change in Wt,0.89,0.89,,%
+ST25OCT28-01-001,TEM Influent (10-27-2025),10/27/2025,Volatile Suspended Solids,163,163,,mg/L
+ST25OCT28-01-001,TEM Influent (10-27-2025),10/27/2025,Sulfur,17.2,17.2,,mg/L
+ST25OCT28-01-001,TEM Influent (10-27-2025),10/27/2025,Volatile Acids,66,66,,mg/L
+ST25OCT28-01-001,TEM Influent (10-27-2025),10/27/2025,Ammonia as N,19.3,19.3,,mg/L
+ST25OCT28-01-001,TEM Influent (10-27-2025),10/27/2025,Apparent Color,1650,1650,,PCU
+ST25OCT28-01-001,TEM Influent (10-27-2025),10/27/2025,pH Apparent Color,6.21,6.21,,
+ST25OCT28-01-001,TEM Influent (10-27-2025),10/27/2025,True Color,1070,1070,,PCU
+ST25OCT28-01-001,TEM Influent (10-27-2025),10/27/2025,Chemical Oxygen Demand,947,947,,mg/L
+ST25OCT29-01-001,TEM Influent (10-28-2025),10/28/2025,Biochemical Oxygen Demand,627,627,,mg/L
+ST25OCT29-01-001,TEM Influent (10-28-2025),10/28/2025,pH,6.59,6.59,,pH Units
+ST25OCT29-01-001,TEM Influent (10-28-2025),10/28/2025,% Volatile Suspended Solids,97,97,,%
+ST25OCT29-01-001,TEM Influent (10-28-2025),10/28/2025,Total Suspended Solids,229,229,,mg/L
+ST25OCT29-01-001,TEM Influent (10-28-2025),10/28/2025,TSS - Change in Wt,1.10,1.10,,%
+ST25OCT29-01-001,TEM Influent (10-28-2025),10/28/2025,Volatile Suspended Solids,222,222,,mg/L
+ST25OCT29-01-001,TEM Influent (10-28-2025),10/28/2025,Sample Amount,1000,1000,,ml
+ST25OCT29-01-001,TEM Influent (10-28-2025),10/28/2025,Settleable Solids,9,9,,ml/L
+ST25OCT29-01-001,TEM Influent (10-28-2025),10/28/2025,Sulfur,27.7,27.7,,mg/L
+ST25OCT29-01-001,TEM Influent (10-28-2025),10/28/2025,Apparent Color,2290,2290,,PCU
+ST25OCT29-01-001,TEM Influent (10-28-2025),10/28/2025,pH Apparent Color,6.59,6.59,,
+ST25OCT29-01-001,TEM Influent (10-28-2025),10/28/2025,True Color,1350,1350,,PCU
+ST25OCT29-01-001,TEM Influent (10-28-2025),10/28/2025,Chemical Oxygen Demand,1316,1316,,mg/L
+ST25OCT29-01-001,TEM Influent (10-28-2025),10/28/2025,Volatile Acids,155,155,,mg/L
+ST25OCT29-01-001,TEM Influent (10-28-2025),10/28/2025,Ammonia as N,18.6,18.6,,mg/L
+ST25OCT30-01-001,TEM Influent (10-29-2025),10/29/2025,Biochemical Oxygen Demand,413,413,,mg/L
+ST25OCT30-01-001,TEM Influent (10-29-2025),10/29/2025,pH,7.51,7.51,,pH Units
+ST25OCT30-01-001,TEM Influent (10-29-2025),10/29/2025,% Volatile Suspended Solids,81,81,,%
+ST25OCT30-01-001,TEM Influent (10-29-2025),10/29/2025,Total Suspended Solids,345,345,,mg/L
+ST25OCT30-01-001,TEM Influent (10-29-2025),10/29/2025,TSS - Change in Wt,3.19,3.19,,%
+ST25OCT30-01-001,TEM Influent (10-29-2025),10/29/2025,Volatile Suspended Solids,281,281,,mg/L
+ST25OCT30-01-001,TEM Influent (10-29-2025),10/29/2025,Sample Amount,1000,1000,,ml
+ST25OCT30-01-001,TEM Influent (10-29-2025),10/29/2025,Settleable Solids,7,7,,ml/L
+ST25OCT30-01-001,TEM Influent (10-29-2025),10/29/2025,Sulfur,17.6,17.6,,mg/L
+ST25OCT30-01-001,TEM Influent (10-29-2025),10/29/2025,Chemical Oxygen Demand,964,964,,mg/L
+ST25OCT30-01-001,TEM Influent (10-29-2025),10/29/2025,Apparent Color,2250,2250,,PCU
+ST25OCT30-01-001,TEM Influent (10-29-2025),10/29/2025,pH Apparent Color,6.23,6.23,,
+ST25OCT30-01-001,TEM Influent (10-29-2025),10/29/2025,True Color,770,770,,PCU
+ST25OCT30-01-001,TEM Influent (10-29-2025),10/29/2025,Ammonia as N,15.3,15.3,,mg/L
+ST25OCT30-01-001,TEM Influent (10-29-2025),10/29/2025,Volatile Acids,129,129,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Biochemical Oxygen Demand,504,504,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,pH,6.32,6.32,,pH Units
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Sample Amount,1000,1000,,ml
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Settleable Solids,8,8,,ml/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,% Volatile Suspended Solids,90,90,,%
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Total Suspended Solids,304,304,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,TSS - Change in Wt,0.66,0.66,,%
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Volatile Suspended Solids,273,273,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Sulfur,17.1,17.1,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Ammonia as N,27.2,27.2,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Volatile Acids,129,129,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Arsenic,,,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Cadmium,,,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Chromium,,,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Cobalt,,,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Copper,,,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Lead,,,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Analysis Date/Time,,,,
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Mercury,,,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Method Reference,,,,
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Subcontract Lab ID,,,,
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Molybdenum,,,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Nickel,,,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Selenium,,,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Zinc,,,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Total Nitrogen,,,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Phosphorus-total,,,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Chemical Oxygen Demand,908,908,,mg/L
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,Apparent Color,925,925,,PCU
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,pH Apparent Color,6.62,6.62,,
+ST25OCT31-01-001,TEM Influent (10-30-2025),10/30/2025,True Color,620,620,,PCU
+ST25NOV01-07-001,TEM Influent (10-31-2025),10/31/2025,Biochemical Oxygen Demand,656,656,,mg/L
+ST25NOV01-07-001,TEM Influent (10-31-2025),10/31/2025,pH,7.06,7.06,,pH Units
+ST25NOV01-07-001,TEM Influent (10-31-2025),10/31/2025,% Volatile Suspended Solids,94,94,,%
+ST25NOV01-07-001,TEM Influent (10-31-2025),10/31/2025,Total Suspended Solids,343,343,,mg/L
+ST25NOV01-07-001,TEM Influent (10-31-2025),10/31/2025,TSS - Change in Wt,1.02,1.02,,%
+ST25NOV01-07-001,TEM Influent (10-31-2025),10/31/2025,Volatile Suspended Solids,322,322,,mg/L
+ST25NOV01-07-001,TEM Influent (10-31-2025),10/31/2025,Sample Amount,1000,1000,,ml
+ST25NOV01-07-001,TEM Influent (10-31-2025),10/31/2025,Settleable Solids,10,10,,ml/L
+ST25NOV01-07-001,TEM Influent (10-31-2025),10/31/2025,Sulfur,20.3,20.3,,mg/L
+ST25NOV01-07-001,TEM Influent (10-31-2025),10/31/2025,Volatile Acids,333,333,,mg/L
+ST25NOV01-07-001,TEM Influent (10-31-2025),10/31/2025,Ammonia as N,17.5,17.5,,mg/L
+ST25NOV01-07-001,TEM Influent (10-31-2025),10/31/2025,Chemical Oxygen Demand,1660,1660,,mg/L
+ST25NOV01-07-001,TEM Influent (10-31-2025),10/31/2025,Apparent Color,2280,2280,,PCU
+ST25NOV01-07-001,TEM Influent (10-31-2025),10/31/2025,pH Apparent Color,7.06,7.06,,
+ST25NOV01-07-001,TEM Influent (10-31-2025),10/31/2025,True Color,1400,1400,,PCU
+ST25NOV02-02-001,TEM Influent (11-01-2025),11/1/2025,Biochemical Oxygen Demand,669,669,,mg/L
+ST25NOV02-02-001,TEM Influent (11-01-2025),11/1/2025,pH,6.07,6.07,,pH Units
+ST25NOV02-02-001,TEM Influent (11-01-2025),11/1/2025,% Volatile Suspended Solids,96,96,,%
+ST25NOV02-02-001,TEM Influent (11-01-2025),11/1/2025,Total Suspended Solids,302,302,,mg/L
+ST25NOV02-02-001,TEM Influent (11-01-2025),11/1/2025,TSS - Change in Wt,0.17,0.17,,%
+ST25NOV02-02-001,TEM Influent (11-01-2025),11/1/2025,Volatile Suspended Solids,290,290,,mg/L
+ST25NOV02-02-001,TEM Influent (11-01-2025),11/1/2025,Sulfur,15.3,15.3,,mg/L
+ST25NOV02-02-001,TEM Influent (11-01-2025),11/1/2025,Ammonia as N,19.5,19.5,,mg/L
+ST25NOV02-02-001,TEM Influent (11-01-2025),11/1/2025,Volatile Acids,296,296,,mg/L
+ST25NOV02-02-001,TEM Influent (11-01-2025),11/1/2025,Chemical Oxygen Demand,1410,1410,,mg/L
+ST25NOV02-02-001,TEM Influent (11-01-2025),11/1/2025,Apparent Color,2570,2570,,PCU
+ST25NOV02-02-001,TEM Influent (11-01-2025),11/1/2025,pH Apparent Color,6.07,6.07,,
+ST25NOV02-02-001,TEM Influent (11-01-2025),11/1/2025,True Color,1100,1100,,PCU
+ST25NOV02-02-001,TEM Influent (11-01-2025),11/1/2025,Sample Amount,1000,1000,,ml
+ST25NOV02-02-001,TEM Influent (11-01-2025),11/1/2025,Settleable Solids,9,9,,ml/L
+ST25NOV03-01-001,TEM Influent (11-02-2025),11/2/2025,Biochemical Oxygen Demand,564,564,,mg/L
+ST25NOV03-01-001,TEM Influent (11-02-2025),11/2/2025,pH,6.60,6.60,,pH Units
+ST25NOV03-01-001,TEM Influent (11-02-2025),11/2/2025,Sample Amount,1000,1000,,ml
+ST25NOV03-01-001,TEM Influent (11-02-2025),11/2/2025,Settleable Solids,9,9,,ml/L
+ST25NOV03-01-001,TEM Influent (11-02-2025),11/2/2025,% Volatile Suspended Solids,95,95,,%
+ST25NOV03-01-001,TEM Influent (11-02-2025),11/2/2025,Total Suspended Solids,289,289,,mg/L
+ST25NOV03-01-001,TEM Influent (11-02-2025),11/2/2025,TSS - Change in Wt,3.26,3.26,,%
+ST25NOV03-01-001,TEM Influent (11-02-2025),11/2/2025,Volatile Suspended Solids,276,276,,mg/L
+ST25NOV03-01-001,TEM Influent (11-02-2025),11/2/2025,Sulfur,18.4,18.4,,mg/L
+ST25NOV03-01-001,TEM Influent (11-02-2025),11/2/2025,Ammonia as N,51.5,51.5,,mg/L
+ST25NOV03-01-001,TEM Influent (11-02-2025),11/2/2025,Volatile Acids,309,309,,mg/L
+ST25NOV03-01-001,TEM Influent (11-02-2025),11/2/2025,Apparent Color,2560,2560,,PCU
+ST25NOV03-01-001,TEM Influent (11-02-2025),11/2/2025,pH Apparent Color,6.60,6.60,,
+ST25NOV03-01-001,TEM Influent (11-02-2025),11/2/2025,True Color,1000,1000,,PCU
+ST25NOV03-01-001,TEM Influent (11-02-2025),11/2/2025,Chemical Oxygen Demand,1200,1200,,mg/L
+ST25NOV04-01-001,TEM Influent (11-03-2025),11/3/2025,Biochemical Oxygen Demand,614,614,,mg/L
+ST25NOV04-01-001,TEM Influent (11-03-2025),11/3/2025,pH,6.39,6.39,,pH Units
+ST25NOV04-01-001,TEM Influent (11-03-2025),11/3/2025,Sample Amount,1000,1000,,ml
+ST25NOV04-01-001,TEM Influent (11-03-2025),11/3/2025,Settleable Solids,11,11,,ml/L
+ST25NOV04-01-001,TEM Influent (11-03-2025),11/3/2025,% Volatile Suspended Solids,98,98,,%
+ST25NOV04-01-001,TEM Influent (11-03-2025),11/3/2025,Total Suspended Solids,414,414,,mg/L
+ST25NOV04-01-001,TEM Influent (11-03-2025),11/3/2025,TSS - Change in Wt,1.07,1.07,,%
+ST25NOV04-01-001,TEM Influent (11-03-2025),11/3/2025,Volatile Suspended Solids,404,404,,mg/L
+ST25NOV04-01-001,TEM Influent (11-03-2025),11/3/2025,Sulfur,22.8,22.8,,mg/L
+ST25NOV04-01-001,TEM Influent (11-03-2025),11/3/2025,Chemical Oxygen Demand,1490,1490,,mg/L
+ST25NOV04-01-001,TEM Influent (11-03-2025),11/3/2025,Apparent Color,3010,3010,,PCU
+ST25NOV04-01-001,TEM Influent (11-03-2025),11/3/2025,pH Apparent Color,6.39,6.39,,
+ST25NOV04-01-001,TEM Influent (11-03-2025),11/3/2025,True Color,400,400,,PCU
+ST25NOV04-01-001,TEM Influent (11-03-2025),11/3/2025,Ammonia as N,61.2,61.2,,mg/L
+ST25NOV04-01-001,TEM Influent (11-03-2025),11/3/2025,Volatile Acids,306,306,,mg/L
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,Biochemical Oxygen Demand,633,633,,mg/L
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,pH,6.13,6.13,,pH Units
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,% Volatile Suspended Solids,91,91,,%
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,Total Suspended Solids,381,381,,mg/L
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,TSS - Change in Wt,2.62,2.62,,%
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,Volatile Suspended Solids,346,346,,mg/L
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,Sample Amount,1000,1000,,ml
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,Settleable Solids,11,11,,ml/L
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,Sulfur,19.1,19.1,,mg/L
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,Chemical Oxygen Demand,2200,2200,,mg/L
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,Apparent Color,2060,2060,,PCU
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,pH Apparent Color,6.13,6.13,,
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,True Color,370,370,,PCU
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,Volatile Acids,318,318,,mg/L
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,Total Nitrogen,71,71,,mg/L
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,Phosphorus-total,14.9,14.9,,mg/L
+ST25NOV05-01-001,TEM Influent (11-04-2025),11/4/2025,Ammonia as N,44.7,44.7,,mg/L
+ST25NOV06-01-001,TEM Influent (11-05-2025),11/5/2025,Biochemical Oxygen Demand,782,782,,mg/L
+ST25NOV06-01-001,TEM Influent (11-05-2025),11/5/2025,pH,6.76,6.76,,pH Units
+ST25NOV06-01-001,TEM Influent (11-05-2025),11/5/2025,% Volatile Suspended Solids,93,93,,%
+ST25NOV06-01-001,TEM Influent (11-05-2025),11/5/2025,Total Suspended Solids,496,496,,mg/L
+ST25NOV06-01-001,TEM Influent (11-05-2025),11/5/2025,TSS - Change in Wt,2.91,2.91,,%
+ST25NOV06-01-001,TEM Influent (11-05-2025),11/5/2025,Volatile Suspended Solids,459,459,,mg/L
+ST25NOV06-01-001,TEM Influent (11-05-2025),11/5/2025,Sample Amount,1000,1000,,ml
+ST25NOV06-01-001,TEM Influent (11-05-2025),11/5/2025,Settleable Solids,16,16,,ml/L
+ST25NOV06-01-001,TEM Influent (11-05-2025),11/5/2025,Sulfur,23.6,23.6,,mg/L
+ST25NOV06-01-001,TEM Influent (11-05-2025),11/5/2025,Ammonia as N,25.8,25.8,,mg/L
+ST25NOV06-01-001,TEM Influent (11-05-2025),11/5/2025,Volatile Acids,372,372,,mg/L
+ST25NOV06-01-001,TEM Influent (11-05-2025),11/5/2025,Chemical Oxygen Demand,1600,1600,,mg/L
+ST25NOV06-01-001,TEM Influent (11-05-2025),11/5/2025,Apparent Color,2250,2250,,PCU
+ST25NOV06-01-001,TEM Influent (11-05-2025),11/5/2025,pH Apparent Color,6.76,6.76,,
+ST25NOV06-01-001,TEM Influent (11-05-2025),11/5/2025,True Color,580,580,,PCU
+ST25NOV07-01-001,TEM Influent (11-06-2025),11/6/2025,Biochemical Oxygen Demand,649,649,,mg/L
+ST25NOV07-01-001,TEM Influent (11-06-2025),11/6/2025,pH,6.58,6.58,,pH Units
+ST25NOV07-01-001,TEM Influent (11-06-2025),11/6/2025,Sample Amount,1000,1000,,ml
+ST25NOV07-01-001,TEM Influent (11-06-2025),11/6/2025,Settleable Solids,5.5,5.5,,ml/L
+ST25NOV07-01-001,TEM Influent (11-06-2025),11/6/2025,% Volatile Suspended Solids,66,66,,%
+ST25NOV07-01-001,TEM Influent (11-06-2025),11/6/2025,Total Suspended Solids,258,258,,mg/L
+ST25NOV07-01-001,TEM Influent (11-06-2025),11/6/2025,TSS - Change in Wt,0.86,0.86,,%
+ST25NOV07-01-001,TEM Influent (11-06-2025),11/6/2025,Volatile Suspended Solids,171,171,,mg/L
+ST25NOV07-01-001,TEM Influent (11-06-2025),11/6/2025,Sulfur,20.1,20.1,,mg/L
+ST25NOV07-01-001,TEM Influent (11-06-2025),11/6/2025,Ammonia as N,22.5,22.5,,mg/L
+ST25NOV07-01-001,TEM Influent (11-06-2025),11/6/2025,Volatile Acids,321,321,,mg/L
+ST25NOV07-01-001,TEM Influent (11-06-2025),11/6/2025,Chemical Oxygen Demand,1550,1550,,mg/L
+ST25NOV07-01-001,TEM Influent (11-06-2025),11/6/2025,Apparent Color,2690,2690,,PCU
+ST25NOV07-01-001,TEM Influent (11-06-2025),11/6/2025,pH Apparent Color,6.58,6.58,,
+ST25NOV07-01-001,TEM Influent (11-06-2025),11/6/2025,True Color,900,900,,PCU
+ST25NOV08-02-001,TEM Influent (11-07-2025),11/7/2025,Biochemical Oxygen Demand,640,640,,mg/L
+ST25NOV08-02-001,TEM Influent (11-07-2025),11/7/2025,pH,7.28,7.28,,pH Units
+ST25NOV08-02-001,TEM Influent (11-07-2025),11/7/2025,% Volatile Suspended Solids,98,98,,%
+ST25NOV08-02-001,TEM Influent (11-07-2025),11/7/2025,Total Suspended Solids,302,302,,mg/L
+ST25NOV08-02-001,TEM Influent (11-07-2025),11/7/2025,TSS - Change in Wt,1.99,1.99,,%
+ST25NOV08-02-001,TEM Influent (11-07-2025),11/7/2025,Volatile Suspended Solids,297,297,,mg/L
+ST25NOV08-02-001,TEM Influent (11-07-2025),11/7/2025,Sample Amount,1000,1000,,ml
+ST25NOV08-02-001,TEM Influent (11-07-2025),11/7/2025,Settleable Solids,7,7,,ml/L
+ST25NOV08-02-001,TEM Influent (11-07-2025),11/7/2025,Sulfur,21.3,21.3,,mg/L
+ST25NOV08-02-001,TEM Influent (11-07-2025),11/7/2025,Volatile Acids,363,363,,mg/L
+ST25NOV08-02-001,TEM Influent (11-07-2025),11/7/2025,Ammonia as N,19.6,19.6,,mg/L
+ST25NOV08-02-001,TEM Influent (11-07-2025),11/7/2025,Chemical Oxygen Demand,1610,1610,,mg/L
+ST25NOV08-02-001,TEM Influent (11-07-2025),11/7/2025,Apparent Color,3250,3250,,PCU
+ST25NOV08-02-001,TEM Influent (11-07-2025),11/7/2025,pH Apparent Color,7.28,7.28,,
+ST25NOV08-02-001,TEM Influent (11-07-2025),11/7/2025,True Color,560,560,,PCU
+ST25NOV09-02-001,TEM Influent (11-08-2025),11/8/2025,Biochemical Oxygen Demand,554,554,,mg/L
+ST25NOV09-02-001,TEM Influent (11-08-2025),11/8/2025,pH,6.58,6.58,,pH Units
+ST25NOV09-02-001,TEM Influent (11-08-2025),11/8/2025,% Volatile Suspended Solids,92,92,,%
+ST25NOV09-02-001,TEM Influent (11-08-2025),11/8/2025,Total Suspended Solids,480,480,,mg/L
+ST25NOV09-02-001,TEM Influent (11-08-2025),11/8/2025,TSS - Change in Wt,1.46,1.46,,%
+ST25NOV09-02-001,TEM Influent (11-08-2025),11/8/2025,Volatile Suspended Solids,441,441,,mg/L
+ST25NOV09-02-001,TEM Influent (11-08-2025),11/8/2025,Sample Amount,1000,1000,,ml
+ST25NOV09-02-001,TEM Influent (11-08-2025),11/8/2025,Settleable Solids,18,18,,ml/L
+ST25NOV09-02-001,TEM Influent (11-08-2025),11/8/2025,Sulfur,18.8,18.8,,mg/L
+ST25NOV09-02-001,TEM Influent (11-08-2025),11/8/2025,Chemical Oxygen Demand,1820,1820,,mg/L
+ST25NOV09-02-001,TEM Influent (11-08-2025),11/8/2025,Apparent Color,4910,4910,,PCU
+ST25NOV09-02-001,TEM Influent (11-08-2025),11/8/2025,pH Apparent Color,6.58,6.58,,
+ST25NOV09-02-001,TEM Influent (11-08-2025),11/8/2025,True Color,2190,2190,,PCU
+ST25NOV09-02-001,TEM Influent (11-08-2025),11/8/2025,Volatile Acids,587,587,,mg/L
+ST25NOV09-02-001,TEM Influent (11-08-2025),11/8/2025,Ammonia as N,28.1,28.1,,mg/L
+ST25NOV10-01-001,TEM Influent (11-09-2025),11/9/2025,Biochemical Oxygen Demand,582,582,,mg/L
+ST25NOV10-01-001,TEM Influent (11-09-2025),11/9/2025,pH,6.11,6.11,,pH Units
+ST25NOV10-01-001,TEM Influent (11-09-2025),11/9/2025,Sample Amount,1000,1000,,ml
+ST25NOV10-01-001,TEM Influent (11-09-2025),11/9/2025,Settleable Solids,14,14,,ml/L
+ST25NOV10-01-001,TEM Influent (11-09-2025),11/9/2025,% Volatile Suspended Solids,96,96,,%
+ST25NOV10-01-001,TEM Influent (11-09-2025),11/9/2025,Total Suspended Solids,385,385,,mg/L
+ST25NOV10-01-001,TEM Influent (11-09-2025),11/9/2025,TSS - Change in Wt,1.30,1.30,,%
+ST25NOV10-01-001,TEM Influent (11-09-2025),11/9/2025,Volatile Suspended Solids,371,371,,mg/L
+ST25NOV10-01-001,TEM Influent (11-09-2025),11/9/2025,Sulfur,12.1,12.1,,mg/L
+ST25NOV10-01-001,TEM Influent (11-09-2025),11/9/2025,Ammonia as N,22,22,,mg/L
+ST25NOV10-01-001,TEM Influent (11-09-2025),11/9/2025,Volatile Acids,306,306,,mg/L
+ST25NOV10-01-001,TEM Influent (11-09-2025),11/9/2025,Apparent Color,3850,3850,,PCU
+ST25NOV10-01-001,TEM Influent (11-09-2025),11/9/2025,pH Apparent Color,6.11,6.11,,
+ST25NOV10-01-001,TEM Influent (11-09-2025),11/9/2025,True Color,,,,PCU
+ST25NOV10-01-001,TEM Influent (11-09-2025),11/9/2025,Chemical Oxygen Demand,1700,1700,,mg/L
+ST25NOV11-01-001,TEM Influent (11-10-2025),11/10/2025,Biochemical Oxygen Demand,1630,1630,,mg/L
+ST25NOV11-01-001,TEM Influent (11-10-2025),11/10/2025,pH,6.07,6.07,,pH Units
+ST25NOV11-01-001,TEM Influent (11-10-2025),11/10/2025,Sample Amount,1000,1000,,ml
+ST25NOV11-01-001,TEM Influent (11-10-2025),11/10/2025,Settleable Solids,8,8,,ml/L
+ST25NOV11-01-001,TEM Influent (11-10-2025),11/10/2025,% Volatile Suspended Solids,87,87,,%
+ST25NOV11-01-001,TEM Influent (11-10-2025),11/10/2025,Total Suspended Solids,432,432,,mg/L
+ST25NOV11-01-001,TEM Influent (11-10-2025),11/10/2025,TSS - Change in Wt,1.63,1.63,,%
+ST25NOV11-01-001,TEM Influent (11-10-2025),11/10/2025,Volatile Suspended Solids,377,377,,mg/L
+ST25NOV11-01-001,TEM Influent (11-10-2025),11/10/2025,Sulfur,20.7,20.7,,mg/L
+ST25NOV11-01-001,TEM Influent (11-10-2025),11/10/2025,Chemical Oxygen Demand,1434,1434,,mg/L
+ST25NOV11-01-001,TEM Influent (11-10-2025),11/10/2025,Apparent Color,670,670,,PCU
+ST25NOV11-01-001,TEM Influent (11-10-2025),11/10/2025,pH Apparent Color,6.07,6.07,,
+ST25NOV11-01-001,TEM Influent (11-10-2025),11/10/2025,True Color,540,540,,PCU
+ST25NOV11-01-001,TEM Influent (11-10-2025),11/10/2025,Volatile Acids,333,333,,mg/L
+ST25NOV11-01-001,TEM Influent (11-10-2025),11/10/2025,Ammonia as N,46.8,46.8,,mg/L
+ST25NOV12-01-001,TEM Influent (11-11-2025),11/11/2025,Biochemical Oxygen Demand,523,523,,mg/L
+ST25NOV12-01-001,TEM Influent (11-11-2025),11/11/2025,pH,6.96,6.96,,pH Units
+ST25NOV12-01-001,TEM Influent (11-11-2025),11/11/2025,% Volatile Suspended Solids,92,92,,%
+ST25NOV12-01-001,TEM Influent (11-11-2025),11/11/2025,Total Suspended Solids,352,352,,mg/L
+ST25NOV12-01-001,TEM Influent (11-11-2025),11/11/2025,TSS - Change in Wt,0.85,0.85,,%
+ST25NOV12-01-001,TEM Influent (11-11-2025),11/11/2025,Volatile Suspended Solids,324,324,,mg/L
+ST25NOV12-01-001,TEM Influent (11-11-2025),11/11/2025,Sample Amount,1000,1000,,ml
+ST25NOV12-01-001,TEM Influent (11-11-2025),11/11/2025,Settleable Solids,8,8,,ml/L
+ST25NOV12-01-001,TEM Influent (11-11-2025),11/11/2025,Sulfur,29.9,29.9,,mg/L
+ST25NOV12-01-001,TEM Influent (11-11-2025),11/11/2025,Ammonia as N,18.4,18.4,,mg/L
+ST25NOV12-01-001,TEM Influent (11-11-2025),11/11/2025,Chemical Oxygen Demand,1290,1290,,mg/L
+ST25NOV12-01-001,TEM Influent (11-11-2025),11/11/2025,Apparent Color,2470,2470,,PCU
+ST25NOV12-01-001,TEM Influent (11-11-2025),11/11/2025,pH Apparent Color,6.96,6.96,,
+ST25NOV12-01-001,TEM Influent (11-11-2025),11/11/2025,True Color,880,880,,PCU
+ST25NOV12-01-001,TEM Influent (11-11-2025),11/11/2025,Volatile Acids,177,177,,mg/L
+ST25NOV13-01-001,TEM Influent (11-12-2025),11/12/2025,Biochemical Oxygen Demand,702,702,,mg/L
+ST25NOV13-01-001,TEM Influent (11-12-2025),11/12/2025,pH,6.54,6.54,,pH Units
+ST25NOV13-01-001,TEM Influent (11-12-2025),11/12/2025,% Volatile Suspended Solids,96,96,,%
+ST25NOV13-01-001,TEM Influent (11-12-2025),11/12/2025,Total Suspended Solids,437,437,,mg/L
+ST25NOV13-01-001,TEM Influent (11-12-2025),11/12/2025,TSS - Change in Wt,0.23,0.23,,%
+ST25NOV13-01-001,TEM Influent (11-12-2025),11/12/2025,Volatile Suspended Solids,420,420,,mg/L
+ST25NOV13-01-001,TEM Influent (11-12-2025),11/12/2025,Sample Amount,1000,1000,,ml
+ST25NOV13-01-001,TEM Influent (11-12-2025),11/12/2025,Settleable Solids,12,12,,ml/L
+ST25NOV13-01-001,TEM Influent (11-12-2025),11/12/2025,Sulfur,22.7,22.7,,mg/L
+ST25NOV13-01-001,TEM Influent (11-12-2025),11/12/2025,Volatile Acids,351,351,,mg/L
+ST25NOV13-01-001,TEM Influent (11-12-2025),11/12/2025,Ammonia as N,16,16,,mg/L
+ST25NOV13-01-001,TEM Influent (11-12-2025),11/12/2025,Apparent Color,3840,3840,,PCU
+ST25NOV13-01-001,TEM Influent (11-12-2025),11/12/2025,pH Apparent Color,6.54,6.54,,
+ST25NOV13-01-001,TEM Influent (11-12-2025),11/12/2025,True Color,900,900,,PCU
+ST25NOV13-01-001,TEM Influent (11-12-2025),11/12/2025,Chemical Oxygen Demand,1810,1810,,mg/L
+ST25NOV14-01-001,TEM Influent (11-13-2025),11/13/2025,Biochemical Oxygen Demand,709,709,,mg/L
+ST25NOV14-01-001,TEM Influent (11-13-2025),11/13/2025,pH,6.79,6.79,,pH Units
+ST25NOV14-01-001,TEM Influent (11-13-2025),11/13/2025,Sample Amount,1000,1000,,ml
+ST25NOV14-01-001,TEM Influent (11-13-2025),11/13/2025,Settleable Solids,15,15,,ml/L
+ST25NOV14-01-001,TEM Influent (11-13-2025),11/13/2025,% Volatile Suspended Solids,92,92,,%
+ST25NOV14-01-001,TEM Influent (11-13-2025),11/13/2025,Total Suspended Solids,493,493,,mg/L
+ST25NOV14-01-001,TEM Influent (11-13-2025),11/13/2025,TSS - Change in Wt,0.81,0.81,,%
+ST25NOV14-01-001,TEM Influent (11-13-2025),11/13/2025,Volatile Suspended Solids,454,454,,mg/L
+ST25NOV14-01-001,TEM Influent (11-13-2025),11/13/2025,Sulfur,28.1,28.1,,mg/L
+ST25NOV14-01-001,TEM Influent (11-13-2025),11/13/2025,Volatile Acids,290,290,,mg/L
+ST25NOV14-01-001,TEM Influent (11-13-2025),11/13/2025,Ammonia as N,19.2,19.2,,mg/L
+ST25NOV14-01-001,TEM Influent (11-13-2025),11/13/2025,Apparent Color,3930,3930,,PCU
+ST25NOV14-01-001,TEM Influent (11-13-2025),11/13/2025,pH Apparent Color,6.79,6.79,,
+ST25NOV14-01-001,TEM Influent (11-13-2025),11/13/2025,True Color,660,660,,PCU
+ST25NOV14-01-001,TEM Influent (11-13-2025),11/13/2025,Chemical Oxygen Demand,1710,1710,,mg/L
+ST25NOV15-02-001,TEM Influent (11-14-2025),11/14/2025,Biochemical Oxygen Demand,961,961,,mg/L
+ST25NOV15-02-001,TEM Influent (11-14-2025),11/14/2025,pH,6.55,6.55,,pH Units
+ST25NOV15-02-001,TEM Influent (11-14-2025),11/14/2025,% Volatile Suspended Solids,94,94,,%
+ST25NOV15-02-001,TEM Influent (11-14-2025),11/14/2025,Total Suspended Solids,567,567,,mg/L
+ST25NOV15-02-001,TEM Influent (11-14-2025),11/14/2025,TSS - Change in Wt,0.53,0.53,,%
+ST25NOV15-02-001,TEM Influent (11-14-2025),11/14/2025,Volatile Suspended Solids,535,535,,mg/L
+ST25NOV15-02-001,TEM Influent (11-14-2025),11/14/2025,Sample Amount,1000,1000,,ml
+ST25NOV15-02-001,TEM Influent (11-14-2025),11/14/2025,Settleable Solids,14,14,,ml/L
+ST25NOV15-02-001,TEM Influent (11-14-2025),11/14/2025,Sulfur,48.6,48.6,,mg/L
+ST25NOV15-02-001,TEM Influent (11-14-2025),11/14/2025,Ammonia as N,17.2,17.2,,mg/L
+ST25NOV15-02-001,TEM Influent (11-14-2025),11/14/2025,Volatile Acids,493,493,,mg/L
+ST25NOV15-02-001,TEM Influent (11-14-2025),11/14/2025,Apparent Color,2660,2660,,PCU
+ST25NOV15-02-001,TEM Influent (11-14-2025),11/14/2025,pH Apparent Color,6.55,6.55,,
+ST25NOV15-02-001,TEM Influent (11-14-2025),11/14/2025,True Color,780,780,,PCU
+ST25NOV15-02-001,TEM Influent (11-14-2025),11/14/2025,Chemical Oxygen Demand,1520,1520,,mg/L
+ST25NOV16-02-001,TEM Influent (11-15-2025),11/15/2025,Biochemical Oxygen Demand,823,823,,mg/L
+ST25NOV16-02-001,TEM Influent (11-15-2025),11/15/2025,pH,6.67,6.67,,pH Units
+ST25NOV16-02-001,TEM Influent (11-15-2025),11/15/2025,% Volatile Suspended Solids,93,93,,%
+ST25NOV16-02-001,TEM Influent (11-15-2025),11/15/2025,Total Suspended Solids,473,473,,mg/L
+ST25NOV16-02-001,TEM Influent (11-15-2025),11/15/2025,TSS - Change in Wt,1.79,1.79,,%
+ST25NOV16-02-001,TEM Influent (11-15-2025),11/15/2025,Volatile Suspended Solids,442,442,,mg/L
+ST25NOV16-02-001,TEM Influent (11-15-2025),11/15/2025,Sample Amount,1000,1000,,ml
+ST25NOV16-02-001,TEM Influent (11-15-2025),11/15/2025,Settleable Solids,11,11,,ml/L
+ST25NOV16-02-001,TEM Influent (11-15-2025),11/15/2025,Sulfur,29.9,29.9,,mg/L
+ST25NOV16-02-001,TEM Influent (11-15-2025),11/15/2025,Ammonia as N,21.1,21.1,,mg/L
+ST25NOV16-02-001,TEM Influent (11-15-2025),11/15/2025,Volatile Acids,402,402,,mg/L
+ST25NOV16-02-001,TEM Influent (11-15-2025),11/15/2025,Chemical Oxygen Demand,1520,1520,,mg/L
+ST25NOV16-02-001,TEM Influent (11-15-2025),11/15/2025,Apparent Color,3220,3220,,PCU
+ST25NOV16-02-001,TEM Influent (11-15-2025),11/15/2025,pH Apparent Color,6.67,6.67,,
+ST25NOV16-02-001,TEM Influent (11-15-2025),11/15/2025,True Color,1000,1000,,PCU
+ST25NOV17-01-001,TEM Influent (11-16-2025),11/16/2025,Biochemical Oxygen Demand,786,786,,mg/L
+ST25NOV17-01-001,TEM Influent (11-16-2025),11/16/2025,pH,6.50,6.50,,pH Units
+ST25NOV17-01-001,TEM Influent (11-16-2025),11/16/2025,Sample Amount,1000,1000,,ml
+ST25NOV17-01-001,TEM Influent (11-16-2025),11/16/2025,Settleable Solids,10,10,,ml/L
+ST25NOV17-01-001,TEM Influent (11-16-2025),11/16/2025,% Volatile Suspended Solids,90,90,,%
+ST25NOV17-01-001,TEM Influent (11-16-2025),11/16/2025,Total Suspended Solids,412,412,,mg/L
+ST25NOV17-01-001,TEM Influent (11-16-2025),11/16/2025,TSS - Change in Wt,2.67,2.67,,%
+ST25NOV17-01-001,TEM Influent (11-16-2025),11/16/2025,Volatile Suspended Solids,370,370,,mg/L
+ST25NOV17-01-001,TEM Influent (11-16-2025),11/16/2025,Sulfur,24.2,24.2,,mg/L
+ST25NOV17-01-001,TEM Influent (11-16-2025),11/16/2025,Ammonia as N,23.1,23.1,,mg/L
+ST25NOV17-01-001,TEM Influent (11-16-2025),11/16/2025,Volatile Acids,306,306,,mg/L
+ST25NOV17-01-001,TEM Influent (11-16-2025),11/16/2025,Apparent Color,2360,2360,,PCU
+ST25NOV17-01-001,TEM Influent (11-16-2025),11/16/2025,pH Apparent Color,6.50,6.50,,
+ST25NOV17-01-001,TEM Influent (11-16-2025),11/16/2025,True Color,790,790,,PCU
+ST25NOV17-01-001,TEM Influent (11-16-2025),11/16/2025,Chemical Oxygen Demand,1380,1380,,mg/L
+ST25NOV18-01-001,TEM Influent (11-17-2025),11/17/2025,Biochemical Oxygen Demand,863,863,,mg/L
+ST25NOV18-01-001,TEM Influent (11-17-2025),11/17/2025,pH,6.55,6.55,,pH Units
+ST25NOV18-01-001,TEM Influent (11-17-2025),11/17/2025,Sample Amount,1000,1000,,ml
+ST25NOV18-01-001,TEM Influent (11-17-2025),11/17/2025,Settleable Solids,17,17,,ml/L
+ST25NOV18-01-001,TEM Influent (11-17-2025),11/17/2025,% Volatile Suspended Solids,88,88,,%
+ST25NOV18-01-001,TEM Influent (11-17-2025),11/17/2025,Total Suspended Solids,507,507,,mg/L
+ST25NOV18-01-001,TEM Influent (11-17-2025),11/17/2025,TSS - Change in Wt,0.39,0.39,,%
+ST25NOV18-01-001,TEM Influent (11-17-2025),11/17/2025,Volatile Suspended Solids,445,445,,mg/L
+ST25NOV18-01-001,TEM Influent (11-17-2025),11/17/2025,Sulfur,29.7,29.7,,mg/L
+ST25NOV18-01-001,TEM Influent (11-17-2025),11/17/2025,Ammonia as N,20.9,20.9,,mg/L
+ST25NOV18-01-001,TEM Influent (11-17-2025),11/17/2025,Volatile Acids,430,430,,mg/L
+ST25NOV18-01-001,TEM Influent (11-17-2025),11/17/2025,Apparent Color,3990,3990,,PCU
+ST25NOV18-01-001,TEM Influent (11-17-2025),11/17/2025,pH Apparent Color,6.55,6.55,,
+ST25NOV18-01-001,TEM Influent (11-17-2025),11/17/2025,True Color,880,880,,PCU
+ST25NOV18-01-001,TEM Influent (11-17-2025),11/17/2025,Chemical Oxygen Demand,1786,1786,,mg/L
+ST25NOV19-01-001,TEM Influent (11-18-2025),11/18/2025,Biochemical Oxygen Demand,771,771,,mg/L
+ST25NOV19-01-001,TEM Influent (11-18-2025),11/18/2025,pH,6.14,6.14,,pH Units
+ST25NOV19-01-001,TEM Influent (11-18-2025),11/18/2025,% Volatile Suspended Solids,94,94,,%
+ST25NOV19-01-001,TEM Influent (11-18-2025),11/18/2025,Total Suspended Solids,439,439,,mg/L
+ST25NOV19-01-001,TEM Influent (11-18-2025),11/18/2025,TSS - Change in Wt,1.93,1.93,,%
+ST25NOV19-01-001,TEM Influent (11-18-2025),11/18/2025,Volatile Suspended Solids,413,413,,mg/L
+ST25NOV19-01-001,TEM Influent (11-18-2025),11/18/2025,Sample Amount,1000,1000,,ml
+ST25NOV19-01-001,TEM Influent (11-18-2025),11/18/2025,Settleable Solids,14,14,,ml/L
+ST25NOV19-01-001,TEM Influent (11-18-2025),11/18/2025,Sulfur,35.7,35.7,,mg/L
+ST25NOV19-01-001,TEM Influent (11-18-2025),11/18/2025,Ammonia as N,51,51,,mg/L
+ST25NOV19-01-001,TEM Influent (11-18-2025),11/18/2025,Volatile Acids,366,366,,mg/L
+ST25NOV19-01-001,TEM Influent (11-18-2025),11/18/2025,Chemical Oxygen Demand,1800,1800,,mg/L
+ST25NOV19-01-001,TEM Influent (11-18-2025),11/18/2025,Apparent Color,3610,3610,,PCU
+ST25NOV19-01-001,TEM Influent (11-18-2025),11/18/2025,pH Apparent Color,6.14,6.14,,
+ST25NOV19-01-001,TEM Influent (11-18-2025),11/18/2025,True Color,1110,1110,,PCU
+ST25NOV20-01-001,TEM Influent (11-19-2025),11/19/2025,Biochemical Oxygen Demand,910,910,,mg/L
+ST25NOV20-01-001,TEM Influent (11-19-2025),11/19/2025,pH,6.70,6.70,,pH Units
+ST25NOV20-01-001,TEM Influent (11-19-2025),11/19/2025,% Volatile Suspended Solids,90,90,,%
+ST25NOV20-01-001,TEM Influent (11-19-2025),11/19/2025,Total Suspended Solids,496,496,,mg/L
+ST25NOV20-01-001,TEM Influent (11-19-2025),11/19/2025,TSS - Change in Wt,1.11,1.11,,%
+ST25NOV20-01-001,TEM Influent (11-19-2025),11/19/2025,Volatile Suspended Solids,449,449,,mg/L
+ST25NOV20-01-001,TEM Influent (11-19-2025),11/19/2025,Sample Amount,1000,1000,,ml
+ST25NOV20-01-001,TEM Influent (11-19-2025),11/19/2025,Settleable Solids,11,11,,ml/L
+ST25NOV20-01-001,TEM Influent (11-19-2025),11/19/2025,Sulfur,45.5,45.5,,mg/L
+ST25NOV20-01-001,TEM Influent (11-19-2025),11/19/2025,Volatile Acids,393,393,,mg/L
+ST25NOV20-01-001,TEM Influent (11-19-2025),11/19/2025,Ammonia as N,25.8,25.8,,mg/L
+ST25NOV20-01-001,TEM Influent (11-19-2025),11/19/2025,Chemical Oxygen Demand,1780,1780,,mg/L
+ST25NOV20-01-001,TEM Influent (11-19-2025),11/19/2025,Apparent Color,2910,2910,,PCU
+ST25NOV20-01-001,TEM Influent (11-19-2025),11/19/2025,pH Apparent Color,6.70,6.70,,
+ST25NOV20-01-001,TEM Influent (11-19-2025),11/19/2025,True Color,910,910,,PCU
+ST25NOV21-01-001,TEM Influent (11-20-2025),11/20/2025,Biochemical Oxygen Demand,622,622,,mg/L
+ST25NOV21-01-001,TEM Influent (11-20-2025),11/20/2025,pH,6.85,6.85,,pH Units
+ST25NOV21-01-001,TEM Influent (11-20-2025),11/20/2025,Sample Amount,1000,1000,,ml
+ST25NOV21-01-001,TEM Influent (11-20-2025),11/20/2025,Settleable Solids,10,10,,ml/L
+ST25NOV21-01-001,TEM Influent (11-20-2025),11/20/2025,% Volatile Suspended Solids,99,99,,%
+ST25NOV21-01-001,TEM Influent (11-20-2025),11/20/2025,Total Suspended Solids,479,479,,mg/L
+ST25NOV21-01-001,TEM Influent (11-20-2025),11/20/2025,TSS - Change in Wt,1.46,1.46,,%
+ST25NOV21-01-001,TEM Influent (11-20-2025),11/20/2025,Volatile Suspended Solids,476,476,,mg/L
+ST25NOV21-01-001,TEM Influent (11-20-2025),11/20/2025,Sulfur,51.7,51.7,,mg/L
+ST25NOV21-01-001,TEM Influent (11-20-2025),11/20/2025,Ammonia as N,21.6,21.6,,mg/L
+ST25NOV21-01-001,TEM Influent (11-20-2025),11/20/2025,Volatile Acids,153,153,,mg/L
+ST25NOV21-01-001,TEM Influent (11-20-2025),11/20/2025,Chemical Oxygen Demand,1420,1420,,mg/L
+ST25NOV21-01-001,TEM Influent (11-20-2025),11/20/2025,Apparent Color,3820,3820,,PCU
+ST25NOV21-01-001,TEM Influent (11-20-2025),11/20/2025,pH Apparent Color,6.85,6.85,,
+ST25NOV21-01-001,TEM Influent (11-20-2025),11/20/2025,True Color,990,990,,PCU
+ST25NOV22-02-001,TEM Influent (11-21-2025),11/21/2025,Biochemical Oxygen Demand,662,662,,mg/L
+ST25NOV22-02-001,TEM Influent (11-21-2025),11/21/2025,pH,7.25,7.25,,pH Units
+ST25NOV22-02-001,TEM Influent (11-21-2025),11/21/2025,% Volatile Suspended Solids,86,86,,%
+ST25NOV22-02-001,TEM Influent (11-21-2025),11/21/2025,Total Suspended Solids,524,524,,mg/L
+ST25NOV22-02-001,TEM Influent (11-21-2025),11/21/2025,TSS - Change in Wt,2.29,2.29,,%
+ST25NOV22-02-001,TEM Influent (11-21-2025),11/21/2025,Volatile Suspended Solids,449,449,,mg/L
+ST25NOV22-02-001,TEM Influent (11-21-2025),11/21/2025,Sample Amount,1000,1000,,ml
+ST25NOV22-02-001,TEM Influent (11-21-2025),11/21/2025,Settleable Solids,10,10,,ml/L
+ST25NOV22-02-001,TEM Influent (11-21-2025),11/21/2025,Sulfur,33.6,33.6,,mg/L
+ST25NOV22-02-001,TEM Influent (11-21-2025),11/21/2025,Chemical Oxygen Demand,1410,1410,,mg/L
+ST25NOV22-02-001,TEM Influent (11-21-2025),11/21/2025,Ammonia as N,19.2,19.2,,mg/L
+ST25NOV22-02-001,TEM Influent (11-21-2025),11/21/2025,Volatile Acids,145,145,,mg/L
+ST25NOV22-02-001,TEM Influent (11-21-2025),11/21/2025,Apparent Color,3110,3110,,PCU
+ST25NOV22-02-001,TEM Influent (11-21-2025),11/21/2025,pH Apparent Color,7.25,7.25,,
+ST25NOV22-02-001,TEM Influent (11-21-2025),11/21/2025,True Color,570,570,,PCU
+ST25NOV23-02-001,TEM Influent (11-22-2025),11/22/2025,Biochemical Oxygen Demand,733,733,,mg/L
+ST25NOV23-02-001,TEM Influent (11-22-2025),11/22/2025,pH,6.12,6.12,,pH Units
+ST25NOV23-02-001,TEM Influent (11-22-2025),11/22/2025,% Volatile Suspended Solids,92,92,,%
+ST25NOV23-02-001,TEM Influent (11-22-2025),11/22/2025,Total Suspended Solids,593,593,,mg/L
+ST25NOV23-02-001,TEM Influent (11-22-2025),11/22/2025,TSS - Change in Wt,1.93,1.93,,%
+ST25NOV23-02-001,TEM Influent (11-22-2025),11/22/2025,Volatile Suspended Solids,548,548,,mg/L
+ST25NOV23-02-001,TEM Influent (11-22-2025),11/22/2025,Sample Amount,1000,1000,,ml
+ST25NOV23-02-001,TEM Influent (11-22-2025),11/22/2025,Settleable Solids,8,8,,ml/L
+ST25NOV23-02-001,TEM Influent (11-22-2025),11/22/2025,Sulfur,45.3,45.3,,mg/L
+ST25NOV23-02-001,TEM Influent (11-22-2025),11/22/2025,Ammonia as N,28.9,28.9,,mg/L
+ST25NOV23-02-001,TEM Influent (11-22-2025),11/22/2025,Volatile Acids,296,296,,mg/L
+ST25NOV23-02-001,TEM Influent (11-22-2025),11/22/2025,Chemical Oxygen Demand,1830,1830,,mg/L
+ST25NOV23-02-001,TEM Influent (11-22-2025),11/22/2025,Apparent Color,4290,4290,,PCU
+ST25NOV23-02-001,TEM Influent (11-22-2025),11/22/2025,pH Apparent Color,6.12,6.12,,
+ST25NOV23-02-001,TEM Influent (11-22-2025),11/22/2025,True Color,460,460,,PCU
+ST25NOV24-01-001,TEM Influent (11-23-2025),11/23/2025,Biochemical Oxygen Demand,753,753,,mg/L
+ST25NOV24-01-001,TEM Influent (11-23-2025),11/23/2025,pH,6.09,6.09,,pH Units
+ST25NOV24-01-001,TEM Influent (11-23-2025),11/23/2025,Sample Amount,1000,1000,,ml
+ST25NOV24-01-001,TEM Influent (11-23-2025),11/23/2025,Settleable Solids,10,10,,ml/L
+ST25NOV24-01-001,TEM Influent (11-23-2025),11/23/2025,% Volatile Suspended Solids,98,98,,%
+ST25NOV24-01-001,TEM Influent (11-23-2025),11/23/2025,Total Suspended Solids,511,511,,mg/L
+ST25NOV24-01-001,TEM Influent (11-23-2025),11/23/2025,TSS - Change in Wt,1.37,1.37,,%
+ST25NOV24-01-001,TEM Influent (11-23-2025),11/23/2025,Volatile Suspended Solids,500,500,,mg/L
+ST25NOV24-01-001,TEM Influent (11-23-2025),11/23/2025,Sulfur,37.1,37.1,,mg/L
+ST25NOV24-01-001,TEM Influent (11-23-2025),11/23/2025,Ammonia as N,26.2,26.2,,mg/L
+ST25NOV24-01-001,TEM Influent (11-23-2025),11/23/2025,Volatile Acids,173,173,,mg/L
+ST25NOV24-01-001,TEM Influent (11-23-2025),11/23/2025,Chemical Oxygen Demand,1020,1020,,mg/L
+ST25NOV24-01-001,TEM Influent (11-23-2025),11/23/2025,Apparent Color,3000,3000,,PCU
+ST25NOV24-01-001,TEM Influent (11-23-2025),11/23/2025,pH Apparent Color,6.09,6.09,,
+ST25NOV24-01-001,TEM Influent (11-23-2025),11/23/2025,True Color,760,760,,PCU
+ST25NOV24-01-043,TEM Influent (Metals) (11-24-2025),11/24/2025,Arsenic,<0.0100,<0.0100,,mg/L
+ST25NOV24-01-043,TEM Influent (Metals) (11-24-2025),11/24/2025,Cadmium,<0.0020,<0.0020,,mg/L
+ST25NOV24-01-043,TEM Influent (Metals) (11-24-2025),11/24/2025,Chromium,<0.0050,<0.0050,,mg/L
+ST25NOV24-01-043,TEM Influent (Metals) (11-24-2025),11/24/2025,Cobalt,<0.0100,<0.0100,,mg/L
+ST25NOV24-01-043,TEM Influent (Metals) (11-24-2025),11/24/2025,Copper,0.0606,0.0606,,mg/L
+ST25NOV24-01-043,TEM Influent (Metals) (11-24-2025),11/24/2025,Lead,<0.0060,<0.0060,,mg/L
+ST25NOV24-01-043,TEM Influent (Metals) (11-24-2025),11/24/2025,Analysis Date/Time,12/5/2025 14:06,12/5/2025 14:06,,
+ST25NOV24-01-043,TEM Influent (Metals) (11-24-2025),11/24/2025,Mercury,<0.00020,<0.00020,,mg/L
+ST25NOV24-01-043,TEM Influent (Metals) (11-24-2025),11/24/2025,Method Reference,EPA-245.1,EPA-245.1,,
+ST25NOV24-01-043,TEM Influent (Metals) (11-24-2025),11/24/2025,Subcontract Lab ID,Waypoint Analytical LLC.,Waypoint Analytical LLC.,,
+ST25NOV24-01-043,TEM Influent (Metals) (11-24-2025),11/24/2025,Molybdenum,0.018,0.018,,mg/L
+ST25NOV24-01-043,TEM Influent (Metals) (11-24-2025),11/24/2025,Nickel,0.0263,0.0263,,mg/L
+ST25NOV24-01-043,TEM Influent (Metals) (11-24-2025),11/24/2025,Selenium,<0.0100,<0.0100,,mg/L
+ST25NOV24-01-043,TEM Influent (Metals) (11-24-2025),11/24/2025,Zinc,0.151,0.151,,mg/L
+ST25NOV25-01-001,TEM Influent (11-24-2025),11/24/2025,Biochemical Oxygen Demand,789,789,,mg/L
+ST25NOV25-01-001,TEM Influent (11-24-2025),11/24/2025,pH,6.73,6.73,,pH Units
+ST25NOV25-01-001,TEM Influent (11-24-2025),11/24/2025,Sample Amount,1000,1000,,ml
+ST25NOV25-01-001,TEM Influent (11-24-2025),11/24/2025,Settleable Solids,9,9,,ml/L
+ST25NOV25-01-001,TEM Influent (11-24-2025),11/24/2025,% Volatile Suspended Solids,99,99,,%
+ST25NOV25-01-001,TEM Influent (11-24-2025),11/24/2025,Total Suspended Solids,427,427,,mg/L
+ST25NOV25-01-001,TEM Influent (11-24-2025),11/24/2025,TSS - Change in Wt,1.99,1.99,,%
+ST25NOV25-01-001,TEM Influent (11-24-2025),11/24/2025,Volatile Suspended Solids,422,422,,mg/L
+ST25NOV25-01-001,TEM Influent (11-24-2025),11/24/2025,Sulfur,56.8,56.8,,mg/L
+ST25NOV25-01-001,TEM Influent (11-24-2025),11/24/2025,Ammonia as N,23.4,23.4,,mg/L
+ST25NOV25-01-001,TEM Influent (11-24-2025),11/24/2025,Volatile Acids,433,433,,mg/L
+ST25NOV25-01-001,TEM Influent (11-24-2025),11/24/2025,Chemical Oxygen Demand,2350,2350,,mg/L
+ST25NOV25-01-001,TEM Influent (11-24-2025),11/24/2025,Apparent Color,4410,4410,,PCU
+ST25NOV25-01-001,TEM Influent (11-24-2025),11/24/2025,pH Apparent Color,6.73,6.73,,
+ST25NOV25-01-001,TEM Influent (11-24-2025),11/24/2025,True Color,1310,1310,,PCU
+ST25NOV26-01-001,TEM Influent (11-25-2025),11/25/2025,Biochemical Oxygen Demand,524,524,,mg/L
+ST25NOV26-01-001,TEM Influent (11-25-2025),11/25/2025,pH,6.67,6.67,,pH Units
+ST25NOV26-01-001,TEM Influent (11-25-2025),11/25/2025,% Volatile Suspended Solids,92,92,,%
+ST25NOV26-01-001,TEM Influent (11-25-2025),11/25/2025,Total Suspended Solids,470,470,,mg/L
+ST25NOV26-01-001,TEM Influent (11-25-2025),11/25/2025,TSS - Change in Wt,1.81,1.81,,%
+ST25NOV26-01-001,TEM Influent (11-25-2025),11/25/2025,Volatile Suspended Solids,434,434,,mg/L
+ST25NOV26-01-001,TEM Influent (11-25-2025),11/25/2025,Sample Amount,1000,1000,,ml
+ST25NOV26-01-001,TEM Influent (11-25-2025),11/25/2025,Settleable Solids,8,8,,ml/L
+ST25NOV26-01-001,TEM Influent (11-25-2025),11/25/2025,Sulfur,42.6,42.6,,mg/L
+ST25NOV26-01-001,TEM Influent (11-25-2025),11/25/2025,Ammonia as N,19.5,19.5,,mg/L
+ST25NOV26-01-001,TEM Influent (11-25-2025),11/25/2025,Volatile Acids,621,621,,mg/L
+ST25NOV26-01-001,TEM Influent (11-25-2025),11/25/2025,Chemical Oxygen Demand,1288,1288,,mg/L
+ST25NOV26-01-001,TEM Influent (11-25-2025),11/25/2025,Apparent Color,2870,2870,,PCU
+ST25NOV26-01-001,TEM Influent (11-25-2025),11/25/2025,pH Apparent Color,6.67,6.67,,
+ST25NOV26-01-001,TEM Influent (11-25-2025),11/25/2025,True Color,1220,1220,,PCU
+ST25NOV27-01-001,TEM Influent (11-26-2025),11/26/2025,Biochemical Oxygen Demand,548,548,,mg/L
+ST25NOV27-01-001,TEM Influent (11-26-2025),11/26/2025,pH,7.37,7.37,,pH Units
+ST25NOV27-01-001,TEM Influent (11-26-2025),11/26/2025,% Volatile Suspended Solids,82,82,,%
+ST25NOV27-01-001,TEM Influent (11-26-2025),11/26/2025,Total Suspended Solids,699,699,,mg/L
+ST25NOV27-01-001,TEM Influent (11-26-2025),11/26/2025,TSS - Change in Wt,1.57,1.57,,%
+ST25NOV27-01-001,TEM Influent (11-26-2025),11/26/2025,Volatile Suspended Solids,576,576,,mg/L
+ST25NOV27-01-001,TEM Influent (11-26-2025),11/26/2025,Sample Amount,1000,1000,,ml
+ST25NOV27-01-001,TEM Influent (11-26-2025),11/26/2025,Settleable Solids,18,18,,ml/L
+ST25NOV27-01-001,TEM Influent (11-26-2025),11/26/2025,Sulfur,40.8,40.8,,mg/L
+ST25NOV27-01-001,TEM Influent (11-26-2025),11/26/2025,Ammonia as N,33.9,33.9,,mg/L
+ST25NOV27-01-001,TEM Influent (11-26-2025),11/26/2025,Volatile Acids,584,584,,mg/L
+ST25NOV27-01-001,TEM Influent (11-26-2025),11/26/2025,Apparent Color,540,540,,PCU
+ST25NOV27-01-001,TEM Influent (11-26-2025),11/26/2025,pH Apparent Color,7.37,7.37,,
+ST25NOV27-01-001,TEM Influent (11-26-2025),11/26/2025,True Color,395,395,,PCU
+ST25NOV27-01-001,TEM Influent (11-26-2025),11/26/2025,Chemical Oxygen Demand,1226,1226,,mg/L
+ST25NOV28-01-001,TEM Influent (11-27-2025),11/27/2025,Biochemical Oxygen Demand,633,633,,mg/L
+ST25NOV28-01-001,TEM Influent (11-27-2025),11/27/2025,pH,6.87,6.87,,pH Units
+ST25NOV28-01-001,TEM Influent (11-27-2025),11/27/2025,Sample Amount,1000,1000,,ml
+ST25NOV28-01-001,TEM Influent (11-27-2025),11/27/2025,Settleable Solids,20,20,,ml/L
+ST25NOV28-01-001,TEM Influent (11-27-2025),11/27/2025,% Volatile Suspended Solids,97,97,,%
+ST25NOV28-01-001,TEM Influent (11-27-2025),11/27/2025,Total Suspended Solids,662,662,,mg/L
+ST25NOV28-01-001,TEM Influent (11-27-2025),11/27/2025,TSS - Change in Wt,3.63,3.63,,%
+ST25NOV28-01-001,TEM Influent (11-27-2025),11/27/2025,Volatile Suspended Solids,644,644,,mg/L
+ST25NOV28-01-001,TEM Influent (11-27-2025),11/27/2025,Sulfur,46.7,46.7,,mg/L
+ST25NOV28-01-001,TEM Influent (11-27-2025),11/27/2025,Apparent Color,8380,8380,,PCU
+ST25NOV28-01-001,TEM Influent (11-27-2025),11/27/2025,pH Apparent Color,6.87,6.87,,
+ST25NOV28-01-001,TEM Influent (11-27-2025),11/27/2025,True Color,1960,1960,,PCU
+ST25NOV28-01-001,TEM Influent (11-27-2025),11/27/2025,Ammonia as N,40.4,40.4,,mg/L
+ST25NOV28-01-001,TEM Influent (11-27-2025),11/27/2025,Volatile Acids,381,381,,mg/L
+ST25NOV28-01-001,TEM Influent (11-27-2025),11/27/2025,Chemical Oxygen Demand,3430,3430,,mg/L
+ST25NOV29-02-001,TEM Influent (11-28-2025),11/28/2025,Biochemical Oxygen Demand,658,658,,mg/L
+ST25NOV29-02-001,TEM Influent (11-28-2025),11/28/2025,pH,7.16,7.16,,pH Units
+ST25NOV29-02-001,TEM Influent (11-28-2025),11/28/2025,% Volatile Suspended Solids,86,86,,%
+ST25NOV29-02-001,TEM Influent (11-28-2025),11/28/2025,Total Suspended Solids,852,852,,mg/L
+ST25NOV29-02-001,TEM Influent (11-28-2025),11/28/2025,TSS - Change in Wt,2.11,2.11,,%
+ST25NOV29-02-001,TEM Influent (11-28-2025),11/28/2025,Volatile Suspended Solids,735,735,,mg/L
+ST25NOV29-02-001,TEM Influent (11-28-2025),11/28/2025,Sample Amount,1000,1000,,ml
+ST25NOV29-02-001,TEM Influent (11-28-2025),11/28/2025,Settleable Solids,23,23,,ml/L
+ST25NOV29-02-001,TEM Influent (11-28-2025),11/28/2025,Sulfur,43.9,43.9,,mg/L
+ST25NOV29-02-001,TEM Influent (11-28-2025),11/28/2025,Chemical Oxygen Demand,2580,2580,,mg/L
+ST25NOV29-02-001,TEM Influent (11-28-2025),11/28/2025,Apparent Color,4540,4540,,PCU
+ST25NOV29-02-001,TEM Influent (11-28-2025),11/28/2025,pH Apparent Color,7.16,7.16,,
+ST25NOV29-02-001,TEM Influent (11-28-2025),11/28/2025,True Color,210,210,,PCU
+ST25NOV29-02-001,TEM Influent (11-28-2025),11/28/2025,Volatile Acids,596,596,,mg/L
+ST25NOV29-02-001,TEM Influent (11-28-2025),11/28/2025,Ammonia as N,33.7,33.7,,mg/L
+ST25NOV30-02-001,TEM Influent (11-29-2025),11/29/2025,Biochemical Oxygen Demand,471,471,,mg/L
+ST25NOV30-02-001,TEM Influent (11-29-2025),11/29/2025,pH,6.09,6.09,,pH Units
+ST25NOV30-02-001,TEM Influent (11-29-2025),11/29/2025,% Volatile Suspended Solids,84,84,,%
+ST25NOV30-02-001,TEM Influent (11-29-2025),11/29/2025,Total Suspended Solids,481,481,,mg/L
+ST25NOV30-02-001,TEM Influent (11-29-2025),11/29/2025,TSS - Change in Wt,1.04,1.04,,%
+ST25NOV30-02-001,TEM Influent (11-29-2025),11/29/2025,Volatile Suspended Solids,406,406,,mg/L
+ST25NOV30-02-001,TEM Influent (11-29-2025),11/29/2025,Sample Amount,1000,1000,,ml
+ST25NOV30-02-001,TEM Influent (11-29-2025),11/29/2025,Settleable Solids,5,5,,ml/L
+ST25NOV30-02-001,TEM Influent (11-29-2025),11/29/2025,Sulfur,41.9,41.9,,mg/L
+ST25NOV30-02-001,TEM Influent (11-29-2025),11/29/2025,Ammonia as N,30.9,30.9,,mg/L
+ST25NOV30-02-001,TEM Influent (11-29-2025),11/29/2025,Volatile Acids,336,336,,mg/L
+ST25NOV30-02-001,TEM Influent (11-29-2025),11/29/2025,Chemical Oxygen Demand,1450,1450,,mg/L
+ST25NOV30-02-001,TEM Influent (11-29-2025),11/29/2025,Apparent Color,3180,3180,,PCU
+ST25NOV30-02-001,TEM Influent (11-29-2025),11/29/2025,pH Apparent Color,6.09,6.09,,
+ST25NOV30-02-001,TEM Influent (11-29-2025),11/29/2025,True Color,1250,1250,,PCU
+ST25DEC01-06-001,TEM Influent (11-30-2025),11/30/2025,Biochemical Oxygen Demand,626,626,,mg/L
+ST25DEC01-06-001,TEM Influent (11-30-2025),11/30/2025,pH,6.51,6.51,,pH Units
+ST25DEC01-06-001,TEM Influent (11-30-2025),11/30/2025,Sample Amount,1000,1000,,ml
+ST25DEC01-06-001,TEM Influent (11-30-2025),11/30/2025,Settleable Solids,6,6,,ml/L
+ST25DEC01-06-001,TEM Influent (11-30-2025),11/30/2025,% Volatile Suspended Solids,80,80,,%
+ST25DEC01-06-001,TEM Influent (11-30-2025),11/30/2025,Total Suspended Solids,264,264,,mg/L
+ST25DEC01-06-001,TEM Influent (11-30-2025),11/30/2025,TSS - Change in Wt,13.47,13.5,,%
+ST25DEC01-06-001,TEM Influent (11-30-2025),11/30/2025,Volatile Suspended Solids,211,211,,mg/L
+ST25DEC01-06-001,TEM Influent (11-30-2025),11/30/2025,Sulfur,38.1,38.1,,mg/L
+ST25DEC01-06-001,TEM Influent (11-30-2025),11/30/2025,Chemical Oxygen Demand,1868,1868,,mg/L
+ST25DEC01-06-001,TEM Influent (11-30-2025),11/30/2025,Apparent Color,3340,3340,,PCU
+ST25DEC01-06-001,TEM Influent (11-30-2025),11/30/2025,pH Apparent Color,5.89,5.89,,
+ST25DEC01-06-001,TEM Influent (11-30-2025),11/30/2025,True Color,1020,1020,,PCU
+ST25DEC01-06-001,TEM Influent (11-30-2025),11/30/2025,Ammonia as N,22.2,22.2,,mg/L
+ST25DEC01-06-001,TEM Influent (11-30-2025),11/30/2025,Volatile Acids,318,318,,mg/L
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,Biochemical Oxygen Demand,688,688,,mg/L
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,pH,6.54,6.54,,pH Units
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,Sample Amount,1000,1000,,ml
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,Settleable Solids,9,9,,ml/L
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,% Volatile Suspended Solids,93,93,,%
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,Total Suspended Solids,505,505,,mg/L
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,TSS - Change in Wt,2.97,2.97,,%
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,Volatile Suspended Solids,468,468,,mg/L
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,Sulfur,40.7,40.7,,mg/L
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,Chemical Oxygen Demand,1614,1614,,mg/L
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,Apparent Color,3070,3070,,PCU
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,pH Apparent Color,6.54,6.54,,
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,True Color,1040,1040,,PCU
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,Total Nitrogen,74.4,74.4,,mg/L
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,Phosphorus-total,13.3,13.3,,mg/L
+ST25DEC02-01-001,TEM Influent (12-01-2025),12/1/2025,Volatile Acids,563,563,,mg/L
+ST25DEC03-01-001,TEM Influent (12-02-2025),12/2/2025,Biochemical Oxygen Demand,1296,1296,,mg/L
+ST25DEC03-01-001,TEM Influent (12-02-2025),12/2/2025,pH,6.78,6.78,,pH Units
+ST25DEC03-01-001,TEM Influent (12-02-2025),12/2/2025,% Volatile Suspended Solids,93,93,,%
+ST25DEC03-01-001,TEM Influent (12-02-2025),12/2/2025,Total Suspended Solids,1133,1133,,mg/L
+ST25DEC03-01-001,TEM Influent (12-02-2025),12/2/2025,TSS - Change in Wt,0.18,0.18,,%
+ST25DEC03-01-001,TEM Influent (12-02-2025),12/2/2025,Volatile Suspended Solids,1054,1054,,mg/L
+ST25DEC03-01-001,TEM Influent (12-02-2025),12/2/2025,Sample Amount,1000,1000,,ml
+ST25DEC03-01-001,TEM Influent (12-02-2025),12/2/2025,Settleable Solids,18,18,,ml/L
+ST25DEC03-01-001,TEM Influent (12-02-2025),12/2/2025,Sulfur,27.4,27.4,,mg/L
+ST25DEC03-01-001,TEM Influent (12-02-2025),12/2/2025,Chemical Oxygen Demand,2476,2476,,mg/L
+ST25DEC03-01-001,TEM Influent (12-02-2025),12/2/2025,Apparent Color,3910,3910,,PCU
+ST25DEC03-01-001,TEM Influent (12-02-2025),12/2/2025,pH Apparent Color,6.78,6.78,,
+ST25DEC03-01-001,TEM Influent (12-02-2025),12/2/2025,True Color,400,400,,PCU
+ST25DEC03-01-001,TEM Influent (12-02-2025),12/2/2025,Volatile Acids,469,469,,mg/L
+ST25DEC03-01-001,TEM Influent (12-02-2025),12/2/2025,Ammonia as N,22.7,22.7,,mg/L
+ST25DEC04-01-001,TEM Influent (12-03-2025),12/3/2025,Biochemical Oxygen Demand,1281,1281,,mg/L
+ST25DEC04-01-001,TEM Influent (12-03-2025),12/3/2025,pH,6.50,6.50,,pH Units
+ST25DEC04-01-001,TEM Influent (12-03-2025),12/3/2025,% Volatile Suspended Solids,93,93,,%
+ST25DEC04-01-001,TEM Influent (12-03-2025),12/3/2025,Total Suspended Solids,2673,2673,,mg/L
+ST25DEC04-01-001,TEM Influent (12-03-2025),12/3/2025,TSS - Change in Wt,14.10,14.1,,%
+ST25DEC04-01-001,TEM Influent (12-03-2025),12/3/2025,Volatile Suspended Solids,2481,2481,,mg/L
+ST25DEC04-01-001,TEM Influent (12-03-2025),12/3/2025,Sample Amount,1000,1000,,ml
+ST25DEC04-01-001,TEM Influent (12-03-2025),12/3/2025,Settleable Solids,26 ,26,,ml/L
+ST25DEC04-01-001,TEM Influent (12-03-2025),12/3/2025,Sulfur,9.66,9.66,,mg/L
+ST25DEC04-01-001,TEM Influent (12-03-2025),12/3/2025,Volatile Acids,918,918,,mg/L
+ST25DEC04-01-001,TEM Influent (12-03-2025),12/3/2025,Ammonia as N,34.4,34.4,,mg/L
+ST25DEC04-01-001,TEM Influent (12-03-2025),12/3/2025,Chemical Oxygen Demand,3310,3310,,mg/L
+ST25DEC04-01-001,TEM Influent (12-03-2025),12/3/2025,Apparent Color,5600,5600,,PCU
+ST25DEC04-01-001,TEM Influent (12-03-2025),12/3/2025,pH Apparent Color,6.5,6.5,,
+ST25DEC04-01-001,TEM Influent (12-03-2025),12/3/2025,True Color,1640,1640,,PCU
+ST25DEC05-01-001,TEM Influent (12-04-2025),12/4/2025,Biochemical Oxygen Demand,694,694,,mg/L
+ST25DEC05-01-001,TEM Influent (12-04-2025),12/4/2025,pH,6.70,6.70,,pH Units
+ST25DEC05-01-001,TEM Influent (12-04-2025),12/4/2025,Sample Amount,1000,1000,,ml
+ST25DEC05-01-001,TEM Influent (12-04-2025),12/4/2025,Settleable Solids,13 ,13,,ml/L
+ST25DEC05-01-001,TEM Influent (12-04-2025),12/4/2025,% Volatile Suspended Solids,97,97,,%
+ST25DEC05-01-001,TEM Influent (12-04-2025),12/4/2025,Total Suspended Solids,541,541,,mg/L
+ST25DEC05-01-001,TEM Influent (12-04-2025),12/4/2025,TSS - Change in Wt,4.22,4.22,,%
+ST25DEC05-01-001,TEM Influent (12-04-2025),12/4/2025,Volatile Suspended Solids,527,527,,mg/L
+ST25DEC05-01-001,TEM Influent (12-04-2025),12/4/2025,Sulfur,28,28,,mg/L
+ST25DEC05-01-001,TEM Influent (12-04-2025),12/4/2025,Chemical Oxygen Demand,2380,2380,,mg/L
+ST25DEC05-01-001,TEM Influent (12-04-2025),12/4/2025,Apparent Color,4510,4510,,PCU
+ST25DEC05-01-001,TEM Influent (12-04-2025),12/4/2025,pH Apparent Color,6.70,6.70,,
+ST25DEC05-01-001,TEM Influent (12-04-2025),12/4/2025,True Color,740,740,,PCU
+ST25DEC05-01-001,TEM Influent (12-04-2025),12/4/2025,Ammonia as N,26.3,26.3,,mg/L
+ST25DEC05-01-001,TEM Influent (12-04-2025),12/4/2025,Volatile Acids,422,422,,mg/L
+ST25DEC06-02-001,TEM Influent (12-05-2025),12/5/2025,Biochemical Oxygen Demand,641,641,,mg/L
+ST25DEC06-02-001,TEM Influent (12-05-2025),12/5/2025,pH,6.35,6.35,,pH Units
+ST25DEC06-02-001,TEM Influent (12-05-2025),12/5/2025,% Volatile Suspended Solids,100,100,,%
+ST25DEC06-02-001,TEM Influent (12-05-2025),12/5/2025,Total Suspended Solids,727,727,,mg/L
+ST25DEC06-02-001,TEM Influent (12-05-2025),12/5/2025,TSS - Change in Wt,0.07,0.07,,%
+ST25DEC06-02-001,TEM Influent (12-05-2025),12/5/2025,Volatile Suspended Solids,726,726,,mg/L
+ST25DEC06-02-001,TEM Influent (12-05-2025),12/5/2025,Sample Amount,1000,1000,,ml
+ST25DEC06-02-001,TEM Influent (12-05-2025),12/5/2025,Settleable Solids,40,40,,ml/L
+ST25DEC06-02-001,TEM Influent (12-05-2025),12/5/2025,Sulfur,28.8,28.8,,mg/L
+ST25DEC06-02-001,TEM Influent (12-05-2025),12/5/2025,Chemical Oxygen Demand,2145,2145,,mg/L
+ST25DEC06-02-001,TEM Influent (12-05-2025),12/5/2025,Ammonia as N,31.1,31.1,,mg/L
+ST25DEC06-02-001,TEM Influent (12-05-2025),12/5/2025,Volatile Acids,334,334,,mg/L
+ST25DEC06-02-001,TEM Influent (12-05-2025),12/5/2025,Apparent Color,4630,4630,,PCU
+ST25DEC06-02-001,TEM Influent (12-05-2025),12/5/2025,pH Apparent Color,6.35,6.35,,
+ST25DEC06-02-001,TEM Influent (12-05-2025),12/5/2025,True Color,1120,1120,,PCU
+ST25DEC07-02-001,TEM Influent (12-06-2025),12/6/2025,Biochemical Oxygen Demand,442,442,,mg/L
+ST25DEC07-02-001,TEM Influent (12-06-2025),12/6/2025,pH,6.27,6.27,,pH Units
+ST25DEC07-02-001,TEM Influent (12-06-2025),12/6/2025,% Volatile Suspended Solids,93,93,,%
+ST25DEC07-02-001,TEM Influent (12-06-2025),12/6/2025,Total Suspended Solids,541,541,,mg/L
+ST25DEC07-02-001,TEM Influent (12-06-2025),12/6/2025,TSS - Change in Wt,3.14,3.14,,%
+ST25DEC07-02-001,TEM Influent (12-06-2025),12/6/2025,Volatile Suspended Solids,502,502,,mg/L
+ST25DEC07-02-001,TEM Influent (12-06-2025),12/6/2025,Sample Amount,1000,1000,,ml
+ST25DEC07-02-001,TEM Influent (12-06-2025),12/6/2025,Settleable Solids,16,16,,ml/L
+ST25DEC07-02-001,TEM Influent (12-06-2025),12/6/2025,Sulfur,49,49,,mg/L
+ST25DEC07-02-001,TEM Influent (12-06-2025),12/6/2025,Chemical Oxygen Demand,1546,1546,,mg/L
+ST25DEC07-02-001,TEM Influent (12-06-2025),12/6/2025,Ammonia as N,31.8,31.8,,mg/L
+ST25DEC07-02-001,TEM Influent (12-06-2025),12/6/2025,Volatile Acids,339,339,,mg/L
+ST25DEC07-02-001,TEM Influent (12-06-2025),12/6/2025,Apparent Color,3580,3580,,PCU
+ST25DEC07-02-001,TEM Influent (12-06-2025),12/6/2025,pH Apparent Color,6.27,6.27,,
+ST25DEC07-02-001,TEM Influent (12-06-2025),12/6/2025,True Color,680,680,,PCU
+ST25DEC08-01-001,TEM Influent (12-07-2025),12/7/2025,Biochemical Oxygen Demand,595,595,,mg/L
+ST25DEC08-01-001,TEM Influent (12-07-2025),12/7/2025,pH,6.13,6.13,,pH Units
+ST25DEC08-01-001,TEM Influent (12-07-2025),12/7/2025,Sample Amount,1000,1000,,ml
+ST25DEC08-01-001,TEM Influent (12-07-2025),12/7/2025,Settleable Solids,19,19,,ml/L
+ST25DEC08-01-001,TEM Influent (12-07-2025),12/7/2025,% Volatile Suspended Solids,93,93,,%
+ST25DEC08-01-001,TEM Influent (12-07-2025),12/7/2025,Total Suspended Solids,608,608,,mg/L
+ST25DEC08-01-001,TEM Influent (12-07-2025),12/7/2025,TSS - Change in Wt,2.80,2.80,,%
+ST25DEC08-01-001,TEM Influent (12-07-2025),12/7/2025,Volatile Suspended Solids,566,566,,mg/L
+ST25DEC08-01-001,TEM Influent (12-07-2025),12/7/2025,Sulfur,33.5,33.5,,mg/L
+ST25DEC08-01-001,TEM Influent (12-07-2025),12/7/2025,Chemical Oxygen Demand,1510,1510,,mg/L
+ST25DEC08-01-001,TEM Influent (12-07-2025),12/7/2025,Apparent Color,4380,4380,,PCU
+ST25DEC08-01-001,TEM Influent (12-07-2025),12/7/2025,pH Apparent Color,6.13,6.13,,
+ST25DEC08-01-001,TEM Influent (12-07-2025),12/7/2025,True Color,600,600,,PCU
+ST25DEC08-01-001,TEM Influent (12-07-2025),12/7/2025,Volatile Acids,342,342,,mg/L
+ST25DEC08-01-001,TEM Influent (12-07-2025),12/7/2025,Ammonia as N,30.3,30.3,,mg/L
+ST25DEC09-01-001,TEM Influent (12-08-2025),12/8/2025,Biochemical Oxygen Demand,718,718,,mg/L
+ST25DEC09-01-001,TEM Influent (12-08-2025),12/8/2025,pH,6.40,6.40,,pH Units
+ST25DEC09-01-001,TEM Influent (12-08-2025),12/8/2025,Sample Amount,1000,1000,,ml
+ST25DEC09-01-001,TEM Influent (12-08-2025),12/8/2025,Settleable Solids,16,16,,ml/L
+ST25DEC09-01-001,TEM Influent (12-08-2025),12/8/2025,% Volatile Suspended Solids,97,97,,%
+ST25DEC09-01-001,TEM Influent (12-08-2025),12/8/2025,Total Suspended Solids,714,714,,mg/L
+ST25DEC09-01-001,TEM Influent (12-08-2025),12/8/2025,TSS - Change in Wt,1.96,1.96,,%
+ST25DEC09-01-001,TEM Influent (12-08-2025),12/8/2025,Volatile Suspended Solids,695,695,,mg/L
+ST25DEC09-01-001,TEM Influent (12-08-2025),12/8/2025,Sulfur,39.1,39.1,,mg/L
+ST25DEC09-01-001,TEM Influent (12-08-2025),12/8/2025,Ammonia as N,39.6,39.6,,mg/L
+ST25DEC09-01-001,TEM Influent (12-08-2025),12/8/2025,Volatile Acids,318,318,,mg/L
+ST25DEC09-01-001,TEM Influent (12-08-2025),12/8/2025,Chemical Oxygen Demand,1620,1620,,mg/L
+ST25DEC09-01-001,TEM Influent (12-08-2025),12/8/2025,Apparent Color,5650,5650,,PCU
+ST25DEC09-01-001,TEM Influent (12-08-2025),12/8/2025,pH Apparent Color,6.40,6.40,,
+ST25DEC09-01-001,TEM Influent (12-08-2025),12/8/2025,True Color,810,810,,PCU
+ST25DEC10-01-001,TEM Influent (12-09-2025),12/9/2025,Biochemical Oxygen Demand,812,812,,mg/L
+ST25DEC10-01-001,TEM Influent (12-09-2025),12/9/2025,pH,6.17,6.17,,pH Units
+ST25DEC10-01-001,TEM Influent (12-09-2025),12/9/2025,% Volatile Suspended Solids,95,95,,%
+ST25DEC10-01-001,TEM Influent (12-09-2025),12/9/2025,Total Suspended Solids,749,749,,mg/L
+ST25DEC10-01-001,TEM Influent (12-09-2025),12/9/2025,TSS - Change in Wt,2.92,2.92,,%
+ST25DEC10-01-001,TEM Influent (12-09-2025),12/9/2025,Volatile Suspended Solids,709,709,,mg/L
+ST25DEC10-01-001,TEM Influent (12-09-2025),12/9/2025,Sample Amount,1000,1000,,ml
+ST25DEC10-01-001,TEM Influent (12-09-2025),12/9/2025,Settleable Solids,32,32,,ml/L
+ST25DEC10-01-001,TEM Influent (12-09-2025),12/9/2025,Sulfur,43.1,43.1,,mg/L
+ST25DEC10-01-001,TEM Influent (12-09-2025),12/9/2025,Ammonia as N,33.3,33.3,,mg/L
+ST25DEC10-01-001,TEM Influent (12-09-2025),12/9/2025,Volatile Acids,345,345,,mg/L
+ST25DEC10-01-001,TEM Influent (12-09-2025),12/9/2025,Chemical Oxygen Demand,1700,1700,,mg/L
+ST25DEC10-01-001,TEM Influent (12-09-2025),12/9/2025,Apparent Color,5260,5260,,PCU
+ST25DEC10-01-001,TEM Influent (12-09-2025),12/9/2025,pH Apparent Color,6.17,6.17,,
+ST25DEC10-01-001,TEM Influent (12-09-2025),12/9/2025,True Color,1030,1030,,PCU
+ST25DEC11-01-001,TEM Influent (12-10-2025),12/10/2025,Biochemical Oxygen Demand,1000,1000,,mg/L
+ST25DEC11-01-001,TEM Influent (12-10-2025),12/10/2025,pH,6.63,6.63,,pH Units
+ST25DEC11-01-001,TEM Influent (12-10-2025),12/10/2025,% Volatile Suspended Solids,93,93,,%
+ST25DEC11-01-001,TEM Influent (12-10-2025),12/10/2025,Total Suspended Solids,856,856,,mg/L
+ST25DEC11-01-001,TEM Influent (12-10-2025),12/10/2025,TSS - Change in Wt,0.76,0.76,,%
+ST25DEC11-01-001,TEM Influent (12-10-2025),12/10/2025,Volatile Suspended Solids,795,795,,mg/L
+ST25DEC11-01-001,TEM Influent (12-10-2025),12/10/2025,Sample Amount,1000,1000,,ml
+ST25DEC11-01-001,TEM Influent (12-10-2025),12/10/2025,Settleable Solids,27,27,,ml/L
+ST25DEC11-01-001,TEM Influent (12-10-2025),12/10/2025,Sulfur,54.6,54.6,,mg/L
+ST25DEC11-01-001,TEM Influent (12-10-2025),12/10/2025,Chemical Oxygen Demand,2040,2040,,mg/L
+ST25DEC11-01-001,TEM Influent (12-10-2025),12/10/2025,Apparent Color,5200,5200,,PCU
+ST25DEC11-01-001,TEM Influent (12-10-2025),12/10/2025,pH Apparent Color,6.63,6.63,,
+ST25DEC11-01-001,TEM Influent (12-10-2025),12/10/2025,True Color,990,990,,PCU
+ST25DEC11-01-001,TEM Influent (12-10-2025),12/10/2025,Ammonia as N,18.8,18.8,,mg/L
+ST25DEC11-01-001,TEM Influent (12-10-2025),12/10/2025,Volatile Acids,396,396,,mg/L
+ST25DEC11-01-039,TEM Influent (Metals) (12-11-2025),12/11/2025,Arsenic,<0.0100,<0.0100,,mg/L
+ST25DEC11-01-039,TEM Influent (Metals) (12-11-2025),12/11/2025,Cadmium,<0.0020,<0.0020,,mg/L
+ST25DEC11-01-039,TEM Influent (Metals) (12-11-2025),12/11/2025,Chromium,0.412,0.412,,mg/L
+ST25DEC11-01-039,TEM Influent (Metals) (12-11-2025),12/11/2025,Cobalt,0.0234,0.0234,,mg/L
+ST25DEC11-01-039,TEM Influent (Metals) (12-11-2025),12/11/2025,Copper,0.127,0.127,,mg/L
+ST25DEC11-01-039,TEM Influent (Metals) (12-11-2025),12/11/2025,Lead,0.106,0.106,,mg/L
+ST25DEC11-01-039,TEM Influent (Metals) (12-11-2025),12/11/2025,Analysis Date/Time,12/12/2025 15:29,12/12/2025 15:29,,
+ST25DEC11-01-039,TEM Influent (Metals) (12-11-2025),12/11/2025,Mercury,0.00021,0.00021,,mg/L
+ST25DEC11-01-039,TEM Influent (Metals) (12-11-2025),12/11/2025,Method Reference,EPA-245.1,EPA-245.1,,
+ST25DEC11-01-039,TEM Influent (Metals) (12-11-2025),12/11/2025,Subcontract Lab ID,Waypoint Analytical LLC.,Waypoint Analytical LLC.,,
+ST25DEC11-01-039,TEM Influent (Metals) (12-11-2025),12/11/2025,Molybdenum,0.0787,0.0787,,mg/L
+ST25DEC11-01-039,TEM Influent (Metals) (12-11-2025),12/11/2025,Nickel,0.307,0.307,,mg/L
+ST25DEC11-01-039,TEM Influent (Metals) (12-11-2025),12/11/2025,Selenium,<0.0100,<0.0100,,mg/L
+ST25DEC11-01-039,TEM Influent (Metals) (12-11-2025),12/11/2025,Zinc,45,45,,mg/L
+ST25DEC12-01-001,TEM Influent (12-11-2025),12/11/2025,Biochemical Oxygen Demand,732,732,,mg/L
+ST25DEC12-01-001,TEM Influent (12-11-2025),12/11/2025,pH,6.56,6.56,,pH Units
+ST25DEC12-01-001,TEM Influent (12-11-2025),12/11/2025,Sample Amount,1000,1000,,ml
+ST25DEC12-01-001,TEM Influent (12-11-2025),12/11/2025,Settleable Solids,27,27,,ml/L
+ST25DEC12-01-001,TEM Influent (12-11-2025),12/11/2025,% Volatile Suspended Solids,82,82,,%
+ST25DEC12-01-001,TEM Influent (12-11-2025),12/11/2025,Total Suspended Solids,665,665,,mg/L
+ST25DEC12-01-001,TEM Influent (12-11-2025),12/11/2025,TSS - Change in Wt,0.53,0.53,,%
+ST25DEC12-01-001,TEM Influent (12-11-2025),12/11/2025,Volatile Suspended Solids,548,548,,mg/L
+ST25DEC12-01-001,TEM Influent (12-11-2025),12/11/2025,Sulfur,59,59,,mg/L
+ST25DEC12-01-001,TEM Influent (12-11-2025),12/11/2025,Apparent Color,4880,4880,,PCU
+ST25DEC12-01-001,TEM Influent (12-11-2025),12/11/2025,pH Apparent Color,6.56,6.56,,
+ST25DEC12-01-001,TEM Influent (12-11-2025),12/11/2025,True Color,1030,1030,,PCU
+ST25DEC12-01-001,TEM Influent (12-11-2025),12/11/2025,Chemical Oxygen Demand,1680,1680,,mg/L
+ST25DEC12-01-001,TEM Influent (12-11-2025),12/11/2025,Ammonia as N,34.6,34.6,,mg/L
+ST25DEC12-01-001,TEM Influent (12-11-2025),12/11/2025,Volatile Acids,393,393,,mg/L
+ST25DEC13-02-001,TEM Influent (12-12-2025),12/12/2025,Biochemical Oxygen Demand,665,665,,mg/L
+ST25DEC13-02-001,TEM Influent (12-12-2025),12/12/2025,pH,6.35,6.35,,pH Units
+ST25DEC13-02-001,TEM Influent (12-12-2025),12/12/2025,% Volatile Suspended Solids,81,81,,%
+ST25DEC13-02-001,TEM Influent (12-12-2025),12/12/2025,Total Suspended Solids,598,598,,mg/L
+ST25DEC13-02-001,TEM Influent (12-12-2025),12/12/2025,TSS - Change in Wt,3.51,3.51,,%
+ST25DEC13-02-001,TEM Influent (12-12-2025),12/12/2025,Volatile Suspended Solids,483,483,,mg/L
+ST25DEC13-02-001,TEM Influent (12-12-2025),12/12/2025,Sample Amount,1000,1000,,ml
+ST25DEC13-02-001,TEM Influent (12-12-2025),12/12/2025,Settleable Solids,25,25,,ml/L
+ST25DEC13-02-001,TEM Influent (12-12-2025),12/12/2025,Sulfur,51.4,51.4,,mg/L
+ST25DEC13-02-001,TEM Influent (12-12-2025),12/12/2025,Chemical Oxygen Demand,1168,1168,,mg/L
+ST25DEC13-02-001,TEM Influent (12-12-2025),12/12/2025,Apparent Color,2810,2810,,PCU
+ST25DEC13-02-001,TEM Influent (12-12-2025),12/12/2025,pH Apparent Color,6.35,6.35,,
+ST25DEC13-02-001,TEM Influent (12-12-2025),12/12/2025,True Color,1040,1040,,PCU
+ST25DEC13-02-001,TEM Influent (12-12-2025),12/12/2025,Volatile Acids,361,361,,mg/L
+ST25DEC13-02-001,TEM Influent (12-12-2025),12/12/2025,Ammonia as N,32.9,32.9,,mg/L
+ST25DEC14-02-001,TEM Influent (12-13-2025),12/13/2025,Biochemical Oxygen Demand,594,594,,mg/L
+ST25DEC14-02-001,TEM Influent (12-13-2025),12/13/2025,pH,6.00,6.00,,pH Units
+ST25DEC14-02-001,TEM Influent (12-13-2025),12/13/2025,% Volatile Suspended Solids,90,90,,%
+ST25DEC14-02-001,TEM Influent (12-13-2025),12/13/2025,Total Suspended Solids,436,436,,mg/L
+ST25DEC14-02-001,TEM Influent (12-13-2025),12/13/2025,TSS - Change in Wt,3.89,3.89,,%
+ST25DEC14-02-001,TEM Influent (12-13-2025),12/13/2025,Volatile Suspended Solids,393,393,,mg/L
+ST25DEC14-02-001,TEM Influent (12-13-2025),12/13/2025,Sample Amount,1000,1000,,ml
+ST25DEC14-02-001,TEM Influent (12-13-2025),12/13/2025,Settleable Solids,18,18,,ml/L
+ST25DEC14-02-001,TEM Influent (12-13-2025),12/13/2025,Sulfur,46.6,46.6,,mg/L
+ST25DEC14-02-001,TEM Influent (12-13-2025),12/13/2025,Chemical Oxygen Demand,1420,1420,,mg/L
+ST25DEC14-02-001,TEM Influent (12-13-2025),12/13/2025,Apparent Color,3020,3020,,PCU
+ST25DEC14-02-001,TEM Influent (12-13-2025),12/13/2025,pH Apparent Color,6.00,6.00,,
+ST25DEC14-02-001,TEM Influent (12-13-2025),12/13/2025,True Color,1140,1140,,PCU
+ST25DEC14-02-001,TEM Influent (12-13-2025),12/13/2025,Ammonia as N,23.2,23.2,,mg/L
+ST25DEC14-02-001,TEM Influent (12-13-2025),12/13/2025,Volatile Acids,431,431,,mg/L
+ST25DEC15-01-001,TEM Influent (12-14-2025),12/14/2025,Biochemical Oxygen Demand,540,540,,mg/L
+ST25DEC15-01-001,TEM Influent (12-14-2025),12/14/2025,pH,6.02,6.02,,pH Units
+ST25DEC15-01-001,TEM Influent (12-14-2025),12/14/2025,Sample Amount,1000,1000,,ml
+ST25DEC15-01-001,TEM Influent (12-14-2025),12/14/2025,Settleable Solids,14,14,,ml/L
+ST25DEC15-01-001,TEM Influent (12-14-2025),12/14/2025,% Volatile Suspended Solids,88,88,,%
+ST25DEC15-01-001,TEM Influent (12-14-2025),12/14/2025,Total Suspended Solids,446,446,,mg/L
+ST25DEC15-01-001,TEM Influent (12-14-2025),12/14/2025,TSS - Change in Wt,1.70,1.70,,%
+ST25DEC15-01-001,TEM Influent (12-14-2025),12/14/2025,Volatile Suspended Solids,392,392,,mg/L
+ST25DEC15-01-001,TEM Influent (12-14-2025),12/14/2025,Sulfur,46.3,46.3,,mg/L
+ST25DEC15-01-001,TEM Influent (12-14-2025),12/14/2025,Ammonia as N,21,21,,mg/L
+ST25DEC15-01-001,TEM Influent (12-14-2025),12/14/2025,Volatile Acids,322,322,,mg/L
+ST25DEC15-01-001,TEM Influent (12-14-2025),12/14/2025,Apparent Color,3800,3800,,PCU
+ST25DEC15-01-001,TEM Influent (12-14-2025),12/14/2025,pH Apparent Color,6.02,6.02,,
+ST25DEC15-01-001,TEM Influent (12-14-2025),12/14/2025,True Color,560,560,,PCU
+ST25DEC15-01-001,TEM Influent (12-14-2025),12/14/2025,Chemical Oxygen Demand,1460,1460,,mg/L
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,Biochemical Oxygen Demand,409,409,,mg/L
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,pH,7.17,7.17,,pH Units
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,Sample Amount,1000,1000,,ml
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,Settleable Solids,9,9,,ml/L
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,% Volatile Suspended Solids,87,87,,%
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,Total Suspended Solids,299,299,,mg/L
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,TSS - Change in Wt,4.19,4.19,,%
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,Volatile Suspended Solids,260,260,,mg/L
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,Sulfur,38.9,38.9,,mg/L
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,Chemical Oxygen Demand,740,740,,mg/L
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,Apparent Color,1600,1600,,PCU
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,pH Apparent Color,6.30,6.30,,
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,True Color,580,580,,PCU
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,Ammonia as N,18.8,18.8,,mg/L
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,Volatile Acids,122,122,,mg/L
+ST25DEC16-01-001,TEM Influent (12-15-2025),12/15/2025,SARS-COV2,,,,cop/L
+ST25DEC17-01-001,TEM Influent (12-16-2025),12/16/2025,Biochemical Oxygen Demand,602,602,,mg/L
+ST25DEC17-01-001,TEM Influent (12-16-2025),12/16/2025,pH,6.50,6.50,,pH Units
+ST25DEC17-01-001,TEM Influent (12-16-2025),12/16/2025,% Volatile Suspended Solids,93,93,,%
+ST25DEC17-01-001,TEM Influent (12-16-2025),12/16/2025,Total Suspended Solids,395,395,,mg/L
+ST25DEC17-01-001,TEM Influent (12-16-2025),12/16/2025,TSS - Change in Wt,1.77,1.77,,%
+ST25DEC17-01-001,TEM Influent (12-16-2025),12/16/2025,Volatile Suspended Solids,366,366,,mg/L
+ST25DEC17-01-001,TEM Influent (12-16-2025),12/16/2025,Sample Amount,1000,1000,,ml
+ST25DEC17-01-001,TEM Influent (12-16-2025),12/16/2025,Settleable Solids,14,14,,ml/L
+ST25DEC17-01-001,TEM Influent (12-16-2025),12/16/2025,Sulfur,47.7,47.7,,mg/L
+ST25DEC17-01-001,TEM Influent (12-16-2025),12/16/2025,Ammonia as N,20.3,20.3,,mg/L
+ST25DEC17-01-001,TEM Influent (12-16-2025),12/16/2025,Volatile Acids,315,315,,mg/L
+ST25DEC17-01-001,TEM Influent (12-16-2025),12/16/2025,Chemical Oxygen Demand,1660,1660,,mg/L
+ST25DEC17-01-001,TEM Influent (12-16-2025),12/16/2025,Apparent Color,7420,7420,,PCU
+ST25DEC17-01-001,TEM Influent (12-16-2025),12/16/2025,pH Apparent Color,6.50,6.50,,
+ST25DEC17-01-001,TEM Influent (12-16-2025),12/16/2025,True Color,780,780,,PCU
+ST25DEC18-01-001,TEM Influent (12-17-2025),12/17/2025,Biochemical Oxygen Demand,550,550,,mg/L
+ST25DEC18-01-001,TEM Influent (12-17-2025),12/17/2025,pH,6.50,6.50,,pH Units
+ST25DEC18-01-001,TEM Influent (12-17-2025),12/17/2025,% Volatile Suspended Solids,89,89,,%
+ST25DEC18-01-001,TEM Influent (12-17-2025),12/17/2025,Total Suspended Solids,805,805,,mg/L
+ST25DEC18-01-001,TEM Influent (12-17-2025),12/17/2025,TSS - Change in Wt,4.72,4.72,,%
+ST25DEC18-01-001,TEM Influent (12-17-2025),12/17/2025,Volatile Suspended Solids,713,713,,mg/L
+ST25DEC18-01-001,TEM Influent (12-17-2025),12/17/2025,Sample Amount,1000,1000,,ml
+ST25DEC18-01-001,TEM Influent (12-17-2025),12/17/2025,Settleable Solids,33,33,,ml/L
+ST25DEC18-01-001,TEM Influent (12-17-2025),12/17/2025,Sulfur,42.6,42.6,,mg/L
+ST25DEC18-01-001,TEM Influent (12-17-2025),12/17/2025,Ammonia as N,33.0,33.0,,mg/L
+ST25DEC18-01-001,TEM Influent (12-17-2025),12/17/2025,Volatile Acids,1060,1060,,mg/L
+ST25DEC18-01-001,TEM Influent (12-17-2025),12/17/2025,Apparent Color,4880,4880,,PCU
+ST25DEC18-01-001,TEM Influent (12-17-2025),12/17/2025,pH Apparent Color,6.50,6.50,,
+ST25DEC18-01-001,TEM Influent (12-17-2025),12/17/2025,True Color,1080,1080,,PCU
+ST25DEC18-01-001,TEM Influent (12-17-2025),12/17/2025,Chemical Oxygen Demand,1880,1880,,mg/L
+ST25DEC19-01-001,TEM Influent (12-18-2025),12/18/2025,Biochemical Oxygen Demand,744,744,,mg/L
+ST25DEC19-01-001,TEM Influent (12-18-2025),12/18/2025,pH,6.94,6.94,,pH Units
+ST25DEC19-01-001,TEM Influent (12-18-2025),12/18/2025,Sample Amount,1000,1000,,ml
+ST25DEC19-01-001,TEM Influent (12-18-2025),12/18/2025,Settleable Solids,17,17,,ml/L
+ST25DEC19-01-001,TEM Influent (12-18-2025),12/18/2025,% Volatile Suspended Solids,92,92,,%
+ST25DEC19-01-001,TEM Influent (12-18-2025),12/18/2025,Total Suspended Solids,647,647,,mg/L
+ST25DEC19-01-001,TEM Influent (12-18-2025),12/18/2025,TSS - Change in Wt,1.16,1.16,,%
+ST25DEC19-01-001,TEM Influent (12-18-2025),12/18/2025,Volatile Suspended Solids,593,593,,mg/L
+ST25DEC19-01-001,TEM Influent (12-18-2025),12/18/2025,Sulfur,58.5,58.5,,mg/L
+ST25DEC19-01-001,TEM Influent (12-18-2025),12/18/2025,Ammonia as N,28.8,28.8,,mg/L
+ST25DEC19-01-001,TEM Influent (12-18-2025),12/18/2025,Volatile Acids,496,496,,mg/L
+ST25DEC19-01-001,TEM Influent (12-18-2025),12/18/2025,Apparent Color,3500,3500,,PCU
+ST25DEC19-01-001,TEM Influent (12-18-2025),12/18/2025,pH Apparent Color,6.94,6.94,,
+ST25DEC19-01-001,TEM Influent (12-18-2025),12/18/2025,True Color,1120,1120,,PCU
+ST25DEC19-01-001,TEM Influent (12-18-2025),12/18/2025,Chemical Oxygen Demand,1470,1470,,mg/L
+ST25DEC20-02-001,TEM Influent (12-19-2025),12/19/2025,Biochemical Oxygen Demand,573,573,,mg/L
+ST25DEC20-02-001,TEM Influent (12-19-2025),12/19/2025,pH,6.13,6.13,,pH Units
+ST25DEC20-02-001,TEM Influent (12-19-2025),12/19/2025,% Volatile Suspended Solids,89,89,,%
+ST25DEC20-02-001,TEM Influent (12-19-2025),12/19/2025,Total Suspended Solids,518,518,,mg/L
+ST25DEC20-02-001,TEM Influent (12-19-2025),12/19/2025,TSS - Change in Wt,2.02,2.02,,%
+ST25DEC20-02-001,TEM Influent (12-19-2025),12/19/2025,Volatile Suspended Solids,462,462,,mg/L
+ST25DEC20-02-001,TEM Influent (12-19-2025),12/19/2025,Sample Amount,1000,1000,,ml
+ST25DEC20-02-001,TEM Influent (12-19-2025),12/19/2025,Settleable Solids,13,13,,ml/L
+ST25DEC20-02-001,TEM Influent (12-19-2025),12/19/2025,Sulfur,37.2,37.2,,mg/L
+ST25DEC20-02-001,TEM Influent (12-19-2025),12/19/2025,Chemical Oxygen Demand,1120,1120,,mg/L
+ST25DEC20-02-001,TEM Influent (12-19-2025),12/19/2025,Apparent Color,2700,2700,,PCU
+ST25DEC20-02-001,TEM Influent (12-19-2025),12/19/2025,pH Apparent Color,6.13,6.13,,
+ST25DEC20-02-001,TEM Influent (12-19-2025),12/19/2025,True Color,1340,1340,,PCU
+ST25DEC20-02-001,TEM Influent (12-19-2025),12/19/2025,Ammonia as N,38.1,38.1,,mg/L
+ST25DEC20-02-001,TEM Influent (12-19-2025),12/19/2025,Volatile Acids,360,360,,mg/L
+ST25DEC21-02-001,TEM Influent (12-20-2025),12/20/2025,Biochemical Oxygen Demand,444,444,,mg/L
+ST25DEC21-02-001,TEM Influent (12-20-2025),12/20/2025,pH,6.00,6.00,,pH Units
+ST25DEC21-02-001,TEM Influent (12-20-2025),12/20/2025,% Volatile Suspended Solids,91,91,,%
+ST25DEC21-02-001,TEM Influent (12-20-2025),12/20/2025,Total Suspended Solids,272,272,,mg/L
+ST25DEC21-02-001,TEM Influent (12-20-2025),12/20/2025,TSS - Change in Wt,0.18,0.18,,%
+ST25DEC21-02-001,TEM Influent (12-20-2025),12/20/2025,Volatile Suspended Solids,248,248,,mg/L
+ST25DEC21-02-001,TEM Influent (12-20-2025),12/20/2025,Sample Amount,1000,1000,,ml
+ST25DEC21-02-001,TEM Influent (12-20-2025),12/20/2025,Settleable Solids,4,4,,ml/L
+ST25DEC21-02-001,TEM Influent (12-20-2025),12/20/2025,Sulfur,38.3,38.3,,mg/L
+ST25DEC21-02-001,TEM Influent (12-20-2025),12/20/2025,Chemical Oxygen Demand,930,930,,mg/L
+ST25DEC21-02-001,TEM Influent (12-20-2025),12/20/2025,Apparent Color,1750,1750,,PCU
+ST25DEC21-02-001,TEM Influent (12-20-2025),12/20/2025,pH Apparent Color,6.00,6.00,,
+ST25DEC21-02-001,TEM Influent (12-20-2025),12/20/2025,True Color,1230,1230,,PCU
+ST25DEC21-02-001,TEM Influent (12-20-2025),12/20/2025,Ammonia as N,38.7,38.7,,mg/L
+ST25DEC21-02-001,TEM Influent (12-20-2025),12/20/2025,Volatile Acids,490,490,,mg/L
+ST25DEC22-01-001,TEM Influent (12-21-2025),12/21/2025,Biochemical Oxygen Demand,526,526,,mg/L
+ST25DEC22-01-001,TEM Influent (12-21-2025),12/21/2025,pH,6.82,6.82,,pH Units
+ST25DEC22-01-001,TEM Influent (12-21-2025),12/21/2025,Sample Amount,1000,1000,,ml
+ST25DEC22-01-001,TEM Influent (12-21-2025),12/21/2025,Settleable Solids,23,23,,ml/L
+ST25DEC22-01-001,TEM Influent (12-21-2025),12/21/2025,% Volatile Suspended Solids,86,86,,%
+ST25DEC22-01-001,TEM Influent (12-21-2025),12/21/2025,Total Suspended Solids,477,477,,mg/L
+ST25DEC22-01-001,TEM Influent (12-21-2025),12/21/2025,TSS - Change in Wt,1.36,1.36,,%
+ST25DEC22-01-001,TEM Influent (12-21-2025),12/21/2025,Volatile Suspended Solids,410,410,,mg/L
+ST25DEC22-01-001,TEM Influent (12-21-2025),12/21/2025,Sulfur,37.4,37.4,,mg/L
+ST25DEC22-01-001,TEM Influent (12-21-2025),12/21/2025,Volatile Acids,463,463,,mg/L
+ST25DEC22-01-001,TEM Influent (12-21-2025),12/21/2025,Apparent Color,5540,5540,,PCU
+ST25DEC22-01-001,TEM Influent (12-21-2025),12/21/2025,pH Apparent Color,6.82,6.82,,
+ST25DEC22-01-001,TEM Influent (12-21-2025),12/21/2025,True Color,540,540,,PCU
+ST25DEC22-01-001,TEM Influent (12-21-2025),12/21/2025,Chemical Oxygen Demand,1740,1740,,mg/L
+ST25DEC23-01-001,TEM Influent (12-22-2025),12/22/2025,Biochemical Oxygen Demand,557,557,,mg/L
+ST25DEC23-01-001,TEM Influent (12-22-2025),12/22/2025,pH,6.29,6.29,,pH Units
+ST25DEC23-01-001,TEM Influent (12-22-2025),12/22/2025,Sample Amount,1000,1000,,ml
+ST25DEC23-01-001,TEM Influent (12-22-2025),12/22/2025,Settleable Solids,11,11,,ml/L
+ST25DEC23-01-001,TEM Influent (12-22-2025),12/22/2025,% Volatile Suspended Solids,96,96,,%
+ST25DEC23-01-001,TEM Influent (12-22-2025),12/22/2025,Total Suspended Solids,317,317,,mg/L
+ST25DEC23-01-001,TEM Influent (12-22-2025),12/22/2025,TSS - Change in Wt,1.11,1.11,,%
+ST25DEC23-01-001,TEM Influent (12-22-2025),12/22/2025,Volatile Suspended Solids,305,305,,mg/L
+ST25DEC23-01-001,TEM Influent (12-22-2025),12/22/2025,Sulfur,32.5,32.5,,mg/L
+ST25DEC23-01-001,TEM Influent (12-22-2025),12/22/2025,Chemical Oxygen Demand,950,950,,mg/L
+ST25DEC23-01-001,TEM Influent (12-22-2025),12/22/2025,Apparent Color,2070,2070,,PCU
+ST25DEC23-01-001,TEM Influent (12-22-2025),12/22/2025,pH Apparent Color,6.29,6.29,,
+ST25DEC23-01-001,TEM Influent (12-22-2025),12/22/2025,True Color,860,860,,PCU
+ST25DEC23-01-001,TEM Influent (12-22-2025),12/22/2025,Ammonia as N,27.5,27.5,,mg/L
+ST25DEC23-01-001,TEM Influent (12-22-2025),12/22/2025,Volatile Acids,133,133,,mg/L
+ST25DEC24-01-001,TEM Influent (12-23-2025),12/23/2025,Biochemical Oxygen Demand,614,614,,mg/L
+ST25DEC24-01-001,TEM Influent (12-23-2025),12/23/2025,pH,6.19,6.19,,pH Units
+ST25DEC24-01-001,TEM Influent (12-23-2025),12/23/2025,% Volatile Suspended Solids,92,92,,%
+ST25DEC24-01-001,TEM Influent (12-23-2025),12/23/2025,Total Suspended Solids,919,919,,mg/L
+ST25DEC24-01-001,TEM Influent (12-23-2025),12/23/2025,TSS - Change in Wt,2.07,2.07,,%
+ST25DEC24-01-001,TEM Influent (12-23-2025),12/23/2025,Volatile Suspended Solids,842,842,,mg/L
+ST25DEC24-01-001,TEM Influent (12-23-2025),12/23/2025,Sample Amount,1000,1000,,ml
+ST25DEC24-01-001,TEM Influent (12-23-2025),12/23/2025,Settleable Solids,15,15,,ml/L
+ST25DEC24-01-001,TEM Influent (12-23-2025),12/23/2025,Sulfur,44,44,,mg/L
+ST25DEC24-01-001,TEM Influent (12-23-2025),12/23/2025,Apparent Color,3150,3150,,PCU
+ST25DEC24-01-001,TEM Influent (12-23-2025),12/23/2025,pH Apparent Color,6.19,6.19,,
+ST25DEC24-01-001,TEM Influent (12-23-2025),12/23/2025,True Color,2270,2270,,PCU
+ST25DEC24-01-001,TEM Influent (12-23-2025),12/23/2025,Ammonia as N,37.4,37.4,,mg/L
+ST25DEC24-01-001,TEM Influent (12-23-2025),12/23/2025,Volatile Acids,354,354,,mg/L
+ST25DEC24-01-001,TEM Influent (12-23-2025),12/23/2025,Chemical Oxygen Demand,970,970,,mg/L
+ST25DEC25-01-001,TEM Influent (12-24-2025),12/24/2025,Biochemical Oxygen Demand,556,556,,mg/L
+ST25DEC25-01-001,TEM Influent (12-24-2025),12/24/2025,pH,6.21,6.21,,pH Units
+ST25DEC25-01-001,TEM Influent (12-24-2025),12/24/2025,% Volatile Suspended Solids,83,83,,%
+ST25DEC25-01-001,TEM Influent (12-24-2025),12/24/2025,Total Suspended Solids,594,594,,mg/L
+ST25DEC25-01-001,TEM Influent (12-24-2025),12/24/2025,TSS - Change in Wt,0.83,0.83,,%
+ST25DEC25-01-001,TEM Influent (12-24-2025),12/24/2025,Volatile Suspended Solids,495,495,,mg/L
+ST25DEC25-01-001,TEM Influent (12-24-2025),12/24/2025,Sample Amount,1000,1000,,ml
+ST25DEC25-01-001,TEM Influent (12-24-2025),12/24/2025,Settleable Solids,10,10,,ml/L
+ST25DEC25-01-001,TEM Influent (12-24-2025),12/24/2025,Sulfur,37.9,37.9,,mg/L
+ST25DEC25-01-001,TEM Influent (12-24-2025),12/24/2025,Apparent Color,1735,1735,,PCU
+ST25DEC25-01-001,TEM Influent (12-24-2025),12/24/2025,pH Apparent Color,6.21,6.21,,
+ST25DEC25-01-001,TEM Influent (12-24-2025),12/24/2025,True Color,1150,1150,,PCU
+ST25DEC25-01-001,TEM Influent (12-24-2025),12/24/2025,Chemical Oxygen Demand,2900,2900,,mg/L
+ST25DEC25-01-001,TEM Influent (12-24-2025),12/24/2025,Ammonia as N,37.6,37.6,,mg/L
+ST25DEC25-01-001,TEM Influent (12-24-2025),12/24/2025,Volatile Acids,410,410,,mg/L
+ST25DEC26-01-001,TEM Influent (12-25-2025),12/25/2025,Biochemical Oxygen Demand,560,560,,mg/L
+ST25DEC26-01-001,TEM Influent (12-25-2025),12/25/2025,pH,6.20,6.20,,pH Units
+ST25DEC26-01-001,TEM Influent (12-25-2025),12/25/2025,Sample Amount,1000,1000,,ml
+ST25DEC26-01-001,TEM Influent (12-25-2025),12/25/2025,Settleable Solids,13,13,,ml/L
+ST25DEC26-01-001,TEM Influent (12-25-2025),12/25/2025,% Volatile Suspended Solids,93,93,,%
+ST25DEC26-01-001,TEM Influent (12-25-2025),12/25/2025,Total Suspended Solids,445,445,,mg/L
+ST25DEC26-01-001,TEM Influent (12-25-2025),12/25/2025,TSS - Change in Wt,1.12,1.12,,%
+ST25DEC26-01-001,TEM Influent (12-25-2025),12/25/2025,Volatile Suspended Solids,412,412,,mg/L
+ST25DEC26-01-001,TEM Influent (12-25-2025),12/25/2025,Sulfur,38.5,38.5,,mg/L
+ST25DEC26-01-001,TEM Influent (12-25-2025),12/25/2025,Ammonia as N,32.1,32.1,,mg/L
+ST25DEC26-01-001,TEM Influent (12-25-2025),12/25/2025,Volatile Acids,274,274,,mg/L
+ST25DEC26-01-001,TEM Influent (12-25-2025),12/25/2025,Chemical Oxygen Demand,1800,1800,,mg/L
+ST25DEC26-01-001,TEM Influent (12-25-2025),12/25/2025,Apparent Color,4520,4520,,PCU
+ST25DEC26-01-001,TEM Influent (12-25-2025),12/25/2025,pH Apparent Color,6.20,6.20,,
+ST25DEC26-01-001,TEM Influent (12-25-2025),12/25/2025,True Color,630,630,,PCU
+ST25DEC27-02-001,TEM Influent (12-26-2025),12/26/2025,Biochemical Oxygen Demand,498,498,,mg/L
+ST25DEC27-02-001,TEM Influent (12-26-2025),12/26/2025,pH,6.73,6.73,,pH Units
+ST25DEC27-02-001,TEM Influent (12-26-2025),12/26/2025,% Volatile Suspended Solids,93,93,,%
+ST25DEC27-02-001,TEM Influent (12-26-2025),12/26/2025,Total Suspended Solids,551,551,,mg/L
+ST25DEC27-02-001,TEM Influent (12-26-2025),12/26/2025,TSS - Change in Wt,0.36,0.36,,%
+ST25DEC27-02-001,TEM Influent (12-26-2025),12/26/2025,Volatile Suspended Solids,511,511,,mg/L
+ST25DEC27-02-001,TEM Influent (12-26-2025),12/26/2025,Sample Amount,1000,1000,,ml
+ST25DEC27-02-001,TEM Influent (12-26-2025),12/26/2025,Settleable Solids,17,17,,ml/L
+ST25DEC27-02-001,TEM Influent (12-26-2025),12/26/2025,Sulfur,46.4,46.4,,mg/L
+ST25DEC27-02-001,TEM Influent (12-26-2025),12/26/2025,Ammonia as N,39.9,39.9,,mg/L
+ST25DEC27-02-001,TEM Influent (12-26-2025),12/26/2025,Volatile Acids,289,289,,mg/L
+ST25DEC27-02-001,TEM Influent (12-26-2025),12/26/2025,Chemical Oxygen Demand,2920,2920,,mg/L
+ST25DEC27-02-001,TEM Influent (12-26-2025),12/26/2025,Apparent Color,6640,6640,,PCU
+ST25DEC27-02-001,TEM Influent (12-26-2025),12/26/2025,pH Apparent Color,6.73,6.73,,
+ST25DEC27-02-001,TEM Influent (12-26-2025),12/26/2025,True Color,2660,2660,,PCU
+ST25DEC28-02-001,TEM Influent (12-27-2025),12/27/2025,Biochemical Oxygen Demand,712,712,,mg/L
+ST25DEC28-02-001,TEM Influent (12-27-2025),12/27/2025,pH,6.02,6.02,,pH Units
+ST25DEC28-02-001,TEM Influent (12-27-2025),12/27/2025,% Volatile Suspended Solids,92,92,,%
+ST25DEC28-02-001,TEM Influent (12-27-2025),12/27/2025,Total Suspended Solids,456,456,,mg/L
+ST25DEC28-02-001,TEM Influent (12-27-2025),12/27/2025,TSS - Change in Wt,2.63,2.63,,%
+ST25DEC28-02-001,TEM Influent (12-27-2025),12/27/2025,Volatile Suspended Solids,418,418,,mg/L
+ST25DEC28-02-001,TEM Influent (12-27-2025),12/27/2025,Sample Amount,1000,1000,,ml
+ST25DEC28-02-001,TEM Influent (12-27-2025),12/27/2025,Settleable Solids,14,14,,ml/L
+ST25DEC28-02-001,TEM Influent (12-27-2025),12/27/2025,Sulfur,35.8,35.8,,mg/L
+ST25DEC28-02-001,TEM Influent (12-27-2025),12/27/2025,Ammonia as N,21.5,21.5,,mg/L
+ST25DEC28-02-001,TEM Influent (12-27-2025),12/27/2025,Volatile Acids,286,286,,mg/L
+ST25DEC28-02-001,TEM Influent (12-27-2025),12/27/2025,Chemical Oxygen Demand,1780,1780,,mg/L
+ST25DEC28-02-001,TEM Influent (12-27-2025),12/27/2025,Apparent Color,4180,4180,,PCU
+ST25DEC28-02-001,TEM Influent (12-27-2025),12/27/2025,pH Apparent Color,6.02,6.02,,
+ST25DEC28-02-001,TEM Influent (12-27-2025),12/27/2025,True Color,1940,1940,,PCU
+ST25DEC29-01-001,TEM Influent (12-28-2025),12/28/2025,Biochemical Oxygen Demand,490,490,,mg/L
+ST25DEC29-01-001,TEM Influent (12-28-2025),12/28/2025,pH,6.17,6.17,,pH Units
+ST25DEC29-01-001,TEM Influent (12-28-2025),12/28/2025,Sample Amount,1000,1000,,ml
+ST25DEC29-01-001,TEM Influent (12-28-2025),12/28/2025,Settleable Solids,9,9,,ml/L
+ST25DEC29-01-001,TEM Influent (12-28-2025),12/28/2025,% Volatile Suspended Solids,96,96,,%
+ST25DEC29-01-001,TEM Influent (12-28-2025),12/28/2025,Total Suspended Solids,411,411,,mg/L
+ST25DEC29-01-001,TEM Influent (12-28-2025),12/28/2025,TSS - Change in Wt,4.14,4.14,,%
+ST25DEC29-01-001,TEM Influent (12-28-2025),12/28/2025,Volatile Suspended Solids,393,393,,mg/L
+ST25DEC29-01-001,TEM Influent (12-28-2025),12/28/2025,Sulfur,33.2,33.2,,mg/L
+ST25DEC29-01-001,TEM Influent (12-28-2025),12/28/2025,Ammonia as N,21.3,21.3,,mg/L
+ST25DEC29-01-001,TEM Influent (12-28-2025),12/28/2025,Volatile Acids,271,271,,mg/L
+ST25DEC29-01-001,TEM Influent (12-28-2025),12/28/2025,Apparent Color,2880,2880,,PCU
+ST25DEC29-01-001,TEM Influent (12-28-2025),12/28/2025,pH Apparent Color,6.17,6.17,,
+ST25DEC29-01-001,TEM Influent (12-28-2025),12/28/2025,True Color,640,640,,PCU
+ST25DEC29-01-001,TEM Influent (12-28-2025),12/28/2025,Chemical Oxygen Demand,1300,1300,,mg/L
+ST25DEC30-01-001,TEM Influent (12-29-2025),12/29/2025,Biochemical Oxygen Demand,414,414,,mg/L
+ST25DEC30-01-001,TEM Influent (12-29-2025),12/29/2025,pH,6.94,6.94,,pH Units
+ST25DEC30-01-001,TEM Influent (12-29-2025),12/29/2025,Sample Amount,1000,1000,,ml
+ST25DEC30-01-001,TEM Influent (12-29-2025),12/29/2025,Settleable Solids,20,20,,ml/L
+ST25DEC30-01-001,TEM Influent (12-29-2025),12/29/2025,% Volatile Suspended Solids,84,84,,%
+ST25DEC30-01-001,TEM Influent (12-29-2025),12/29/2025,Total Suspended Solids,488,488,,mg/L
+ST25DEC30-01-001,TEM Influent (12-29-2025),12/29/2025,TSS - Change in Wt,0.10,0.10,,%
+ST25DEC30-01-001,TEM Influent (12-29-2025),12/29/2025,Volatile Suspended Solids,409,409,,mg/L
+ST25DEC30-01-001,TEM Influent (12-29-2025),12/29/2025,Sulfur,49.1,49.1,,mg/L
+ST25DEC30-01-001,TEM Influent (12-29-2025),12/29/2025,Ammonia as N,20,20,,mg/L
+ST25DEC30-01-001,TEM Influent (12-29-2025),12/29/2025,Volatile Acids,372,372,,mg/L
+ST25DEC30-01-001,TEM Influent (12-29-2025),12/29/2025,Chemical Oxygen Demand,1220,1220,,mg/L
+ST25DEC30-01-001,TEM Influent (12-29-2025),12/29/2025,Apparent Color,2620,2620,,PCU
+ST25DEC30-01-001,TEM Influent (12-29-2025),12/29/2025,pH Apparent Color,6.94,6.94,,
+ST25DEC30-01-001,TEM Influent (12-29-2025),12/29/2025,True Color,440,440,,PCU
+ST25DEC31-01-001,TEM Influent (12-30-2025),12/30/2025,Biochemical Oxygen Demand,512,512,,mg/L
+ST25DEC31-01-001,TEM Influent (12-30-2025),12/30/2025,pH,6.02,6.02,,pH Units
+ST25DEC31-01-001,TEM Influent (12-30-2025),12/30/2025,% Volatile Suspended Solids,94,94,,%
+ST25DEC31-01-001,TEM Influent (12-30-2025),12/30/2025,Total Suspended Solids,299,299,,mg/L
+ST25DEC31-01-001,TEM Influent (12-30-2025),12/30/2025,TSS - Change in Wt,2.18,2.18,,%
+ST25DEC31-01-001,TEM Influent (12-30-2025),12/30/2025,Volatile Suspended Solids,280,280,,mg/L
+ST25DEC31-01-001,TEM Influent (12-30-2025),12/30/2025,Sample Amount,1000,1000,,ml
+ST25DEC31-01-001,TEM Influent (12-30-2025),12/30/2025,Settleable Solids,12,12,,ml/L
+ST25DEC31-01-001,TEM Influent (12-30-2025),12/30/2025,Sulfur,43.4,43.4,,mg/L
+ST25DEC31-01-001,TEM Influent (12-30-2025),12/30/2025,Ammonia as N,17.6,17.6,,mg/L
+ST25DEC31-01-001,TEM Influent (12-30-2025),12/30/2025,Volatile Acids,308,308,,mg/L
+ST25DEC31-01-001,TEM Influent (12-30-2025),12/30/2025,Chemical Oxygen Demand,900,900,,mg/L
+ST25DEC31-01-001,TEM Influent (12-30-2025),12/30/2025,Apparent Color,1840,1840,,PCU
+ST25DEC31-01-001,TEM Influent (12-30-2025),12/30/2025,pH Apparent Color,6.02,6.02,,
+ST25DEC31-01-001,TEM Influent (12-30-2025),12/30/2025,True Color,280,280,,PCU
+ST26JAN01-06-001,TEM Influent (12-31-2025),12/31/2025,Biochemical Oxygen Demand,481,481,,mg/L
+ST26JAN01-06-001,TEM Influent (12-31-2025),12/31/2025,pH,6.08,6.08,,pH Units
+ST26JAN01-06-001,TEM Influent (12-31-2025),12/31/2025,% Volatile Suspended Solids,84,84,,%
+ST26JAN01-06-001,TEM Influent (12-31-2025),12/31/2025,Total Suspended Solids,399,399,,mg/L
+ST26JAN01-06-001,TEM Influent (12-31-2025),12/31/2025,TSS - Change in Wt,2.26,2.26,,%
+ST26JAN01-06-001,TEM Influent (12-31-2025),12/31/2025,Volatile Suspended Solids,336,336,,mg/L
+ST26JAN01-06-001,TEM Influent (12-31-2025),12/31/2025,Sample Amount,1000,1000,,ml
+ST26JAN01-06-001,TEM Influent (12-31-2025),12/31/2025,Settleable Solids,10,10,,ml/L
+ST26JAN01-06-001,TEM Influent (12-31-2025),12/31/2025,Sulfur,61.7,61.7,,mg/L
+ST26JAN01-06-001,TEM Influent (12-31-2025),12/31/2025,Ammonia as N,24,24,,mg/L
+ST26JAN01-06-001,TEM Influent (12-31-2025),12/31/2025,Volatile Acids,167,167,,mg/L
+ST26JAN01-06-001,TEM Influent (12-31-2025),12/31/2025,Apparent Color,1530,1530,,PCU
+ST26JAN01-06-001,TEM Influent (12-31-2025),12/31/2025,pH Apparent Color,6.08,6.08,,
+ST26JAN01-06-001,TEM Influent (12-31-2025),12/31/2025,True Color,300,300,,PCU
+ST26JAN01-06-001,TEM Influent (12-31-2025),12/31/2025,Chemical Oxygen Demand,1100,1100,,mg/L
+ST26JAN02-01-001,TEM Influent (01-01-2026),1/1/2026,Sample Amount,1000,1000,,ml
+ST26JAN02-01-001,TEM Influent (01-01-2026),1/1/2026,Settleable Solids,20,20,,ml/L
+ST26JAN02-01-001,TEM Influent (01-01-2026),1/1/2026,Sulfur,39.2,39.2,,mg/L
+ST26JAN02-01-001,TEM Influent (01-01-2026),1/1/2026,Ammonia as N,52,52,,mg/L
+ST26JAN02-01-001,TEM Influent (01-01-2026),1/1/2026,Volatile Acids,175,175,,mg/L
+ST26JAN02-01-001,TEM Influent (01-01-2026),1/1/2026,Chemical Oxygen Demand,1500,1500,,mg/L
+ST26JAN02-01-001,TEM Influent (01-01-2026),1/1/2026,Apparent Color,4120,4120,,PCU
+ST26JAN02-01-001,TEM Influent (01-01-2026),1/1/2026,pH Apparent Color,6.59,6.59,,
+ST26JAN02-01-001,TEM Influent (01-01-2026),1/1/2026,True Color,340,340,,PCU
+ST26JAN03-02-001,TEM Influent (01-02-2026),1/2/2026,Sample Amount,1000,1000,,ml
+ST26JAN03-02-001,TEM Influent (01-02-2026),1/2/2026,Settleable Solids,8,8,,ml/L
+ST26JAN03-02-001,TEM Influent (01-02-2026),1/2/2026,Sulfur,42.9,42.9,,mg/L
+ST26JAN03-02-001,TEM Influent (01-02-2026),1/2/2026,Ammonia as N,23.1,23.1,,mg/L
+ST26JAN03-02-001,TEM Influent (01-02-2026),1/2/2026,Volatile Acids,155,155,,mg/L
+ST26JAN03-02-001,TEM Influent (01-02-2026),1/2/2026,Chemical Oxygen Demand,1080,1080,,mg/L
+ST26JAN03-02-001,TEM Influent (01-02-2026),1/2/2026,Apparent Color,2400,2400,,PCU
+ST26JAN03-02-001,TEM Influent (01-02-2026),1/2/2026,pH Apparent Color,6.26,6.26,,
+ST26JAN03-02-001,TEM Influent (01-02-2026),1/2/2026,True Color,180,180,,PCU
+ST26JAN04-02-001,TEM Influent (01-03-2026),1/3/2026,Sample Amount,1000,1000,,ml
+ST26JAN04-02-001,TEM Influent (01-03-2026),1/3/2026,Settleable Solids,7.5,7.5,,ml/L
+ST26JAN04-02-001,TEM Influent (01-03-2026),1/3/2026,Sulfur,42,42,,mg/L
+ST26JAN04-02-001,TEM Influent (01-03-2026),1/3/2026,Ammonia as N,20.8,20.8,,mg/L
+ST26JAN04-02-001,TEM Influent (01-03-2026),1/3/2026,Volatile Acids,70,70,,mg/L
+ST26JAN04-02-001,TEM Influent (01-03-2026),1/3/2026,Chemical Oxygen Demand,1080,1080,,mg/L
+ST26JAN04-02-001,TEM Influent (01-03-2026),1/3/2026,Apparent Color,2220,2220,,PCU
+ST26JAN04-02-001,TEM Influent (01-03-2026),1/3/2026,pH Apparent Color,6.50,6.50,,
+ST26JAN04-02-001,TEM Influent (01-03-2026),1/3/2026,True Color,440,440,,PCU
+ST26JAN05-01-001,TEM Influent (01-04-2026),1/4/2026,Sample Amount,1000,1000,,ml
+ST26JAN05-01-001,TEM Influent (01-04-2026),1/4/2026,Settleable Solids,8.5,8.5,,ml/L
+ST26JAN05-01-001,TEM Influent (01-04-2026),1/4/2026,Sulfur,51.8,51.8,,mg/L
+ST26JAN05-01-001,TEM Influent (01-04-2026),1/4/2026,Ammonia as N,23,23,,mg/L
+ST26JAN05-01-001,TEM Influent (01-04-2026),1/4/2026,Volatile Acids,106,106,,mg/L
+ST26JAN05-01-001,TEM Influent (01-04-2026),1/4/2026,Chemical Oxygen Demand,948,948,,mg/L
+ST26JAN05-01-001,TEM Influent (01-04-2026),1/4/2026,Apparent Color,1480,1480,,PCU
+ST26JAN05-01-001,TEM Influent (01-04-2026),1/4/2026,pH Apparent Color,6.37,6.37,,
+ST26JAN05-01-001,TEM Influent (01-04-2026),1/4/2026,True Color,390,390,,PCU
+ST26JAN06-01-001,TEM Influent (01-05-2026),1/5/2026,Sample Amount,1000,1000,,ml
+ST26JAN06-01-001,TEM Influent (01-05-2026),1/5/2026,Settleable Solids,6,6,,ml/L
+ST26JAN06-01-001,TEM Influent (01-05-2026),1/5/2026,Chemical Oxygen Demand,1270,1270,,mg/L
+ST26JAN06-01-001,TEM Influent (01-05-2026),1/5/2026,Apparent Color,1620,1620,,PCU
+ST26JAN06-01-001,TEM Influent (01-05-2026),1/5/2026,pH Apparent Color,6.28,6.28,,
+ST26JAN06-01-001,TEM Influent (01-05-2026),1/5/2026,True Color,410,410,,PCU
+ST26JAN07-01-001,TEM Influent (01-06-2026),1/6/2026,Sample Amount,1000,1000,,ml
+ST26JAN07-01-001,TEM Influent (01-06-2026),1/6/2026,Settleable Solids,5,5,,ml/L
+ST26JAN07-01-001,TEM Influent (01-06-2026),1/6/2026,Apparent Color,1475,1475,,PCU
+ST26JAN07-01-001,TEM Influent (01-06-2026),1/6/2026,pH Apparent Color,6.48,6.48,,
+ST26JAN07-01-001,TEM Influent (01-06-2026),1/6/2026,True Color,210,210,,PCU
+ST26JAN07-01-001,TEM Influent (01-06-2026),1/6/2026,Chemical Oxygen Demand,1156,1156,,mg/L
+ST26JAN08-01-001,TEM Influent (01-07-2026),1/7/2026,Sample Amount,1000,1000,,ml
+ST26JAN08-01-001,TEM Influent (01-07-2026),1/7/2026,Settleable Solids,8,8,,ml/L
+ST26JAN08-01-001,TEM Influent (01-07-2026),1/7/2026,Chemical Oxygen Demand,1056,1056,,mg/L
+ST26JAN08-01-001,TEM Influent (01-07-2026),1/7/2026,Apparent Color,1555,1555,,PCU
+ST26JAN08-01-001,TEM Influent (01-07-2026),1/7/2026,pH Apparent Color,6.29,6.29,,
+ST26JAN08-01-001,TEM Influent (01-07-2026),1/7/2026,True Color,265,265,,PCU
+ST26JAN09-01-001,TEM Influent (01-08-2026),1/8/2026,Sample Amount,1000,1000,,ml
+ST26JAN09-01-001,TEM Influent (01-08-2026),1/8/2026,Settleable Solids,4.5,4.5,,ml/L
+ST26JAN09-01-001,TEM Influent (01-08-2026),1/8/2026,Chemical Oxygen Demand,1282,1282,,mg/L
+ST26JAN09-01-001,TEM Influent (01-08-2026),1/8/2026,Apparent Color,2055,2055,,PCU
+ST26JAN09-01-001,TEM Influent (01-08-2026),1/8/2026,pH Apparent Color,6.23,6.23,,
+ST26JAN09-01-001,TEM Influent (01-08-2026),1/8/2026,True Color,400,400,,PCU
+ST26JAN10-02-001,TEM Influent (01-09-2026),1/9/2026,Sample Amount,1000,1000,,ml
+ST26JAN10-02-001,TEM Influent (01-09-2026),1/9/2026,Settleable Solids,18,18,,ml/L
+ST26JAN10-02-001,TEM Influent (01-09-2026),1/9/2026,Chemical Oxygen Demand,1265,1265,,mg/L
+ST26JAN10-02-001,TEM Influent (01-09-2026),1/9/2026,Apparent Color,1900,1900,,PCU
+ST26JAN10-02-001,TEM Influent (01-09-2026),1/9/2026,pH Apparent Color,6.43,6.43,,
+ST26JAN10-02-001,TEM Influent (01-09-2026),1/9/2026,True Color,735,735,,PCU
+

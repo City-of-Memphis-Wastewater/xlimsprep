@@ -1,0 +1,854 @@
+﻿SampleName,StartDate,EndDate
+TEM ABF Influent (TF) (08-01-2025),8/1/2025,1/9/2026
+
+SampleNumber,SampleName1,SampledDate,Parameter,SWPPRCalc,ReportedResult,Qual,Unit
+ST25AUG01-06-035,TEM ABF Influent (TF) (08-01-2025),8/1/2025,pH,7.35,7.35,,pH Units
+ST25AUG01-06-035,TEM ABF Influent (TF) (08-01-2025),8/1/2025,Soluble BOD,115,115,,mg/L
+ST25AUG02-02-032 ,TEM ABF Influent (08-01-2025),8/1/2025,% Volatile Suspended Solids,90,90,,%
+ST25AUG02-02-032 ,TEM ABF Influent (08-01-2025),8/1/2025,Total Suspended Solids,129,129,,mg/L
+ST25AUG02-02-032 ,TEM ABF Influent (08-01-2025),8/1/2025,Volatile Suspended Solids,117,117,,mg/L
+ST25AUG02-02-032 ,TEM ABF Influent (08-01-2025),8/1/2025,pH,7.46,7.46,,pH Units
+ST25AUG02-02-032 ,TEM ABF Influent (08-01-2025),8/1/2025,Soluble BOD,62,62,,mg/L
+ST25AUG03-02-032 ,TEM ABF Influent (08-02-2025),8/2/2025,% Volatile Suspended Solids,99,99,,%
+ST25AUG03-02-032 ,TEM ABF Influent (08-02-2025),8/2/2025,Total Suspended Solids,135,135,,mg/L
+ST25AUG03-02-032 ,TEM ABF Influent (08-02-2025),8/2/2025,Volatile Suspended Solids,133,133,,mg/L
+ST25AUG03-02-032 ,TEM ABF Influent (08-02-2025),8/2/2025,pH,6.33,6.33,,pH Units
+ST25AUG03-02-032 ,TEM ABF Influent (08-02-2025),8/2/2025,Soluble BOD,520,520,,mg/L
+ST25AUG04-01-033 ,TEM ABF Influent (08-03-2025),8/3/2025,% Volatile Suspended Solids,88,88,,%
+ST25AUG04-01-033 ,TEM ABF Influent (08-03-2025),8/3/2025,Total Suspended Solids,174,174,,mg/L
+ST25AUG04-01-033 ,TEM ABF Influent (08-03-2025),8/3/2025,Volatile Suspended Solids,153,153,,mg/L
+ST25AUG04-01-033 ,TEM ABF Influent (08-03-2025),8/3/2025,pH,6.38,6.38,,pH Units
+ST25AUG04-01-033 ,TEM ABF Influent (08-03-2025),8/3/2025,Soluble BOD,485,485,,mg/L
+ST25AUG05-01-033 ,TEM ABF Influent (08-04-2025),8/4/2025,% Volatile Suspended Solids,95,95,,%
+ST25AUG05-01-033 ,TEM ABF Influent (08-04-2025),8/4/2025,Total Suspended Solids,157,157,,mg/L
+ST25AUG05-01-033 ,TEM ABF Influent (08-04-2025),8/4/2025,Volatile Suspended Solids,149,149,,mg/L
+ST25AUG05-01-033 ,TEM ABF Influent (08-04-2025),8/4/2025,pH,6.10,6.10,,pH Units
+ST25AUG05-01-033 ,TEM ABF Influent (08-04-2025),8/4/2025,Soluble BOD,459,459,,mg/L
+ST25AUG04-01-038,TEM ABF Influent (tf inf) (08-04-2025),8/4/2025,pH,7.44,7.44,,pH Units
+ST25AUG04-01-038,TEM ABF Influent (tf inf) (08-04-2025),8/4/2025,Soluble BOD,128,128,,mg/L
+ST25AUG05-01-035,TEM ABF Influent (TF) (08-05-2025),8/5/2025,pH,6.22,6.22,,pH Units
+ST25AUG05-01-035,TEM ABF Influent (TF) (08-05-2025),8/5/2025,Soluble BOD,408,408,,mg/L
+ST25AUG06-01-033 ,TEM ABF Influent (08-05-2025),8/5/2025,% Volatile Suspended Solids,89,89,,%
+ST25AUG06-01-033 ,TEM ABF Influent (08-05-2025),8/5/2025,Total Suspended Solids,208,208,,mg/L
+ST25AUG06-01-033 ,TEM ABF Influent (08-05-2025),8/5/2025,Volatile Suspended Solids,185,185,,mg/L
+ST25AUG06-01-033 ,TEM ABF Influent (08-05-2025),8/5/2025,pH,6.16,6.16,,pH Units
+ST25AUG06-01-033 ,TEM ABF Influent (08-05-2025),8/5/2025,Soluble BOD,310,310,,mg/L
+ST25AUG07-01-035 ,TEM ABF Influent (08-06-2025),8/6/2025,pH,6.74,6.74,,pH Units
+ST25AUG07-01-035 ,TEM ABF Influent (08-06-2025),8/6/2025,Soluble BOD,448,448,,mg/L
+ST25AUG07-01-035 ,TEM ABF Influent (08-06-2025),8/6/2025,% Volatile Suspended Solids,90,90,,%
+ST25AUG07-01-035 ,TEM ABF Influent (08-06-2025),8/6/2025,Total Suspended Solids,193,193,,mg/L
+ST25AUG07-01-035 ,TEM ABF Influent (08-06-2025),8/6/2025,Volatile Suspended Solids,173,173,,mg/L
+ST25AUG06-01-035,TEM ABF Influent (TF) (08-06-2025),8/6/2025,pH,7.38,7.38,,pH Units
+ST25AUG06-01-035,TEM ABF Influent (TF) (08-06-2025),8/6/2025,Soluble BOD,171,171,,mg/L
+ST25AUG07-01-037,TEM ABF Influent (TF) (08-07-2025),8/7/2025,pH,7.02,7.02,,pH Units
+ST25AUG07-01-037,TEM ABF Influent (TF) (08-07-2025),8/7/2025,Soluble BOD,348,348,,mg/L
+ST25AUG08-01-033 ,TEM ABF Influent (08-07-2025),8/7/2025,% Volatile Suspended Solids,81,81,,%
+ST25AUG08-01-033 ,TEM ABF Influent (08-07-2025),8/7/2025,Total Suspended Solids,213,213,,mg/L
+ST25AUG08-01-033 ,TEM ABF Influent (08-07-2025),8/7/2025,Volatile Suspended Solids,173,173,,mg/L
+ST25AUG08-01-033 ,TEM ABF Influent (08-07-2025),8/7/2025,pH,6.30,6.30,,pH Units
+ST25AUG08-01-033 ,TEM ABF Influent (08-07-2025),8/7/2025,Soluble BOD,430,430,,mg/L
+ST25AUG08-01-035,TEM ABF Influent (inf) (08-08-2025),8/8/2025,pH,7.69,7.69,,pH Units
+ST25AUG08-01-035,TEM ABF Influent (inf) (08-08-2025),8/8/2025,Soluble BOD,131,131,,mg/L
+ST25AUG09-02-032 ,TEM ABF Influent (08-08-2025),8/8/2025,% Volatile Suspended Solids,89,89,,%
+ST25AUG09-02-032 ,TEM ABF Influent (08-08-2025),8/8/2025,Total Suspended Solids,218,218,,mg/L
+ST25AUG09-02-032 ,TEM ABF Influent (08-08-2025),8/8/2025,Volatile Suspended Solids,194,194,,mg/L
+ST25AUG09-02-032 ,TEM ABF Influent (08-08-2025),8/8/2025,pH,6.27,6.27,,pH Units
+ST25AUG09-02-032 ,TEM ABF Influent (08-08-2025),8/8/2025,Soluble BOD,459,459,,mg/L
+ST25AUG10-02-032 ,TEM ABF Influent (08-09-2025),8/9/2025,% Volatile Suspended Solids,83,83,,%
+ST25AUG10-02-032 ,TEM ABF Influent (08-09-2025),8/9/2025,Total Suspended Solids,208,208,,mg/L
+ST25AUG10-02-032 ,TEM ABF Influent (08-09-2025),8/9/2025,Volatile Suspended Solids,173,173,,mg/L
+ST25AUG10-02-032 ,TEM ABF Influent (08-09-2025),8/9/2025,pH,6.18,6.18,,pH Units
+ST25AUG10-02-032 ,TEM ABF Influent (08-09-2025),8/9/2025,Soluble BOD,374,374,,mg/L
+ST25AUG11-01-033 ,TEM ABF Influent (08-10-2025),8/10/2025,% Volatile Suspended Solids,96,96,,%
+ST25AUG11-01-033 ,TEM ABF Influent (08-10-2025),8/10/2025,Total Suspended Solids,137,137,,mg/L
+ST25AUG11-01-033 ,TEM ABF Influent (08-10-2025),8/10/2025,Volatile Suspended Solids,131,131,,mg/L
+ST25AUG11-01-033 ,TEM ABF Influent (08-10-2025),8/10/2025,pH,6.39,6.39,,pH Units
+ST25AUG11-01-033 ,TEM ABF Influent (08-10-2025),8/10/2025,Soluble BOD,439,439,,mg/L
+ST25AUG11-01-038,TEM ABF Influent (TF) (08-11-2025),8/11/2025,pH,7.57,7.57,,pH Units
+ST25AUG11-01-038,TEM ABF Influent (TF) (08-11-2025),8/11/2025,Soluble BOD,112,112,,mg/L
+ST25AUG12-01-033 ,TEM ABF Influent (08-11-2025),8/11/2025,% Volatile Suspended Solids,96,96,,%
+ST25AUG12-01-033 ,TEM ABF Influent (08-11-2025),8/11/2025,Total Suspended Solids,139,139,,mg/L
+ST25AUG12-01-033 ,TEM ABF Influent (08-11-2025),8/11/2025,Volatile Suspended Solids,133,133,,mg/L
+ST25AUG12-01-033 ,TEM ABF Influent (08-11-2025),8/11/2025,pH,6.02,6.02,,pH Units
+ST25AUG12-01-033 ,TEM ABF Influent (08-11-2025),8/11/2025,Soluble BOD,465,465,,mg/L
+ST25AUG12-01-035,TEM ABF Influent (TF INF) (08-12-2025),8/12/2025,pH,6.90,6.90,,pH Units
+ST25AUG12-01-035,TEM ABF Influent (TF INF) (08-12-2025),8/12/2025,Soluble BOD,224,224,,mg/L
+ST25AUG13-01-033 ,TEM ABF Influent (08-12-2025),8/12/2025,% Volatile Suspended Solids,88,88,,%
+ST25AUG13-01-033 ,TEM ABF Influent (08-12-2025),8/12/2025,Total Suspended Solids,173,173,,mg/L
+ST25AUG13-01-033 ,TEM ABF Influent (08-12-2025),8/12/2025,Volatile Suspended Solids,153,153,,mg/L
+ST25AUG13-01-033 ,TEM ABF Influent (08-12-2025),8/12/2025,pH,6.61,6.61,,pH Units
+ST25AUG13-01-033 ,TEM ABF Influent (08-12-2025),8/12/2025,Soluble BOD,495,495,,mg/L
+ST25AUG13-01-035,TEM ABF Influent (TF INF) (08-13-2025),8/13/2025,pH,6.98,6.98,,pH Units
+ST25AUG13-01-035,TEM ABF Influent (TF INF) (08-13-2025),8/13/2025,Soluble BOD,265,265,,mg/L
+ST25AUG14-01-035 ,TEM ABF Influent (08-13-2025),8/13/2025,pH,6.18,6.18,,pH Units
+ST25AUG14-01-035 ,TEM ABF Influent (08-13-2025),8/13/2025,Soluble BOD,558,558,,mg/L
+ST25AUG14-01-035 ,TEM ABF Influent (08-13-2025),8/13/2025,% Volatile Suspended Solids,99,99,,%
+ST25AUG14-01-035 ,TEM ABF Influent (08-13-2025),8/13/2025,Total Suspended Solids,189,189,,mg/L
+ST25AUG14-01-035 ,TEM ABF Influent (08-13-2025),8/13/2025,Volatile Suspended Solids,187,187,,mg/L
+ST25AUG14-01-037,TEM ABF Influent (TF INF) (08-14-2025),8/14/2025,pH,7.54,7.54,,pH Units
+ST25AUG14-01-037,TEM ABF Influent (TF INF) (08-14-2025),8/14/2025,Soluble BOD,109,109,,mg/L
+ST25AUG15-01-033 ,TEM ABF Influent (08-14-2025),8/14/2025,% Volatile Suspended Solids,91,91,,%
+ST25AUG15-01-033 ,TEM ABF Influent (08-14-2025),8/14/2025,Total Suspended Solids,183,183,,mg/L
+ST25AUG15-01-033 ,TEM ABF Influent (08-14-2025),8/14/2025,Volatile Suspended Solids,167,167,,mg/L
+ST25AUG15-01-033 ,TEM ABF Influent (08-14-2025),8/14/2025,pH,6.09,6.09,,pH Units
+ST25AUG15-01-033 ,TEM ABF Influent (08-14-2025),8/14/2025,Soluble BOD,577,577,,mg/L
+ST25AUG15-01-035,TEM ABF Influent (TF) (08-15-2025),8/15/2025,pH,6.87,6.87,,pH Units
+ST25AUG15-01-035,TEM ABF Influent (TF) (08-15-2025),8/15/2025,Soluble BOD,227,227,,mg/L
+ST25AUG16-02-032 ,TEM ABF Influent (08-15-2025),8/15/2025,% Volatile Suspended Solids,94,94,,%
+ST25AUG16-02-032 ,TEM ABF Influent (08-15-2025),8/15/2025,Total Suspended Solids,176,176,,mg/L
+ST25AUG16-02-032 ,TEM ABF Influent (08-15-2025),8/15/2025,Volatile Suspended Solids,165,165,,mg/L
+ST25AUG16-02-032 ,TEM ABF Influent (08-15-2025),8/15/2025,pH,6.06,6.06,,pH Units
+ST25AUG16-02-032 ,TEM ABF Influent (08-15-2025),8/15/2025,Soluble BOD,397,397,,mg/L
+ST25AUG17-02-032 ,TEM ABF Influent (08-16-2025),8/16/2025,% Volatile Suspended Solids,90,90,,%
+ST25AUG17-02-032 ,TEM ABF Influent (08-16-2025),8/16/2025,Total Suspended Solids,138,138,,mg/L
+ST25AUG17-02-032 ,TEM ABF Influent (08-16-2025),8/16/2025,Volatile Suspended Solids,124,124,,mg/L
+ST25AUG17-02-032 ,TEM ABF Influent (08-16-2025),8/16/2025,pH,6.73,6.73,,pH Units
+ST25AUG17-02-032 ,TEM ABF Influent (08-16-2025),8/16/2025,Soluble BOD,514,514,,mg/L
+ST25AUG18-01-033 ,TEM ABF Influent (08-17-2025),8/17/2025,% Volatile Suspended Solids,94,94,,%
+ST25AUG18-01-033 ,TEM ABF Influent (08-17-2025),8/17/2025,Total Suspended Solids,202,202,,mg/L
+ST25AUG18-01-033 ,TEM ABF Influent (08-17-2025),8/17/2025,Volatile Suspended Solids,190,190,,mg/L
+ST25AUG18-01-033 ,TEM ABF Influent (08-17-2025),8/17/2025,pH,6.07,6.07,,pH Units
+ST25AUG18-01-033 ,TEM ABF Influent (08-17-2025),8/17/2025,Soluble BOD,410,410,,mg/L
+ST25AUG19-01-033 ,TEM ABF Influent (08-18-2025),8/18/2025,% Volatile Suspended Solids,100,100,,%
+ST25AUG19-01-033 ,TEM ABF Influent (08-18-2025),8/18/2025,Total Suspended Solids,147,147,,mg/L
+ST25AUG19-01-033 ,TEM ABF Influent (08-18-2025),8/18/2025,Volatile Suspended Solids,147,147,,mg/L
+ST25AUG19-01-033 ,TEM ABF Influent (08-18-2025),8/18/2025,pH,6.30,6.30,,pH Units
+ST25AUG19-01-033 ,TEM ABF Influent (08-18-2025),8/18/2025,Soluble BOD,406,406,,mg/L
+ST25AUG18-01-038,TEM ABF Influent (TF) (08-18-2025),8/18/2025,pH,6.48,6.48,,pH Units
+ST25AUG18-01-038,TEM ABF Influent (TF) (08-18-2025),8/18/2025,Soluble BOD,449,449,,mg/L
+ST25AUG19-01-035,TEM ABF Influent (TF) (08-19-2025),8/19/2025,pH,7.42,7.42,,pH Units
+ST25AUG19-01-035,TEM ABF Influent (TF) (08-19-2025),8/19/2025,Soluble BOD,132,132,,mg/L
+ST25AUG20-01-033 ,TEM ABF Influent (08-19-2025),8/19/2025,% Volatile Suspended Solids,76,76,,%
+ST25AUG20-01-033 ,TEM ABF Influent (08-19-2025),8/19/2025,Total Suspended Solids,172,172,,mg/L
+ST25AUG20-01-033 ,TEM ABF Influent (08-19-2025),8/19/2025,Volatile Suspended Solids,131,131,,mg/L
+ST25AUG20-01-033 ,TEM ABF Influent (08-19-2025),8/19/2025,pH,6.40,6.40,,pH Units
+ST25AUG20-01-033 ,TEM ABF Influent (08-19-2025),8/19/2025,Soluble BOD,489,489,,mg/L
+ST25AUG20-01-035,TEM ABF Influent (TF inf) (08-20-2025),8/20/2025,pH,7.41,7.41,,pH Units
+ST25AUG20-01-035,TEM ABF Influent (TF inf) (08-20-2025),8/20/2025,Soluble BOD,138,138,,mg/L
+ST25AUG21-01-035 ,TEM ABF Influent (08-20-2025),8/20/2025,pH,7.45,7.45,,pH Units
+ST25AUG21-01-035 ,TEM ABF Influent (08-20-2025),8/20/2025,Soluble BOD,436,436,,mg/L
+ST25AUG21-01-035 ,TEM ABF Influent (08-20-2025),8/20/2025,% Volatile Suspended Solids,99,99,,%
+ST25AUG21-01-035 ,TEM ABF Influent (08-20-2025),8/20/2025,Total Suspended Solids,165,165,,mg/L
+ST25AUG21-01-035 ,TEM ABF Influent (08-20-2025),8/20/2025,Volatile Suspended Solids,164,164,,mg/L
+ST25AUG21-01-037,TEM ABF Influent (TF) (08-21-2025),8/21/2025,pH,6.67,6.67,,pH Units
+ST25AUG21-01-037,TEM ABF Influent (TF) (08-21-2025),8/21/2025,Soluble BOD,131,131,,mg/L
+ST25AUG22-01-033 ,TEM ABF Influent (08-21-2025),8/21/2025,% Volatile Suspended Solids,93,93,,%
+ST25AUG22-01-033 ,TEM ABF Influent (08-21-2025),8/21/2025,Total Suspended Solids,162,162,,mg/L
+ST25AUG22-01-033 ,TEM ABF Influent (08-21-2025),8/21/2025,Volatile Suspended Solids,150,150,,mg/L
+ST25AUG22-01-033 ,TEM ABF Influent (08-21-2025),8/21/2025,pH,6.19,6.19,,pH Units
+ST25AUG22-01-033 ,TEM ABF Influent (08-21-2025),8/21/2025,Soluble BOD,575,575,,mg/L
+ST25AUG22-01-035,TEM ABF Influent (TF) (08-22-2025),8/22/2025,pH,7.29,7.29,,pH Units
+ST25AUG22-01-035,TEM ABF Influent (TF) (08-22-2025),8/22/2025,Soluble BOD,136,136,,mg/L
+ST25AUG23-02-032 ,TEM ABF Influent (08-22-2025),8/22/2025,% Volatile Suspended Solids,93,93,,%
+ST25AUG23-02-032 ,TEM ABF Influent (08-22-2025),8/22/2025,Total Suspended Solids,129,129,,mg/L
+ST25AUG23-02-032 ,TEM ABF Influent (08-22-2025),8/22/2025,Volatile Suspended Solids,120,120,,mg/L
+ST25AUG23-02-032 ,TEM ABF Influent (08-22-2025),8/22/2025,pH,6.03,6.03,,pH Units
+ST25AUG23-02-032 ,TEM ABF Influent (08-22-2025),8/22/2025,Soluble BOD,574,574,,mg/L
+ST25AUG24-02-032 ,TEM ABF Influent (08-23-2025),8/23/2025,% Volatile Suspended Solids,92,92,,%
+ST25AUG24-02-032 ,TEM ABF Influent (08-23-2025),8/23/2025,Total Suspended Solids,126,126,,mg/L
+ST25AUG24-02-032 ,TEM ABF Influent (08-23-2025),8/23/2025,Volatile Suspended Solids,116,116,,mg/L
+ST25AUG24-02-032 ,TEM ABF Influent (08-23-2025),8/23/2025,pH,6.15,6.15,,pH Units
+ST25AUG24-02-032 ,TEM ABF Influent (08-23-2025),8/23/2025,Soluble BOD,339,339,,mg/L
+ST25AUG25-01-033 ,TEM ABF Influent (08-24-2025),8/24/2025,% Volatile Suspended Solids,90,90,,%
+ST25AUG25-01-033 ,TEM ABF Influent (08-24-2025),8/24/2025,Total Suspended Solids,109,109,,mg/L
+ST25AUG25-01-033 ,TEM ABF Influent (08-24-2025),8/24/2025,Volatile Suspended Solids,98,98,,mg/L
+ST25AUG25-01-033 ,TEM ABF Influent (08-24-2025),8/24/2025,pH,6.38,6.38,,pH Units
+ST25AUG25-01-033 ,TEM ABF Influent (08-24-2025),8/24/2025,Soluble BOD,406,406,,mg/L
+ST25AUG26-01-033 ,TEM ABF Influent (08-25-2025),8/25/2025,% Volatile Suspended Solids,96,96,,%
+ST25AUG26-01-033 ,TEM ABF Influent (08-25-2025),8/25/2025,Total Suspended Solids,116,116,,mg/L
+ST25AUG26-01-033 ,TEM ABF Influent (08-25-2025),8/25/2025,Volatile Suspended Solids,111,111,,mg/L
+ST25AUG26-01-033 ,TEM ABF Influent (08-25-2025),8/25/2025,pH,6.14,6.14,,pH Units
+ST25AUG26-01-033 ,TEM ABF Influent (08-25-2025),8/25/2025,Soluble BOD,528,528,,mg/L
+ST25AUG25-01-038,TEM ABF Influent (TF) (08-25-2025),8/25/2025,pH,6.81,6.81,,pH Units
+ST25AUG25-01-038,TEM ABF Influent (TF) (08-25-2025),8/25/2025,Soluble BOD,284,284,,mg/L
+ST25AUG27-01-033 ,TEM ABF Influent (08-26-2025),8/26/2025,% Volatile Suspended Solids,95,95,,%
+ST25AUG27-01-033 ,TEM ABF Influent (08-26-2025),8/26/2025,Total Suspended Solids,120,120,,mg/L
+ST25AUG27-01-033 ,TEM ABF Influent (08-26-2025),8/26/2025,Volatile Suspended Solids,114,114,,mg/L
+ST25AUG27-01-033 ,TEM ABF Influent (08-26-2025),8/26/2025,pH,6.42,6.42,,pH Units
+ST25AUG27-01-033 ,TEM ABF Influent (08-26-2025),8/26/2025,Soluble BOD,441,441,,mg/L
+ST25AUG26-01-035,TEM ABF Influent (TF) (08-26-2025),8/26/2025,pH,7.04,7.04,,pH Units
+ST25AUG26-01-035,TEM ABF Influent (TF) (08-26-2025),8/26/2025,Soluble BOD,172,172,,mg/L
+ST25AUG28-01-035 ,TEM ABF Influent (08-27-2025),8/27/2025,pH,6.37,6.37,,pH Units
+ST25AUG28-01-035 ,TEM ABF Influent (08-27-2025),8/27/2025,Soluble BOD,878,878,,mg/L
+ST25AUG28-01-035 ,TEM ABF Influent (08-27-2025),8/27/2025,% Volatile Suspended Solids,93,93,,%
+ST25AUG28-01-035 ,TEM ABF Influent (08-27-2025),8/27/2025,Total Suspended Solids,149,149,,mg/L
+ST25AUG28-01-035 ,TEM ABF Influent (08-27-2025),8/27/2025,Volatile Suspended Solids,139,139,,mg/L
+ST25AUG27-01-035,TEM ABF Influent (TF) (08-27-2025),8/27/2025,pH,7.26,7.26,,pH Units
+ST25AUG27-01-035,TEM ABF Influent (TF) (08-27-2025),8/27/2025,Soluble BOD,206,206,,mg/L
+ST25AUG29-01-033 ,TEM ABF Influent (08-28-2025),8/28/2025,% Volatile Suspended Solids,91,91,,%
+ST25AUG29-01-033 ,TEM ABF Influent (08-28-2025),8/28/2025,Total Suspended Solids,157,157,,mg/L
+ST25AUG29-01-033 ,TEM ABF Influent (08-28-2025),8/28/2025,Volatile Suspended Solids,143,143,,mg/L
+ST25AUG29-01-033 ,TEM ABF Influent (08-28-2025),8/28/2025,pH,6.19,6.19,,pH Units
+ST25AUG29-01-033 ,TEM ABF Influent (08-28-2025),8/28/2025,Soluble BOD,639,639,,mg/L
+ST25AUG28-01-037,TEM ABF Influent (TF INF) (08-28-2025),8/28/2025,pH,7.97,7.97,,pH Units
+ST25AUG28-01-037,TEM ABF Influent (TF INF) (08-28-2025),8/28/2025,Soluble BOD,357,357,,mg/L
+ST25AUG29-01-035,TEM ABF Influent (TF INF) (08-29-2025),8/29/2025,pH,7.03,7.03,,pH Units
+ST25AUG29-01-035,TEM ABF Influent (TF INF) (08-29-2025),8/29/2025,Soluble BOD,224,224,,mg/L
+ST25AUG30-02-032 ,TEM ABF Influent (08-29-2025),8/29/2025,% Volatile Suspended Solids,93,93,,%
+ST25AUG30-02-032 ,TEM ABF Influent (08-29-2025),8/29/2025,Total Suspended Solids,200,200,,mg/L
+ST25AUG30-02-032 ,TEM ABF Influent (08-29-2025),8/29/2025,Volatile Suspended Solids,185,185,,mg/L
+ST25AUG30-02-032 ,TEM ABF Influent (08-29-2025),8/29/2025,pH,6.62,6.62,,pH Units
+ST25AUG30-02-032 ,TEM ABF Influent (08-29-2025),8/29/2025,Soluble BOD,480,480,,mg/L
+ST25AUG31-02-032 ,TEM ABF Influent (08-30-2025),8/30/2025,% Volatile Suspended Solids,91,91,,%
+ST25AUG31-02-032 ,TEM ABF Influent (08-30-2025),8/30/2025,Total Suspended Solids,217,217,,mg/L
+ST25AUG31-02-032 ,TEM ABF Influent (08-30-2025),8/30/2025,Volatile Suspended Solids,197,197,,mg/L
+ST25AUG31-02-032 ,TEM ABF Influent (08-30-2025),8/30/2025,pH,6.80,6.80,,pH Units
+ST25AUG31-02-032 ,TEM ABF Influent (08-30-2025),8/30/2025,Soluble BOD,540,540,,mg/L
+ST25SEP01-06-033 ,TEM ABF Influent (08-31-2025),8/31/2025,% Volatile Suspended Solids,88,88,,%
+ST25SEP01-06-033 ,TEM ABF Influent (08-31-2025),8/31/2025,Total Suspended Solids,100,100,,mg/L
+ST25SEP01-06-033 ,TEM ABF Influent (08-31-2025),8/31/2025,Volatile Suspended Solids,88,88,,mg/L
+ST25SEP01-06-033 ,TEM ABF Influent (08-31-2025),8/31/2025,pH,6.62,6.62,,pH Units
+ST25SEP01-06-033 ,TEM ABF Influent (08-31-2025),8/31/2025,Soluble BOD,394,394,,mg/L
+ST25SEP02-01-033 ,TEM ABF Influent (09-01-2025),9/1/2025,% Volatile Suspended Solids,100,100,,%
+ST25SEP02-01-033 ,TEM ABF Influent (09-01-2025),9/1/2025,Total Suspended Solids,114,114,,mg/L
+ST25SEP02-01-033 ,TEM ABF Influent (09-01-2025),9/1/2025,Volatile Suspended Solids,114,114,,mg/L
+ST25SEP02-01-033 ,TEM ABF Influent (09-01-2025),9/1/2025,pH,6.76,6.76,,pH Units
+ST25SEP02-01-033 ,TEM ABF Influent (09-01-2025),9/1/2025,Soluble BOD,558,558,,mg/L
+ST25SEP03-01-033 ,TEM ABF Influent (09-02-2025),9/2/2025,% Volatile Suspended Solids,89,89,,%
+ST25SEP03-01-033 ,TEM ABF Influent (09-02-2025),9/2/2025,Total Suspended Solids,235,235,,mg/L
+ST25SEP03-01-033 ,TEM ABF Influent (09-02-2025),9/2/2025,Volatile Suspended Solids,208,208,,mg/L
+ST25SEP03-01-033 ,TEM ABF Influent (09-02-2025),9/2/2025,pH,6.82,6.82,,pH Units
+ST25SEP03-01-033 ,TEM ABF Influent (09-02-2025),9/2/2025,Soluble BOD,485,485,,mg/L
+ST25SEP04-01-035 ,TEM ABF Influent (09-03-2025),9/3/2025,pH,6.94,6.94,,pH Units
+ST25SEP04-01-035 ,TEM ABF Influent (09-03-2025),9/3/2025,Soluble BOD,440,440,,mg/L
+ST25SEP04-01-035 ,TEM ABF Influent (09-03-2025),9/3/2025,% Volatile Suspended Solids,88,88,,%
+ST25SEP04-01-035 ,TEM ABF Influent (09-03-2025),9/3/2025,Total Suspended Solids,355,355,,mg/L
+ST25SEP04-01-035 ,TEM ABF Influent (09-03-2025),9/3/2025,Volatile Suspended Solids,312,312,,mg/L
+ST25SEP05-01-033 ,TEM ABF Influent (09-04-2025),9/4/2025,% Volatile Suspended Solids,95,95,,%
+ST25SEP05-01-033 ,TEM ABF Influent (09-04-2025),9/4/2025,Total Suspended Solids,247,247,,mg/L
+ST25SEP05-01-033 ,TEM ABF Influent (09-04-2025),9/4/2025,Volatile Suspended Solids,236,236,,mg/L
+ST25SEP05-01-033 ,TEM ABF Influent (09-04-2025),9/4/2025,pH,6.20,6.20,,pH Units
+ST25SEP05-01-033 ,TEM ABF Influent (09-04-2025),9/4/2025,Soluble BOD,635,635,,mg/L
+ST25SEP06-02-032 ,TEM ABF Influent (09-05-2025),9/5/2025,% Volatile Suspended Solids,92,92,,%
+ST25SEP06-02-032 ,TEM ABF Influent (09-05-2025),9/5/2025,Total Suspended Solids,450,450,,mg/L
+ST25SEP06-02-032 ,TEM ABF Influent (09-05-2025),9/5/2025,Volatile Suspended Solids,413,413,,mg/L
+ST25SEP06-02-032 ,TEM ABF Influent (09-05-2025),9/5/2025,pH,6.41,6.41,,pH Units
+ST25SEP06-02-032 ,TEM ABF Influent (09-05-2025),9/5/2025,Soluble BOD,577,577,,mg/L
+ST25SEP07-02-032 ,TEM ABF Influent (09-06-2025),9/6/2025,% Volatile Suspended Solids,88,88,,%
+ST25SEP07-02-032 ,TEM ABF Influent (09-06-2025),9/6/2025,Total Suspended Solids,273,273,,mg/L
+ST25SEP07-02-032 ,TEM ABF Influent (09-06-2025),9/6/2025,Volatile Suspended Solids,240,240,,mg/L
+ST25SEP07-02-032 ,TEM ABF Influent (09-06-2025),9/6/2025,pH,6.52,6.52,,pH Units
+ST25SEP07-02-032 ,TEM ABF Influent (09-06-2025),9/6/2025,Soluble BOD,460,460,,mg/L
+ST25SEP08-01-033 ,TEM ABF Influent (09-07-2025),9/7/2025,% Volatile Suspended Solids,97,97,,%
+ST25SEP08-01-033 ,TEM ABF Influent (09-07-2025),9/7/2025,Total Suspended Solids,193,193,,mg/L
+ST25SEP08-01-033 ,TEM ABF Influent (09-07-2025),9/7/2025,Volatile Suspended Solids,187,187,,mg/L
+ST25SEP08-01-033 ,TEM ABF Influent (09-07-2025),9/7/2025,pH,6.84,6.84,,pH Units
+ST25SEP08-01-033 ,TEM ABF Influent (09-07-2025),9/7/2025,Soluble BOD,414,414,,mg/L
+ST25SEP09-01-033 ,TEM ABF Influent (09-08-2025),9/8/2025,% Volatile Suspended Solids,92,92,,%
+ST25SEP09-01-033 ,TEM ABF Influent (09-08-2025),9/8/2025,Total Suspended Solids,105,105,,mg/L
+ST25SEP09-01-033 ,TEM ABF Influent (09-08-2025),9/8/2025,Volatile Suspended Solids,97,97,,mg/L
+ST25SEP09-01-033 ,TEM ABF Influent (09-08-2025),9/8/2025,pH,6.58,6.58,,pH Units
+ST25SEP09-01-033 ,TEM ABF Influent (09-08-2025),9/8/2025,Soluble BOD,362,362,,mg/L
+ST25SEP10-01-033 ,TEM ABF Influent (09-09-2025),9/9/2025,% Volatile Suspended Solids,92,92,,%
+ST25SEP10-01-033 ,TEM ABF Influent (09-09-2025),9/9/2025,Total Suspended Solids,151,151,,mg/L
+ST25SEP10-01-033 ,TEM ABF Influent (09-09-2025),9/9/2025,Volatile Suspended Solids,139,139,,mg/L
+ST25SEP10-01-033 ,TEM ABF Influent (09-09-2025),9/9/2025,pH,6.27,6.27,,pH Units
+ST25SEP10-01-033 ,TEM ABF Influent (09-09-2025),9/9/2025,Soluble BOD,547,547,,mg/L
+ST25SEP11-01-035 ,TEM ABF Influent (09-10-2025),9/10/2025,pH,6.17,6.17,,pH Units
+ST25SEP11-01-035 ,TEM ABF Influent (09-10-2025),9/10/2025,Soluble BOD,498,498,,mg/L
+ST25SEP11-01-035 ,TEM ABF Influent (09-10-2025),9/10/2025,% Volatile Suspended Solids,87,87,,%
+ST25SEP11-01-035 ,TEM ABF Influent (09-10-2025),9/10/2025,Total Suspended Solids,215,215,,mg/L
+ST25SEP11-01-035 ,TEM ABF Influent (09-10-2025),9/10/2025,Volatile Suspended Solids,187,187,,mg/L
+ST25SEP12-01-033 ,TEM ABF Influent (09-11-2025),9/11/2025,% Volatile Suspended Solids,86,86,,%
+ST25SEP12-01-033 ,TEM ABF Influent (09-11-2025),9/11/2025,Total Suspended Solids,246,246,,mg/L
+ST25SEP12-01-033 ,TEM ABF Influent (09-11-2025),9/11/2025,Volatile Suspended Solids,211,211,,mg/L
+ST25SEP12-01-033 ,TEM ABF Influent (09-11-2025),9/11/2025,pH,6.09,6.09,,pH Units
+ST25SEP12-01-033 ,TEM ABF Influent (09-11-2025),9/11/2025,Soluble BOD,431,431,,mg/L
+ST25SEP13-02-032 ,TEM ABF Influent (09-12-2025),9/12/2025,% Volatile Suspended Solids,91,91,,%
+ST25SEP13-02-032 ,TEM ABF Influent (09-12-2025),9/12/2025,Total Suspended Solids,367,367,,mg/L
+ST25SEP13-02-032 ,TEM ABF Influent (09-12-2025),9/12/2025,Volatile Suspended Solids,333,333,,mg/L
+ST25SEP13-02-032 ,TEM ABF Influent (09-12-2025),9/12/2025,pH,6.62,6.62,,pH Units
+ST25SEP13-02-032 ,TEM ABF Influent (09-12-2025),9/12/2025,Soluble BOD,480,480,,mg/L
+ST25SEP14-02-032 ,TEM ABF Influent (09-13-2025),9/13/2025,% Volatile Suspended Solids,96,96,,%
+ST25SEP14-02-032 ,TEM ABF Influent (09-13-2025),9/13/2025,Total Suspended Solids,344,344,,mg/L
+ST25SEP14-02-032 ,TEM ABF Influent (09-13-2025),9/13/2025,Volatile Suspended Solids,330,330,,mg/L
+ST25SEP14-02-032 ,TEM ABF Influent (09-13-2025),9/13/2025,pH,6.43,6.43,,pH Units
+ST25SEP14-02-032 ,TEM ABF Influent (09-13-2025),9/13/2025,Soluble BOD,444,444,,mg/L
+ST25SEP15-01-033 ,TEM ABF Influent (09-14-2025),9/14/2025,% Volatile Suspended Solids,99,99,,%
+ST25SEP15-01-033 ,TEM ABF Influent (09-14-2025),9/14/2025,Total Suspended Solids,210,210,,mg/L
+ST25SEP15-01-033 ,TEM ABF Influent (09-14-2025),9/14/2025,Volatile Suspended Solids,208,208,,mg/L
+ST25SEP15-01-033 ,TEM ABF Influent (09-14-2025),9/14/2025,pH,6.24,6.24,,pH Units
+ST25SEP15-01-033 ,TEM ABF Influent (09-14-2025),9/14/2025,Soluble BOD,522,522,,mg/L
+ST25SEP16-01-033 ,TEM ABF Influent (09-15-2025),9/15/2025,% Volatile Suspended Solids,96,96,,%
+ST25SEP16-01-033 ,TEM ABF Influent (09-15-2025),9/15/2025,Total Suspended Solids,135,135,,mg/L
+ST25SEP16-01-033 ,TEM ABF Influent (09-15-2025),9/15/2025,Volatile Suspended Solids,130,130,,mg/L
+ST25SEP16-01-033 ,TEM ABF Influent (09-15-2025),9/15/2025,pH,6.52,6.52,,pH Units
+ST25SEP16-01-033 ,TEM ABF Influent (09-15-2025),9/15/2025,Soluble BOD,459,459,,mg/L
+ST25SEP17-02-033 ,TEM ABF Influent (09-16-2025),9/16/2025,% Volatile Suspended Solids,88,88,,%
+ST25SEP17-02-033 ,TEM ABF Influent (09-16-2025),9/16/2025,Total Suspended Solids,688,688,,mg/L
+ST25SEP17-02-033 ,TEM ABF Influent (09-16-2025),9/16/2025,Volatile Suspended Solids,603,603,,mg/L
+ST25SEP17-02-033 ,TEM ABF Influent (09-16-2025),9/16/2025,pH,6.44,6.44,,pH Units
+ST25SEP17-02-033 ,TEM ABF Influent (09-16-2025),9/16/2025,Soluble BOD,430,430,,mg/L
+ST25SEP18-01-035 ,TEM ABF Influent (09-17-2025),9/17/2025,pH,6.84,6.84,,pH Units
+ST25SEP18-01-035 ,TEM ABF Influent (09-17-2025),9/17/2025,Soluble BOD,598,598,,mg/L
+ST25SEP18-01-035 ,TEM ABF Influent (09-17-2025),9/17/2025,% Volatile Suspended Solids,90,90,,%
+ST25SEP18-01-035 ,TEM ABF Influent (09-17-2025),9/17/2025,Total Suspended Solids,303,303,,mg/L
+ST25SEP18-01-035 ,TEM ABF Influent (09-17-2025),9/17/2025,Volatile Suspended Solids,272,272,,mg/L
+ST25SEP19-01-033 ,TEM ABF Influent (09-18-2025),9/18/2025,% Volatile Suspended Solids,94,94,,%
+ST25SEP19-01-033 ,TEM ABF Influent (09-18-2025),9/18/2025,Total Suspended Solids,810,810,,mg/L
+ST25SEP19-01-033 ,TEM ABF Influent (09-18-2025),9/18/2025,Volatile Suspended Solids,765,765,,mg/L
+ST25SEP19-01-033 ,TEM ABF Influent (09-18-2025),9/18/2025,pH,6.55,6.55,,pH Units
+ST25SEP19-01-033 ,TEM ABF Influent (09-18-2025),9/18/2025,Soluble BOD,463,463,,mg/L
+ST25SEP20-02-032 ,TEM ABF Influent (09-19-2025),9/19/2025,% Volatile Suspended Solids,90,90,,%
+ST25SEP20-02-032 ,TEM ABF Influent (09-19-2025),9/19/2025,Total Suspended Solids,648,648,,mg/L
+ST25SEP20-02-032 ,TEM ABF Influent (09-19-2025),9/19/2025,Volatile Suspended Solids,586,586,,mg/L
+ST25SEP20-02-032 ,TEM ABF Influent (09-19-2025),9/19/2025,pH,6.16,6.16,,pH Units
+ST25SEP20-02-032 ,TEM ABF Influent (09-19-2025),9/19/2025,Soluble BOD,566,566,,mg/L
+ST25SEP21-02-032 ,TEM ABF Influent (09-20-2025),9/20/2025,pH,6.19,6.19,,pH Units
+ST25SEP21-02-032 ,TEM ABF Influent (09-20-2025),9/20/2025,Soluble BOD,532,532,,mg/L
+ST25SEP21-02-032 ,TEM ABF Influent (09-20-2025),9/20/2025,% Volatile Suspended Solids,90,90,,%
+ST25SEP21-02-032 ,TEM ABF Influent (09-20-2025),9/20/2025,Total Suspended Solids,813,813,,mg/L
+ST25SEP21-02-032 ,TEM ABF Influent (09-20-2025),9/20/2025,Volatile Suspended Solids,730,730,,mg/L
+ST25SEP22-01-033 ,TEM ABF Influent (09-21-2025),9/21/2025,% Volatile Suspended Solids,90,90,,%
+ST25SEP22-01-033 ,TEM ABF Influent (09-21-2025),9/21/2025,Total Suspended Solids,550,550,,mg/L
+ST25SEP22-01-033 ,TEM ABF Influent (09-21-2025),9/21/2025,Volatile Suspended Solids,493,493,,mg/L
+ST25SEP22-01-033 ,TEM ABF Influent (09-21-2025),9/21/2025,pH,6.86,6.86,,pH Units
+ST25SEP22-01-033 ,TEM ABF Influent (09-21-2025),9/21/2025,Soluble BOD,241,241,,mg/L
+ST25SEP23-01-033 ,TEM ABF Influent (09-22-2025),9/22/2025,% Volatile Suspended Solids,#VALUE!,#VALUE!,,%
+ST25SEP23-01-033 ,TEM ABF Influent (09-22-2025),9/22/2025,Total Suspended Solids,57,57,,mg/L
+ST25SEP23-01-033 ,TEM ABF Influent (09-22-2025),9/22/2025,Volatile Suspended Solids,#VALUE!,#VALUE!,,mg/L
+ST25SEP23-01-033 ,TEM ABF Influent (09-22-2025),9/22/2025,pH,6.79,6.79,,pH Units
+ST25SEP23-01-033 ,TEM ABF Influent (09-22-2025),9/22/2025,Soluble BOD,328,328,,mg/L
+ST25SEP23-01-033 ,TEM ABF Influent (09-22-2025),9/22/2025,% Volatile Suspended Solids,95,95,,%
+ST25SEP23-01-033 ,TEM ABF Influent (09-22-2025),9/22/2025,Total Suspended Solids,707,707,,mg/L
+ST25SEP23-01-033 ,TEM ABF Influent (09-22-2025),9/22/2025,Volatile Suspended Solids,670,670,,mg/L
+ST25SEP24-01-033 ,TEM ABF Influent (09-23-2025),9/23/2025,% Volatile Suspended Solids,90,90,,%
+ST25SEP24-01-033 ,TEM ABF Influent (09-23-2025),9/23/2025,Total Suspended Solids,487,487,,mg/L
+ST25SEP24-01-033 ,TEM ABF Influent (09-23-2025),9/23/2025,Volatile Suspended Solids,440,440,,mg/L
+ST25SEP24-01-033 ,TEM ABF Influent (09-23-2025),9/23/2025,pH,6.67,6.67,,pH Units
+ST25SEP24-01-033 ,TEM ABF Influent (09-23-2025),9/23/2025,Soluble BOD,462,462,,mg/L
+ST25SEP25-01-035 ,TEM ABF Influent (09-24-2025),9/24/2025,pH,6.74,6.74,,pH Units
+ST25SEP25-01-035 ,TEM ABF Influent (09-24-2025),9/24/2025,Soluble BOD,367,367,,mg/L
+ST25SEP25-01-035 ,TEM ABF Influent (09-24-2025),9/24/2025,% Volatile Suspended Solids,84,84,,%
+ST25SEP25-01-035 ,TEM ABF Influent (09-24-2025),9/24/2025,Total Suspended Solids,3000,3000,,mg/L
+ST25SEP25-01-035 ,TEM ABF Influent (09-24-2025),9/24/2025,Volatile Suspended Solids,2510,2510,,mg/L
+ST25SEP26-01-033 ,TEM ABF Influent (09-25-2025),9/25/2025,% Volatile Suspended Solids,83,83,,%
+ST25SEP26-01-033 ,TEM ABF Influent (09-25-2025),9/25/2025,Total Suspended Solids,397,397,,mg/L
+ST25SEP26-01-033 ,TEM ABF Influent (09-25-2025),9/25/2025,Volatile Suspended Solids,330,330,,mg/L
+ST25SEP26-01-033 ,TEM ABF Influent (09-25-2025),9/25/2025,pH,6.26,6.26,,pH Units
+ST25SEP26-01-033 ,TEM ABF Influent (09-25-2025),9/25/2025,Soluble BOD,423,423,,mg/L
+ST25SEP27-02-032 ,TEM ABF Influent (09-26-2025),9/26/2025,% Volatile Suspended Solids,87,87,,%
+ST25SEP27-02-032 ,TEM ABF Influent (09-26-2025),9/26/2025,Total Suspended Solids,380,380,,mg/L
+ST25SEP27-02-032 ,TEM ABF Influent (09-26-2025),9/26/2025,Volatile Suspended Solids,330,330,,mg/L
+ST25SEP27-02-032 ,TEM ABF Influent (09-26-2025),9/26/2025,pH,6.51,6.51,,pH Units
+ST25SEP27-02-032 ,TEM ABF Influent (09-26-2025),9/26/2025,Soluble BOD,360,360,,mg/L
+ST25SEP28-02-032 ,TEM ABF Influent (09-27-2025),9/27/2025,% Volatile Suspended Solids,88,88,,%
+ST25SEP28-02-032 ,TEM ABF Influent (09-27-2025),9/27/2025,Total Suspended Solids,947,947,,mg/L
+ST25SEP28-02-032 ,TEM ABF Influent (09-27-2025),9/27/2025,Volatile Suspended Solids,833,833,,mg/L
+ST25SEP28-02-032 ,TEM ABF Influent (09-27-2025),9/27/2025,pH,6.68,6.68,,pH Units
+ST25SEP28-02-032 ,TEM ABF Influent (09-27-2025),9/27/2025,Soluble BOD,445,445,,mg/L
+ST25SEP29-01-033 ,TEM ABF Influent (09-28-2025),9/28/2025,% Volatile Suspended Solids,91,91,,%
+ST25SEP29-01-033 ,TEM ABF Influent (09-28-2025),9/28/2025,Total Suspended Solids,458,458,,mg/L
+ST25SEP29-01-033 ,TEM ABF Influent (09-28-2025),9/28/2025,Volatile Suspended Solids,415,415,,mg/L
+ST25SEP29-01-033 ,TEM ABF Influent (09-28-2025),9/28/2025,pH,6.66,6.66,,pH Units
+ST25SEP29-01-033 ,TEM ABF Influent (09-28-2025),9/28/2025,Soluble BOD,473,473,,mg/L
+ST25SEP30-01-033 ,TEM ABF Influent (09-29-2025),9/29/2025,% Volatile Suspended Solids,85,85,,%
+ST25SEP30-01-033 ,TEM ABF Influent (09-29-2025),9/29/2025,Total Suspended Solids,177,177,,mg/L
+ST25SEP30-01-033 ,TEM ABF Influent (09-29-2025),9/29/2025,Volatile Suspended Solids,150,150,,mg/L
+ST25SEP30-01-033 ,TEM ABF Influent (09-29-2025),9/29/2025,pH,6.90,6.90,,pH Units
+ST25SEP30-01-033 ,TEM ABF Influent (09-29-2025),9/29/2025,Soluble BOD,63,63,,mg/L
+ST25OCT01-06-033 ,TEM ABF Influent (09-30-2025),9/30/2025,% Volatile Suspended Solids,80,80,,%
+ST25OCT01-06-033 ,TEM ABF Influent (09-30-2025),9/30/2025,Total Suspended Solids,490,490,,mg/L
+ST25OCT01-06-033 ,TEM ABF Influent (09-30-2025),9/30/2025,Volatile Suspended Solids,390,390,,mg/L
+ST25OCT01-06-033 ,TEM ABF Influent (09-30-2025),9/30/2025,pH,6.77,6.77,,pH Units
+ST25OCT01-06-033 ,TEM ABF Influent (09-30-2025),9/30/2025,Soluble BOD,367,367,,mg/L
+ST25OCT02-01-035 ,TEM ABF Influent (10-01-2025),10/1/2025,pH,6.57,6.57,,pH Units
+ST25OCT02-01-035 ,TEM ABF Influent (10-01-2025),10/1/2025,Soluble BOD,446,446,,mg/L
+ST25OCT02-01-035 ,TEM ABF Influent (10-01-2025),10/1/2025,% Volatile Suspended Solids,71,71,,%
+ST25OCT02-01-035 ,TEM ABF Influent (10-01-2025),10/1/2025,Total Suspended Solids,562,562,,mg/L
+ST25OCT02-01-035 ,TEM ABF Influent (10-01-2025),10/1/2025,Volatile Suspended Solids,400,400,,mg/L
+ST25OCT03-01-033 ,TEM ABF Influent (10-02-2025),10/2/2025,% Volatile Suspended Solids,84,84,,%
+ST25OCT03-01-033 ,TEM ABF Influent (10-02-2025),10/2/2025,Total Suspended Solids,127,127,,mg/L
+ST25OCT03-01-033 ,TEM ABF Influent (10-02-2025),10/2/2025,Volatile Suspended Solids,106,106,,mg/L
+ST25OCT03-01-033 ,TEM ABF Influent (10-02-2025),10/2/2025,pH,7.00,7.00,,pH Units
+ST25OCT03-01-033 ,TEM ABF Influent (10-02-2025),10/2/2025,Soluble BOD,421,421,,mg/L
+ST25OCT04-02-032 ,TEM ABF Influent (10-03-2025),10/3/2025,% Volatile Suspended Solids,92,92,,%
+ST25OCT04-02-032 ,TEM ABF Influent (10-03-2025),10/3/2025,Total Suspended Solids,273,273,,mg/L
+ST25OCT04-02-032 ,TEM ABF Influent (10-03-2025),10/3/2025,Volatile Suspended Solids,250,250,,mg/L
+ST25OCT04-02-032 ,TEM ABF Influent (10-03-2025),10/3/2025,pH,7.96,7.96,,pH Units
+ST25OCT04-02-032 ,TEM ABF Influent (10-03-2025),10/3/2025,Soluble BOD,51,51,,mg/L
+ST25OCT05-02-032 ,TEM ABF Influent (10-04-2025),10/4/2025,% Volatile Suspended Solids,87,87,,%
+ST25OCT05-02-032 ,TEM ABF Influent (10-04-2025),10/4/2025,Total Suspended Solids,184,184,,mg/L
+ST25OCT05-02-032 ,TEM ABF Influent (10-04-2025),10/4/2025,Volatile Suspended Solids,161,161,,mg/L
+ST25OCT05-02-032 ,TEM ABF Influent (10-04-2025),10/4/2025,pH,6.82,6.82,,pH Units
+ST25OCT05-02-032 ,TEM ABF Influent (10-04-2025),10/4/2025,Soluble BOD,413,413,,mg/L
+ST25OCT06-01-033 ,TEM ABF Influent (10-05-2025),10/5/2025,% Volatile Suspended Solids,87,87,,%
+ST25OCT06-01-033 ,TEM ABF Influent (10-05-2025),10/5/2025,Total Suspended Solids,251,251,,mg/L
+ST25OCT06-01-033 ,TEM ABF Influent (10-05-2025),10/5/2025,Volatile Suspended Solids,219,219,,mg/L
+ST25OCT06-01-033 ,TEM ABF Influent (10-05-2025),10/5/2025,pH,6.79,6.79,,pH Units
+ST25OCT06-01-033 ,TEM ABF Influent (10-05-2025),10/5/2025,Soluble BOD,372,372,,mg/L
+ST25OCT07-01-033 ,TEM ABF Influent (10-06-2025),10/6/2025,% Volatile Suspended Solids,83,83,,%
+ST25OCT07-01-033 ,TEM ABF Influent (10-06-2025),10/6/2025,Total Suspended Solids,546,546,,mg/L
+ST25OCT07-01-033 ,TEM ABF Influent (10-06-2025),10/6/2025,Volatile Suspended Solids,452,452,,mg/L
+ST25OCT07-01-033 ,TEM ABF Influent (10-06-2025),10/6/2025,pH,6.71,6.71,,pH Units
+ST25OCT07-01-033 ,TEM ABF Influent (10-06-2025),10/6/2025,Soluble BOD,320,320,,mg/L
+ST25OCT08-01-033 ,TEM ABF Influent (10-07-2025),10/7/2025,% Volatile Suspended Solids,83,83,,%
+ST25OCT08-01-033 ,TEM ABF Influent (10-07-2025),10/7/2025,Total Suspended Solids,199,199,,mg/L
+ST25OCT08-01-033 ,TEM ABF Influent (10-07-2025),10/7/2025,Volatile Suspended Solids,166,166,,mg/L
+ST25OCT08-01-033 ,TEM ABF Influent (10-07-2025),10/7/2025,pH,6.76,6.76,,pH Units
+ST25OCT08-01-033 ,TEM ABF Influent (10-07-2025),10/7/2025,Soluble BOD,217,217,,mg/L
+ST25OCT09-01-035 ,TEM ABF Influent (10-08-2025),10/8/2025,pH,6.68,6.68,,pH Units
+ST25OCT09-01-035 ,TEM ABF Influent (10-08-2025),10/8/2025,Soluble BOD,393,393,,mg/L
+ST25OCT09-01-035 ,TEM ABF Influent (10-08-2025),10/8/2025,% Volatile Suspended Solids,82,82,,%
+ST25OCT09-01-035 ,TEM ABF Influent (10-08-2025),10/8/2025,Total Suspended Solids,221,221,,mg/L
+ST25OCT09-01-035 ,TEM ABF Influent (10-08-2025),10/8/2025,Volatile Suspended Solids,182,182,,mg/L
+ST25OCT10-01-033 ,TEM ABF Influent (10-09-2025),10/9/2025,% Volatile Suspended Solids,84,84,,%
+ST25OCT10-01-033 ,TEM ABF Influent (10-09-2025),10/9/2025,Total Suspended Solids,309,309,,mg/L
+ST25OCT10-01-033 ,TEM ABF Influent (10-09-2025),10/9/2025,Volatile Suspended Solids,260,260,,mg/L
+ST25OCT10-01-033 ,TEM ABF Influent (10-09-2025),10/9/2025,pH,6.88,6.88,,pH Units
+ST25OCT10-01-033 ,TEM ABF Influent (10-09-2025),10/9/2025,Soluble BOD,363,363,,mg/L
+ST25OCT11-02-032 ,TEM ABF Influent (10-10-2025),10/10/2025,% Volatile Suspended Solids,95,95,,%
+ST25OCT11-02-032 ,TEM ABF Influent (10-10-2025),10/10/2025,Total Suspended Solids,262,262,,mg/L
+ST25OCT11-02-032 ,TEM ABF Influent (10-10-2025),10/10/2025,Volatile Suspended Solids,248,248,,mg/L
+ST25OCT11-02-032 ,TEM ABF Influent (10-10-2025),10/10/2025,pH,7.28,7.28,,pH Units
+ST25OCT11-02-032 ,TEM ABF Influent (10-10-2025),10/10/2025,Soluble BOD,396,396,,mg/L
+ST25OCT12-02-032 ,TEM ABF Influent (10-11-2025),10/11/2025,% Volatile Suspended Solids,87,87,,%
+ST25OCT12-02-032 ,TEM ABF Influent (10-11-2025),10/11/2025,Total Suspended Solids,416,416,,mg/L
+ST25OCT12-02-032 ,TEM ABF Influent (10-11-2025),10/11/2025,Volatile Suspended Solids,362,362,,mg/L
+ST25OCT12-02-032 ,TEM ABF Influent (10-11-2025),10/11/2025,pH,7.14,7.14,,pH Units
+ST25OCT12-02-032 ,TEM ABF Influent (10-11-2025),10/11/2025,Soluble BOD,328,328,,mg/L
+ST25OCT13-01-033,TEM ABF Influent (10-12-2025),10/12/2025,% Volatile Suspended Solids,86,86,,%
+ST25OCT13-01-033,TEM ABF Influent (10-12-2025),10/12/2025,Total Suspended Solids,206,206,,mg/L
+ST25OCT13-01-033,TEM ABF Influent (10-12-2025),10/12/2025,Volatile Suspended Solids,177,177,,mg/L
+ST25OCT13-01-033,TEM ABF Influent (10-12-2025),10/12/2025,pH,7.21,7.21,,pH Units
+ST25OCT13-01-033,TEM ABF Influent (10-12-2025),10/12/2025,Soluble BOD,335,335,,mg/L
+ST25OCT14-01-033 ,TEM ABF Influent (10-13-2025),10/13/2025,% Volatile Suspended Solids,88,88,,%
+ST25OCT14-01-033 ,TEM ABF Influent (10-13-2025),10/13/2025,Total Suspended Solids,169,169,,mg/L
+ST25OCT14-01-033 ,TEM ABF Influent (10-13-2025),10/13/2025,Volatile Suspended Solids,148,148,,mg/L
+ST25OCT14-01-033 ,TEM ABF Influent (10-13-2025),10/13/2025,pH,7.08,7.08,,pH Units
+ST25OCT14-01-033 ,TEM ABF Influent (10-13-2025),10/13/2025,Soluble BOD,401,401,,mg/L
+ST25OCT15-01-033 ,TEM ABF Influent (10-14-2025),10/14/2025,% Volatile Suspended Solids,91,91,,%
+ST25OCT15-01-033 ,TEM ABF Influent (10-14-2025),10/14/2025,Total Suspended Solids,250,250,,mg/L
+ST25OCT15-01-033 ,TEM ABF Influent (10-14-2025),10/14/2025,Volatile Suspended Solids,229,229,,mg/L
+ST25OCT15-01-033 ,TEM ABF Influent (10-14-2025),10/14/2025,pH,6.95,6.95,,pH Units
+ST25OCT15-01-033 ,TEM ABF Influent (10-14-2025),10/14/2025,Soluble BOD,445,445,,mg/L
+ST25OCT16-01-035 ,TEM ABF Influent (10-15-2025),10/15/2025,pH,6.76,6.76,,pH Units
+ST25OCT16-01-035 ,TEM ABF Influent (10-15-2025),10/15/2025,Soluble BOD,451,451,,mg/L
+ST25OCT16-01-035 ,TEM ABF Influent (10-15-2025),10/15/2025,% Volatile Suspended Solids,88,88,,%
+ST25OCT16-01-035 ,TEM ABF Influent (10-15-2025),10/15/2025,Total Suspended Solids,223,223,,mg/L
+ST25OCT16-01-035 ,TEM ABF Influent (10-15-2025),10/15/2025,Volatile Suspended Solids,197,197,,mg/L
+ST25OCT17-01-033 ,TEM ABF Influent (10-16-2025),10/16/2025,% Volatile Suspended Solids,92,92,,%
+ST25OCT17-01-033 ,TEM ABF Influent (10-16-2025),10/16/2025,Total Suspended Solids,190,190,,mg/L
+ST25OCT17-01-033 ,TEM ABF Influent (10-16-2025),10/16/2025,Volatile Suspended Solids,174,174,,mg/L
+ST25OCT17-01-033 ,TEM ABF Influent (10-16-2025),10/16/2025,pH,6.51,6.51,,pH Units
+ST25OCT17-01-033 ,TEM ABF Influent (10-16-2025),10/16/2025,Soluble BOD,400,400,,mg/L
+ST25OCT18-02-032 ,TEM ABF Influent (10-17-2025),10/17/2025,% Volatile Suspended Solids,95,95,,%
+ST25OCT18-02-032 ,TEM ABF Influent (10-17-2025),10/17/2025,Total Suspended Solids,231,231,,mg/L
+ST25OCT18-02-032 ,TEM ABF Influent (10-17-2025),10/17/2025,Volatile Suspended Solids,220,220,,mg/L
+ST25OCT18-02-032 ,TEM ABF Influent (10-17-2025),10/17/2025,pH,6.64,6.64,,pH Units
+ST25OCT18-02-032 ,TEM ABF Influent (10-17-2025),10/17/2025,Soluble BOD,329,329,,mg/L
+ST25OCT19-02-032 ,TEM ABF Influent (10-18-2025),10/18/2025,% Volatile Suspended Solids,96,96,,%
+ST25OCT19-02-032 ,TEM ABF Influent (10-18-2025),10/18/2025,Total Suspended Solids,238,238,,mg/L
+ST25OCT19-02-032 ,TEM ABF Influent (10-18-2025),10/18/2025,Volatile Suspended Solids,228,228,,mg/L
+ST25OCT19-02-032 ,TEM ABF Influent (10-18-2025),10/18/2025,pH,6.61,6.61,,pH Units
+ST25OCT19-02-032 ,TEM ABF Influent (10-18-2025),10/18/2025,Soluble BOD,381,381,,mg/L
+ST25OCT20-01-033 ,TEM ABF Influent (10-19-2025),10/19/2025,% Volatile Suspended Solids,87,87,,%
+ST25OCT20-01-033 ,TEM ABF Influent (10-19-2025),10/19/2025,Total Suspended Solids,214,214,,mg/L
+ST25OCT20-01-033 ,TEM ABF Influent (10-19-2025),10/19/2025,Volatile Suspended Solids,186,186,,mg/L
+ST25OCT20-01-033 ,TEM ABF Influent (10-19-2025),10/19/2025,pH,6.97,6.97,,pH Units
+ST25OCT20-01-033 ,TEM ABF Influent (10-19-2025),10/19/2025,Soluble BOD,386,386,,mg/L
+ST25OCT21-01-033 ,TEM ABF Influent (10-20-2025),10/20/2025,% Volatile Suspended Solids,91,91,,%
+ST25OCT21-01-033 ,TEM ABF Influent (10-20-2025),10/20/2025,Total Suspended Solids,232,232,,mg/L
+ST25OCT21-01-033 ,TEM ABF Influent (10-20-2025),10/20/2025,Volatile Suspended Solids,210,210,,mg/L
+ST25OCT21-01-033 ,TEM ABF Influent (10-20-2025),10/20/2025,pH,6.86,6.86,,pH Units
+ST25OCT21-01-033 ,TEM ABF Influent (10-20-2025),10/20/2025,Soluble BOD,351,351,,mg/L
+ST25OCT22-01-033 ,TEM ABF Influent (10-21-2025),10/21/2025,% Volatile Suspended Solids,86,86,,%
+ST25OCT22-01-033 ,TEM ABF Influent (10-21-2025),10/21/2025,Total Suspended Solids,153,153,,mg/L
+ST25OCT22-01-033 ,TEM ABF Influent (10-21-2025),10/21/2025,Volatile Suspended Solids,131,131,,mg/L
+ST25OCT22-01-033 ,TEM ABF Influent (10-21-2025),10/21/2025,pH,6.44,6.44,,pH Units
+ST25OCT22-01-033 ,TEM ABF Influent (10-21-2025),10/21/2025,Soluble BOD,463,463,,mg/L
+ST25OCT23-01-035 ,TEM ABF Influent (10-22-2025),10/22/2025,pH,6.48,6.48,,pH Units
+ST25OCT23-01-035 ,TEM ABF Influent (10-22-2025),10/22/2025,Soluble BOD,412,412,,mg/L
+ST25OCT23-01-035 ,TEM ABF Influent (10-22-2025),10/22/2025,% Volatile Suspended Solids,84,84,,%
+ST25OCT23-01-035 ,TEM ABF Influent (10-22-2025),10/22/2025,Total Suspended Solids,155,155,,mg/L
+ST25OCT23-01-035 ,TEM ABF Influent (10-22-2025),10/22/2025,Volatile Suspended Solids,130,130,,mg/L
+ST25OCT24-01-033 ,TEM ABF Influent (10-23-2025),10/23/2025,% Volatile Suspended Solids,85,85,,%
+ST25OCT24-01-033 ,TEM ABF Influent (10-23-2025),10/23/2025,Total Suspended Solids,201,201,,mg/L
+ST25OCT24-01-033 ,TEM ABF Influent (10-23-2025),10/23/2025,Volatile Suspended Solids,171,171,,mg/L
+ST25OCT24-01-033 ,TEM ABF Influent (10-23-2025),10/23/2025,pH,7.169,7.169,,pH Units
+ST25OCT24-01-033 ,TEM ABF Influent (10-23-2025),10/23/2025,Soluble BOD,389,389,,mg/L
+ST25OCT25-02-032 ,TEM ABF Influent (10-24-2025),10/24/2025,% Volatile Suspended Solids,96,96,,%
+ST25OCT25-02-032 ,TEM ABF Influent (10-24-2025),10/24/2025,Total Suspended Solids,233,233,,mg/L
+ST25OCT25-02-032 ,TEM ABF Influent (10-24-2025),10/24/2025,Volatile Suspended Solids,225,225,,mg/L
+ST25OCT25-02-032 ,TEM ABF Influent (10-24-2025),10/24/2025,pH,7.16,7.16,,pH Units
+ST25OCT25-02-032 ,TEM ABF Influent (10-24-2025),10/24/2025,Soluble BOD,321,321,,mg/L
+ST25OCT26-02-032 ,TEM ABF Influent (10-25-2025),10/25/2025,% Volatile Suspended Solids,97,97,,%
+ST25OCT26-02-032 ,TEM ABF Influent (10-25-2025),10/25/2025,Total Suspended Solids,147,147,,mg/L
+ST25OCT26-02-032 ,TEM ABF Influent (10-25-2025),10/25/2025,Volatile Suspended Solids,143,143,,mg/L
+ST25OCT26-02-032 ,TEM ABF Influent (10-25-2025),10/25/2025,pH,7.08,7.08,,pH Units
+ST25OCT26-02-032 ,TEM ABF Influent (10-25-2025),10/25/2025,Soluble BOD,389,389,,mg/L
+ST25OCT27-01-033 ,TEM ABF Influent (10-26-2025),10/26/2025,% Volatile Suspended Solids,91,91,,%
+ST25OCT27-01-033 ,TEM ABF Influent (10-26-2025),10/26/2025,Total Suspended Solids,288,288,,mg/L
+ST25OCT27-01-033 ,TEM ABF Influent (10-26-2025),10/26/2025,Volatile Suspended Solids,263,263,,mg/L
+ST25OCT27-01-033 ,TEM ABF Influent (10-26-2025),10/26/2025,pH,6.80,6.80,,pH Units
+ST25OCT27-01-033 ,TEM ABF Influent (10-26-2025),10/26/2025,Soluble BOD,438,438,,mg/L
+ST25OCT28-01-033 ,TEM ABF Influent (10-27-2025),10/27/2025,% Volatile Suspended Solids,95,95,,%
+ST25OCT28-01-033 ,TEM ABF Influent (10-27-2025),10/27/2025,Total Suspended Solids,143,143,,mg/L
+ST25OCT28-01-033 ,TEM ABF Influent (10-27-2025),10/27/2025,Volatile Suspended Solids,136,136,,mg/L
+ST25OCT28-01-033 ,TEM ABF Influent (10-27-2025),10/27/2025,pH,6.80,6.80,,pH Units
+ST25OCT28-01-033 ,TEM ABF Influent (10-27-2025),10/27/2025,Soluble BOD,235,235,,mg/L
+ST25OCT29-01-033 ,TEM ABF Influent (10-28-2025),10/28/2025,% Volatile Suspended Solids,99,99,,%
+ST25OCT29-01-033 ,TEM ABF Influent (10-28-2025),10/28/2025,Total Suspended Solids,134,134,,mg/L
+ST25OCT29-01-033 ,TEM ABF Influent (10-28-2025),10/28/2025,Volatile Suspended Solids,133,133,,mg/L
+ST25OCT29-01-033 ,TEM ABF Influent (10-28-2025),10/28/2025,pH,6.79,6.79,,pH Units
+ST25OCT29-01-033 ,TEM ABF Influent (10-28-2025),10/28/2025,Soluble BOD,307,307,,mg/L
+ST25OCT30-01-035 ,TEM ABF Influent (10-29-2025),10/29/2025,pH,6.67,6.67,,pH Units
+ST25OCT30-01-035 ,TEM ABF Influent (10-29-2025),10/29/2025,Soluble BOD,320,320,,mg/L
+ST25OCT30-01-035 ,TEM ABF Influent (10-29-2025),10/29/2025,% Volatile Suspended Solids,97,97,,%
+ST25OCT30-01-035 ,TEM ABF Influent (10-29-2025),10/29/2025,Total Suspended Solids,227,227,,mg/L
+ST25OCT30-01-035 ,TEM ABF Influent (10-29-2025),10/29/2025,Volatile Suspended Solids,221,221,,mg/L
+ST25OCT31-01-033 ,TEM ABF Influent (10-30-2025),10/30/2025,% Volatile Suspended Solids,74,74,,%
+ST25OCT31-01-033 ,TEM ABF Influent (10-30-2025),10/30/2025,Total Suspended Solids,214,214,,mg/L
+ST25OCT31-01-033 ,TEM ABF Influent (10-30-2025),10/30/2025,Volatile Suspended Solids,159,159,,mg/L
+ST25OCT31-01-033 ,TEM ABF Influent (10-30-2025),10/30/2025,pH,7.46,7.46,,pH Units
+ST25OCT31-01-033 ,TEM ABF Influent (10-30-2025),10/30/2025,Soluble BOD,283,283,,mg/L
+ST25NOV01-07-032 ,TEM ABF Influent (10-31-2025),10/31/2025,% Volatile Suspended Solids,74,74,,%
+ST25NOV01-07-032 ,TEM ABF Influent (10-31-2025),10/31/2025,Total Suspended Solids,194,194,,mg/L
+ST25NOV01-07-032 ,TEM ABF Influent (10-31-2025),10/31/2025,Volatile Suspended Solids,144,144,,mg/L
+ST25NOV01-07-032 ,TEM ABF Influent (10-31-2025),10/31/2025,pH,6.74,6.74,,pH Units
+ST25NOV01-07-032 ,TEM ABF Influent (10-31-2025),10/31/2025,Soluble BOD,368,368,,mg/L
+ST25NOV02-02-032 ,TEM ABF Influent (11-01-2025),11/1/2025,% Volatile Suspended Solids,81,81,,%
+ST25NOV02-02-032 ,TEM ABF Influent (11-01-2025),11/1/2025,Total Suspended Solids,304,304,,mg/L
+ST25NOV02-02-032 ,TEM ABF Influent (11-01-2025),11/1/2025,Volatile Suspended Solids,246,246,,mg/L
+ST25NOV02-02-032 ,TEM ABF Influent (11-01-2025),11/1/2025,pH,6.63,6.63,,pH Units
+ST25NOV02-02-032 ,TEM ABF Influent (11-01-2025),11/1/2025,Soluble BOD,430,430,,mg/L
+ST25NOV03-01-033 ,TEM ABF Influent (11-02-2025),11/2/2025,% Volatile Suspended Solids,86,86,,%
+ST25NOV03-01-033 ,TEM ABF Influent (11-02-2025),11/2/2025,Total Suspended Solids,323,323,,mg/L
+ST25NOV03-01-033 ,TEM ABF Influent (11-02-2025),11/2/2025,Volatile Suspended Solids,278,278,,mg/L
+ST25NOV03-01-033 ,TEM ABF Influent (11-02-2025),11/2/2025,pH,6.89,6.89,,pH Units
+ST25NOV03-01-033 ,TEM ABF Influent (11-02-2025),11/2/2025,Soluble BOD,464,464,,mg/L
+ST25NOV04-01-033 ,TEM ABF Influent (11-03-2025),11/3/2025,% Volatile Suspended Solids,91,91,,%
+ST25NOV04-01-033 ,TEM ABF Influent (11-03-2025),11/3/2025,Total Suspended Solids,177,177,,mg/L
+ST25NOV04-01-033 ,TEM ABF Influent (11-03-2025),11/3/2025,Volatile Suspended Solids,161,161,,mg/L
+ST25NOV04-01-033 ,TEM ABF Influent (11-03-2025),11/3/2025,pH,7.09,7.09,,pH Units
+ST25NOV04-01-033 ,TEM ABF Influent (11-03-2025),11/3/2025,Soluble BOD,489,489,,mg/L
+ST25NOV05-01-033 ,TEM ABF Influent (11-04-2025),11/4/2025,% Volatile Suspended Solids,77,77,,%
+ST25NOV05-01-033 ,TEM ABF Influent (11-04-2025),11/4/2025,Total Suspended Solids,261,261,,mg/L
+ST25NOV05-01-033 ,TEM ABF Influent (11-04-2025),11/4/2025,Volatile Suspended Solids,201,201,,mg/L
+ST25NOV05-01-033 ,TEM ABF Influent (11-04-2025),11/4/2025,pH,7.01,7.01,,pH Units
+ST25NOV05-01-033 ,TEM ABF Influent (11-04-2025),11/4/2025,Soluble BOD,420,420,,mg/L
+ST25NOV06-01-035 ,TEM ABF Influent (11-05-2025),11/5/2025,pH,6.55,6.55,,pH Units
+ST25NOV06-01-035 ,TEM ABF Influent (11-05-2025),11/5/2025,Soluble BOD,526,526,,mg/L
+ST25NOV06-01-035 ,TEM ABF Influent (11-05-2025),11/5/2025,% Volatile Suspended Solids,78,78,,%
+ST25NOV06-01-035 ,TEM ABF Influent (11-05-2025),11/5/2025,Total Suspended Solids,303,303,,mg/L
+ST25NOV06-01-035 ,TEM ABF Influent (11-05-2025),11/5/2025,Volatile Suspended Solids,237,237,,mg/L
+ST25NOV07-01-033 ,TEM ABF Influent (11-06-2025),11/6/2025,% Volatile Suspended Solids,95,95,,%
+ST25NOV07-01-033 ,TEM ABF Influent (11-06-2025),11/6/2025,Total Suspended Solids,199,199,,mg/L
+ST25NOV07-01-033 ,TEM ABF Influent (11-06-2025),11/6/2025,Volatile Suspended Solids,188,188,,mg/L
+ST25NOV07-01-033 ,TEM ABF Influent (11-06-2025),11/6/2025,pH,6.58,6.58,,pH Units
+ST25NOV07-01-033 ,TEM ABF Influent (11-06-2025),11/6/2025,Soluble BOD,494,494,,mg/L
+ST25NOV08-02-032 ,TEM ABF Influent (11-07-2025),11/7/2025,% Volatile Suspended Solids,93,93,,%
+ST25NOV08-02-032 ,TEM ABF Influent (11-07-2025),11/7/2025,Total Suspended Solids,244,244,,mg/L
+ST25NOV08-02-032 ,TEM ABF Influent (11-07-2025),11/7/2025,Volatile Suspended Solids,226,226,,mg/L
+ST25NOV08-02-032 ,TEM ABF Influent (11-07-2025),11/7/2025,pH,6.34,6.34,,pH Units
+ST25NOV08-02-032 ,TEM ABF Influent (11-07-2025),11/7/2025,Soluble BOD,491,491,,mg/L
+ST25NOV09-02-032 ,TEM ABF Influent (11-08-2025),11/8/2025,% Volatile Suspended Solids,98,98,,%
+ST25NOV09-02-032 ,TEM ABF Influent (11-08-2025),11/8/2025,Total Suspended Solids,272,272,,mg/L
+ST25NOV09-02-032 ,TEM ABF Influent (11-08-2025),11/8/2025,Volatile Suspended Solids,265,265,,mg/L
+ST25NOV09-02-032 ,TEM ABF Influent (11-08-2025),11/8/2025,pH,6.47,6.47,,pH Units
+ST25NOV09-02-032 ,TEM ABF Influent (11-08-2025),11/8/2025,Soluble BOD,428,428,,mg/L
+ST25NOV10-01-033 ,TEM ABF Influent (11-09-2025),11/9/2025,% Volatile Suspended Solids,95,95,,%
+ST25NOV10-01-033 ,TEM ABF Influent (11-09-2025),11/9/2025,Total Suspended Solids,387,387,,mg/L
+ST25NOV10-01-033 ,TEM ABF Influent (11-09-2025),11/9/2025,Volatile Suspended Solids,368,368,,mg/L
+ST25NOV10-01-033 ,TEM ABF Influent (11-09-2025),11/9/2025,pH,6.82,6.82,,pH Units
+ST25NOV10-01-033 ,TEM ABF Influent (11-09-2025),11/9/2025,Soluble BOD,405,405,,mg/L
+ST25NOV11-01-033 ,TEM ABF Influent (11-10-2025),11/10/2025,% Volatile Suspended Solids,97,97,,%
+ST25NOV11-01-033 ,TEM ABF Influent (11-10-2025),11/10/2025,Total Suspended Solids,238,238,,mg/L
+ST25NOV11-01-033 ,TEM ABF Influent (11-10-2025),11/10/2025,Volatile Suspended Solids,230,230,,mg/L
+ST25NOV11-01-033 ,TEM ABF Influent (11-10-2025),11/10/2025,pH,6.75,6.75,,pH Units
+ST25NOV11-01-033 ,TEM ABF Influent (11-10-2025),11/10/2025,Soluble BOD,466,466,,mg/L
+ST25NOV12-01-033 ,TEM ABF Influent (11-11-2025),11/11/2025,% Volatile Suspended Solids,93,93,,%
+ST25NOV12-01-033 ,TEM ABF Influent (11-11-2025),11/11/2025,Total Suspended Solids,179,179,,mg/L
+ST25NOV12-01-033 ,TEM ABF Influent (11-11-2025),11/11/2025,Volatile Suspended Solids,166,166,,mg/L
+ST25NOV12-01-033 ,TEM ABF Influent (11-11-2025),11/11/2025,pH,6.19,6.19,,pH Units
+ST25NOV12-01-033 ,TEM ABF Influent (11-11-2025),11/11/2025,Soluble BOD,455,455,,mg/L
+ST25NOV13-01-035 ,TEM ABF Influent (11-12-2025),11/12/2025,pH,6.64,6.64,,pH Units
+ST25NOV13-01-035 ,TEM ABF Influent (11-12-2025),11/12/2025,Soluble BOD,476,476,,mg/L
+ST25NOV13-01-035 ,TEM ABF Influent (11-12-2025),11/12/2025,% Volatile Suspended Solids,99,99,,%
+ST25NOV13-01-035 ,TEM ABF Influent (11-12-2025),11/12/2025,Total Suspended Solids,128,128,,mg/L
+ST25NOV13-01-035 ,TEM ABF Influent (11-12-2025),11/12/2025,Volatile Suspended Solids,126,126,,mg/L
+ST25NOV14-01-033 ,TEM ABF Influent (11-13-2025),11/13/2025,% Volatile Suspended Solids,93,93,,%
+ST25NOV14-01-033 ,TEM ABF Influent (11-13-2025),11/13/2025,Total Suspended Solids,280,280,,mg/L
+ST25NOV14-01-033 ,TEM ABF Influent (11-13-2025),11/13/2025,Volatile Suspended Solids,260,260,,mg/L
+ST25NOV14-01-033 ,TEM ABF Influent (11-13-2025),11/13/2025,pH,6.44,6.44,,pH Units
+ST25NOV14-01-033 ,TEM ABF Influent (11-13-2025),11/13/2025,Soluble BOD,510,510,,mg/L
+ST25NOV15-02-032 ,TEM ABF Influent (11-14-2025),11/14/2025,% Volatile Suspended Solids,94,94,,%
+ST25NOV15-02-032 ,TEM ABF Influent (11-14-2025),11/14/2025,Total Suspended Solids,172,172,,mg/L
+ST25NOV15-02-032 ,TEM ABF Influent (11-14-2025),11/14/2025,Volatile Suspended Solids,162,162,,mg/L
+ST25NOV15-02-032 ,TEM ABF Influent (11-14-2025),11/14/2025,pH,6.43,6.43,,pH Units
+ST25NOV15-02-032 ,TEM ABF Influent (11-14-2025),11/14/2025,Soluble BOD,520,520,,mg/L
+ST25NOV16-02-032 ,TEM ABF Influent (11-15-2025),11/15/2025,% Volatile Suspended Solids,89,89,,%
+ST25NOV16-02-032 ,TEM ABF Influent (11-15-2025),11/15/2025,Total Suspended Solids,158,158,,mg/L
+ST25NOV16-02-032 ,TEM ABF Influent (11-15-2025),11/15/2025,Volatile Suspended Solids,142,142,,mg/L
+ST25NOV16-02-032 ,TEM ABF Influent (11-15-2025),11/15/2025,pH,6.20,6.20,,pH Units
+ST25NOV16-02-032 ,TEM ABF Influent (11-15-2025),11/15/2025,Soluble BOD,443,443,,mg/L
+ST25NOV17-01-033 ,TEM ABF Influent (11-16-2025),11/16/2025,% Volatile Suspended Solids,90,90,,%
+ST25NOV17-01-033 ,TEM ABF Influent (11-16-2025),11/16/2025,Total Suspended Solids,105,105,,mg/L
+ST25NOV17-01-033 ,TEM ABF Influent (11-16-2025),11/16/2025,Volatile Suspended Solids,94,94,,mg/L
+ST25NOV17-01-033 ,TEM ABF Influent (11-16-2025),11/16/2025,pH,6.21,6.21,,pH Units
+ST25NOV17-01-033 ,TEM ABF Influent (11-16-2025),11/16/2025,Soluble BOD,530,530,,mg/L
+ST25NOV18-01-033 ,TEM ABF Influent (11-17-2025),11/17/2025,% Volatile Suspended Solids,98,98,,%
+ST25NOV18-01-033 ,TEM ABF Influent (11-17-2025),11/17/2025,Total Suspended Solids,175,175,,mg/L
+ST25NOV18-01-033 ,TEM ABF Influent (11-17-2025),11/17/2025,Volatile Suspended Solids,172,172,,mg/L
+ST25NOV18-01-033 ,TEM ABF Influent (11-17-2025),11/17/2025,pH,6.53,6.53,,pH Units
+ST25NOV18-01-033 ,TEM ABF Influent (11-17-2025),11/17/2025,Soluble BOD,463,463,,mg/L
+ST25NOV19-01-033 ,TEM ABF Influent (11-18-2025),11/18/2025,% Volatile Suspended Solids,92,92,,%
+ST25NOV19-01-033 ,TEM ABF Influent (11-18-2025),11/18/2025,Total Suspended Solids,227,227,,mg/L
+ST25NOV19-01-033 ,TEM ABF Influent (11-18-2025),11/18/2025,Volatile Suspended Solids,208,208,,mg/L
+ST25NOV19-01-033 ,TEM ABF Influent (11-18-2025),11/18/2025,pH,6.80,6.80,,pH Units
+ST25NOV19-01-033 ,TEM ABF Influent (11-18-2025),11/18/2025,Soluble BOD,552,552,,mg/L
+ST25NOV20-01-035 ,TEM ABF Influent (11-19-2025),11/19/2025,pH,6.54,6.54,,pH Units
+ST25NOV20-01-035 ,TEM ABF Influent (11-19-2025),11/19/2025,Soluble BOD,586,586,,mg/L
+ST25NOV20-01-035 ,TEM ABF Influent (11-19-2025),11/19/2025,% Volatile Suspended Solids,98,98,,%
+ST25NOV20-01-035 ,TEM ABF Influent (11-19-2025),11/19/2025,Total Suspended Solids,174,174,,mg/L
+ST25NOV20-01-035 ,TEM ABF Influent (11-19-2025),11/19/2025,Volatile Suspended Solids,170,170,,mg/L
+ST25NOV21-01-033 ,TEM ABF Influent (11-20-2025),11/20/2025,% Volatile Suspended Solids,97,97,,%
+ST25NOV21-01-033 ,TEM ABF Influent (11-20-2025),11/20/2025,Total Suspended Solids,159,159,,mg/L
+ST25NOV21-01-033 ,TEM ABF Influent (11-20-2025),11/20/2025,Volatile Suspended Solids,154,154,,mg/L
+ST25NOV21-01-033 ,TEM ABF Influent (11-20-2025),11/20/2025,pH,6.27,6.27,,pH Units
+ST25NOV21-01-033 ,TEM ABF Influent (11-20-2025),11/20/2025,Soluble BOD,624,624,,mg/L
+ST25NOV22-02-032 ,TEM ABF Influent (11-21-2025),11/21/2025,% Volatile Suspended Solids,85,85,,%
+ST25NOV22-02-032 ,TEM ABF Influent (11-21-2025),11/21/2025,Total Suspended Solids,340,340,,mg/L
+ST25NOV22-02-032 ,TEM ABF Influent (11-21-2025),11/21/2025,Volatile Suspended Solids,290,290,,mg/L
+ST25NOV22-02-032 ,TEM ABF Influent (11-21-2025),11/21/2025,pH,6.57,6.57,,pH Units
+ST25NOV22-02-032 ,TEM ABF Influent (11-21-2025),11/21/2025,Soluble BOD,375,375,,mg/L
+ST25NOV23-02-032 ,TEM ABF Influent (11-22-2025),11/22/2025,% Volatile Suspended Solids,89,89,,%
+ST25NOV23-02-032 ,TEM ABF Influent (11-22-2025),11/22/2025,Total Suspended Solids,215,215,,mg/L
+ST25NOV23-02-032 ,TEM ABF Influent (11-22-2025),11/22/2025,Volatile Suspended Solids,192,192,,mg/L
+ST25NOV23-02-032 ,TEM ABF Influent (11-22-2025),11/22/2025,pH,6.51,6.51,,pH Units
+ST25NOV23-02-032 ,TEM ABF Influent (11-22-2025),11/22/2025,Soluble BOD,364,364,,mg/L
+ST25NOV24-01-033 ,TEM ABF Influent (11-23-2025),11/23/2025,% Volatile Suspended Solids,93,93,,%
+ST25NOV24-01-033 ,TEM ABF Influent (11-23-2025),11/23/2025,Total Suspended Solids,189,189,,mg/L
+ST25NOV24-01-033 ,TEM ABF Influent (11-23-2025),11/23/2025,Volatile Suspended Solids,176,176,,mg/L
+ST25NOV24-01-033 ,TEM ABF Influent (11-23-2025),11/23/2025,pH,6.78,6.78,,pH Units
+ST25NOV24-01-033 ,TEM ABF Influent (11-23-2025),11/23/2025,Soluble BOD,438,438,,mg/L
+ST25NOV25-01-033 ,TEM ABF Influent (11-24-2025),11/24/2025,% Volatile Suspended Solids,97,97,,%
+ST25NOV25-01-033 ,TEM ABF Influent (11-24-2025),11/24/2025,Total Suspended Solids,254,254,,mg/L
+ST25NOV25-01-033 ,TEM ABF Influent (11-24-2025),11/24/2025,Volatile Suspended Solids,246,246,,mg/L
+ST25NOV25-01-033 ,TEM ABF Influent (11-24-2025),11/24/2025,pH,6.98,6.98,,pH Units
+ST25NOV25-01-033 ,TEM ABF Influent (11-24-2025),11/24/2025,Soluble BOD,435,435,,mg/L
+ST25NOV26-01-033 ,TEM ABF Influent (11-25-2025),11/25/2025,% Volatile Suspended Solids,88,88,,%
+ST25NOV26-01-033 ,TEM ABF Influent (11-25-2025),11/25/2025,Total Suspended Solids,502,502,,mg/L
+ST25NOV26-01-033 ,TEM ABF Influent (11-25-2025),11/25/2025,Volatile Suspended Solids,440,440,,mg/L
+ST25NOV26-01-033 ,TEM ABF Influent (11-25-2025),11/25/2025,pH,6.47,6.47,,pH Units
+ST25NOV26-01-033 ,TEM ABF Influent (11-25-2025),11/25/2025,Soluble BOD,453,453,,mg/L
+ST25NOV27-01-035 ,TEM ABF Influent (11-26-2025),11/26/2025,pH,6.82,6.82,,pH Units
+ST25NOV27-01-035 ,TEM ABF Influent (11-26-2025),11/26/2025,Soluble BOD,302,302,,mg/L
+ST25NOV27-01-035 ,TEM ABF Influent (11-26-2025),11/26/2025,% Volatile Suspended Solids,90,90,,%
+ST25NOV27-01-035 ,TEM ABF Influent (11-26-2025),11/26/2025,Total Suspended Solids,313,313,,mg/L
+ST25NOV27-01-035 ,TEM ABF Influent (11-26-2025),11/26/2025,Volatile Suspended Solids,281,281,,mg/L
+ST25NOV28-01-033 ,TEM ABF Influent (11-27-2025),11/27/2025,% Volatile Suspended Solids,91,91,,%
+ST25NOV28-01-033 ,TEM ABF Influent (11-27-2025),11/27/2025,Total Suspended Solids,256,256,,mg/L
+ST25NOV28-01-033 ,TEM ABF Influent (11-27-2025),11/27/2025,Volatile Suspended Solids,231,231,,mg/L
+ST25NOV28-01-033 ,TEM ABF Influent (11-27-2025),11/27/2025,pH,6.75,6.75,,pH Units
+ST25NOV28-01-033 ,TEM ABF Influent (11-27-2025),11/27/2025,Soluble BOD,403,403,,mg/L
+ST25NOV29-02-032 ,TEM ABF Influent (11-28-2025),11/28/2025,% Volatile Suspended Solids,94,94,,%
+ST25NOV29-02-032 ,TEM ABF Influent (11-28-2025),11/28/2025,Total Suspended Solids,193,193,,mg/L
+ST25NOV29-02-032 ,TEM ABF Influent (11-28-2025),11/28/2025,Volatile Suspended Solids,181,181,,mg/L
+ST25NOV29-02-032 ,TEM ABF Influent (11-28-2025),11/28/2025,pH,6.59,6.59,,pH Units
+ST25NOV29-02-032 ,TEM ABF Influent (11-28-2025),11/28/2025,Soluble BOD,371,371,,mg/L
+ST25NOV30-02-032 ,TEM ABF Influent (11-29-2025),11/29/2025,% Volatile Suspended Solids,96,96,,%
+ST25NOV30-02-032 ,TEM ABF Influent (11-29-2025),11/29/2025,Total Suspended Solids,246,246,,mg/L
+ST25NOV30-02-032 ,TEM ABF Influent (11-29-2025),11/29/2025,Volatile Suspended Solids,237,237,,mg/L
+ST25NOV30-02-032 ,TEM ABF Influent (11-29-2025),11/29/2025,pH,7.09,7.09,,pH Units
+ST25NOV30-02-032 ,TEM ABF Influent (11-29-2025),11/29/2025,Soluble BOD,354,354,,mg/L
+ST25DEC01-06-033 ,TEM ABF Influent (11-30-2025),11/30/2025,% Volatile Suspended Solids,84,84,,%
+ST25DEC01-06-033 ,TEM ABF Influent (11-30-2025),11/30/2025,Total Suspended Solids,320,320,,mg/L
+ST25DEC01-06-033 ,TEM ABF Influent (11-30-2025),11/30/2025,Volatile Suspended Solids,270,270,,mg/L
+ST25DEC01-06-033 ,TEM ABF Influent (11-30-2025),11/30/2025,pH,7.05,7.05,,pH Units
+ST25DEC01-06-033 ,TEM ABF Influent (11-30-2025),11/30/2025,Soluble BOD,316,316,,mg/L
+ST25DEC02-01-033 ,TEM ABF Influent (12-01-2025),12/1/2025,% Volatile Suspended Solids,78,78,,%
+ST25DEC02-01-033 ,TEM ABF Influent (12-01-2025),12/1/2025,Total Suspended Solids,590,590,,mg/L
+ST25DEC02-01-033 ,TEM ABF Influent (12-01-2025),12/1/2025,Volatile Suspended Solids,460,460,,mg/L
+ST25DEC02-01-033 ,TEM ABF Influent (12-01-2025),12/1/2025,pH,6.64,6.64,,pH Units
+ST25DEC02-01-033 ,TEM ABF Influent (12-01-2025),12/1/2025,Soluble BOD,541,541,,mg/L
+ST25DEC03-01-033 ,TEM ABF Influent (12-02-2025),12/2/2025,% Volatile Suspended Solids,84,84,,%
+ST25DEC03-01-033 ,TEM ABF Influent (12-02-2025),12/2/2025,Total Suspended Solids,1175,1175,,mg/L
+ST25DEC03-01-033 ,TEM ABF Influent (12-02-2025),12/2/2025,Volatile Suspended Solids,990,990,,mg/L
+ST25DEC03-01-033 ,TEM ABF Influent (12-02-2025),12/2/2025,pH,6.74,6.74,,pH Units
+ST25DEC03-01-033 ,TEM ABF Influent (12-02-2025),12/2/2025,Soluble BOD,392,392,,mg/L
+ST25DEC04-01-035 ,TEM ABF Influent (12-03-2025),12/3/2025,pH,6.60,6.60,,pH Units
+ST25DEC04-01-035 ,TEM ABF Influent (12-03-2025),12/3/2025,Soluble BOD,524,524,,mg/L
+ST25DEC04-01-035 ,TEM ABF Influent (12-03-2025),12/3/2025,% Volatile Suspended Solids,93,93,,%
+ST25DEC04-01-035 ,TEM ABF Influent (12-03-2025),12/3/2025,Total Suspended Solids,308,308,,mg/L
+ST25DEC04-01-035 ,TEM ABF Influent (12-03-2025),12/3/2025,Volatile Suspended Solids,286,286,,mg/L
+ST25DEC05-01-033 ,TEM ABF Influent (12-04-2025),12/4/2025,% Volatile Suspended Solids,90,90,,%
+ST25DEC05-01-033 ,TEM ABF Influent (12-04-2025),12/4/2025,Total Suspended Solids,433,433,,mg/L
+ST25DEC05-01-033 ,TEM ABF Influent (12-04-2025),12/4/2025,Volatile Suspended Solids,390,390,,mg/L
+ST25DEC05-01-033 ,TEM ABF Influent (12-04-2025),12/4/2025,pH,6.33,6.33,,pH Units
+ST25DEC05-01-033 ,TEM ABF Influent (12-04-2025),12/4/2025,Soluble BOD,851,851,,mg/L
+ST25DEC06-02-032 ,TEM ABF Influent (12-05-2025),12/5/2025,% Volatile Suspended Solids,90,90,,%
+ST25DEC06-02-032 ,TEM ABF Influent (12-05-2025),12/5/2025,Total Suspended Solids,245,245,,mg/L
+ST25DEC06-02-032 ,TEM ABF Influent (12-05-2025),12/5/2025,Volatile Suspended Solids,222,222,,mg/L
+ST25DEC06-02-032 ,TEM ABF Influent (12-05-2025),12/5/2025,pH,6.75,6.75,,pH Units
+ST25DEC06-02-032 ,TEM ABF Influent (12-05-2025),12/5/2025,Soluble BOD,378,378,,mg/L
+ST25DEC07-02-032 ,TEM ABF Influent (12-06-2025),12/6/2025,% Volatile Suspended Solids,92,92,,%
+ST25DEC07-02-032 ,TEM ABF Influent (12-06-2025),12/6/2025,Total Suspended Solids,310,310,,mg/L
+ST25DEC07-02-032 ,TEM ABF Influent (12-06-2025),12/6/2025,Volatile Suspended Solids,286,286,,mg/L
+ST25DEC07-02-032 ,TEM ABF Influent (12-06-2025),12/6/2025,pH,6.95,6.95,,pH Units
+ST25DEC07-02-032 ,TEM ABF Influent (12-06-2025),12/6/2025,Soluble BOD,328,328,,mg/L
+ST25DEC08-01-033 ,TEM ABF Influent (12-07-2025),12/7/2025,% Volatile Suspended Solids,95,95,,%
+ST25DEC08-01-033 ,TEM ABF Influent (12-07-2025),12/7/2025,Total Suspended Solids,483,483,,mg/L
+ST25DEC08-01-033 ,TEM ABF Influent (12-07-2025),12/7/2025,Volatile Suspended Solids,460,460,,mg/L
+ST25DEC08-01-033 ,TEM ABF Influent (12-07-2025),12/7/2025,pH,7.36,7.36,,pH Units
+ST25DEC08-01-033 ,TEM ABF Influent (12-07-2025),12/7/2025,Soluble BOD,247,247,,mg/L
+ST25DEC09-01-033 ,TEM ABF Influent (12-08-2025),12/8/2025,% Volatile Suspended Solids,87,87,,%
+ST25DEC09-01-033 ,TEM ABF Influent (12-08-2025),12/8/2025,Total Suspended Solids,220,220,,mg/L
+ST25DEC09-01-033 ,TEM ABF Influent (12-08-2025),12/8/2025,Volatile Suspended Solids,192,192,,mg/L
+ST25DEC09-01-033 ,TEM ABF Influent (12-08-2025),12/8/2025,pH,6.88,6.88,,pH Units
+ST25DEC09-01-033 ,TEM ABF Influent (12-08-2025),12/8/2025,Soluble BOD,488,488,,mg/L
+ST25DEC10-01-033 ,TEM ABF Influent (12-09-2025),12/9/2025,% Volatile Suspended Solids,93,93,,%
+ST25DEC10-01-033 ,TEM ABF Influent (12-09-2025),12/9/2025,Total Suspended Solids,808,808,,mg/L
+ST25DEC10-01-033 ,TEM ABF Influent (12-09-2025),12/9/2025,Volatile Suspended Solids,752,752,,mg/L
+ST25DEC10-01-033 ,TEM ABF Influent (12-09-2025),12/9/2025,pH,6.77,6.77,,pH Units
+ST25DEC10-01-033 ,TEM ABF Influent (12-09-2025),12/9/2025,Soluble BOD,564,564,,mg/L
+ST25DEC11-01-035 ,TEM ABF Influent (12-10-2025),12/10/2025,pH,6.37,6.37,,pH Units
+ST25DEC11-01-035 ,TEM ABF Influent (12-10-2025),12/10/2025,Soluble BOD,468,468,,mg/L
+ST25DEC11-01-035 ,TEM ABF Influent (12-10-2025),12/10/2025,% Volatile Suspended Solids,85,85,,%
+ST25DEC11-01-035 ,TEM ABF Influent (12-10-2025),12/10/2025,Total Suspended Solids,330,330,,mg/L
+ST25DEC11-01-035 ,TEM ABF Influent (12-10-2025),12/10/2025,Volatile Suspended Solids,282,282,,mg/L
+ST25DEC12-01-033 ,TEM ABF Influent (12-11-2025),12/11/2025,% Volatile Suspended Solids,88,88,,%
+ST25DEC12-01-033 ,TEM ABF Influent (12-11-2025),12/11/2025,Total Suspended Solids,398,398,,mg/L
+ST25DEC12-01-033 ,TEM ABF Influent (12-11-2025),12/11/2025,Volatile Suspended Solids,352,352,,mg/L
+ST25DEC12-01-033 ,TEM ABF Influent (12-11-2025),12/11/2025,pH,6.50,6.50,,pH Units
+ST25DEC12-01-033 ,TEM ABF Influent (12-11-2025),12/11/2025,Soluble BOD,517,517,,mg/L
+ST25DEC13-02-032 ,TEM ABF Influent (12-12-2025),12/12/2025,% Volatile Suspended Solids,87,87,,%
+ST25DEC13-02-032 ,TEM ABF Influent (12-12-2025),12/12/2025,Total Suspended Solids,247,247,,mg/L
+ST25DEC13-02-032 ,TEM ABF Influent (12-12-2025),12/12/2025,Volatile Suspended Solids,215,215,,mg/L
+ST25DEC13-02-032 ,TEM ABF Influent (12-12-2025),12/12/2025,pH,6.69,6.69,,pH Units
+ST25DEC13-02-032 ,TEM ABF Influent (12-12-2025),12/12/2025,Soluble BOD,461,461,,mg/L
+ST25DEC14-02-032 ,TEM ABF Influent (12-13-2025),12/13/2025,% Volatile Suspended Solids,98,98,,%
+ST25DEC14-02-032 ,TEM ABF Influent (12-13-2025),12/13/2025,Total Suspended Solids,161,161,,mg/L
+ST25DEC14-02-032 ,TEM ABF Influent (12-13-2025),12/13/2025,Volatile Suspended Solids,158,158,,mg/L
+ST25DEC14-02-032 ,TEM ABF Influent (12-13-2025),12/13/2025,pH,6.69,6.69,,pH Units
+ST25DEC14-02-032 ,TEM ABF Influent (12-13-2025),12/13/2025,Soluble BOD,416,416,,mg/L
+ST25DEC15-01-033 ,TEM ABF Influent (12-14-2025),12/14/2025,% Volatile Suspended Solids,86,86,,%
+ST25DEC15-01-033 ,TEM ABF Influent (12-14-2025),12/14/2025,Total Suspended Solids,168,168,,mg/L
+ST25DEC15-01-033 ,TEM ABF Influent (12-14-2025),12/14/2025,Volatile Suspended Solids,143,143,,mg/L
+ST25DEC15-01-033 ,TEM ABF Influent (12-14-2025),12/14/2025,pH,6.90,6.90,,pH Units
+ST25DEC15-01-033 ,TEM ABF Influent (12-14-2025),12/14/2025,Soluble BOD,330,330,,mg/L
+ST25DEC16-01-033 ,TEM ABF Influent (12-15-2025),12/15/2025,% Volatile Suspended Solids,86,86,,%
+ST25DEC16-01-033 ,TEM ABF Influent (12-15-2025),12/15/2025,Total Suspended Solids,157,157,,mg/L
+ST25DEC16-01-033 ,TEM ABF Influent (12-15-2025),12/15/2025,Volatile Suspended Solids,136,136,,mg/L
+ST25DEC16-01-033 ,TEM ABF Influent (12-15-2025),12/15/2025,pH,7.04,7.04,,pH Units
+ST25DEC16-01-033 ,TEM ABF Influent (12-15-2025),12/15/2025,Soluble BOD,293,293,,mg/L
+ST25DEC17-01-033 ,TEM ABF Influent (12-16-2025),12/16/2025,% Volatile Suspended Solids,87,87,,%
+ST25DEC17-01-033 ,TEM ABF Influent (12-16-2025),12/16/2025,Total Suspended Solids,210,210,,mg/L
+ST25DEC17-01-033 ,TEM ABF Influent (12-16-2025),12/16/2025,Volatile Suspended Solids,183,183,,mg/L
+ST25DEC17-01-033 ,TEM ABF Influent (12-16-2025),12/16/2025,pH,6.38,6.38,,pH Units
+ST25DEC17-01-033 ,TEM ABF Influent (12-16-2025),12/16/2025,Soluble BOD,445,445,,mg/L
+ST25DEC18-01-035 ,TEM ABF Influent (12-17-2025),12/17/2025,pH,6.56,6.56,,pH Units
+ST25DEC18-01-035 ,TEM ABF Influent (12-17-2025),12/17/2025,Soluble BOD,539,539,,mg/L
+ST25DEC18-01-035 ,TEM ABF Influent (12-17-2025),12/17/2025,% Volatile Suspended Solids,92,92,,%
+ST25DEC18-01-035 ,TEM ABF Influent (12-17-2025),12/17/2025,Total Suspended Solids,200,200,,mg/L
+ST25DEC18-01-035 ,TEM ABF Influent (12-17-2025),12/17/2025,Volatile Suspended Solids,183,183,,mg/L
+ST25DEC19-01-033 ,TEM ABF Influent (12-18-2025),12/18/2025,% Volatile Suspended Solids,89,89,,%
+ST25DEC19-01-033 ,TEM ABF Influent (12-18-2025),12/18/2025,Total Suspended Solids,294,294,,mg/L
+ST25DEC19-01-033 ,TEM ABF Influent (12-18-2025),12/18/2025,Volatile Suspended Solids,263,263,,mg/L
+ST25DEC19-01-033 ,TEM ABF Influent (12-18-2025),12/18/2025,pH,6.57,6.57,,pH Units
+ST25DEC19-01-033 ,TEM ABF Influent (12-18-2025),12/18/2025,Soluble BOD,518,518,,mg/L
+ST25DEC20-02-032 ,TEM ABF Influent (12-19-2025),12/19/2025,% Volatile Suspended Solids,99,99,,%
+ST25DEC20-02-032 ,TEM ABF Influent (12-19-2025),12/19/2025,Total Suspended Solids,201,201,,mg/L
+ST25DEC20-02-032 ,TEM ABF Influent (12-19-2025),12/19/2025,Volatile Suspended Solids,199,199,,mg/L
+ST25DEC20-02-032 ,TEM ABF Influent (12-19-2025),12/19/2025,pH,6.74,6.74,,pH Units
+ST25DEC20-02-032 ,TEM ABF Influent (12-19-2025),12/19/2025,Soluble BOD,417,417,,mg/L
+ST25DEC21-02-032 ,TEM ABF Influent (12-20-2025),12/20/2025,% Volatile Suspended Solids,77,77,,%
+ST25DEC21-02-032 ,TEM ABF Influent (12-20-2025),12/20/2025,Total Suspended Solids,176,176,,mg/L
+ST25DEC21-02-032 ,TEM ABF Influent (12-20-2025),12/20/2025,Volatile Suspended Solids,135,135,,mg/L
+ST25DEC21-02-032 ,TEM ABF Influent (12-20-2025),12/20/2025,pH,6.83,6.83,,pH Units
+ST25DEC21-02-032 ,TEM ABF Influent (12-20-2025),12/20/2025,Soluble BOD,322,322,,mg/L
+ST25DEC22-01-033 ,TEM ABF Influent (12-21-2025),12/21/2025,% Volatile Suspended Solids,75,75,,%
+ST25DEC22-01-033 ,TEM ABF Influent (12-21-2025),12/21/2025,Total Suspended Solids,142,142,,mg/L
+ST25DEC22-01-033 ,TEM ABF Influent (12-21-2025),12/21/2025,Volatile Suspended Solids,106,106,,mg/L
+ST25DEC22-01-033 ,TEM ABF Influent (12-21-2025),12/21/2025,pH,6.80,6.80,,pH Units
+ST25DEC22-01-033 ,TEM ABF Influent (12-21-2025),12/21/2025,Soluble BOD,460,460,,mg/L
+ST25DEC23-01-033 ,TEM ABF Influent (12-22-2025),12/22/2025,% Volatile Suspended Solids,80,80,,%
+ST25DEC23-01-033 ,TEM ABF Influent (12-22-2025),12/22/2025,Total Suspended Solids,162,162,,mg/L
+ST25DEC23-01-033 ,TEM ABF Influent (12-22-2025),12/22/2025,Volatile Suspended Solids,130,130,,mg/L
+ST25DEC23-01-033 ,TEM ABF Influent (12-22-2025),12/22/2025,pH,6.90,6.90,,pH Units
+ST25DEC23-01-033 ,TEM ABF Influent (12-22-2025),12/22/2025,Soluble BOD,336,336,,mg/L
+ST25DEC24-01-033 ,TEM ABF Influent (12-23-2025),12/23/2025,% Volatile Suspended Solids,93,93,,%
+ST25DEC24-01-033 ,TEM ABF Influent (12-23-2025),12/23/2025,Total Suspended Solids,211,211,,mg/L
+ST25DEC24-01-033 ,TEM ABF Influent (12-23-2025),12/23/2025,Volatile Suspended Solids,196,196,,mg/L
+ST25DEC24-01-033 ,TEM ABF Influent (12-23-2025),12/23/2025,pH,6.76,6.76,,pH Units
+ST25DEC24-01-033 ,TEM ABF Influent (12-23-2025),12/23/2025,Soluble BOD,463,463,,mg/L
+ST25DEC25-01-035 ,TEM ABF Influent (12-24-2025),12/24/2025,pH,6.96,6.96,,pH Units
+ST25DEC25-01-035 ,TEM ABF Influent (12-24-2025),12/24/2025,Soluble BOD,348,348,,mg/L
+ST25DEC25-01-035 ,TEM ABF Influent (12-24-2025),12/24/2025,% Volatile Suspended Solids,91,91,,%
+ST25DEC25-01-035 ,TEM ABF Influent (12-24-2025),12/24/2025,Total Suspended Solids,416,416,,mg/L
+ST25DEC25-01-035 ,TEM ABF Influent (12-24-2025),12/24/2025,Volatile Suspended Solids,380,380,,mg/L
+ST25DEC26-01-033 ,TEM ABF Influent (12-25-2025),12/25/2025,% Volatile Suspended Solids,93,93,,%
+ST25DEC26-01-033 ,TEM ABF Influent (12-25-2025),12/25/2025,Total Suspended Solids,106,106,,mg/L
+ST25DEC26-01-033 ,TEM ABF Influent (12-25-2025),12/25/2025,Volatile Suspended Solids,99,99,,mg/L
+ST25DEC26-01-033 ,TEM ABF Influent (12-25-2025),12/25/2025,pH,6.83,6.83,,pH Units
+ST25DEC26-01-033 ,TEM ABF Influent (12-25-2025),12/25/2025,Soluble BOD,406,406,,mg/L
+ST25DEC27-02-032 ,TEM ABF Influent (12-26-2025),12/26/2025,% Volatile Suspended Solids,82,82,,%
+ST25DEC27-02-032 ,TEM ABF Influent (12-26-2025),12/26/2025,Total Suspended Solids,156,156,,mg/L
+ST25DEC27-02-032 ,TEM ABF Influent (12-26-2025),12/26/2025,Volatile Suspended Solids,128,128,,mg/L
+ST25DEC27-02-032 ,TEM ABF Influent (12-26-2025),12/26/2025,pH,6.71,6.71,,pH Units
+ST25DEC27-02-032 ,TEM ABF Influent (12-26-2025),12/26/2025,Soluble BOD,389,389,,mg/L
+ST25DEC28-02-032 ,TEM ABF Influent (12-27-2025),12/27/2025,% Volatile Suspended Solids,94,94,,%
+ST25DEC28-02-032 ,TEM ABF Influent (12-27-2025),12/27/2025,Total Suspended Solids,138,138,,mg/L
+ST25DEC28-02-032 ,TEM ABF Influent (12-27-2025),12/27/2025,Volatile Suspended Solids,130,130,,mg/L
+ST25DEC28-02-032 ,TEM ABF Influent (12-27-2025),12/27/2025,pH,6.65,6.65,,pH Units
+ST25DEC28-02-032 ,TEM ABF Influent (12-27-2025),12/27/2025,Soluble BOD,>332,>332,T,mg/L
+ST25DEC29-01-033 ,TEM ABF Influent (12-28-2025),12/28/2025,% Volatile Suspended Solids,89,89,,%
+ST25DEC29-01-033 ,TEM ABF Influent (12-28-2025),12/28/2025,Total Suspended Solids,142,142,,mg/L
+ST25DEC29-01-033 ,TEM ABF Influent (12-28-2025),12/28/2025,Volatile Suspended Solids,127,127,,mg/L
+ST25DEC29-01-033 ,TEM ABF Influent (12-28-2025),12/28/2025,pH,6.82,6.82,,pH Units
+ST25DEC29-01-033 ,TEM ABF Influent (12-28-2025),12/28/2025,Soluble BOD,268,268,,mg/L
+ST25DEC30-01-033 ,TEM ABF Influent (12-29-2025),12/29/2025,% Volatile Suspended Solids,100,100,,%
+ST25DEC30-01-033 ,TEM ABF Influent (12-29-2025),12/29/2025,Total Suspended Solids,123,123,,mg/L
+ST25DEC30-01-033 ,TEM ABF Influent (12-29-2025),12/29/2025,Volatile Suspended Solids,123,123,,mg/L
+ST25DEC30-01-033 ,TEM ABF Influent (12-29-2025),12/29/2025,pH,6.91,6.91,,pH Units
+ST25DEC30-01-033 ,TEM ABF Influent (12-29-2025),12/29/2025,Soluble BOD,298,298,,mg/L
+ST25DEC31-01-033 ,TEM ABF Influent (12-30-2025),12/30/2025,% Volatile Suspended Solids,92,92,,%
+ST25DEC31-01-033 ,TEM ABF Influent (12-30-2025),12/30/2025,Total Suspended Solids,110,110,,mg/L
+ST25DEC31-01-033 ,TEM ABF Influent (12-30-2025),12/30/2025,Volatile Suspended Solids,101,101,,mg/L
+ST25DEC31-01-033 ,TEM ABF Influent (12-30-2025),12/30/2025,pH,6.70,6.70,,pH Units
+ST25DEC31-01-033 ,TEM ABF Influent (12-30-2025),12/30/2025,Soluble BOD,305,305,,mg/L
+ST26JAN01-06-035 ,TEM ABF Influent (12-31-2025),12/31/2025,pH,6.71,6.71,,pH Units
+ST26JAN01-06-035 ,TEM ABF Influent (12-31-2025),12/31/2025,Soluble BOD,302,302,,mg/L
+ST26JAN01-06-035 ,TEM ABF Influent (12-31-2025),12/31/2025,% Volatile Suspended Solids,86,86,,%
+ST26JAN01-06-035 ,TEM ABF Influent (12-31-2025),12/31/2025,Total Suspended Solids,211,211,,mg/L
+ST26JAN01-06-035 ,TEM ABF Influent (12-31-2025),12/31/2025,Volatile Suspended Solids,181,181,,mg/L
+ST26JAN02-01-033 ,TEM ABF Influent (01-01-2026),1/1/2026,% Volatile Suspended Solids,83,83,,%
+ST26JAN02-01-033 ,TEM ABF Influent (01-01-2026),1/1/2026,Total Suspended Solids,131,131,,mg/L
+ST26JAN02-01-033 ,TEM ABF Influent (01-01-2026),1/1/2026,Volatile Suspended Solids,109,109,,mg/L
+ST26JAN02-01-033 ,TEM ABF Influent (01-01-2026),1/1/2026,pH,7.31,7.31,,pH Units
+ST26JAN02-01-033 ,TEM ABF Influent (01-01-2026),1/1/2026,Soluble BOD,240,240,,mg/L
+ST26JAN03-02-032 ,TEM ABF Influent (01-02-2026),1/2/2026,% Volatile Suspended Solids,92,92,,%
+ST26JAN03-02-032 ,TEM ABF Influent (01-02-2026),1/2/2026,Total Suspended Solids,122,122,,mg/L
+ST26JAN03-02-032 ,TEM ABF Influent (01-02-2026),1/2/2026,Volatile Suspended Solids,112,112,,mg/L
+ST26JAN03-02-032 ,TEM ABF Influent (01-02-2026),1/2/2026,pH,6.88,6.88,,pH Units
+ST26JAN03-02-032 ,TEM ABF Influent (01-02-2026),1/2/2026,Soluble BOD,406,406,,mg/L
+ST26JAN04-02-032 ,TEM ABF Influent (01-03-2026),1/3/2026,% Volatile Suspended Solids,92,92,,%
+ST26JAN04-02-032 ,TEM ABF Influent (01-03-2026),1/3/2026,Total Suspended Solids,153,153,,mg/L
+ST26JAN04-02-032 ,TEM ABF Influent (01-03-2026),1/3/2026,Volatile Suspended Solids,140,140,,mg/L
+ST26JAN04-02-032 ,TEM ABF Influent (01-03-2026),1/3/2026,pH,6.87,6.87,,pH Units
+ST26JAN04-02-032 ,TEM ABF Influent (01-03-2026),1/3/2026,Soluble BOD,261,261,,mg/L
+ST26JAN05-01-033 ,TEM ABF Influent (01-04-2026),1/4/2026,% Volatile Suspended Solids,90,90,,%
+ST26JAN05-01-033 ,TEM ABF Influent (01-04-2026),1/4/2026,Total Suspended Solids,130,130,,mg/L
+ST26JAN05-01-033 ,TEM ABF Influent (01-04-2026),1/4/2026,Volatile Suspended Solids,117,117,,mg/L
+ST26JAN05-01-033 ,TEM ABF Influent (01-04-2026),1/4/2026,pH,7.37,7.37,,pH Units
+ST26JAN05-01-033 ,TEM ABF Influent (01-04-2026),1/4/2026,Soluble BOD,138,138,,mg/L
+ST26JAN06-01-033 ,TEM ABF Influent (01-05-2026),1/5/2026,% Volatile Suspended Solids,97,97,,%
+ST26JAN06-01-033 ,TEM ABF Influent (01-05-2026),1/5/2026,Total Suspended Solids,108,108,,mg/L
+ST26JAN06-01-033 ,TEM ABF Influent (01-05-2026),1/5/2026,Volatile Suspended Solids,105,105,,mg/L
+ST26JAN06-01-033 ,TEM ABF Influent (01-05-2026),1/5/2026,pH,6.74,6.74,,pH Units
+ST26JAN06-01-033 ,TEM ABF Influent (01-05-2026),1/5/2026,Soluble BOD,369,369,,mg/L
+ST26JAN07-01-033 ,TEM ABF Influent (01-06-2026),1/6/2026,% Volatile Suspended Solids,95,95,,%
+ST26JAN07-01-033 ,TEM ABF Influent (01-06-2026),1/6/2026,Total Suspended Solids,144,144,,mg/L
+ST26JAN07-01-033 ,TEM ABF Influent (01-06-2026),1/6/2026,Volatile Suspended Solids,138,138,,mg/L
+ST26JAN07-01-033 ,TEM ABF Influent (01-06-2026),1/6/2026,pH,6.71,6.71,,pH Units
+ST26JAN07-01-033 ,TEM ABF Influent (01-06-2026),1/6/2026,Soluble BOD,432,432,,mg/L
+ST26JAN08-01-035 ,TEM ABF Influent (01-07-2026),1/7/2026,% Volatile Suspended Solids,89,89,,%
+ST26JAN08-01-035 ,TEM ABF Influent (01-07-2026),1/7/2026,Total Suspended Solids,124,124,,mg/L
+ST26JAN08-01-035 ,TEM ABF Influent (01-07-2026),1/7/2026,Volatile Suspended Solids,111,111,,mg/L
+ST26JAN09-01-033 ,TEM ABF Influent (01-08-2026),1/8/2026,% Volatile Suspended Solids,92,92,,%
+ST26JAN09-01-033 ,TEM ABF Influent (01-08-2026),1/8/2026,Total Suspended Solids,138,138,,mg/L
+ST26JAN09-01-033 ,TEM ABF Influent (01-08-2026),1/8/2026,Volatile Suspended Solids,126,126,,mg/L
+ST26JAN10-02-032 ,TEM ABF Influent (01-09-2026),1/9/2026,% Volatile Suspended Solids,96,96,,%
+ST26JAN10-02-032 ,TEM ABF Influent (01-09-2026),1/9/2026,Total Suspended Solids,178,178,,mg/L
+ST26JAN10-02-032 ,TEM ABF Influent (01-09-2026),1/9/2026,Volatile Suspended Solids,170,170,,mg/L
+
