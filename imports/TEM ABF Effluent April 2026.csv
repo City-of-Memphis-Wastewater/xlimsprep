@@ -1,0 +1,176 @@
+﻿SampleName,StartDate,EndDate
+TEM ABF Effluent (04-01-2026),4/1/2026,4/30/2026
+
+SampleNumber,SampleName1,SampledDate,Parameter,SWPPRCalc,ReportedResult,Qual,Unit
+ST26APR02-01-036 ,TEM ABF Effluent (04-01-2026),4/1/2026,pH,7.21,7.21,,pH Units
+ST26APR02-01-036 ,TEM ABF Effluent (04-01-2026),4/1/2026,Soluble BOD,463,463,,mg/L
+ST26APR02-01-036 ,TEM ABF Effluent (04-01-2026),4/1/2026,% Volatile Suspended Solids,82,82,,%
+ST26APR02-01-036 ,TEM ABF Effluent (04-01-2026),4/1/2026,Total Suspended Solids,773,773,,mg/L
+ST26APR02-01-036 ,TEM ABF Effluent (04-01-2026),4/1/2026,Volatile Suspended Solids,637,637,,mg/L
+ST26APR03-01-034 ,TEM ABF Effluent (04-02-2026),4/2/2026,% Volatile Suspended Solids,89,89,,%
+ST26APR03-01-034 ,TEM ABF Effluent (04-02-2026),4/2/2026,Total Suspended Solids,380,380,,mg/L
+ST26APR03-01-034 ,TEM ABF Effluent (04-02-2026),4/2/2026,Volatile Suspended Solids,340,340,,mg/L
+ST26APR03-01-034 ,TEM ABF Effluent (04-02-2026),4/2/2026,pH,7.52,7.52,,pH Units
+ST26APR03-01-034 ,TEM ABF Effluent (04-02-2026),4/2/2026,Soluble BOD,206,206,,mg/L
+ST26APR04-01-033 ,TEM ABF Effluent (04-03-2026),4/3/2026,% Volatile Suspended Solids,89,89,,%
+ST26APR04-01-033 ,TEM ABF Effluent (04-03-2026),4/3/2026,Total Suspended Solids,462,462,,mg/L
+ST26APR04-01-033 ,TEM ABF Effluent (04-03-2026),4/3/2026,Volatile Suspended Solids,410,410,,mg/L
+ST26APR04-01-033 ,TEM ABF Effluent (04-03-2026),4/3/2026,pH,7.51,7.51,,pH Units
+ST26APR04-01-033 ,TEM ABF Effluent (04-03-2026),4/3/2026,Soluble BOD,105,105,,mg/L
+ST26APR05-01-033 ,TEM ABF Effluent (04-04-2026),4/4/2026,% Volatile Suspended Solids,91,91,,%
+ST26APR05-01-033 ,TEM ABF Effluent (04-04-2026),4/4/2026,Total Suspended Solids,348,348,,mg/L
+ST26APR05-01-033 ,TEM ABF Effluent (04-04-2026),4/4/2026,Volatile Suspended Solids,318,318,,mg/L
+ST26APR05-01-033 ,TEM ABF Effluent (04-04-2026),4/4/2026,pH,7.51,7.51,,pH Units
+ST26APR05-01-033 ,TEM ABF Effluent (04-04-2026),4/4/2026,Soluble BOD,138,138,,mg/L
+ST26APR06-01-034 ,TEM ABF Effluent (04-05-2026),4/5/2026,% Volatile Suspended Solids,75,75,,%
+ST26APR06-01-034 ,TEM ABF Effluent (04-05-2026),4/5/2026,Total Suspended Solids,263,263,,mg/L
+ST26APR06-01-034 ,TEM ABF Effluent (04-05-2026),4/5/2026,Volatile Suspended Solids,197,197,,mg/L
+ST26APR06-01-034 ,TEM ABF Effluent (04-05-2026),4/5/2026,pH,7.49,7.49,,pH Units
+ST26APR06-01-034 ,TEM ABF Effluent (04-05-2026),4/5/2026,Soluble BOD,124,124,,mg/L
+ST26APR07-01-034 ,TEM ABF Effluent (04-06-2026),4/6/2026,% Volatile Suspended Solids,85,85,,%
+ST26APR07-01-034 ,TEM ABF Effluent (04-06-2026),4/6/2026,Total Suspended Solids,121,121,,mg/L
+ST26APR07-01-034 ,TEM ABF Effluent (04-06-2026),4/6/2026,Volatile Suspended Solids,103,103,,mg/L
+ST26APR07-01-034 ,TEM ABF Effluent (04-06-2026),4/6/2026,Biochemical Oxygen Demand,130,130,,mg/L
+ST26APR07-01-034 ,TEM ABF Effluent (04-06-2026),4/6/2026,pH,7.46,7.46,,pH Units
+ST26APR07-01-034 ,TEM ABF Effluent (04-06-2026),4/6/2026,Soluble COD,378,378,,mg/L
+ST26APR08-01-034 ,TEM ABF Effluent (04-07-2026),4/7/2026,% Volatile Suspended Solids,90,90,,%
+ST26APR08-01-034 ,TEM ABF Effluent (04-07-2026),4/7/2026,Total Suspended Solids,204,204,,mg/L
+ST26APR08-01-034 ,TEM ABF Effluent (04-07-2026),4/7/2026,Volatile Suspended Solids,184,184,,mg/L
+ST26APR08-01-034 ,TEM ABF Effluent (04-07-2026),4/7/2026,Soluble COD,399,399,,mg/L
+ST26APR08-01-034 ,TEM ABF Effluent (04-07-2026),4/7/2026,Biochemical Oxygen Demand,309,309,,mg/L
+ST26APR08-01-034 ,TEM ABF Effluent (04-07-2026),4/7/2026,pH,7.03,7.03,,pH Units
+ST26APR09-01-036 ,TEM ABF Effluent (04-08-2026),4/8/2026,% Volatile Suspended Solids,84,84,,%
+ST26APR09-01-036 ,TEM ABF Effluent (04-08-2026),4/8/2026,Total Suspended Solids,296,296,,mg/L
+ST26APR09-01-036 ,TEM ABF Effluent (04-08-2026),4/8/2026,Volatile Suspended Solids,249,249,,mg/L
+ST26APR09-01-036 ,TEM ABF Effluent (04-08-2026),4/8/2026,Soluble COD,389,389,,mg/L
+ST26APR09-01-036 ,TEM ABF Effluent (04-08-2026),4/8/2026,Chemical Oxygen Demand,683,683,,mg/L
+ST26APR10-01-034 ,TEM ABF Effluent (04-09-2026),4/9/2026,% Volatile Suspended Solids,82,82,,%
+ST26APR10-01-034 ,TEM ABF Effluent (04-09-2026),4/9/2026,Total Suspended Solids,265,265,,mg/L
+ST26APR10-01-034 ,TEM ABF Effluent (04-09-2026),4/9/2026,Volatile Suspended Solids,217,217,,mg/L
+ST26APR10-01-034 ,TEM ABF Effluent (04-09-2026),4/9/2026,Soluble COD,459,459,,mg/L
+ST26APR10-01-034 ,TEM ABF Effluent (04-09-2026),4/9/2026,Chemical Oxygen Demand,825,825,,mg/L
+ST26APR11-01-033 ,TEM ABF Effluent (04-10-2026),4/10/2026,% Volatile Suspended Solids,81,81,,%
+ST26APR11-01-033 ,TEM ABF Effluent (04-10-2026),4/10/2026,Total Suspended Solids,535,535,,mg/L
+ST26APR11-01-033 ,TEM ABF Effluent (04-10-2026),4/10/2026,Volatile Suspended Solids,435,435,,mg/L
+ST26APR11-01-033 ,TEM ABF Effluent (04-10-2026),4/10/2026,Biochemical Oxygen Demand,191,191,,mg/L
+ST26APR11-01-033 ,TEM ABF Effluent (04-10-2026),4/10/2026,pH,7.23,7.23,,pH Units
+ST26APR11-01-033 ,TEM ABF Effluent (04-10-2026),4/10/2026,Soluble COD,484,484,,mg/L
+ST26APR11-01-033 ,TEM ABF Effluent (04-10-2026),4/10/2026,Chemical Oxygen Demand,934,934,,mg/L
+ST26APR12-01-033 ,TEM ABF Effluent (04-11-2026),4/11/2026,% Volatile Suspended Solids,91,91,,%
+ST26APR12-01-033 ,TEM ABF Effluent (04-11-2026),4/11/2026,Total Suspended Solids,400,400,,mg/L
+ST26APR12-01-033 ,TEM ABF Effluent (04-11-2026),4/11/2026,Volatile Suspended Solids,363,363,,mg/L
+ST26APR12-01-033 ,TEM ABF Effluent (04-11-2026),4/11/2026,Biochemical Oxygen Demand,354,354,,mg/L
+ST26APR12-01-033 ,TEM ABF Effluent (04-11-2026),4/11/2026,pH,7.40,7.40,,pH Units
+ST26APR12-01-033 ,TEM ABF Effluent (04-11-2026),4/11/2026,Soluble COD,463,463,,mg/L
+ST26APR13-01-034 ,TEM ABF Effluent (04-12-2026),4/12/2026,% Volatile Suspended Solids,90,90,,%
+ST26APR13-01-034 ,TEM ABF Effluent (04-12-2026),4/12/2026,Total Suspended Solids,300,300,,mg/L
+ST26APR13-01-034 ,TEM ABF Effluent (04-12-2026),4/12/2026,Volatile Suspended Solids,270,270,,mg/L
+ST26APR13-01-034 ,TEM ABF Effluent (04-12-2026),4/12/2026,Soluble COD,342,342,,mg/L
+ST26APR13-01-034 ,TEM ABF Effluent (04-12-2026),4/12/2026,Biochemical Oxygen Demand,252,252,,mg/L
+ST26APR13-01-034 ,TEM ABF Effluent (04-12-2026),4/12/2026,pH,7.30,7.30,,pH Units
+ST26APR13-01-034 ,TEM ABF Effluent (04-12-2026),4/12/2026,Chemical Oxygen Demand,1244,1244,,mg/L
+ST26APR14-01-034 ,TEM ABF Effluent (04-13-2026),4/13/2026,% Volatile Suspended Solids,83,83,,%
+ST26APR14-01-034 ,TEM ABF Effluent (04-13-2026),4/13/2026,Total Suspended Solids,302,302,,mg/L
+ST26APR14-01-034 ,TEM ABF Effluent (04-13-2026),4/13/2026,Volatile Suspended Solids,250,250,,mg/L
+ST26APR14-01-034 ,TEM ABF Effluent (04-13-2026),4/13/2026,Soluble COD,203,203,,mg/L
+ST26APR14-01-034 ,TEM ABF Effluent (04-13-2026),4/13/2026,Biochemical Oxygen Demand,166,166,,mg/L
+ST26APR14-01-034 ,TEM ABF Effluent (04-13-2026),4/13/2026,pH,7.30,7.30,,pH Units
+ST26APR15-01-034 ,TEM ABF Effluent (04-14-2026),4/14/2026,% Volatile Suspended Solids,84,84,,%
+ST26APR15-01-034 ,TEM ABF Effluent (04-14-2026),4/14/2026,Total Suspended Solids,348,348,,mg/L
+ST26APR15-01-034 ,TEM ABF Effluent (04-14-2026),4/14/2026,Volatile Suspended Solids,294,294,,mg/L
+ST26APR15-01-034 ,TEM ABF Effluent (04-14-2026),4/14/2026,Soluble COD,292,292,,mg/L
+ST26APR15-01-034 ,TEM ABF Effluent (04-14-2026),4/14/2026,Biochemical Oxygen Demand,166,166,,mg/L
+ST26APR15-01-034 ,TEM ABF Effluent (04-14-2026),4/14/2026,pH,7.39,7.39,,pH Units
+ST26APR16-01-036 ,TEM ABF Effluent (04-15-2026),4/15/2026,% Volatile Suspended Solids,87,87,,%
+ST26APR16-01-036 ,TEM ABF Effluent (04-15-2026),4/15/2026,Total Suspended Solids,298,298,,mg/L
+ST26APR16-01-036 ,TEM ABF Effluent (04-15-2026),4/15/2026,Volatile Suspended Solids,258,258,,mg/L
+ST26APR16-01-036 ,TEM ABF Effluent (04-15-2026),4/15/2026,Soluble COD,333,333,,mg/L
+ST26APR16-01-036 ,TEM ABF Effluent (04-15-2026),4/15/2026,Biochemical Oxygen Demand,207,207,,mg/L
+ST26APR16-01-036 ,TEM ABF Effluent (04-15-2026),4/15/2026,pH,7.5,7.5,,pH Units
+ST26APR17-01-034 ,TEM ABF Effluent (04-16-2026),4/16/2026,% Volatile Suspended Solids,71,71,,%
+ST26APR17-01-034 ,TEM ABF Effluent (04-16-2026),4/16/2026,Total Suspended Solids,370,370,,mg/L
+ST26APR17-01-034 ,TEM ABF Effluent (04-16-2026),4/16/2026,Volatile Suspended Solids,264,264,,mg/L
+ST26APR17-01-034 ,TEM ABF Effluent (04-16-2026),4/16/2026,Soluble COD,173,173,,mg/L
+ST26APR17-01-034 ,TEM ABF Effluent (04-16-2026),4/16/2026,Biochemical Oxygen Demand,179,179,,mg/L
+ST26APR17-01-034 ,TEM ABF Effluent (04-16-2026),4/16/2026,pH,7.48,7.48,,pH Units
+ST26APR18-01-033 ,TEM ABF Effluent (04-17-2026),4/17/2026,% Volatile Suspended Solids,79,79,,%
+ST26APR18-01-033 ,TEM ABF Effluent (04-17-2026),4/17/2026,Total Suspended Solids,390,390,,mg/L
+ST26APR18-01-033 ,TEM ABF Effluent (04-17-2026),4/17/2026,Volatile Suspended Solids,310,310,,mg/L
+ST26APR18-01-033 ,TEM ABF Effluent (04-17-2026),4/17/2026,Biochemical Oxygen Demand,92,92,,mg/L
+ST26APR18-01-033 ,TEM ABF Effluent (04-17-2026),4/17/2026,pH,7.40,7.40,,pH Units
+ST26APR18-01-033 ,TEM ABF Effluent (04-17-2026),4/17/2026,Soluble COD,295,295,,mg/L
+ST26APR19-01-033 ,TEM ABF Effluent (04-18-2026),4/18/2026,% Volatile Suspended Solids,78,78,,%
+ST26APR19-01-033 ,TEM ABF Effluent (04-18-2026),4/18/2026,Total Suspended Solids,320,320,,mg/L
+ST26APR19-01-033 ,TEM ABF Effluent (04-18-2026),4/18/2026,Volatile Suspended Solids,250,250,,mg/L
+ST26APR19-01-033 ,TEM ABF Effluent (04-18-2026),4/18/2026,Biochemical Oxygen Demand,117,117,,mg/L
+ST26APR19-01-033 ,TEM ABF Effluent (04-18-2026),4/18/2026,pH,7.37,7.37,,pH Units
+ST26APR19-01-033 ,TEM ABF Effluent (04-18-2026),4/18/2026,Soluble COD,284,284,,mg/L
+ST26APR20-01-034 ,TEM ABF Effluent (04-19-2026),4/19/2026,% Volatile Suspended Solids,77,77,,%
+ST26APR20-01-034 ,TEM ABF Effluent (04-19-2026),4/19/2026,Total Suspended Solids,157,157,,mg/L
+ST26APR20-01-034 ,TEM ABF Effluent (04-19-2026),4/19/2026,Volatile Suspended Solids,121,121,,mg/L
+ST26APR20-01-034 ,TEM ABF Effluent (04-19-2026),4/19/2026,Soluble COD,253,253,,mg/L
+ST26APR20-01-034 ,TEM ABF Effluent (04-19-2026),4/19/2026,Biochemical Oxygen Demand,91,91,,mg/L
+ST26APR20-01-034 ,TEM ABF Effluent (04-19-2026),4/19/2026,pH,7.42,7.42,,pH Units
+ST26APR21-01-034 ,TEM ABF Effluent (04-20-2026),4/20/2026,% Volatile Suspended Solids,79,79,,%
+ST26APR21-01-034 ,TEM ABF Effluent (04-20-2026),4/20/2026,Total Suspended Solids,183,183,,mg/L
+ST26APR21-01-034 ,TEM ABF Effluent (04-20-2026),4/20/2026,Volatile Suspended Solids,145,145,,mg/L
+ST26APR21-01-034 ,TEM ABF Effluent (04-20-2026),4/20/2026,Soluble COD,213,213,,mg/L
+ST26APR21-01-034 ,TEM ABF Effluent (04-20-2026),4/20/2026,Biochemical Oxygen Demand,114,114,,mg/L
+ST26APR21-01-034 ,TEM ABF Effluent (04-20-2026),4/20/2026,pH,7.22,7.22,,pH Units
+ST26APR22-01-034 ,TEM ABF Effluent (04-21-2026),4/21/2026,% Volatile Suspended Solids,80,80,,%
+ST26APR22-01-034 ,TEM ABF Effluent (04-21-2026),4/21/2026,Total Suspended Solids,272,272,,mg/L
+ST26APR22-01-034 ,TEM ABF Effluent (04-21-2026),4/21/2026,Volatile Suspended Solids,218,218,,mg/L
+ST26APR22-01-034 ,TEM ABF Effluent (04-21-2026),4/21/2026,Soluble COD,329,329,,mg/L
+ST26APR22-01-034 ,TEM ABF Effluent (04-21-2026),4/21/2026,Biochemical Oxygen Demand,179,179,,mg/L
+ST26APR22-01-034 ,TEM ABF Effluent (04-21-2026),4/21/2026,pH,7.34,7.34,,pH Units
+ST26APR23-01-036 ,TEM ABF Effluent (04-22-2026),4/22/2026,% Volatile Suspended Solids,86,86,,%
+ST26APR23-01-036 ,TEM ABF Effluent (04-22-2026),4/22/2026,Total Suspended Solids,229,229,,mg/L
+ST26APR23-01-036 ,TEM ABF Effluent (04-22-2026),4/22/2026,Volatile Suspended Solids,198,198,,mg/L
+ST26APR23-01-036 ,TEM ABF Effluent (04-22-2026),4/22/2026,Soluble COD,361,361,,mg/L
+ST26APR23-01-036 ,TEM ABF Effluent (04-22-2026),4/22/2026,Biochemical Oxygen Demand,178,178,,mg/L
+ST26APR23-01-036 ,TEM ABF Effluent (04-22-2026),4/22/2026,pH,7.40,7.40,,pH Units
+ST26APR24-01-034 ,TEM ABF Effluent (04-23-2026),4/23/2026,% Volatile Suspended Solids,88,88,,%
+ST26APR24-01-034 ,TEM ABF Effluent (04-23-2026),4/23/2026,Total Suspended Solids,300,300,,mg/L
+ST26APR24-01-034 ,TEM ABF Effluent (04-23-2026),4/23/2026,Volatile Suspended Solids,263,263,,mg/L
+ST26APR24-01-034 ,TEM ABF Effluent (04-23-2026),4/23/2026,Soluble COD,359,359,,mg/L
+ST26APR24-01-034 ,TEM ABF Effluent (04-23-2026),4/23/2026,Biochemical Oxygen Demand,210,210,,mg/L
+ST26APR24-01-034 ,TEM ABF Effluent (04-23-2026),4/23/2026,pH,7.40,7.40,,pH Units
+ST26APR25-01-033 ,TEM ABF Effluent (04-24-2026),4/24/2026,% Volatile Suspended Solids,87,87,,%
+ST26APR25-01-033 ,TEM ABF Effluent (04-24-2026),4/24/2026,Total Suspended Solids,89,89,,mg/L
+ST26APR25-01-033 ,TEM ABF Effluent (04-24-2026),4/24/2026,Volatile Suspended Solids,77,77,,mg/L
+ST26APR25-01-033 ,TEM ABF Effluent (04-24-2026),4/24/2026,Biochemical Oxygen Demand,125,125,,mg/L
+ST26APR25-01-033 ,TEM ABF Effluent (04-24-2026),4/24/2026,pH,7.22,7.22,,pH Units
+ST26APR25-01-033 ,TEM ABF Effluent (04-24-2026),4/24/2026,Soluble COD,308,308,,mg/L
+ST26APR26-03-033 ,TEM ABF Effluent (04-25-2026),4/25/2026,% Volatile Suspended Solids,79,79,,%
+ST26APR26-03-033 ,TEM ABF Effluent (04-25-2026),4/25/2026,Total Suspended Solids,155,155,,mg/L
+ST26APR26-03-033 ,TEM ABF Effluent (04-25-2026),4/25/2026,Volatile Suspended Solids,123,123,,mg/L
+ST26APR26-03-033 ,TEM ABF Effluent (04-25-2026),4/25/2026,Biochemical Oxygen Demand,106,106,,mg/L
+ST26APR26-03-033 ,TEM ABF Effluent (04-25-2026),4/25/2026,pH,7.25,7.25,,pH Units
+ST26APR26-03-033 ,TEM ABF Effluent (04-25-2026),4/25/2026,Soluble COD,229,229,,mg/L
+ST26APR27-01-034 ,TEM ABF Effluent (04-26-2026),4/26/2026,% Volatile Suspended Solids,87,87,,%
+ST26APR27-01-034 ,TEM ABF Effluent (04-26-2026),4/26/2026,Total Suspended Solids,142,142,,mg/L
+ST26APR27-01-034 ,TEM ABF Effluent (04-26-2026),4/26/2026,Volatile Suspended Solids,124,124,,mg/L
+ST26APR27-01-034 ,TEM ABF Effluent (04-26-2026),4/26/2026,Soluble COD,292,292,,mg/L
+ST26APR27-01-034 ,TEM ABF Effluent (04-26-2026),4/26/2026,Biochemical Oxygen Demand,93,93,,mg/L
+ST26APR27-01-034 ,TEM ABF Effluent (04-26-2026),4/26/2026,pH,7.48,7.48,,pH Units
+ST26APR28-01-034 ,TEM ABF Effluent (04-27-2026),4/27/2026,% Volatile Suspended Solids,91,91,,%
+ST26APR28-01-034 ,TEM ABF Effluent (04-27-2026),4/27/2026,Total Suspended Solids,153,153,,mg/L
+ST26APR28-01-034 ,TEM ABF Effluent (04-27-2026),4/27/2026,Volatile Suspended Solids,139,139,,mg/L
+ST26APR28-01-034 ,TEM ABF Effluent (04-27-2026),4/27/2026,Soluble COD,281,281,,mg/L
+ST26APR28-01-034 ,TEM ABF Effluent (04-27-2026),4/27/2026,Biochemical Oxygen Demand,134,134,,mg/L
+ST26APR28-01-034 ,TEM ABF Effluent (04-27-2026),4/27/2026,pH,7.49,7.49,,pH Units
+ST26APR29-01-034 ,TEM ABF Effluent (04-28-2026),4/28/2026,Soluble COD,322,322,,mg/L
+ST26APR29-01-034 ,TEM ABF Effluent (04-28-2026),4/28/2026,Biochemical Oxygen Demand,219,219,,mg/L
+ST26APR29-01-034 ,TEM ABF Effluent (04-28-2026),4/28/2026,pH,7.33,7.33,,pH Units
+ST26APR29-01-034 ,TEM ABF Effluent (04-28-2026),4/28/2026,% Volatile Suspended Solids,88,88,,%
+ST26APR29-01-034 ,TEM ABF Effluent (04-28-2026),4/28/2026,Total Suspended Solids,137,137,,mg/L
+ST26APR29-01-034 ,TEM ABF Effluent (04-28-2026),4/28/2026,Volatile Suspended Solids,120,120,,mg/L
+ST26APR30-01-036 ,TEM ABF Effluent (04-29-2026),4/29/2026,% Volatile Suspended Solids,83,83,,%
+ST26APR30-01-036 ,TEM ABF Effluent (04-29-2026),4/29/2026,Total Suspended Solids,120,120,,mg/L
+ST26APR30-01-036 ,TEM ABF Effluent (04-29-2026),4/29/2026,Volatile Suspended Solids,100,100,,mg/L
+ST26APR30-01-036 ,TEM ABF Effluent (04-29-2026),4/29/2026,Soluble COD,301,301,,mg/L
+ST26MAY01-06-034 ,TEM ABF Effluent (04-30-2026),4/30/2026,% Volatile Suspended Solids,76,76,,%
+ST26MAY01-06-034 ,TEM ABF Effluent (04-30-2026),4/30/2026,Total Suspended Solids,137,137,,mg/L
+ST26MAY01-06-034 ,TEM ABF Effluent (04-30-2026),4/30/2026,Volatile Suspended Solids,104,104,,mg/L
+ST26MAY01-06-034 ,TEM ABF Effluent (04-30-2026),4/30/2026,Soluble COD,204,204,,mg/L
+
