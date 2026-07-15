@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://xlims.memphistn.gov/RemoteReportViewer.Aspx?ReportPath=Custom_MEM_SampleLoc_Results_AllParams_by_Date&REPORTID=10025&SampleLocationID=315&StartDate=04%2f01%2f2026&EndDate=04%2f30%2f2026&ParameterCount=3
-HostUrl=https://xlims.memphistn.gov/Reserved.ReportViewerWebControl.axd?ReportSession=la5mis451mmhtv45hidspn45&Culture=1033&CultureOverrides=True&UICulture=1033&UICultureOverrides=True&ReportStack=1&ControlID=9bd0d2316a7a4772872d3995c112430c&RSProxy=http%3a%2f%2f172.19.0.10%2fReportserver%2f&OpType=Export&FileName=Custom_MEM_SampleLoc_Results_AllParams_by_Date&ContentDisposition=OnlyHtmlInline&Format=CSV
